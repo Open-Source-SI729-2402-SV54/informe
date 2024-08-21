@@ -34,8 +34,9 @@ A continuacion presentamos a nuestros tres principales competidores:
     <td>Overview</td>
     <td>texto</td>
     <td>HelloFresh es una empresa de entrega de kits de comida que ofrece ingredientes frescos con recetas fáciles de seguir, enfocada en opciones saludables con información nutricional detallada.</td>
-    <td>texto</td>
-    <td>texto</td>
+    <td>Blue Apron es un servicio de kits de comida que se enfoca en la entrega de ingredientes frescos y recetas detalladas, con un fuerte compromiso con la sostenibilidad y la transparencia nutricional. Fundada en 2012, sigue siendo un líder en su industria en Estados Unidos, pese a enfrentar desafíos financieros.</td>
+    <td>
+Freshly es un servicio de entrega de comidas preparadas que ofrece platos frescos y saludables, listos para consumir con un simple calentado. Se enfoca en brindar conveniencia y opciones nutricionalmente equilibradas, ideales para personas con estilos de vida ocupados, y proporciona información nutricional detallada para cada comida.</td>
   </tr>
   <tr>
     <td>Ventaja competitiva ¿Que valor ofrece a los clientes</td>
