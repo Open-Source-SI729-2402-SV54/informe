@@ -17,13 +17,13 @@ A continuacion presentamos a nuestros tres principales competidores:
   </tr>
   <tr>
     <td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
-    <td colspan="4">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td>
+    <td colspan="4">Es importante llevar a cabo este análisis porque nos permite conocer mejor a nuestros competidores y ofrecer una aplicación diferenciada al resto.</td>
   </tr>
   <tr>
-    <td colspan="4">Texto</td>
+    <td colspan="4">¿Qué aporte de valor podría ofrecer nuestro producto en contraste al resto de competidores? </td>
   </tr>
   <tr>
-   <td colspan="2">(En la cabecera colocar por cada competidor nombre y logo)</td>
+   <td colspan="2"></td>
     <td>NutriSend</td>
     <td>HelloFresh</td>
     <td>Blue Apron</td>
