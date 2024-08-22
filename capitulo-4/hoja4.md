@@ -90,4 +90,35 @@ NutriSend se ha diseñado con un enfoque minimalista y claro para evitar cualqui
 * *Meta Author:* comida saludable, planificación de comidas, delivery de alimentos, comida nutritiva,
   estilo de vida saludable, ejercicio, UPC, NAXUS, Lima.
 
+## 4.2.4. Searching System
+
+NutriSend, el sistema de filtrado ha sido diseñado para proporcionar una experiencia eficiente y fluida a la hora de buscar platillos y rutinas, sin la necesidad de sentirse abrumados por el volumen de contenido.
+
+### Opciones de Búsqueda Ofrecidas
+*Categorías de Búsqueda*
+* Los usuarios pueden navegar por categorías predefinidas como "Almuerzos", "Comida fit" y "Ejecicios".
+* Estas categorías están organizadas de forma clara para facilitar el acceso directo a la información más relevante.
+
+*Búsqueda avanzada con filtros*
+* Tipos de comida: Almuerzos, Comida fit.
+* Objetivos de Ejercicios: Ganar masa múscular, quemar grasa, ganar resistencia.
+* Información Nutricional: grasa, calorías, proteínas.
+
+### Visualización de los Datos Después de la Búsqueda
+
+*Resultados en forma de Tarjetas*<br> 
+Los resultados se muestran en tarjetas visualmente atractivas que contienen:
+
+* Nombre del platillo o rutina de ejercicio.
+* Una imagen destacada del platillo o el ejercicio.
+* Información nutricional clave (proteínas, calorías, grasas).
+
+*Orden de los Resultados*<br>
+Los resultados están ordenados por: 
+
+* Relevancia.
+
+En conjunto, estas herramientas permiten que el proceso de búsqueda en el sitio web de NutriSend sea intuitivo, rápido y enfocado en satisfacer las necesidades del usuario.
+
+
 
