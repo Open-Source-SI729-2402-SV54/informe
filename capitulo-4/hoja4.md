@@ -120,5 +120,18 @@ Los resultados están ordenados por:
 
 En conjunto, estas herramientas permiten que el proceso de búsqueda en el sitio web de NutriSend sea intuitivo, rápido y enfocado en satisfacer las necesidades del usuario.
 
+## 4.2.5. Navigation Systems
 
+**Landing Page y Secciones Principales**
+
+* *Menú Principal:* El menú principal contiene las opciones más importantes de navegación como "Home", "Order", "Profile" y el ícono de "carrito de compras".
+  Dicho menú permite un acceso rápido y directo a las secciones clave desde cualquier página.<br>
+* *Categoría de Productos:* Los productos se dividen en dos categorías: "Fit food" y "Almuerzos", cada uno está representado con intuitivos íconos, en el que
+  el usuario puede hacer click en cualquiera de estos apartados para explorar las diversas opciones de ejecicios o comida.<br>
+* *Visualización de Productos:* Los productos se encuentran en tarjetas organizados por filas, con la información necesaria para el usuario como el nombre,
+   la imagen del producto, el precio y el botón de "Add" para agregar los platillos o ejercicios que el usuario desee. <br>
+* *Porceso de Compra:* una vez finalizado el proceso de elección de los productos, el usuario puede visualizar su carrito y proceder con la compra.
+   En esta sección se incluyen detalles como la dirección de la entrega, los elementos que ha seleccionado, la cantidad y el total a pagar. Un proceso lineal,
+   guiando al usuario de manera eficiente hasta la confirmación del pedido.<br>
+   
 
