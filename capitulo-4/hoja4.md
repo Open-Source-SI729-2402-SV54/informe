@@ -31,3 +31,26 @@ coherente en todas las plataformas de NutriSend.<br>
 
 *Contenido*<br>
 El contenido del sitio web será claro y accesible para el usuario, utilizando un lenguaje casual y respetuoso. Las imágenes mostrarán ejemplos de los platillos ofrecidos por los restaurantes.
+
+### 4.1.2. Web Style Guidelines.
+
+se ha establecido un sistema en que el contenido del sitio web será de fácil acceso y navegación, facilitando la experiencia para el usuario. 
+
+**Jerárquico (Visual hierarchy):**<br>
+* Este enfoque se implementa en la organización de la información en la página de inicio (Landing Page) y en las principales categorías del sitio web. Los elementos se disponen de manera jerárquica, dando prioridad a la información más relevante y resaltando los elementos clave mediante un tamaño, color o posición distintivos.
+
+* Por ejemplo, en la Landing Page, las ofertas especiales y las categorías más populares se destacan en secciones prominentes, seguidas de otras áreas con información adicional y promociones.
+
+**Organización Secuencial (Step-by-Step to Accomplish):**<br>
+
+* Será utilizado tanto en los registros de usuarios como en los procesos de compra de los diversos productos, se podrá guiar al usuario con pasos secuenciales para completar cada acción.
+
+* En el sitio web, este enfoque se aplica en el proceso de compra de productos, donde el usuario sigue un flujo paso a paso desde la selección de los productos hasta el pago y la confirmación del pedido.
+
+**Matricial:**<br>
+* El sistema matricial se emplea en la categorización de los productos, ya sea para un platillos estándar o uno balanceado.
+
+* El usuario será capaz de filtrar los resultados según sus requisitos como la rutina y el tipo de alimento que escogerá, proporcionando una experiencia más amena.
+
+## 4.2.2. Labeling Systems.
+
