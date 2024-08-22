@@ -27,3 +27,7 @@ de nuestro servicio, proporcionando una experiencia visualmente coherente y rele
 Finalmente, para garantizar una apariencia uniforme en el desarrollo de nuestro aplicativo, utilizaremos la fuente **Roboto**. Elegimos Roboto 
 por su legibilidad, espaciado equilibrado y diseño sin serifas, lo que proporciona una flexibilidad óptima y una experiencia de lectura clara y 
 coherente en todas las plataformas de NutriSend.<br>
+![Font Name](../img/FontName.png)
+
+*Contenido*<br>
+El contenido del sitio web será claro y accesible para el usuario, utilizando un lenguaje casual y respetuoso. Las imágenes mostrarán ejemplos de los platillos ofrecidos por los restaurantes.
