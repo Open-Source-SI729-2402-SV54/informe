@@ -39,18 +39,18 @@ A continuacion presentamos a nuestros tres principales competidores:
 Freshly es un servicio de entrega de comidas preparadas que ofrece platos frescos y saludables, listos para consumir con un simple calentado. Se enfoca en brindar conveniencia y opciones nutricionalmente equilibradas, ideales para personas con estilos de vida ocupados, y proporciona información nutricional detallada para cada comida.</td>
   </tr>
   <tr>
-    <td>Ventaja competitiva ¿Que valor ofrece a los clientes</td>
+    <td>Ventaja competitiva ¿Que valor ofrece a los clientes?</td>
     <td>texto</td>
-    <td>texto</td>
-    <td>texto</td>
-    <td>texto</td>
+    <td>HelloFresh se basa en su capacidad para ofrecer comodidad, variedad y personalización, así como información nutricional detallada. Estos elementos permiten a los clientes preparar comidas saludables en casa de manera fácil y adaptada a sus necesidades dietéticas.</td>
+    <td>Blue Apron se basa en ofrecer ingredientes frescos y de alta calidad con recetas detalladas, sostenibilidad y transparencia nutricional, además de opciones para diferentes dietas.</td>
+    <td>Freshly ofrece a sus clientes la ventaja de comidas preparadas frescas y saludables, listas para comer en minutos, con información nutricional detallada, facilitando una dieta balanceada sin necesidad de cocinar.</td>
   </tr>
   <tr>
     <td rowspan="2">Perfil de Marketing</td>
     <td>Mercado objetivo</td>
     <td>texto</td>
-    <td>texto</td>
-    <td>texto</td>
+    <td>HelloFresh incluye profesionales ocupados, familias, personas interesadas en la nutrición, y entusiastas de la cocina.</td>
+    <td>Blue Apron incluye personas ocupadas que buscan una forma conveniente de preparar comidas saludables en casa, con un enfoque en la frescura de los ingredientes y opciones para dietas específicas.</td>
     <td>texto</td>
   </tr>
   <tr>
