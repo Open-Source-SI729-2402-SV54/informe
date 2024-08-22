@@ -53,4 +53,38 @@ se ha establecido un sistema en que el contenido del sitio web será de fácil a
 * El usuario será capaz de filtrar los resultados según sus requisitos como la rutina y el tipo de alimento que escogerá, proporcionando una experiencia más amena.
 
 ## 4.2.2. Labeling Systems.
+NutriSend se ha diseñado con un enfoque minimalista y claro para evitar cualquier tipo de confusiones. Las etiquetas son simples, precisas y concisas, facilitando la navegación y la comprensión de la información ofrecida.
+
+**Etiquetas Principales**<br>
+* *Inicio:* La página principal, que presenta la propuesta de valor de NutriSend junto con sus principales segmentos.
+* *Información Nutricional*: Información concisa y fácil de entender los nutrientes de cada platillo, que incluye las calorías,
+  proteínas, grasas y carbohidratos.
+* *Ejercicios:* Rutinas de ejercicios que complementan el régimen que estén llevando los usuarios.
+* *Perfil:* Información principal del usuario junto con las opción de configuración de la cuenta.
+
+**Etiquetas para la Representación de Información Nutricional**<br>
+* *Calorías:* Será representado por "KCAL" en cada porción.
+* *Proteínas:* Será representado por "g" por porción. 
+* *Grasas:* Será representado "g" por porción.
+* *Carbohidratos:* Será representado por "g" por porción.
+
+**Consideraciones del Diseño**<br>
+* Las etiquetas son breves y fáciles de entender.
+* Se ve priorizado el lenguaje Cotidiano y familiar para el usuario.
+* Los elementos visuales como los íconos mejoran la experiencia del usuario.
+
+## 4.2.3. SEO Tags and Meta Tags
+
+**Landing Page**
+* *Title:* 
+* *Meta Description:*
+* *Meta Keyboard:*
+* *Meta Author:*
+
+**Web Application**
+* *Title:* 
+* *Meta Description:*
+* *Meta Keyboard:*
+* *Meta Author:*
+
 
