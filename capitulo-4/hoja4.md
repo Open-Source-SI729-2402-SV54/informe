@@ -143,7 +143,10 @@ NutriSend se ha estructurado con un enfoque en la simplicidad, claridad y facili
 
 ## 4.3.1. Landing Page Wireframe.
 
-En esta sección se mostrará una representación menor de la langin page.
+En esta sección se mostrará una representación menor de la langin page.<br>
+**Landing Page para Desktop Web Browser:**
+
+![Landin Page Wireframe](../img/LandingPageWireframe.png)
 
 
 ## 4.3.2. Landing Page Mock-up.
