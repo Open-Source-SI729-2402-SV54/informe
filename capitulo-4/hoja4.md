@@ -148,6 +148,9 @@ En esta sección se mostrará una representación menor de la langin page.<br>
 
 ![Landin Page Wireframe](../img/LandingPageWireframe.png)
 
+**Web Mobile Browser**<br>
+En este apartado se mostrará un esquema de bajo nivel de la versión mobile de NutriSend.
+
 
 ## 4.3.2. Landing Page Mock-up.
 ## 4.4. Web Applications UX/UI Design.
