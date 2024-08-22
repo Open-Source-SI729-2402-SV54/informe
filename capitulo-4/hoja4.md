@@ -125,13 +125,28 @@ En conjunto, estas herramientas permiten que el proceso de búsqueda en el sitio
 **Landing Page y Secciones Principales**
 
 * *Menú Principal:* El menú principal contiene las opciones más importantes de navegación como "Home", "Order", "Profile" y el ícono de "carrito de compras".
-  Dicho menú permite un acceso rápido y directo a las secciones clave desde cualquier página.<br>
+  Dicho menú permite un acceso rápido y directo a las secciones clave desde cualquier página.
+  
 * *Categoría de Productos:* Los productos se dividen en dos categorías: "Fit food" y "Almuerzos", cada uno está representado con intuitivos íconos, en el que
-  el usuario puede hacer click en cualquiera de estos apartados para explorar las diversas opciones de ejecicios o comida.<br>
+  el usuario puede hacer click en cualquiera de estos apartados para explorar las diversas opciones de ejecicios o comida.
+  
 * *Visualización de Productos:* Los productos se encuentran en tarjetas organizados por filas, con la información necesaria para el usuario como el nombre,
-   la imagen del producto, el precio y el botón de "Add" para agregar los platillos o ejercicios que el usuario desee. <br>
+   la imagen del producto, el precio y el botón de "Add" para agregar los platillos o ejercicios que el usuario desee.
+  
 * *Porceso de Compra:* una vez finalizado el proceso de elección de los productos, el usuario puede visualizar su carrito y proceder con la compra.
    En esta sección se incluyen detalles como la dirección de la entrega, los elementos que ha seleccionado, la cantidad y el total a pagar. Un proceso lineal,
-   guiando al usuario de manera eficiente hasta la confirmación del pedido.<br>
-   
+   guiando al usuario de manera eficiente hasta la confirmación del pedido.
+
+## 4.3. Landing Page UI Design
+
+NutriSend se ha estructurado con un enfoque en la simplicidad, claridad y facilidad de navegación para el usuario. A continuación, se muestra cómo se han implementado las decisiones de diseño y arquitectura de contenido para proporcionar una experiencia intuitiva para los usuarios.
+
+## 4.3.1. Landing Page Wireframe.
+
+En esta sección se mostrará una representación menor de la langin page.
+
+
+## 4.3.2. Landing Page Mock-up.
+## 4.4. Web Applications UX/UI Design.
+### 4.4.1. Web Applications Wireframes.   
 
