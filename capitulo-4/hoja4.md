@@ -76,10 +76,10 @@ NutriSend se ha diseñado con un enfoque minimalista y claro para evitar cualqui
 ## 4.2.3. SEO Tags and Meta Tags
 
 **Landing Page**
-* *Title:* 
-* *Meta Description:*
-* *Meta Keyboard:*
-* *Meta Author:*
+* *Title:* NutriSend | Tú rutina y comida al instante, con el mejor precio.
+* *Meta Description:* NutriSend es la plataforma ideal para recibir los mejores comidas y las más saludables al instante. Diseñadas para personas ocupadas y para personas con planes alimenticios estrictos.
+* *Meta Keyboard:* NutriSend, comidas deliciosas, saludables, entrega de alimentos, servicio de comida, dieta, UPC, estudiantes, Lima.
+* *Meta Author:* NAXUS - Universidad Peruana de Ciencias Aplicadas
 
 **Web Application**
 * *Title:* 
