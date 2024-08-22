@@ -82,9 +82,12 @@ NutriSend se ha diseñado con un enfoque minimalista y claro para evitar cualqui
 * *Meta Author:* NAXUS - Universidad Peruana de Ciencias Aplicadas
 
 **Web Application**
-* *Title:* 
-* *Meta Description:*
-* *Meta Keyboard:*
-* *Meta Author:*
+* *Title:* NutriSend | Comidas y entrenamientos saludables, listos para tu estilo de vida
+* *Meta Description:* Con NutriSend, organiza tus comidas de manera sencilla y recibe opciones nutritivas en tu puerta.
+  Ideal para profesionales ocupados y personas con planes alimenticios específicos.
+* *Meta Keyboard:* NutriSend, comidas deliciosas, saludables, entrega de alimentos, servicio de comida, dieta, ejercicios,
+   UPC, Naxus, estudiantes, Lima.
+* *Meta Author:* comida saludable, planificación de comidas, delivery de alimentos, comida nutritiva,
+  estilo de vida saludable, ejercicio, UPC, NAXUS, Lima.
 
 
