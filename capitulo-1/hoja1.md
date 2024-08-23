@@ -2,9 +2,24 @@
 ## 1.1. Startup Profile
 
 ### 1.1.1   Descripción de la Startup
-NAXUS es una startup dirigida por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC), parte de la Facultad de Ingeniería. Nuestra Startup  ofrece una innovadora plataforma web llamada NutriSend, diseñada para simplificar la planificación de comidas y apoyar un estilo de vida saludable. En un mundo donde el tiempo es un recurso escaso y los regímenes alimenticios se vuelven cada vez más específicos, NutriSend se posiciona como la solución ideal para quienes buscan mantener un equilibrio entre su vida personal y sus objetivos de salud.
 
-Nuestra plataforma ofrece un servicio integral de envío de alimentos semanalmente, que incluye información detallada sobre el contenido nutricional de cada comida, incluyendo calorías, proteínas, grasas y otros nutrientes esenciales. Ya sea que estés ocupado con tu agenda diaria o que sigas un plan de alimentación y ejercicio estricto, NutriSend se adapta a tus necesidades.
+NAXUS es una startup innovadora creada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC), específicamente de la Facultad de Ingeniería. Nuestra startup ofrece una plataforma web llamada **NutriSend**, diseñada para simplificar la planificación de comidas y apoyar un estilo de vida saludable. NutriSend se posiciona como una solución ideal para quienes buscan mantener un equilibrio entre su vida personal y sus objetivos de salud, proporcionando comodidad y calidad en cada entrega.
+
+NutriSend ofrece diferentes planes adaptados a las necesidades de sus usuarios:
+
+**1) Plan Básico (Gratis):**
+   - Funcionalidad: Permite a los usuarios planificar y pedir alimentos para la semana.
+   - Beneficios: Acceso a recetas básicas, lista de compras semanal automatizada, y recomendaciones generales de alimentación.
+
+**2) Plan Premium (Pago Completo):**
+   - Funcionalidad: Ofrece la experiencia completa y personalizada para usuarios con necesidades específicas de planificación a largo plazo.
+   - Beneficios:
+     - Planificación y pedidos de alimentos para todo el mes, con ajustes automáticos según las necesidades nutricionales del usuario.
+     - Menús personalizados que se ajustan dinámicamente según el régimen deportivo, objetivos de salud, y disponibilidad de alimentos.
+     - Alertas avanzadas que indican el momento óptimo para consumir alimentos, sincronizadas con el horario deportivo y otros hábitos de salud.
+     - Soporte prioritario y acceso a contenido exclusivo, como recetas de chefs o nutricionistas reconocidos.
+     - Integración con wearables y apps de fitness para recomendaciones más precisas.
+
 ### 1.1.2   Perfiles de integrantes del equipo
 
 <table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
@@ -99,24 +114,19 @@ Para los usuarios con un plan alimenticio estructurado que desean tener un contr
 **¿Cómo podemos ofrecer una solución rápida y conveniente que cumpla con los requisitos alimenticios de los usuarios con un plan estructurado, permitiéndoles controlar sus alimentos, mantener una rutina de ejercicios y llevar un estilo de vida más saludable sin sacrificar la calidad ni el valor nutricional de los alimentos preparados?**
 
 #### 1.2.2.2. Lean UX Assumptions.
-- Los usuarios valoran la conveniencia y rapidez: Asumimos que los usuarios de NutriSend priorizan la conveniencia y la rapidez en la entrega de sus alimentos, debido a sus agendas ocupadas.
-- Los usuarios quieren alimentos saludables y de calidad: Creemos que nuestros usuarios no solo buscan conveniencia, sino también opciones de alimentos que sean saludables y que mantengan su valor nutricional, especialmente aquellos que siguien planes alimenticios estructurados.
-- El diseño y la usabilidad de la plataforma son cruciales: Asumimos que una plataforma web fácil y visualmente atractiva es fundamental para que los usuarios realicen sus pedidos de manera rápida y sin complicaciones.
-- Existe una demanda significativa en Lima metropolitana: Suponemos que en la capital Lima hay una demanda bastante alta de servicios de entrega de alimentos preparados, especialmente entre profesionales jóvenes y estudiantes universitarios.
-- Los usuarios están dispuestos a pagar un precio justo por conveniencia y calidad: Creemos que nuestros usuarios estarán dispuestos a pagar un precio justo que refleja la conveniencia del servicio y la calidad de alimentos.
+- **Business Assumptions**: Asumimos que NutriSend podrá capturar una cuota significativa del mercado en Lima, basándose en la demanda existente de servicios alimenticios convenientes y saludables.
+- **Business Outcomes Assumptions**: Creemos que la retención de clientes y la satisfacción aumentarán si se ofrece una experiencia de usuario óptima y productos de alta calidad.
+- **User Assumptions**: Asumimos que los usuarios valoran la conveniencia y rapidez en la entrega, y prefieren alimentos saludables y de calidad.
+- **User Outcomes Assumptions**: Creemos que los usuarios estarán dispuestos a pagar por la conveniencia y calidad del servicio si este cumple con sus expectativas en cuanto a salud y nutrición.
+- **Feature Assumptions**: Suponemos que la facilidad de uso de la plataforma y la personalización de los menús serán factores clave para el éxito de NutriSend.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
+- **Nosotros creemos que** si ofrecemos una plataforma fácil de usar con un proceso de pedido sencillo, **sabremos que es verdad** cuando veamos un incremento en la frecuencia de pedidos.
+- **Nosotros creemos que** si proporcionamos alimentos saludables y de alta calidad, **sabremos que es verdad** cuando atraigamos a usuarios con necesidades dietéticas específicas.
+- **Nosotros creemos que** si garantizamos la frescura y seguridad alimentaria de nuestros productos, **sabremos que es verdad** cuando observemos un aumento en la confianza y satisfacción del cliente.
+- **Nosotros creemos que** si nos enfocamos en zonas estratégicas de Lima para la entrega, **sabremos que es verdad** cuando logremos optimizar los tiempos de entrega y reducir los costos operativos.
+- **Nosotros creemos que** si ofrecemos precios competitivos que reflejen la calidad del servicio, **sabremos que es verdad** cuando logremos una mayor retención y lealtad de los clientes.
 
-- Si ofrecemos una plataforma fácil de usar con un proceso de pedido sencillo, entonces los usuarios realizarán pedidos con mayor frecuencia.
-  * Motivación: Queremos facilitar la experiencia del usuario para que sea lo más intuitiva y accesible posible.
-- Si proporcionamos alimentos saludables y de alta calidad que cumplan con los planes alimenticios estructurados, entonces atraeremos a usuarios con necesidades dietéticas específicas.
-  * Motivación: Queremos captar a un segmento de mercado que se preocupa por su salud y que sigue regímenes alimenticios estrictos.
-- Si garantizamos la frescura y la seguridad y la seguridad alimentaria de nuestros productos, entonces aumentará la confianza y satisfacción del cliente.
-  * Motivación: La seguridad y calidad son prioridades clave para mantener una relación de confianza con nuestros clientes.
-- Si nos enfocamos en zonas estratégicas de Lima para la entrega, entonces optimizaremos los tiempos de entrega y reduciremos los costos operativos.
-  * Motivación: Quremos maximizar la eficiencia logística y la satisfacción del cliente mediante entregas rápidas y confiables.
-- Si ofrecemos precios competitivos que reflejen la calidad del servicio, entonces lograremos una mayor retención y lealtad de los clientes.
-  * Motivación: El equilibrio entre el precio y calidad es fundamental para mantener una bvase de clientes sólida y en crecimiento.
 
 **Users:**
 *  Personas con escaso tiempo para cocinar
@@ -128,3 +138,10 @@ Para los usuarios con un plan alimenticio estructurado que desean tener un contr
 <img src="img/Canvass.jpg" alt="LEAN UX CANVAS">
 
 ## 1.3. Segmentos objetivo.
+Los segmentos objetivo de NutriSend son:
+
+- **Personas con tiempo limitado para cocinar**: Este segmento está compuesto por profesionales jóvenes y estudiantes universitarios que, debido a sus agendas ocupadas, no disponen del tiempo necesario para preparar comidas saludables. Suelen vivir en zonas urbanas de Lima metropolitana y valoran la conveniencia y rapidez en la obtención de alimentos de calidad.  
+  **Características demográficas**: Jóvenes de 18 a 35 años, residentes en Lima, con ingresos medios a altos, interesados en mantener un estilo de vida saludable.
+
+- **Personas que siguen un régimen alimenticio estructurado con ejercicios**: Este grupo incluye a personas que se preocupan por su salud y que siguen un plan de alimentación específico acompañado de una rutina de ejercicios. Están interesados en mantener una dieta equilibrada que se ajuste a sus necesidades nutricionales y de ejercicio.  
+  **Características demográficas**: Adultos de 25 a 45 años, con ingresos medios a altos, activos físicamente, y con una fuerte inclinación hacia la salud y el bienestar.
