@@ -121,7 +121,55 @@ Freshly es un servicio de entrega de comidas preparadas que ofrece platos fresco
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
+#### Buenas prácticas:  
+* Es importante que, en la instancia de presentación, quede explicada la confidencialidad y el anonimato en el uso de la información recabada. El entrevistador debe aclarar que no se personaliza  ni  asociará  la  información  obtenida  con  el  entrevistado  que  brindó  dicha información,  y  que  las  opiniones  serán  analizadas  en  forma  agregada,  entre  todos  los entrevistados que participan. 
+* Se debe solicitar autorización para grabar, explicando que la finalidad de la grabación es para agilizar la toma del dato (a mano demora más tiempo) y que los usos de la grabación serán solo a los fines del análisis. En caso negativo, hay que volver sobre los argumentos del punto anterior, y de no ser posible, deberá tomar nota lo más fiel posible.
+#### Durante la Entrevista: 
+*  Desde el inicio de la entrevista, se recomienda generar un clima de intimidad y comodidad que resulte favorable para que el entrevistado pueda expresarse libremente.
+*   Las entrevistas deben centrarse en él o los temas previstos y reducirse al mínimo los comentarios y conversaciones ajenas al mismo, en cuyo caso el entrevistador debe dirigir la conversación.
+#### Final de la Entrevista: 
+* La entrevista se dará por concluida cuando el entrevistador considere que ya se han abordado todos los temas previstos en la guía de pautas y que se ha profundizado lo suficiente al respecto.
+*  Agradezca el tiempo brindado y destaque la importancia de la opinión genuina aportada, que será de relevancia para el estudio correspondiente.
+  
+De acuerdo al proyecto presentado, fue necesario realizar entrevistas acordes a cada segmento objetivo, en este caso personas que padezcan algún tipo de desequilibrio emocional con recursos económicos o sin recursos económicos y psicólogos especialistas en la ciencia de la salud mental.
+
+Para realizar nuestras entrevistas a los usuarios, consideramos realizar preguntas relacionadas a sus  actividades  y  datos  personales.  En  cuanto  a  las  entrevistas  a  los  psicólogos,   tomamos  en cuenta realizar preguntas en base a la experiencia laboral que hayan tenido durante su carrera profesional.  
+### Relación de preguntas para entrevistas
+#### Segmento Objetivo 1 : personas que no tienen tiempo para llevar una buena alimentación y terner una rutina de ejercicios estricta
+
+Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera de .... estudio en la universidad peruana de ciencias aplicadas. A continuación le hare unas preguntas.
+
+* ¿Cuál es tu nombre, edad y ocupación actual?
+* ¿Cuál es tu estado civil y tienes alguna responsabilidad familiar que influya en cómo planificas tu dieta y ejercicio?
+* ¿Cómo describirías tu rutina diaria?
+* ¿Qué tan importante es para ti mantener una dieta equilibrada?
+* ¿Cuáles son las principales dificultades que enfrentas al intentar mantener una dieta saludable?
+* ¿Cómo te sientes respecto al tiempo que inviertes en planificar y preparar tus comidas?
+* ¿Qué tipos de alimentos prefieres consumir regularmente?
+* ¿Qué dispositivos sueles utilizar para buscar información sobre nutrición o planificar tus comidas?
+* ¿Qué te motiva a llevar una alimentación saludable?
+* ¿Cuál sería tu objetivo principal al utilizar un servicio de envío de alimentos con información nutricional detallada?
+* ¿Cuál es tu ocupación y cómo influye en tu disponibilidad para seguir un régimen alimenticio?
+* ¿Vives solo/a o compartes tu hogar con alguien más?
+#### Segmento Objetivo 2 : personas que lleven un régimen  de comida y ejercicios estrictos.
+
+Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera de .... estudio en la universidad peruana de ciencias aplicadas. A continuación le hare unas preguntas.
+
+* ¿Cuál es tu nombre, edad y ocupación actual?
+* ¿Cuál es tu estado civil y tienes alguna responsabilidad familiar que influya en cómo planificas tu dieta y ejercicio?
+* ¿Qué objetivos específicos persigues con tu régimen de comida y ejercicios?
+* ¿Cómo seleccionas los alimentos que consumes para cumplir con tus necesidades de calorías, proteínas, grasas, etc.?
+* ¿Con qué frecuencia planificas tus comidas para la semana?
+* ¿Dónde sueles buscar información sobre el contenido nutricional de los alimentos que consumes?
+* ¿Qué dispositivos y aplicaciones utilizas para gestionar o seguir tu régimen alimenticio y de ejercicios?
+* ¿Cuáles son los mayores desafíos o frustraciones que enfrentas al intentar seguir tu régimen de alimentación y ejercicio?
+* ¿Prefieres comprar tus alimentos en tiendas físicas o en línea, y por qué?
+* ¿Qué tan importante es para ti que los planes de alimentación sean personalizados según tus necesidades y objetivos?
+* ¿Qué canales digitales prefieres para recibir información y actualizaciones sobre tus planes de alimentación? (Correo, app móvil, notificaciones push, etc.)
+*Cuéntame un poco sobre tu rutina diaria, ocupación y estilo de vida. ¿Cómo se integran tu dieta y ejercicios en tu día a día?
 ### 2.2.2. Registro de entrevistas.
+#### Entrevistas para el Segmento Objetivo 1:
+#### Entrevistas para el Segmento Objetivo 2:
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
