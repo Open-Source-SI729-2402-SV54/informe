@@ -151,6 +151,7 @@ Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera d
 * ¿Cuál sería tu objetivo principal al utilizar un servicio de envío de alimentos con información nutricional detallada?
 * ¿Cuál es tu ocupación y cómo influye en tu disponibilidad para seguir un régimen alimenticio?
 * ¿Vives solo/a o compartes tu hogar con alguien más?
+* ¿Estarías dispuesto/a a pagar por un servicio de suscripción que te brinde acceso a planes de alimentación personalizados y la entrega de comidas saludables?
 #### Segmento Objetivo 2 : personas que lleven un régimen  de comida y ejercicios estrictos.
 
 Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera de .... estudio en la universidad peruana de ciencias aplicadas. A continuación le hare unas preguntas.
@@ -166,7 +167,8 @@ Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera d
 * ¿Prefieres comprar tus alimentos en tiendas físicas o en línea, y por qué?
 * ¿Qué tan importante es para ti que los planes de alimentación sean personalizados según tus necesidades y objetivos?
 * ¿Qué canales digitales prefieres para recibir información y actualizaciones sobre tus planes de alimentación? (Correo, app móvil, notificaciones push, etc.)
-*Cuéntame un poco sobre tu rutina diaria, ocupación y estilo de vida. ¿Cómo se integran tu dieta y ejercicios en tu día a día?
+* Cuéntame un poco sobre tu rutina diaria, ocupación y estilo de vida. ¿Cómo se integran tu dieta y ejercicios en tu día a día?
+* ¿Estarías dispuesto/a a pagar por un servicio de suscripción que te proporcione acceso a planes de alimentación personalizados y la entrega de alimentos adecuados para tu régimen?
 ### 2.2.2. Registro de entrevistas.
 #### Entrevistas para el Segmento Objetivo 1:
 #### Entrevistas para el Segmento Objetivo 2:
