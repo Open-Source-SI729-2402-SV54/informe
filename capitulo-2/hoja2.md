@@ -32,7 +32,7 @@ A continuacion presentamos a nuestros tres principales competidores:
   <tr>
     <td rowspan="2">Perfil</td>
     <td>Overview</td>
-    <td>texto</td>
+    <td> NutriSend es una plataforma web emergente que entrega comidas personalizadas para personas con estilos de vida ocupados y aquellos con regímenes estrictos de dieta y ejercicio. Cada entrega incluye información detallada sobre nutrientes como calorías, proteínas, y grasas.</td>
     <td>HelloFresh es una empresa de entrega de kits de comida que ofrece ingredientes frescos con recetas fáciles de seguir, enfocada en opciones saludables con información nutricional detallada.</td>
     <td>Blue Apron es un servicio de kits de comida que se enfoca en la entrega de ingredientes frescos y recetas detalladas, con un fuerte compromiso con la sostenibilidad y la transparencia nutricional. Fundada en 2012, sigue siendo un líder en su industria en Estados Unidos, pese a enfrentar desafíos financieros.</td>
     <td>
@@ -40,7 +40,7 @@ Freshly es un servicio de entrega de comidas preparadas que ofrece platos fresco
   </tr>
   <tr>
     <td>Ventaja competitiva ¿Que valor ofrece a los clientes?</td>
-    <td>texto</td>
+    <td>Ofrece alta personalización, transparencia en la información nutricional, y conveniencia para clientes ocupados, superando a competidores al centrarse en las necesidades específicas de los usuarios.</td>
     <td>HelloFresh se basa en su capacidad para ofrecer comodidad, variedad y personalización, así como información nutricional detallada. Estos elementos permiten a los clientes preparar comidas saludables en casa de manera fácil y adaptada a sus necesidades dietéticas.</td>
     <td>Blue Apron se basa en ofrecer ingredientes frescos y de alta calidad con recetas detalladas, sostenibilidad y transparencia nutricional, además de opciones para diferentes dietas.</td>
     <td>Freshly ofrece a sus clientes la ventaja de comidas preparadas frescas y saludables, listas para comer en minutos, con información nutricional detallada, facilitando una dieta balanceada sin necesidad de cocinar.</td>
@@ -48,14 +48,14 @@ Freshly es un servicio de entrega de comidas preparadas que ofrece platos fresco
   <tr>
     <td rowspan="2">Perfil de Marketing</td>
     <td>Mercado objetivo</td>
-    <td>texto</td>
+    <td>Profesionales ocupados y personas con regímenes estrictos de comida y ejercicio.</td>
     <td>HelloFresh incluye profesionales ocupados, familias, personas interesadas en la nutrición, y entusiastas de la cocina.</td>
     <td>Blue Apron incluye personas ocupadas que buscan una forma conveniente de preparar comidas saludables en casa, con un enfoque en la frescura de los ingredientes y opciones para dietas específicas.</td>
     <td>Freshly incluye personas ocupadas, preocupadas por la salud, con necesidades dietéticas específicas, que viven solas o en pequeños hogares, buscan conveniencia, pertenecen a generaciones más jóvenes</td>
   </tr>
   <tr>
     <td>Estrategias de marketing</td>
-    <td>texto</td>
+    <td>Se enfoca en contenido educativo, publicidad dirigida en redes sociales, y asociaciones con influenciadores del fitness.</td>
     <td>Se enfoca en campañas de marketing digital y en promociones de conveniencia, subrayando la facilidad y rapidez de sus recetas. También destacan la transparencia en los ingredientes y la experiencia de cocinar en casa con productos frescos.</td>
     <td>Blue Apron utiliza marketing digital y se enfoca en la personalización de las comidas, permitiendo a los clientes hacer sustituciones en los ingredientes. También promueven sus servicios adicionales como maridaje de vinos.</td>
     <td>Freshly utiliza estrategias de marketing como la promoción de conveniencia, presencia en redes sociales, ofertas para nuevos clientes, contenido educativo, personalización de servicios, testimonios de clientes, campañas de retargeting y sostenibilidad para atraer y retener a sus clientes en el mercado de entrega de comidas.</td>
@@ -63,21 +63,21 @@ Freshly es un servicio de entrega de comidas preparadas que ofrece platos fresco
   <tr>
     <td rowspan="3">Perfil de Producto</td>
     <td>Productos & Servicios</td>
-    <td>texto</td>
+    <td>Comidas personalizadas para la semana, planes nutricionales y herramientas de seguimiento nutricional.</td>
     <td>Ofrece kits de comida con ingredientes frescos, junto con recetas fáciles de seguir. No ofrece comidas listas para consumir, pero tiene opciones de recetas rápidas y de baja preparación.</td>
     <td>Ofrece tanto kits de comida como comidas listas para calentar y servir, además de suscripciones para vinos. También se enfoca en la sostenibilidad y la reducción de residuos.</td>
     <td>Sus productos y servicios actuales incluyen: Comidas Preparadas, Opciones Dietéticas Específicas, Información Nutricional Transparente, Planes de Suscripción Flexibles, Menú Rotativo Semanal, Opciones Personalizadas</td>
   </tr>
   <tr>
     <td>Precios & Costos</td>
-    <td>texto</td>
+    <td>Planes de suscripción flexibles, con costos basados en el nivel de personalización y cantidad de comidas.</td>
     <td>HelloFresh se posiciona en un rango de precios medio, haciendo énfasis en la calidad de los ingredientes y la experiencia de cocinar en casa. Los costos incluyen ingredientes frescos y empaques sostenibles.</td>
     <td>Los costos son relativamente altos debido a la calidad de los ingredientes y los servicios personalizados, con un precio promedio de $60 por caja.</td>
     <td>Generalmente más asequibles que las opciones de kits de comida, dado que las comidas están listas para consumir. Los precios varían según el plan de suscripción.</td>
   </tr>
   <tr>
     <td>Canales de distribucion (Web y/o Movil)</td>
-    <td>texto</td>
+    <td>- Plataforma web: Los usuarios pueden acceder a la página web de NutriSend para personalizar sus planes de comida, realizar pedidos, y gestionar sus suscripciones. - Aplicación móvil: NutriSend también cuenta con una app móvil que permite a los usuarios configurar sus preferencias, hacer pedidos, y llevar un seguimiento de su ingesta nutricional y progreso.</td>
     <td>Principalmente a través de su sitio web y su aplicación móvil, con opciones de suscripción para recibir los kits de comida en casa.</td>
     <td>Su servicio está disponible a través de su sitio web y su aplicación móvil, con opciones de suscripción.</td>
     <td>A través de su sitio web y aplicación móvil, enfocados en suscripciones semanales.</td>
@@ -90,28 +90,28 @@ Freshly es un servicio de entrega de comidas preparadas que ofrece platos fresco
   </tr>
   <tr>
     <td>Fortalezas</td>
-    <td>texto</td>
+    <td>Alta personalización, enfoque en salud y rendimiento, y conveniencia para clientes con poco tiempo.</td>
     <td>Gran variedad de recetas y flexibilidad en la planificación de menús con hasta seis semanas de antelación.</td>
     <td>Amplia personalización en las comidas y un fuerte enfoque en la sostenibilidad y la responsabilidad social.</td>
     <td>Conveniencia extrema con comidas listas para consumir, adecuadas para consumidores con poco tiempo.</td>
   </tr>
   <tr>
     <td>Debilidades</td>
-    <td>texto</td>
+    <td> Reconocimiento de marca limitado y dependencia del modelo de suscripción</td>
     <td>Falta de opciones para dietas específicas como paleo, keto o vegano.</td>
     <td>Dependencia del modelo de suscripción, altos costos operativos y desafíos en la retención de clientes debido a la competencia.</td>
     <td>Menor variedad de comidas comparado con competidores que ofrecen kits de comida personalizados.</td>
   </tr>
   <tr>
     <td>Oportunidades</td>
-    <td>texto</td>
+    <td>Expansión en el mercado de fitness, desarrollo de nuevas tecnologías, y alianzas estratégicas.</td>
     <td>Expansión en mercados internacionales y desarrollo de nuevas líneas de productos que incluyan comidas listas para consumir.</td>
     <td>Ampliación a mercados internacionales y nuevas líneas de productos, como dietas especializadas.</td>
     <td>Crecimiento en la demanda de comidas saludables y listas para consumir, expansión de mercado y alianzas estratégicas.</td>
   </tr>
   <tr>
     <td>Amenazas</td>
-    <td>texto</td>
+    <td>Competencia intensa y fluctuaciones en los precios de los ingredientes.</td>
     <td>Competencia intensa y dependencia del modelo de suscripción.</td>
     <td>Alta competencia y vulnerabilidad ante críticas negativas y retiros de productos.</td>
     <td>Competencia con servicios de entrega de alimentos y kits de comida que ofrecen mayor flexibilidad y personalización.</td>
