@@ -51,14 +51,14 @@ Freshly es un servicio de entrega de comidas preparadas que ofrece platos fresco
     <td>texto</td>
     <td>HelloFresh incluye profesionales ocupados, familias, personas interesadas en la nutrición, y entusiastas de la cocina.</td>
     <td>Blue Apron incluye personas ocupadas que buscan una forma conveniente de preparar comidas saludables en casa, con un enfoque en la frescura de los ingredientes y opciones para dietas específicas.</td>
-    <td>texto</td>
+    <td>Freshly incluye personas ocupadas, preocupadas por la salud, con necesidades dietéticas específicas, que viven solas o en pequeños hogares, buscan conveniencia, pertenecen a generaciones más jóvenes</td>
   </tr>
   <tr>
     <td>Estrategias de marketing</td>
     <td>texto</td>
     <td>texto</td>
     <td>texto</td>
-    <td>texto</td>
+    <td>Freshly utiliza estrategias de marketing como la promoción de conveniencia, presencia en redes sociales, ofertas para nuevos clientes, contenido educativo, personalización de servicios, testimonios de clientes, campañas de retargeting y sostenibilidad para atraer y retener a sus clientes en el mercado de entrega de comidas.</td>
   </tr>
   <tr>
     <td rowspan="3">Perfil de Producto</td>
@@ -66,7 +66,7 @@ Freshly es un servicio de entrega de comidas preparadas que ofrece platos fresco
     <td>texto</td>
     <td>texto</td>
     <td>texto</td>
-    <td>texto</td>
+    <td>Sus productos y servicios actuales incluyen: Comidas Preparadas, Opciones Dietéticas Específicas, Información Nutricional Transparente, Planes de Suscripción Flexibles, Menú Rotativo Semanal, Opciones Personalizadas</td>
   </tr>
   <tr>
     <td>Precios & Costos</td>
