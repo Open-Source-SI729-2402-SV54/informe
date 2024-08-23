@@ -56,31 +56,31 @@ Freshly es un servicio de entrega de comidas preparadas que ofrece platos fresco
   <tr>
     <td>Estrategias de marketing</td>
     <td>texto</td>
-    <td>texto</td>
-    <td>texto</td>
+    <td>Se enfoca en campañas de marketing digital y en promociones de conveniencia, subrayando la facilidad y rapidez de sus recetas. También destacan la transparencia en los ingredientes y la experiencia de cocinar en casa con productos frescos.</td>
+    <td>Blue Apron utiliza marketing digital y se enfoca en la personalización de las comidas, permitiendo a los clientes hacer sustituciones en los ingredientes. También promueven sus servicios adicionales como maridaje de vinos.</td>
     <td>Freshly utiliza estrategias de marketing como la promoción de conveniencia, presencia en redes sociales, ofertas para nuevos clientes, contenido educativo, personalización de servicios, testimonios de clientes, campañas de retargeting y sostenibilidad para atraer y retener a sus clientes en el mercado de entrega de comidas.</td>
   </tr>
   <tr>
     <td rowspan="3">Perfil de Producto</td>
     <td>Productos & Servicios</td>
     <td>texto</td>
-    <td>texto</td>
-    <td>texto</td>
+    <td>Ofrece kits de comida con ingredientes frescos, junto con recetas fáciles de seguir. No ofrece comidas listas para consumir, pero tiene opciones de recetas rápidas y de baja preparación.</td>
+    <td>Ofrece tanto kits de comida como comidas listas para calentar y servir, además de suscripciones para vinos. También se enfoca en la sostenibilidad y la reducción de residuos.</td>
     <td>Sus productos y servicios actuales incluyen: Comidas Preparadas, Opciones Dietéticas Específicas, Información Nutricional Transparente, Planes de Suscripción Flexibles, Menú Rotativo Semanal, Opciones Personalizadas</td>
   </tr>
   <tr>
     <td>Precios & Costos</td>
     <td>texto</td>
-    <td>texto</td>
-    <td>texto</td>
-    <td>texto</td>
+    <td>HelloFresh se posiciona en un rango de precios medio, haciendo énfasis en la calidad de los ingredientes y la experiencia de cocinar en casa. Los costos incluyen ingredientes frescos y empaques sostenibles.</td>
+    <td>Los costos son relativamente altos debido a la calidad de los ingredientes y los servicios personalizados, con un precio promedio de $60 por caja.</td>
+    <td>Generalmente más asequibles que las opciones de kits de comida, dado que las comidas están listas para consumir. Los precios varían según el plan de suscripción.</td>
   </tr>
   <tr>
     <td>Canales de distribucion (Web y/o Movil)</td>
     <td>texto</td>
-    <td>texto</td>
-    <td>texto</td>
-    <td>texto</td>
+    <td>Principalmente a través de su sitio web y su aplicación móvil, con opciones de suscripción para recibir los kits de comida en casa.</td>
+    <td>Su servicio está disponible a través de su sitio web y su aplicación móvil, con opciones de suscripción.</td>
+    <td>A través de su sitio web y aplicación móvil, enfocados en suscripciones semanales.</td>
   </tr>
   <tr>
     <td rowspan="5">Analisis SWOT</td>
@@ -91,30 +91,30 @@ Freshly es un servicio de entrega de comidas preparadas que ofrece platos fresco
   <tr>
     <td>Fortalezas</td>
     <td>texto</td>
-    <td>texto</td>
-    <td>texto</td>
-    <td>texto</td>
+    <td>Gran variedad de recetas y flexibilidad en la planificación de menús con hasta seis semanas de antelación.</td>
+    <td>Amplia personalización en las comidas y un fuerte enfoque en la sostenibilidad y la responsabilidad social.</td>
+    <td>Conveniencia extrema con comidas listas para consumir, adecuadas para consumidores con poco tiempo.</td>
   </tr>
   <tr>
     <td>Debilidades</td>
     <td>texto</td>
-    <td>texto</td>
-    <td>texto</td>
-    <td>texto</td>
+    <td>Falta de opciones para dietas específicas como paleo, keto o vegano.</td>
+    <td>Dependencia del modelo de suscripción, altos costos operativos y desafíos en la retención de clientes debido a la competencia.</td>
+    <td>Menor variedad de comidas comparado con competidores que ofrecen kits de comida personalizados.</td>
   </tr>
   <tr>
     <td>Oportunidades</td>
     <td>texto</td>
-    <td>texto</td>
-    <td>texto</td>
-    <td>texto</td>
+    <td>Expansión en mercados internacionales y desarrollo de nuevas líneas de productos que incluyan comidas listas para consumir.</td>
+    <td>Ampliación a mercados internacionales y nuevas líneas de productos, como dietas especializadas.</td>
+    <td>Crecimiento en la demanda de comidas saludables y listas para consumir, expansión de mercado y alianzas estratégicas.</td>
   </tr>
   <tr>
     <td>Amenazas</td>
     <td>texto</td>
-    <td>texto</td>
-    <td>texto</td>
-    <td>texto</td>
+    <td>Competencia intensa y dependencia del modelo de suscripción.</td>
+    <td>Alta competencia y vulnerabilidad ante críticas negativas y retiros de productos.</td>
+    <td>Competencia con servicios de entrega de alimentos y kits de comida que ofrecen mayor flexibilidad y personalización.</td>
   </tr>
 </table>
 
