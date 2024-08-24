@@ -153,6 +153,16 @@ En este apartado se mostrará un esquema de bajo nivel de la versión mobile de 
 
 
 ## 4.3.2. Landing Page Mock-up.
+
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.   
+La representación de wireframe de nuestro sitio web está compuesto por: 
+
+**Home:**  En esta sección se presentará el sitio web como introducción.
+
+**Regístrate:** En esta sección el usuario podrá iniciar sesión o registrarse en caso no tuviera una cuenta.
+
+**Orden Premium:** Sección encargada de mostrar los alimentos sanos en conjunto con varios tipos de ejercicios.
+
+**Orden Free:** En este apartado se mostrará la lista de almuerzos "clásicos" que cualquier usuario puede tener acceso. 
 
