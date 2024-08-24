@@ -158,11 +158,17 @@ En este apartado se mostrará un esquema de bajo nivel de la versión mobile de 
 ### 4.4.1. Web Applications Wireframes.   
 La representación de wireframe de nuestro sitio web está compuesto por: 
 
-**Home:**  En esta sección se presentará el sitio web como introducción.
+**Home:**  En esta sección se presentará el sitio web como introducción.<br>
+![Home Wireframe](../img/Home.png)
 
-**Regístrate:** En esta sección el usuario podrá iniciar sesión o registrarse en caso no tuviera una cuenta.
+**Sign In/ Sign Up:** En esta sección el usuario podrá iniciar sesión o registrarse en caso no tuviera una cuenta.<br>
+![Sign In](../img/SingIn.png)
 
-**Orden Premium:** Sección encargada de mostrar los alimentos sanos en conjunto con varios tipos de ejercicios.
+![Sign Up](../img/SignUp.png)
 
-**Orden Free:** En este apartado se mostrará la lista de almuerzos "clásicos" que cualquier usuario puede tener acceso. 
+**Orden Premium:** Sección encargada de mostrar los alimentos sanos en conjunto con varios tipos de ejercicios.<br>
+![Orden Premium](../img/SignUp.png)
+
+**Orden Free:** En este apartado se mostrará la lista de almuerzos "clásicos" que cualquier usuario puede tener acceso.<br>
+![Orden Free](../img/OrderNormal.png)
 
