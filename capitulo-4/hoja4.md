@@ -63,9 +63,9 @@ Como equipo, hemos optado por incorporar el patrón de diseño en forma de Z en 
 
 ### 4.2.1. Organization Systems.
 
-En base a nuestra aplicación, hemos decidido que nuestro diseño y organización visual será hecha como una jerarquía, debido a que queremos que nuestros usuarios distingan la importancia de cada una de las funcionalidades de la app. Al mismo tiempo utilizamos un sistema moderno y sencillo para que nuestros usuarios se sientan más atraídos.
+En base a nuestra aplicación, hemos decidido que nuestro diseño y organización visual será jerárquico, para que los usuarios puedan distinguir claramente la importancia de cada funcionalidad de la app. Al mismo tiempo, utilizamos un sistema moderno y sencillo para atraer a los usuarios.
 
-**Landign Page**
+**Landing Page**
 
 <table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
   <tr>
@@ -74,27 +74,26 @@ En base a nuestra aplicación, hemos decidido que nuestro diseño y organizació
   </tr>
   <tr>
     <td>Home</td>
-    <td>La página de inicio puede mostrar una vista general del servicio y destacar las características clave.
-</td>
+    <td>La página de inicio muestra una vista general del servicio y destaca las características clave.</td>
   </tr>
   <tr>
     <td>About Us</td>
-    <td>En esta sección, NutriSend explica nuestro compromiso con un estilo de vida saludable. También proporcionaremos un ejemplo de la información detallada que la app ofrece, como proteínas, vitaminas y calorías de un plato</td>
+    <td>En esta sección, NutriSend explica nuestro compromiso con un estilo de vida saludable. También proporcionamos ejemplos de la información detallada que la app web ofrece, como proteínas, vitaminas y calorías de un plato como las rutinas de ejercicio personalizadas.</td>
   </tr> 
   <tr>
     <td>Package</td>
-    <td>La página ofrece una descripción detallada de los dos planes de suscripción disponibles: uno gratuito con funcionalidades básicas y uno de pago con características premium. Aquí los usuarios pueden comparar los planes y elegir el que mejor se adapte a sus necesidades.</td>
+    <td>La página ofrece una descripción detallada de los dos planes de suscripción disponibles: uno gratuito con funcionalidades básicas y uno de pago con características premium. Los usuarios pueden comparar los planes y elegir el que mejor se adapte a sus necesidades.</td>
   </tr>
   <tr>
     <td>Menu</td>
-    <td>Esta sección muestra un catálogo de las comidas que ofrecemos, organizadas en dos categorías: FitFood para opciones saludables y Lunch para comidas más variadas. Los usuarios pueden explorar los menús, ver detalles de cada plato y obtener recomendaciones según sus preferencias.</td>
+    <td>Esta sección muestra un catálogo de las comidas que ofrecemos, organizadas en dos categorías: FitFood para opciones saludables y Lunch para comidas más variadas. Los usuarios pueden explorar los menús, ver detalles de cada plato y obtener recomendaciones según sus preferencias. Asi como tambien se mostraran las reseñas de nuestros usuarios. </td>
   </tr>
   <tr>
-    <td>Sing In</td>
+    <td>Sign In</td>
     <td>La página para que el usuario ingrese a su cuenta. Aquí se solicitan las credenciales de inicio de sesión y se ofrece la opción de recuperar la contraseña en caso de olvido.</td>
   </tr>
   <tr>
-    <td>Sing Up</td>
+    <td>Sign Up</td>
     <td>La página para que el usuario se registre en NutriSend. Incluye un formulario para ingresar información básica como nombre, correo electrónico y contraseña, así como la opción de aceptar los términos y condiciones del servicio.</td>
   </tr>
 </table>
@@ -112,33 +111,205 @@ En base a nuestra aplicación, hemos decidido que nuestro diseño y organizació
   </tr>
   <tr>
     <td>Order</td>
-    <td>En esta sección, NutriSend permite a los usuarios realizar pedidos de sus comidas planificadas. Mostrando sus dos categorias: FitFood y Lunch. Ofrece opciones para seleccionar, modificar y confirmar pedidos.</td>
+    <td>En esta sección, NutriSend permite a los usuarios realizar pedidos de sus comidas planificadas, mostrando las dos categorías disponibles: FitFood y Lunch. Ofrece opciones para seleccionar, modificar y confirmar pedidos.</td>
   </tr> 
   <tr>
     <td>Profile</td>
-    <td>En la sección de perfil, los usuarios pueden gestionar su información personal, como datos de contacto, preferencias alimenticias y ajustes de cuenta. También se puede acceder a los planes de suscripcion.</td>
+    <td>En la sección de perfil, los usuarios pueden gestionar su información personal, como datos de contacto, preferencias alimenticias y ajustes de cuenta. También pueden acceder a los planes de suscripción.</td>
   </tr>
 </table>
 
 ### 4.2.2. Labeling Systems.
+
+NutriSend se ha diseñado con un enfoque minimalista y claro para evitar cualquier tipo de confusiones. Las etiquetas son simples, precisas y concisas, facilitando la navegación y la comprensión de la información ofrecida.
+
+NutriSend se ha diseñado con un enfoque minimalista y claro para evitar cualquier tipo de confusiones. Las etiquetas son simples, precisas y concisas, facilitando la navegación y la comprensión de la información ofrecida.
+
+**Etiquetas Principales**
+
+- **Inicio**: La página principal, que presenta la propuesta de valor de NutriSend junto con sus principales segmentos.
+- **Información Nutricional**: Información concisa y fácil de entender los nutrientes de cada platillo, que incluye las calorías, proteínas, grasas y carbohidratos.
+- **Ejercicios**: Rutinas de ejercicios que complementan el régimen que estén llevando los usuarios.
+- **Perfil**: Información principal del usuario junto con las opción de configuración de la cuenta.
+
+Etiquetas para la Representación de Información Nutricional
+
+- Calorías: Será representado por "KCAL" en cada porción.
+Proteínas: Será representado por "g" por porción.
+- Grasas: Será representado "g" por porción.
+- Carbohidratos: Será representado por "g" por porción.
+- Consideraciones del Diseño
+
+Las etiquetas son breves y fáciles de entender.
+Se ve priorizado el lenguaje Cotidiano y familiar para el usuario.
+Los elementos visuales como los íconos mejoran la experiencia del usuario.
+
 ### 4.2.3. SEO Tags and Meta Tags
+
+**Landing Page**
+
+- Title: 
+
+<div style="text-align: center;">
+
+```html
+<title>NutriSend</title>
+```
+
+</div>
+
+- Meta Description: 
+
+<div style="text-align: center;">
+
+```html
+<meta name="description" content="Tú rutina y comida al instante, con el mejor precio."/>
+```
+
+</div>
+
+
+- Meta Keyboard: 
+
+<div style="text-align: center;">
+
+```html
+<meta name="keywords" content="NutriSend, delicious, healthy meals, food delivery, food service, exercises, diet, UPC, students, Lima."/>
+```
+
+</div>
+
+- Meta Author: 
+
+<div style="text-align: center;">
+
+```html
+<meta name="author" content="NAXUS"/>
+<meta name="copyright" content="Copyright NAXUS team" />
+```
+
+</div>
+
+**Web Application**
+
+- Title: NutriSend
+
+<div style="text-align: center;">
+
+```html
+<title>NutriSend</title>
+```
+
+</div>
+
+- Meta Description: 
+
+<div style="text-align: center;">
+
+```html
+<meta name="description" content="Con NutriSend, organiza tus comidas de manera sencilla y recibe opciones nutritivas en tu puerta. Ideal para profesionales ocupados y personas con planes alimenticios específicos."/>
+```
+
+</div>
+
+
+- Meta Keyboard: 
+
+<div style="text-align: center;">
+
+```html
+<meta name="keywords" content="NutriSend, delicious, healthy meals, food delivery, food service, diet, exercises, UPC, Naxus, students, Lima."/>
+```
+
+</div>
+
+- Meta Author: 
+
+<div style="text-align: center;">
+
+```html
+<meta name="author" content="NAXUS"/>
+<meta name="copyright" content="Copyright NutriSend team" />
+```
+
+</div>
+
 ### 4.2.4. Searching Systems.
+
+NutriSend, el sistema de filtrado ha sido diseñado para proporcionar una experiencia eficiente y fluida a la hora de buscar platillos y rutinas, sin la necesidad de sentirse abrumados por el volumen de contenido.
+
+**Opciones de Búsqueda Ofrecidas**
+
+Categorías de Búsqueda
+* Los usuarios pueden navegar por categorías predefinidas como "Almuerzos", "Comida fit" y "Ejecicios".
+* Estas categorías están organizadas de forma clara para facilitar el acceso directo a la información más relevante.
+
+Búsqueda avanzada con filtros
+* Tipos de comida: Almuerzos, Comida fit.
+* Objetivos de Ejercicios: Ganar masa múscular, quemar grasa, ganar resistencia.
+* Información Nutricional: grasa, calorías, proteínas.
+
+**Visualización de los Datos Después de la Búsqueda**
+
+Resultados en forma de Tarjetas
+
+Los resultados se muestran en tarjetas visualmente atractivas que contienen:
+
+* Nombre del platillo o rutina de ejercicio.
+* Una imagen destacada del platillo o el ejercicio.
+* Información nutricional clave (proteínas, calorías, grasas).
+
+**Orden de los Resultados**
+
+Los resultados están ordenados por: 
+
+* Relevancia.
+
+En conjunto, estas herramientas permiten que el proceso de búsqueda en el sitio web de NutriSend sea intuitivo, rápido y enfocado en satisfacer las necesidades del usuario.
+
 ### 4.2.5. Navigation Systems.
+
+Landing Page y Secciones Principales
+
+Menú Principal: El menú principal contiene las opciones más importantes de navegación como "Home", "Order", "Profile" y el ícono de "carrito de compras". Dicho menú permite un acceso rápido y directo a las secciones clave desde cualquier página.
+
+Categoría de Productos: Los productos se dividen en dos categorías: "Fit food" y "Almuerzos", cada uno está representado con intuitivos íconos, en el que el usuario puede hacer click en cualquiera de estos apartados para explorar las diversas opciones de ejecicios o comida.
+
+Visualización de Productos: Los productos se encuentran en tarjetas organizados por filas, con la información necesaria para el usuario como el nombre, la imagen del producto, el precio y el botón de "Add" para agregar los platillos o ejercicios que el usuario desee.
+
+Porceso de Compra: una vez finalizado el proceso de elección de los productos, el usuario puede visualizar su carrito y proceder con la compra. En esta sección se incluyen detalles como la dirección de la entrega, los elementos que ha seleccionado, la cantidad y el total a pagar. Un proceso lineal, guiando al usuario de manera eficiente hasta la confirmación del pedido.
+
 ## 4.3. Landing Page UI Design.
 NutriSend se ha estructurado con un enfoque en la simplicidad, claridad y facilidad de navegación para el usuario. A continuación, se muestra cómo se han implementado las decisiones de diseño y arquitectura de contenido para proporcionar una experiencia intuitiva para los usuarios.
 ### 4.3.1. Landing Page Wireframe
 
-En esta sección se mostrará una representación menor de la langin page.<br>
+En esta sección se mostrará una representación de la landing page para Desktop Web Browser y Web Mobile Browser: https://www.figma.com/design/a64BVB1zNy0aycIi3TtTg7/Landing-Page?node-id=6-4&m=dev&t=aZwnPfeFio9ybCCN-1 <br>
 
 **Landing Page para Desktop Web Browser:**
 <br>
 <div style="text-align: center;">
-    <img src="" alt="LandingPage">
+    <img src="../img/lp-wireframe.png" alt="LandingPage">
 </div>
 </br>
 
 **Web Mobile Browser**
 
-En este apartado se mostrará un esquema de bajo nivel de la versión mobile de NutriSend.
+<br>
+<div style="text-align: center;">
+    <img src="../img/lp-mb-wireframe.png" alt="LandingPage">
+</div>
+</br>
 
 ## 4.3.2. Landing Page Mock-up.
+
+**Landing Page para Desktop Web Browser:**
+
+<br>
+<div style="text-align: center;">
+    <img src="../img/lp-mockup.png" alt="LandingPage">
+</div>
+</br>
+
+**Web Mobile Browser**
+
+
