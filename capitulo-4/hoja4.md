@@ -172,3 +172,22 @@ La representación de wireframe de nuestro sitio web está compuesto por:
 **Orden Free:** En este apartado se mostrará la lista de almuerzos "clásicos" que cualquier usuario puede tener acceso.<br>
 ![Orden Free](../img/OrderNormal.png)
 
+### 4.4.2. Web Applications Wireflow Diagrams. 
+**UH00X: Actualizar información de la cuenta**<br>
+Como usuario, quiero la capacidad de actualizar fácilmente mis datos de perfil para garantizar que la información asociada a mi cuenta esté siempre actualizada y precisa.
+
+**UH000X: Creación de cuenta nueva**<br>
+Como usuario, quiero tener la capacidad de registrar una cuenta nueva en el sitio web para poder acceder a todas las funcionalidades y opciones disponibles.
+
+**UH00X: Inicio de Sesión**<br>
+Como usuario quiero ingresar mis datos principales para tener un perfil en la aplicación.
+
+
+
+**UH00x: Acceder al catálogo de menús**<br>
+como usuario que busca opciones saludables de comida, quiero tener una lista variada de alimentos saludables para progresar con mis objetivos nutricionales.
+
+### 4.4.3. Web Application Mock Ups.
+Utilizando la paleta de colores y los estilos definidos, nuestro concepto de los mock ups será de la siguiente manera: 
+
+
