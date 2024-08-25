@@ -84,7 +84,13 @@
     <td>TB1</td>
     <td>---</td>
     <td>Jhordi Luis Carranza Pérez</td>
+    <td>Capitulo 1</td>
+  </tr>
+    <tr>
+    <td>TB1</td>
     <td>---</td>
+    <td>Luis Alfonso Villegas Jipa</td>
+    <td>Capitulo 1</td>
   </tr>
 </table>
 
@@ -259,7 +265,13 @@ NutriSend ofrece diferentes planes adaptados a las necesidades de sus usuarios:
     <td>u202113612</td>
     <td>----</td>
     <td>----</td>
-  </tr>    
+  </tr>  
+   <td>Luis Alfonso Villegas Jipa</td>
+    <td>u201717523</td>
+    <td>Ingeniería de Software</td>
+    <td>Soy una persona creativa que le gusta aprender nuevos horizontes. Tengo conocimientos de programacion en C++, Python, HTML y JS. Asimismo tengo conocimientos en SQl (Visual Management) y NoSQl (MongoDB).
+    </td>
+  </tr>  
 </table>
 
 
