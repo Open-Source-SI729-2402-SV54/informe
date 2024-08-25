@@ -45,6 +45,10 @@
     <td>Jhordi Luis Carranza Pérez</td>
     <td>u20191e835</td>
   </tr>
+  <tr>
+    <td>Luis Alfonso Villegas Jipa</td>
+    <td>u201717523</td>
+  </tr>
 </table>
 
 <h4 style="text-align: center;">Agosto 2024</h4>
