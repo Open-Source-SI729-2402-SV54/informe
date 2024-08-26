@@ -171,6 +171,27 @@ Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera d
 * ¿Estarías dispuesto/a a pagar por un servicio de suscripción que te proporcione acceso a planes de alimentación personalizados y la entrega de alimentos adecuados para tu régimen?
 ### 2.2.2. Registro de entrevistas.
 #### Entrevistas para el Segmento Objetivo 1:
+##### a) Valentino Montoro 
+* Edad: 19 años 
+* Ocupación: estudiante 
+* Duración de entrevista: 4 min 02 s. 
+* Interés en el servicio: Cree que un servicio de envío de alimentos con información nutricional le ayudaría a definir su consumo diario y ajustar su dieta. Sin embargo, no estaría dispuesto a pagar por un servicio de suscripción que ofrezca planes de alimentación personalizados y la entrega de comidas saludables.
+* Conclusión: Fabio es un joven que valora la nutrición y se esfuerza por mantener una dieta equilibrada, pero enfrenta desafíos con los antojos y tiene una rutina ocupada. Aunque muestra interés en un servicio que le facilite la planificación de sus comidas, no está dispuesto a pagar por una suscripción.
+* URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/Ea2feQ21rL9IrJ3ofZY3eDsBBiY2_p47RIXikaySVEPeDw?e=3Mn8f5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+##### b) Aldo Cafferata 
+* Edad: 25 años 
+* Ocupación: Mercaderista 
+* Duración de entrevista: 4 min 11 s. 
+* Interés en el servicio: Aldo muestra un claro interés en un servicio que le facilite mantener una alimentación equilibrada y adecuada a su estilo de vida ocupado. Dado que su trabajo le deja poco tiempo para planificar y preparar comidas saludables, un servicio de envío de alimentos con información nutricional detallada sería beneficioso para él, ya que podría ayudarle a mantener su energía y bienestar sin la necesidad de dedicar tiempo extra a estas tareas.
+* Conclusión: Aldo es un candidato ideal para un servicio de envío de alimentos que ofrezca conveniencia y aporte a su salud. Su falta de tiempo para preparar comidas saludables y su interés previo en mejorar su energía y bienestar físico indican que estaría receptivo a una solución que se adapte a su rutina diaria y le permita mantener una alimentación equilibrada de manera práctica.
+* URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/ESR1NxY0P59AoqDpW07m-4IBxcsH18WMlSuOH-0_tS12hA?e=hPkru8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+##### c) José Carranza 
+* Edad: 51 años 
+* Ocupación: Docente 
+* Duración de entrevista: 6 min 28 s. 
+* Interés en el Servicio: José Luis muestra un alto interés en un servicio de envío de alimentos que incluya planes alimenticios personalizados y la entrega de comidas saludables con información nutricional detallada. Considera que este tipo de servicio le ayudaría a superar las dificultades de mantener una dieta equilibrada debido a su ocupada agenda laboral y facilitaría la toma de decisiones informadas para mejorar su salud.
+* Conclusión: José Luis, a pesar de las limitaciones de tiempo impuestas por su trabajo, está motivado por el deseo de mantener una buena salud. Considera que un servicio de suscripción que le ofrezca alimentos saludables y planes nutricionales detallados sería una herramienta valiosa para alcanzar sus objetivos de bienestar. Su disposición a pagar por este servicio subraya la importancia que le da a la conveniencia y a la información nutricional precisa.
+* URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/EVG62K8PCzFNulwlcq48iqYBrR4EnCNJNlOODTm2k6Yj8A?e=dnMXiM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 #### Entrevistas para el Segmento Objetivo 2:
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
