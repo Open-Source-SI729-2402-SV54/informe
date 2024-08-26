@@ -179,12 +179,12 @@ Como usuario, quiero la capacidad de actualizar fácilmente mis datos de perfil 
 **UH000X: Creación de cuenta nueva**<br>
 Como usuario, quiero tener la capacidad de registrar una cuenta nueva en el sitio web para poder acceder a todas las funcionalidades y opciones disponibles.
 
-**UH00X: Inicio de Sesión**<br>
+**UH00X: Seleccionar menú**<br>
 Como usuario quiero ingresar mis datos principales para tener un perfil en la aplicación.
 
 
 
-**UH00x: Acceder al catálogo de menús**<br>
+**UH00x: Acceder a los planes de suscripción**<br>
 como usuario que busca opciones saludables de comida, quiero tener una lista variada de alimentos saludables para progresar con mis objetivos nutricionales.
 
 ### 4.4.3. Web Application Mock Ups.
