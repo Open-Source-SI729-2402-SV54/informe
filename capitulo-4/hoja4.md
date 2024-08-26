@@ -176,11 +176,15 @@ La representación de wireframe de nuestro sitio web está compuesto por:
 **UH00X: Actualizar información de la cuenta**<br>
 Como usuario, quiero la capacidad de actualizar fácilmente mis datos de perfil para garantizar que la información asociada a mi cuenta esté siempre actualizada y precisa.
 
+
+
 **UH000X: Creación de cuenta nueva**<br>
 Como usuario, quiero tener la capacidad de registrar una cuenta nueva en el sitio web para poder acceder a todas las funcionalidades y opciones disponibles.
 
+
+
 **UH00X: Seleccionar menú**<br>
-Como usuario quiero ingresar mis datos principales para tener un perfil en la aplicación.
+Como un usuario, quiero seleccionar un menú de opciones disponibles, para poder realizar mi pedido de manera fácil y rápida.
 
 
 
