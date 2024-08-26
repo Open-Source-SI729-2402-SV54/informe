@@ -312,4 +312,14 @@ En esta sección se mostrará una representación de la landing page para Deskto
 
 **Web Mobile Browser**
 
+<br>
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/33d1679e-6583-45c6-821d-59f6ae459cdc" alt="LandingPage">
+</div>
+</br>
+
+## 4.6. Domain-Driven Software Architecture.
+### 4.6.1. Software Architecture Context Diagram.
+### 4.6.2. Software Architecture Container Diagrams.
+### 4.6.3. Software Architecture Components Diagrams.
 
