@@ -45,10 +45,6 @@
     <td>Jhordi Luis Carranza Pérez</td>
     <td>u20191e835</td>
   </tr>
-  <tr>
-    <td>Luis Alfonso Villegas Jipa</td>
-    <td>u201717523</td>
-  </tr>
 </table>
 
 <h4 style="text-align: center;">Agosto 2024</h4>
@@ -84,13 +80,7 @@
     <td>TB1</td>
     <td>---</td>
     <td>Jhordi Luis Carranza Pérez</td>
-    <td>Capitulo 1</td>
-  </tr>
-    <tr>
-    <td>TB1</td>
     <td>---</td>
-    <td>Luis Alfonso Villegas Jipa</td>
-    <td>Capitulo 1</td>
   </tr>
 </table>
 
@@ -565,4 +555,5 @@ Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera d
 * Duración de entrevista: 4 min 20 s.
 * Interés en el Servicio: Giovanni muestra disposición a probar el servicio alimentario nutricional propuesto, destacando que valdría la pena intentarlo si ofrece detalles sobre los valores nutritivos y guías personalizadas para su consumo diario.
 * Conclusión: Giovanni es un profesional que mantiene un estilo de vida saludable mediante la práctica regular de ejercicio, aunque ocasionalmente consume comida chatarra. Aunque ha probado aplicaciones de nutrición sin éxito, está abierto a explorar nuevas opciones que le ofrezcan un soporte más estructurado y personalizado en su régimen alimentario.
+
 * URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/EdhhBgTp1ANAsCkk1TXfjlIB9JGUw-7i1y7dkCjT5KMvqA?e=XECBat&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
