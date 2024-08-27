@@ -223,6 +223,13 @@ Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera d
 * 25% de los entrevistados (José Carranza) mencionaron específicamente que les ayudaría a tomar decisiones informadas para mejorar su salud.
 * 50% de los entrevistados (Aldo Cafferata y José Carranza) tienen rutinas ocupadas y consideran que un servicio de este tipo les ahorraría tiempo y les ayudaría a mantener su energía y bienestar.
 * 50% de los entrevistados (Valentino Montoro y Junior Aliaga) enfrentan dificultades para estructurar su dieta, pero no consideran pagar por un servicio como una opción viable debido al costo.
+#### Segmento Objetivo 2:
+* 100% de los entrevistados están interesados en probar el servicio de suscripción para planes de alimentación personalizados.
+* 50% de los entrevistados son estudiantes universitarios, y el otro 50% trabaja en el área administrativa.
+* 50% de los entrevistados son atletas dedicados que buscan personalización en sus planes de alimentación para mejorar su rendimiento físico.
+* 100% de los entrevistados consideran importante que el servicio ofrezca guías personalizadas y detalles sobre los valores nutricionales.
+* 50% de los entrevistados mencionaron haber probado aplicaciones de nutrición anteriormente, aunque no tuvieron éxito con ellas.
+* 100% de los entrevistados estarían dispuestos a pagar por el servicio si se adapta a sus necesidades específicas.
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 ### 2.3.2. User Task Matrix.
