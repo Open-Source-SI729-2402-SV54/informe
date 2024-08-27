@@ -213,3 +213,25 @@ Utilizando la paleta de colores y los estilos definidos, nuestro concepto de los
 **Sign In:**
 
 ![SignIn](https://github.com/user-attachments/assets/a2d3bceb-db66-4b86-9157-94e48ad2de7f)
+
+### 4.4.4. Web Applications User Flow Diagrams.
+
+**UH00X: Actualizar información de la cuenta**<br>
+Como usuario, quiero la capacidad de actualizar fácilmente mis datos de perfil para garantizar que la información asociada a mi cuenta esté siempre actualizada y precisa.
+
+![ActualizarMUWireflow](https://github.com/user-attachments/assets/376d0449-4750-4f6a-9420-84afa8ad1ac4)
+
+**UH000X: Creación de cuenta nueva**<br>
+Como usuario, quiero tener la capacidad de registrar una cuenta nueva en el sitio web para poder acceder a todas las funcionalidades y opciones disponibles.
+
+![CrearCuentaMUWireflow](https://github.com/user-attachments/assets/dd2b212e-1c41-49fe-b72d-5740c9d13627)
+
+**UH00X: Seleccionar menú**<br>
+Como un usuario, quiero seleccionar un menú de opciones disponibles, para poder realizar mi pedido de manera fácil y rápida.
+
+![ordenarMUWireflow](https://github.com/user-attachments/assets/8f03dd4a-3713-4270-9d94-1b479224bde9)
+
+**UH00x: Acceder a los planes de suscripción**<br>
+como usuario que busca opciones saludables de comida, quiero tener una lista variada de alimentos saludables para progresar con mis objetivos nutricionales.
+
+![ElegirPlanMUWireflow](https://github.com/user-attachments/assets/97cdbb63-d15c-4ba3-87d1-9e9639278718)
