@@ -192,6 +192,13 @@ Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera d
 * Interés en el Servicio: José Luis muestra un alto interés en un servicio de envío de alimentos que incluya planes alimenticios personalizados y la entrega de comidas saludables con información nutricional detallada. Considera que este tipo de servicio le ayudaría a superar las dificultades de mantener una dieta equilibrada debido a su ocupada agenda laboral y facilitaría la toma de decisiones informadas para mejorar su salud.
 * Conclusión: José Luis, a pesar de las limitaciones de tiempo impuestas por su trabajo, está motivado por el deseo de mantener una buena salud. Considera que un servicio de suscripción que le ofrezca alimentos saludables y planes nutricionales detallados sería una herramienta valiosa para alcanzar sus objetivos de bienestar. Su disposición a pagar por este servicio subraya la importancia que le da a la conveniencia y a la información nutricional precisa.
 * URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/EVG62K8PCzFNulwlcq48iqYBrR4EnCNJNlOODTm2k6Yj8A?e=dnMXiM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+##### d) Junior Aliaga
+* Edad: 20 años 
+* Ocupación: Estudiante de medicina 
+* Duración de entrevista: 4 min 21 s. 
+* Interés en el Servicio: Junior tiene interés en un servicio de envío de alimentos con información nutricional detallada, principalmente para reducir el tiempo que dedica a planificar y organizar su alimentación. Sin embargo, a pesar de este interés, no está dispuesto a pagar por un servicio de suscripción.
+* Conclusión: Junior es un estudiante de medicina que valora mantener una dieta equilibrada por su impacto en el rendimiento académico y en su salud general. Aunque su rutina es sedentaria y enfrenta dificultades para estructurar su dieta, invierte tiempo en la planificación de sus comidas. Su interés en un servicio que optimice esta tarea es evidente, pero no está dispuesto a asumir un costo adicional por ello, lo que sugiere que el precio puede ser una barrera significativa para la adopción del servicio.
+* URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/EclgsxdRMUtFsYWIDL7fmIABJnXHMS3YmMlHI6VFhQleaQ?e=gn32GE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 #### Entrevistas para el Segmento Objetivo 2:
 ##### a) Diego Ramirez 
 * Edad: 22 años 
