@@ -235,3 +235,6 @@ Como un usuario, quiero seleccionar un menú de opciones disponibles, para poder
 como usuario que busca opciones saludables de comida, quiero tener una lista variada de alimentos saludables para progresar con mis objetivos nutricionales.
 
 ![ElegirPlanMUWireflow](https://github.com/user-attachments/assets/97cdbb63-d15c-4ba3-87d1-9e9639278718)
+
+### 4.4.5. Web Applications Prototyping.
+Hemos diseñado un prototipo de website para ofrecer un adelanto de lo que será nuestro sitio web. 
