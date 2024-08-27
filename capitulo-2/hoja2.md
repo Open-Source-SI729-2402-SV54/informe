@@ -200,6 +200,13 @@ Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera d
 * Interés en el Servicio: Diego muestra un interés positivo en el servicio de suscripción que ofrece planes de alimentación personalizados y la entrega de alimentos adecuados para su régimen. Expresó que estaría dispuesto a pagar por el servicio, siempre y cuando funcione bien y se adapte a sus necesidades específicas, considerándolo una opción favorable para quienes buscan mantener un régimen alimenticio estricto.
 * Conclusión: Diego es un estudiante universitario y atleta dedicado que valora la personalización en sus planes de alimentación para alcanzar sus objetivos de rendimiento físico. A pesar de enfrentar desafíos como las tentaciones alimenticias, su compromiso con su rutina y disposición para invertir en herramientas que le faciliten mantener su régimen indican que sería un cliente potencial para servicios que ofrezcan soluciones nutricionales personalizadas y convenientes.
 * URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/ETQwuGOCAT5Hr7tFFZylYt8BwCtZCdDM0NgnDQVZi9hd0Q?e=hCsZoU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+##### b) Giovanni Torres
+* Edad: 22 años 
+* Ocupación: administrativo 
+* Duración de entrevista: 4 min 20 s. 
+* Interés en el Servicio: Giovanni muestra disposición a probar el servicio alimentario nutricional propuesto, destacando que valdría la pena intentarlo si ofrece detalles sobre los valores nutritivos y guías personalizadas para su consumo diario.
+* Conclusión: Giovanni es un profesional que mantiene un estilo de vida saludable mediante la práctica regular de ejercicio, aunque ocasionalmente consume comida chatarra. Aunque ha probado aplicaciones de nutrición sin éxito, está abierto a explorar nuevas opciones que le ofrezcan un soporte más estructurado y personalizado en su régimen alimentario.
+* URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/EdhhBgTp1ANAsCkk1TXfjlIB9JGUw-7i1y7dkCjT5KMvqA?e=XECBat&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
