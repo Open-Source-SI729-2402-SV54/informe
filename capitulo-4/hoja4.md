@@ -198,4 +198,18 @@ como usuario que busca opciones saludables de comida, quiero tener una lista var
 ### 4.4.3. Web Application Mock Ups.
 Utilizando la paleta de colores y los estilos definidos, nuestro concepto de los mock ups será de la siguiente manera: 
 
+**Perfíl Premium:**
 
+![ProfilePremium](https://github.com/user-attachments/assets/9625dcb6-0e5a-4221-a587-a9135a400227)
+
+**Orden Fit:**
+
+![OrderFit](https://github.com/user-attachments/assets/e4e77a00-7f8e-418f-b1bf-4b95e4b5e624)
+
+**Orden Básico:**
+
+![OrderNormal](https://github.com/user-attachments/assets/2c5b6802-0b65-4e23-9075-952ed2b7799d)
+
+**Sign In:**
+
+![SignIn](https://github.com/user-attachments/assets/a2d3bceb-db66-4b86-9157-94e48ad2de7f)
