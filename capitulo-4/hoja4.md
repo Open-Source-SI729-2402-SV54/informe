@@ -176,6 +176,7 @@ La representación de wireframe de nuestro sitio web está compuesto por:
 **UH00X: Actualizar información de la cuenta**<br>
 Como usuario, quiero la capacidad de actualizar fácilmente mis datos de perfil para garantizar que la información asociada a mi cuenta esté siempre actualizada y precisa.
 
+![ActualizarInformacion](https://github.com/user-attachments/assets/b25853ff-e353-4da2-9857-51d033481306)
 
 
 **UH000X: Creación de cuenta nueva**<br>
