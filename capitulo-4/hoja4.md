@@ -238,3 +238,7 @@ como usuario que busca opciones saludables de comida, quiero tener una lista var
 
 ### 4.4.5. Web Applications Prototyping.
 Hemos diseñado un prototipo de website para ofrecer un adelanto de lo que será nuestro sitio web. 
+
+https://www.figma.com/proto/a64BVB1zNy0aycIi3TtTg7/Landing-Page?node-id=21-238&t=lGSaLcrrOIxo1Rt3-1&scaling=min-zoom&content-scaling=fixed&page-id=6%3A3&starting-point-node-id=10%3A8 
+
+![Prototipo](https://github.com/user-attachments/assets/3f4e7016-4504-49fd-b325-aa9ed97014b7)
