@@ -182,15 +182,18 @@ Como usuario, quiero la capacidad de actualizar fácilmente mis datos de perfil 
 **UH000X: Creación de cuenta nueva**<br>
 Como usuario, quiero tener la capacidad de registrar una cuenta nueva en el sitio web para poder acceder a todas las funcionalidades y opciones disponibles.
 
+![CrearCuenta](https://github.com/user-attachments/assets/21f95179-648e-4f2c-9b7e-fbbb7b6c5588)
 
 
 **UH00X: Seleccionar menú**<br>
 Como un usuario, quiero seleccionar un menú de opciones disponibles, para poder realizar mi pedido de manera fácil y rápida.
 
-
+![SeleccionarMenu](https://github.com/user-attachments/assets/f9d3d6fd-e5c2-4eba-978f-a471e9bc71a2)
 
 **UH00x: Acceder a los planes de suscripción**<br>
 como usuario que busca opciones saludables de comida, quiero tener una lista variada de alimentos saludables para progresar con mis objetivos nutricionales.
+
+![PlanesSuscripcion](https://github.com/user-attachments/assets/fe0e2fec-bced-4b92-828c-fe6b21508d2e)
 
 ### 4.4.3. Web Application Mock Ups.
 Utilizando la paleta de colores y los estilos definidos, nuestro concepto de los mock ups será de la siguiente manera: 
