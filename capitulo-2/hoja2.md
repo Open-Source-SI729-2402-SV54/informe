@@ -208,6 +208,8 @@ Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera d
 * Conclusión: Giovanni es un profesional que mantiene un estilo de vida saludable mediante la práctica regular de ejercicio, aunque ocasionalmente consume comida chatarra. Aunque ha probado aplicaciones de nutrición sin éxito, está abierto a explorar nuevas opciones que le ofrezcan un soporte más estructurado y personalizado en su régimen alimentario.
 * URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/EdhhBgTp1ANAsCkk1TXfjlIB9JGUw-7i1y7dkCjT5KMvqA?e=XECBat&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 ### 2.2.3. Análisis de entrevistas.
+#### Segmento Objetivo 1:
+
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 ### 2.3.2. User Task Matrix.
