@@ -216,7 +216,13 @@ Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera d
 * URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/EdhhBgTp1ANAsCkk1TXfjlIB9JGUw-7i1y7dkCjT5KMvqA?e=XECBat&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 ### 2.2.3. Análisis de entrevistas.
 #### Segmento Objetivo 1:
-
+* 100% de los entrevistados están interesados en mejorar su nutrición y mantener una dieta equilibrada.
+* 50% de los entrevistados (Valentino Montoro y Junior Aliaga) no están dispuestos a pagar por un servicio de suscripción que ofrezca planes de alimentación personalizados y entrega de comidas saludables.
+* 50% de los entrevistados (Aldo Cafferata y José Carranza) consideran importante la conveniencia y estarían dispuestos a pagar por un servicio que les facilite mantener una alimentación equilibrada.
+* 100% de los entrevistados creen que un servicio de envío de alimentos con información nutricional detallada les ayudaría a mejorar su salud y bienestar.
+* 25% de los entrevistados (José Carranza) mencionaron específicamente que les ayudaría a tomar decisiones informadas para mejorar su salud.
+* 50% de los entrevistados (Aldo Cafferata y José Carranza) tienen rutinas ocupadas y consideran que un servicio de este tipo les ahorraría tiempo y les ayudaría a mantener su energía y bienestar.
+* 50% de los entrevistados (Valentino Montoro y Junior Aliaga) enfrentan dificultades para estructurar su dieta, pero no consideran pagar por un servicio como una opción viable debido al costo.
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 ### 2.3.2. User Task Matrix.
