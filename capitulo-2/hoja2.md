@@ -193,6 +193,13 @@ Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera d
 * Conclusión: José Luis, a pesar de las limitaciones de tiempo impuestas por su trabajo, está motivado por el deseo de mantener una buena salud. Considera que un servicio de suscripción que le ofrezca alimentos saludables y planes nutricionales detallados sería una herramienta valiosa para alcanzar sus objetivos de bienestar. Su disposición a pagar por este servicio subraya la importancia que le da a la conveniencia y a la información nutricional precisa.
 * URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/EVG62K8PCzFNulwlcq48iqYBrR4EnCNJNlOODTm2k6Yj8A?e=dnMXiM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 #### Entrevistas para el Segmento Objetivo 2:
+##### a) Diego Ramirez 
+* Edad: 22 años 
+* Ocupación: estudiante 
+* Duración de entrevista: 7 min 24 s. 
+* Interés en el Servicio: Diego muestra un interés positivo en el servicio de suscripción que ofrece planes de alimentación personalizados y la entrega de alimentos adecuados para su régimen. Expresó que estaría dispuesto a pagar por el servicio, siempre y cuando funcione bien y se adapte a sus necesidades específicas, considerándolo una opción favorable para quienes buscan mantener un régimen alimenticio estricto.
+* Conclusión: Diego es un estudiante universitario y atleta dedicado que valora la personalización en sus planes de alimentación para alcanzar sus objetivos de rendimiento físico. A pesar de enfrentar desafíos como las tentaciones alimenticias, su compromiso con su rutina y disposición para invertir en herramientas que le faciliten mantener su régimen indican que sería un cliente potencial para servicios que ofrezcan soluciones nutricionales personalizadas y convenientes.
+* URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/ETQwuGOCAT5Hr7tFFZylYt8BwCtZCdDM0NgnDQVZi9hd0Q?e=hCsZoU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
