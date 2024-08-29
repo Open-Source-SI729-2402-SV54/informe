@@ -47,10 +47,10 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
         </tr>
         <tr>
             <td>EPIC-004</td>
-            <td>Desarrollo de una Aplicación Móvil Integrada</td>
+            <td>Desarrollo de una Plataforma Web Integrada</td>
             <td>
-                <strong>Como</strong> entusiasta del fitness, <strong>quiero</strong> tener una aplicación móvil de NutriSend que se integre con mis dispositivos wearables y aplicaciones de fitness, 
-                <strong>para</strong> que pueda recibir recomendaciones personalizadas sobre mis necesidades alimenticias.
+                <strong>Como</strong> Como entusiasta del fitness, quiero tener una plataforma web de NutriSend que me permita gestionar mis comidas 
+                <strong>para</strong> que pueda recibir recomendaciones personalizadas sobre mis necesidades alimenticias basadas en mi actividad física. .
             </td>
             <td>N/A</td>
             <td>N/A</td>
@@ -157,13 +157,14 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
                 Integración con Dispositivos Wearables
             </td>
             <td>
-                Como entusiasta del fitness, quiero que la aplicación NutriSend se sincronice con mi reloj inteligente, para que pueda recibir recomendaciones alimenticias basadas en mis actividades diarias.
+               Como entusiasta del fitness, quiero tener una plataforma web de NutriSend que me permita gestionar mis comidas y recibir recomendaciones personalizadas sobre mis necesidades alimenticias basadas en 
+               mi actividad física.
             </td>
             <td>
                 <strong>Escenario 1:</strong> <br>
-                La aplicación se conecta al dispositivo wearable del usuario. <br>
+                Ingreso mis datos de actividad física (como pasos, tiempo de ejercicio, etc.) <br>
                 <strong>Escenario 2:</strong> <br>
-                El usuario recibe notificaciones sobre la ingesta de alimentos recomendados tras completar una actividad física.
+                El sistema me proporciona recomendaciones de comidas personalizadas basadas en esos datos.
             </td>
             <td>EPIC-004</td>
         </tr>
@@ -361,7 +362,7 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
                 Integración con Redes Sociales
             </td>
             <td>
-                Como usuario, quiero poder compartir mis logros y recetas en redes sociales, para que pueda inspirar a otros y recibir feedback sobre mis elecciones alimenticias.
+                Como usuario, quiero poder compartir mis logros y recetas en redes sociales a través de la plataforma web, para que pueda inspirar a otros y recibir feedback sobre mis elecciones alimenticias.
             </td>
             <td>
                 <strong>Escenario 1:</strong> <br>
@@ -395,13 +396,13 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
                 Notificaciones de Nuevas Recetas
             </td>
             <td>
-                Como usuario, quiero recibir notificaciones sobre nuevas recetas que se agregan a la plataforma, para que pueda probar opciones frescas y emocionantes.
+                Como usuario, quiero recibir notificaciones sobre nuevas opciones de comida que se agregan a la plataforma web, para que pueda probar opciones frescas y emocionantes.
             </td>
             <td>
                 <strong>Escenario 1:</strong> <br>
-                El usuario recibe una notificación cada vez que se añade una nueva receta a la aplicación. <br>
+                El usuario recibe una notificación cada vez que se añade una nueva opción de comida. <br>
                 <strong>Escenario 2:</strong> <br>
-                El usuario puede personalizar las categorías de recetas para las que desea recibir notificaciones.
+                El usuario puede personalizar las categorías de de comida que desea recibir notificaciones.
             </td>
             <td>EPIC-003</td>
         </tr>
@@ -769,7 +770,7 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
                 Integración con Servicios de Entrega
             </td>
             <td>
-                Como usuario, quiero que NutriSend se integre con servicios de entrega como Rappi o Glovo, para que pueda recibir mis pedidos de ingredientes frescos de manera rápida y conveniente.
+                Como usuario, quiero que NutriSend se integre con servicios de entrega como Rappi o PedidosYa, para que pueda recibir mis pedidos de ingredientes frescos de manera rápida y conveniente.
             </td>
             <td>
                 <strong>Escenario 1:</strong> <br>
@@ -797,15 +798,13 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
         </tr>
     </thead>
     <tbody>
-        <!--User Story 1-->
         <tr>
             <td>1</td>
             <td>US-001</td>
-            <td>Planificación Rápida de Comidas</td>
-            <td>Como profesional joven, quiero poder planificar mis comidas en menos de 5 minutos, para que pueda dedicar más tiempo a otras actividades.</td>
+            <td>Planificación Rápida de Pedidos</td>
+            <td>Como profesional joven, quiero poder planificar mis pedidos de comida en menos de 5 minutos, para que pueda dedicar más tiempo a otras actividades.</td>
             <td>5</td>
         </tr>
-        <!--User Story 2-->
         <tr>
             <td>2</td>
             <td>US-002</td>
@@ -813,23 +812,20 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>Como usuario con un régimen alimenticio estructurado, quiero recibir menús personalizados cada semana, para que se ajusten a mis necesidades nutricionales y de ejercicio.</td>
             <td>5</td>
         </tr>
-        <!--User Story 3-->
         <tr>
             <td>3</td>
             <td>US-003</td>
-            <td>Recetas Saludables y Fáciles de Preparar</td>
-            <td>Como usuario interesado en la nutrición, quiero acceder a recetas saludables que sean fáciles de preparar, para que pueda diversificar mi alimentación sin complicaciones.</td>
+            <td>Opciones de Comida Saludables y Fáciles de Pedir</td>
+            <td>Como usuario interesado en la nutrición, quiero acceder a opciones de comida saludables que sean fáciles de pedir, para que pueda diversificar mi alimentación sin complicaciones.</td>
             <td>3</td>
         </tr>
-        <!--User Story 4-->
         <tr>
             <td>4</td>
             <td>US-004</td>
-            <td>Integración con Dispositivos Wearables</td>
-            <td>Como entusiasta del fitness, quiero que la aplicación NutriSend se sincronice con mi reloj inteligente, para que pueda recibir recomendaciones alimenticias basadas en mis actividades diarias.</td>
+            <td>Acceso a Datos de Actividad Física</td>
+            <td>Como entusiasta del fitness, quiero que la plataforma web de NutriSend me permita ingresar manualmente mis datos de actividad física, para que pueda recibir recomendaciones de comidas basadas en mi actividad.</td>
             <td>5</td>
         </tr>
-        <!--User Story 5-->
         <tr>
             <td>5</td>
             <td>US-005</td>
@@ -837,7 +833,6 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>Como usuario que busca mejorar su salud, quiero tener acceso a un chat en vivo con un nutricionista, para que pueda hacer preguntas sobre mi dieta y recibir asesoramiento personalizado.</td>
             <td>8</td>
         </tr>
-        <!--User Story 6-->
         <tr>
             <td>6</td>
             <td>US-006</td>
@@ -845,7 +840,6 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>Como usuario activo, quiero recibir alertas sobre mis horarios de comida y ejercicio, para que pueda seguir mi rutina de manera efectiva.</td>
             <td>3</td>
         </tr>
-        <!--User Story 7-->
         <tr>
             <td>7</td>
             <td>US-007</td>
@@ -853,7 +847,6 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>Como usuario que valora la tecnología, quiero que la plataforma tenga una interfaz intuitiva, para que pueda navegar y realizar pedidos sin complicaciones.</td>
             <td>5</td>
         </tr>
-        <!--User Story 8-->
         <tr>
             <td>8</td>
             <td>US-008</td>
@@ -861,7 +854,6 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>Como usuario, quiero poder guardar mis preferencias alimenticias, para que las recomendaciones de NutriSend se ajusten a mis gustos y necesidades.</td>
             <td>3</td>
         </tr>
-        <!--User Story 9-->
         <tr>
             <td>9</td>
             <td>US-009</td>
@@ -869,7 +861,6 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>Como usuario, quiero recibir recomendaciones de comidas basadas en mi historial de pedidos, para que pueda descubrir nuevas opciones que me gusten.</td>
             <td>5</td>
         </tr>
-        <!--User Story 10-->
         <tr>
             <td>10</td>
             <td>US-010</td>
@@ -877,7 +868,6 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>Como usuario, quiero poder dejar comentarios sobre la calidad de los alimentos recibidos, para que NutriSend pueda mejorar sus servicios y productos.</td>
             <td>2</td>
         </tr>
-        <!--User Story 11-->
         <tr>
             <td>11</td>
             <td>US-011</td>
@@ -885,15 +875,13 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>Como usuario, quiero poder personalizar las porciones de mis comidas, para que se ajusten a mis necesidades nutricionales y de saciedad.</td>
             <td>3</td>
         </tr>
-        <!--User Story 12-->
         <tr>
             <td>12</td>
             <td>US-012</td>
             <td>Recibir Consejos de Nutrición Diarios</td>
-            <td>Como usuario interesado en la salud, quiero recibir consejos de nutrición diarios a través de la aplicación, para que pueda mejorar mis hábitos alimenticios.</td>
+            <td>Como usuario interesado en la salud, quiero recibir consejos de nutrición diarios a través de la plataforma web, para que pueda mejorar mis hábitos alimenticios.</td>
             <td>2</td>
         </tr>
-        <!--User Story 13-->
         <tr>
             <td>13</td>
             <td>US-013</td>
@@ -901,7 +889,6 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>Como usuario, quiero poder comparar diferentes opciones de menú, para que pueda elegir la que mejor se adapte a mis preferencias y necesidades.</td>
             <td>3</td>
         </tr>
-        <!--User Story 14-->
         <tr>
             <td>14</td>
             <td>US-014</td>
@@ -909,7 +896,6 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>Como organizador de eventos, quiero poder planificar comidas para grupos, para que pueda asegurarme de que todos tengan opciones adecuadas según sus preferencias dietéticas.</td>
             <td>5</td>
         </tr>
-        <!--User Story 15-->
         <tr>
             <td>15</td>
             <td>US-015</td>
@@ -917,31 +903,27 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>Como usuario, quiero acceder a vídeos de preparación de comidas, para que pueda aprender a cocinar recetas saludables de manera más efectiva.</td>
             <td>3</td>
         </tr>
-        <!--User Story 16-->
         <tr>
             <td>16</td>
             <td>US-016</td>
             <td>Integración con Redes Sociales</td>
-            <td>Como usuario, quiero poder compartir mis logros y recetas en redes sociales, para que pueda inspirar a otros y recibir feedback sobre mis elecciones alimenticias.</td>
+            <td>Como usuario, quiero poder compartir mis logros y recomendaciones de comidas en redes sociales a través de la plataforma web, para que pueda inspirar a otros y recibir feedback sobre mis elecciones alimenticias.</td>
             <td>2</td>
         </tr>
-        <!--User Story 17-->
         <tr>
             <td>17</td>
             <td>US-017</td>
             <td>Registro de Progreso de Salud</td>
-            <td>Como usuario, quiero poder registrar mi progreso de salud en la aplicación, para que pueda monitorear mis avances y hacer ajustes a mi dieta y rutina de ejercicios.</td>
+            <td>Como usuario, quiero poder registrar mi progreso de salud en la plataforma web, para que pueda monitorear mis avances y hacer ajustes a mi dieta y rutina de ejercicios.</td>
             <td>5</td>
         </tr>
-        <!--User Story 18-->
         <tr>
             <td>18</td>
             <td>US-018</td>
-            <td>Notificaciones de Nuevas Recetas</td>
-            <td>Como usuario, quiero recibir notificaciones sobre nuevas recetas que se agregan a la plataforma, para que pueda probar opciones frescas y emocionantes.</td>
-            <td>1</td>
+            <td>Notificaciones de Nuevas Opciones de Comida</td>
+            <td>Como usuario, quiero recibir notificaciones sobre nuevas opciones de comida que se agregan a la plataforma web, para que pueda probar opciones frescas y emocionantes.</td>
+            <td>3</td>
         </tr>
-        <!--User Story 19-->
         <tr>
             <td>19</td>
             <td>US-019</td>
@@ -949,15 +931,13 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>Como usuario, quiero tener la opción de suscribirme a un plan mensual de comidas, para que pueda recibir mis alimentos de manera regular y sin complicaciones.</td>
             <td>5</td>
         </tr>
-        <!--User Story 20-->
         <tr>
             <td>20</td>
             <td>US-020</td>
             <td>Feedback sobre la Experiencia de Usuario</td>
-            <td>Como usuario, quiero poder dejar comentarios sobre mi experiencia con la aplicación, para que NutriSend pueda mejorar su servicio y funcionalidad.</td>
+            <td>Como usuario, quiero poder dejar comentarios sobre mi experiencia con la plataforma web, para que NutriSend pueda mejorar su servicio y funcionalidad.</td>
             <td>3</td>
         </tr>
-        <!--User Story 21-->
         <tr>
             <td>21</td>
             <td>US-021</td>
@@ -965,7 +945,6 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>Como usuario con necesidades dietéticas especiales, quiero poder personalizar mi plan de comidas según mis restricciones alimentarias, para que pueda disfrutar de opciones que se adapten a mi salud.</td>
             <td>5</td>
         </tr>
-        <!--User Story 22-->
         <tr>
             <td>22</td>
             <td>US-022</td>
@@ -973,7 +952,6 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>Como usuario preocupado por mi salud, quiero que las recetas incluyan información nutricional detallada, para que pueda tomar decisiones informadas sobre mi alimentación.</td>
             <td>3</td>
         </tr>
-        <!--User Story 23-->
         <tr>
             <td>23</td>
             <td>US-023</td>
@@ -981,7 +959,6 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>Como usuario, quiero poder buscar recetas y menús utilizando filtros avanzados, para que pueda encontrar opciones que se adapten a mis preferencias específicas.</td>
             <td>5</td>
         </tr>
-        <!--User Story 24-->
         <tr>
             <td>24</td>
             <td>US-024</td>
@@ -989,7 +966,6 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>Como usuario frecuente, quiero participar en un programa de recompensas, para que pueda obtener descuentos y beneficios por mis compras regulares.</td>
             <td>3</td>
         </tr>
-        <!--User Story 25-->
         <tr>
             <td>25</td>
             <td>US-025</td>
@@ -997,15 +973,13 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>Como usuario, quiero poder programar mis entregas de comida con anticipación, para que pueda recibir mis alimentos en el momento más conveniente para mí.</td>
             <td>5</td>
         </tr>
-        <!--User Story 26-->
         <tr>
             <td>26</td>
             <td>US-026</td>
             <td>Integración de Pagos Seguros</td>
-            <td>Como usuario, quiero que la aplicación ofrezca opciones de pago seguras, para que pueda realizar mis transacciones con confianza.</td>
+            <td>Como usuario, quiero que la plataforma ofrezca opciones de pago seguras, para que pueda realizar mis transacciones con confianza.</td>
             <td>3</td>
         </tr>
-        <!--User Story 27-->
         <tr>
             <td>27</td>
             <td>US-027</td>
@@ -1013,7 +987,6 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>Como usuario que cocina, quiero recibir consejos y trucos para la preparación de comidas, para que pueda mejorar mis habilidades culinarias y hacer la experiencia más agradable.</td>
             <td>3</td>
         </tr>
-        <!--User Story 28-->
         <tr>
             <td>28</td>
             <td>US-028</td>
@@ -1021,15 +994,13 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>Como usuario, quiero poder compartir mis listas de compras con amigos y familiares, para que puedan ayudarme a comprar los ingredientes necesarios.</td>
             <td>2</td>
         </tr>
-        <!--User Story 29-->
         <tr>
             <td>29</td>
             <td>US-029</td>
             <td>Registro de Alérgenos</td>
-            <td>Como usuario con alergias alimentarias, quiero poder registrar mis alérgenos en la aplicación, para que pueda recibir alertas sobre ingredientes que debo evitar.</td>
+            <td>Como usuario con alergias alimentarias, quiero poder registrar mis alérgenos en la plataforma web, para que pueda recibir alertas sobre ingredientes que debo evitar.</td>
             <td>3</td>
         </tr>
-        <!--User Story 30-->
         <tr>
             <td>30</td>
             <td>US-030</td>
@@ -1037,15 +1008,13 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>Como usuario, quiero tener acceso a una comunidad de otros usuarios de NutriSend, para que pueda compartir experiencias, recetas y consejos sobre alimentación saludable.</td>
             <td>2</td>
         </tr>
-        <!--User Story 31-->
         <tr>
             <td>31</td>
             <td>US-031</td>
             <td>Modo Offline</td>
-            <td>Como usuario, quiero poder acceder a la aplicación en modo offline, para que pueda consultar recetas, listas de compras y mi historial de pedidos sin necesidad de conexión a internet.</td>
+            <td>Como usuario, quiero poder acceder a la plataforma web en modo offline, para que pueda consultar recetas, listas de compras y mi historial de pedidos sin necesidad de conexión a internet.</td>
             <td>5</td>
         </tr>
-        <!--User Story 32-->
         <tr>
             <td>32</td>
             <td>US-032</td>
@@ -1053,7 +1022,6 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>Como usuario, quiero poder interactuar con NutriSend a través de asistentes virtuales como Alexa o Google Assistant, para que pueda realizar pedidos, consultar recetas y obtener consejos de nutrición por voz.</td>
             <td>8</td>
         </tr>
-        <!--User Story 33-->
         <tr>
             <td>33</td>
             <td>US-033</td>
@@ -1061,7 +1029,6 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>Como usuario, quiero poder buscar recetas en función de los ingredientes que tengo disponibles, para que pueda aprovechar al máximo los alimentos que ya poseo.</td>
             <td>1</td>
         </tr>
-        <!--User Story 34-->
         <tr>
             <td>34</td>
             <td>US-034</td>
@@ -1069,7 +1036,6 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>Como usuario, quiero poder colaborar con amigos y familiares para crear menús semanales, para que podamos compartir ideas, recetas y responsabilidades en la planificación de comidas.</td>
             <td>5</td>
         </tr>
-        <!--User Story 35-->
         <tr>
             <td>35</td>
             <td>US-035</td>
@@ -1077,7 +1043,6 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>Como usuario que sigue una dieta específica, quiero poder buscar recetas en función de su composición de macronutrientes (proteínas, carbohidratos y grasas), para que pueda ajustar mi ingesta a mis necesidades.</td>
             <td>3</td>
         </tr>
-        <!--User Story 36-->
         <tr>
             <td>36</td>
             <td>US-036</td>
@@ -1085,7 +1050,6 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>Como usuario, quiero que NutriSend se integre con aplicaciones de salud como Apple Health o Google Fit, para que pueda sincronizar mi actividad física y datos de salud para recibir recomendaciones más precisas.</td>
             <td>8</td>
         </tr>
-        <!--User Story 37-->
         <tr>
             <td>37</td>
             <td>US-037</td>
@@ -1093,7 +1057,6 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>Como usuario, quiero que NutriSend me sugiera recetas con ingredientes de temporada, para que pueda disfrutar de alimentos frescos y de calidad.</td>
             <td>3</td>
         </tr>
-        <!--User Story 38-->
         <tr>
             <td>38</td>
             <td>US-038</td>
@@ -1101,7 +1064,6 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>Como usuario, quiero poder crear menús personalizados para eventos especiales como fiestas o reuniones, para que pueda ofrecer a mis invitados una experiencia culinaria memorable.</td>
             <td>5</td>
         </tr>
-        <!--User Story 39-->
         <tr>
             <td>39</td>
             <td>US-039</td>
@@ -1109,12 +1071,11 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>Como usuario con preferencias culturales específicas, quiero que NutriSend me sugiera recetas que se adapten a mi herencia cultural, para que pueda disfrutar de los sabores de mi infancia.</td>
             <td>5</td>
         </tr>
-        <!--User Story 40-->
         <tr>
             <td>40</td>
             <td>US-040</td>
             <td>Integración con Servicios de Entrega</td>
-            <td>Como usuario, quiero que NutriSend se integre con servicios de entrega como Rappi o Glovo, para que pueda recibir mis pedidos de ingredientes frescos de manera rápida y conveniente.</td>
+            <td>Como usuario, quiero que NutriSend se integre con servicios de entrega como Rappi o PedidosYa, para que pueda recibir mis pedidos de ingredientes frescos de manera rápida y conveniente.</td>
             <td>5</td>
         </tr>
     </tbody>
