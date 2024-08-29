@@ -1073,8 +1073,8 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
         <tr>
             <td>39</td>
             <td>US-039</td>
-            <td>Comidas Basadas en Preferencias Culturales</td>
-            <td>Como usuario con preferencias culturales específicas, quiero que NutriSend me sugiera comidas que se adapten a mi herencia cultural, para que pueda disfrutar de los sabores de mi infancia.</td>
+            <td>Recetas Basadas en Temporada</td>
+            <td>Como usuario, quiero que NutriSend me sugiera recetas con ingredientes de temporada, para que pueda disfrutar de alimentos frescos y de calidad.</td>
             <td>5</td>
         </tr>
         <tr>
