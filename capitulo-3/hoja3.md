@@ -37,10 +37,10 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
         </tr>
         <tr>
             <td>EPIC-003</td>
-            <td>Acceso a Recetas Saludables</td>
+            <td>Acceso a Comidas Saludables</td>
             <td>
-                <strong>Como</strong> usuario interesado en la nutrición, <strong>quiero</strong> recibir recetas saludables y fáciles de preparar, 
-                <strong>para</strong> que pueda diversificar mi alimentación y disfrutar de nuevas opciones sin complicaciones.
+                <strong>Como</strong> Como usuarios quiero acceder a comidas saludables y listas para consumir,
+                <strong>para</strong> asegurar que pueda disfrutar de las diversas opciones nutritivas.
             </td>
             <td>N/A</td>
             <td>N/A</td>
@@ -140,13 +140,13 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
                 Recetas Saludables y Fáciles de Preparar
             </td>
             <td>
-                Como usuario interesado en la nutrición, quiero acceder a recetas saludables que sean fáciles de preparar, para que pueda diversificar mi alimentación sin complicaciones.
+                Como usuario interesado en la nutrición, quiero acceder a una variedad de comidas saludables que estén listas para consumir, para que pueda diversificar mi alimentación sin complicaciones.
             </td>
             <td>
                 <strong>Escenario 1:</strong> <br>
-                El usuario puede buscar recetas por ingredientes y tiempo de preparación. <br>
+                El usuario puede explorar un catálogo de comidas saludables disponibles para pedidos. <br>
                 <strong>Escenario 2:</strong> <br>
-                El usuario puede guardar recetas favoritas para acceder a ellas fácilmente.
+                El usuario puede filtrar las comidas por tipo de dieta (vegana, sin gluten, etc.).
             </td>
             <td>EPIC-003</td>
         </tr>
@@ -243,11 +243,11 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
                 Recomendaciones Basadas en Historial de Comidas
             </td>
             <td>
-                Como usuario, quiero recibir recomendaciones de comidas basadas en mi historial de pedidos, para que pueda descubrir nuevas opciones que me gusten.
+               Como usuario, quiero recibir recomendaciones de comidas basadas en mi historial de pedidos, para que pueda descubrir nuevas opciones que me gusten.
             </td>
             <td>
                 <strong>Escenario 1:</strong> <br>
-                El sistema analiza el historial de pedidos del usuario y sugiere nuevas recetas. <br>
+                El sistema analiza el historial de pedidos del usuario y sugiere nuevas comidas. <br>
                 <strong>Escenario 2:</strong> <br>
                 El usuario puede calificar las recomendaciones para mejorar futuras sugerencias.
             </td>
@@ -342,16 +342,16 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
         <tr>
             <td>US-015</td>
             <td>
-                Acceso a Vídeos de Preparación de Comidas
+                Acceso a Información Nutricional de Comidas
             </td>
             <td>
-                Como usuario, quiero acceder a vídeos de preparación de comidas, para que pueda aprender a cocinar recetas saludables de manera más efectiva.
+                Como usuario, quiero que cada comida incluya información nutricional detallada, para que pueda tomar decisiones informadas sobre lo que consumo.
             </td>
             <td>
                 <strong>Escenario 1:</strong> <br>
-                El usuario puede ver vídeos de recetas directamente en la aplicación. <br>
+                Cada comida muestra información sobre calorías, grasas, proteínas y carbohidratos. <br>
                 <strong>Escenario 2:</strong> <br>
-                El usuario puede filtrar vídeos por tipo de comida o nivel de dificultad.
+                El usuario puede ver un desglose nutricional al seleccionar una comida.
             </td>
             <td>EPIC-003</td>
         </tr>
@@ -396,13 +396,13 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
                 Notificaciones de Nuevas Recetas
             </td>
             <td>
-                Como usuario, quiero recibir notificaciones sobre nuevas opciones de comida que se agregan a la plataforma web, para que pueda probar opciones frescas y emocionantes.
+                 Como usuario, quiero recibir notificaciones sobre nuevas opciones de comida que se agregan a la plataforma, para que pueda probar opciones frescas y emocionantes.
             </td>
             <td>
                 <strong>Escenario 1:</strong> <br>
                 El usuario recibe una notificación cada vez que se añade una nueva opción de comida. <br>
                 <strong>Escenario 2:</strong> <br>
-                El usuario puede personalizar las categorías de de comida que desea recibir notificaciones.
+                El usuario puede personalizar las categorías de  comida que desea recibir notificaciones.
             </td>
             <td>EPIC-003</td>
         </tr>
@@ -478,16 +478,16 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
         <tr>
             <td>US-023</td>
             <td>
-                Funcionalidad de Búsqueda Avanzada
+                Menú del dia
             </td>
             <td>
-                Como usuario, quiero poder buscar recetas y menús utilizando filtros avanzados, para que pueda encontrar opciones que se adapten a mis preferencias específicas.
+                Como usuario, quiero ver un menú del día que destaque las comidas más populares, para que pueda elegir fácilmente opciones recomendadas
             </td>
             <td>
                 <strong>Escenario 1:</strong> <br>
-                El usuario puede buscar por ingredientes, tiempo de preparación y tipo de dieta. <br>
+                El usuario accede a la sección del menú del día y ve las comidas destacadas. <br>
                 <strong>Escenario 2:</strong> <br>
-                Los resultados de búsqueda se actualizan en tiempo real a medida que se aplican los filtros.
+                El usuario puede hacer clic en una comida del menú del día para ver más detalles y realizar un pedido
             </td>
             <td>EPIC-001</td>
         </tr>
@@ -546,16 +546,16 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
         <tr>
             <td>US-027</td>
             <td>
-                Consejos para la Preparación de Comidas
+               Acceso a Información Nutricional de Comidas: 
             </td>
             <td>
-                Como usuario que cocina, quiero recibir consejos y trucos para la preparación de comidas, para que pueda mejorar mis habilidades culinarias y hacer la experiencia más agradable.
+                Como usuario interesado en la salud, quiero que cada comida incluya información nutricional detallada, para que pueda tomar decisiones informadas sobre lo que consumo.
             </td>
             <td>
                 <strong>Escenario 1:</strong> <br>
-                El usuario recibe consejos de preparación junto con las recetas. <br>
+                Cada comida muestra información sobre calorías, grasas, proteínas y carbohidratos. <br>
                 <strong>Escenario 2:</strong> <br>
-                El usuario puede acceder a una sección de consejos en la aplicación.
+                El usuario puede ver un desglose nutricional al seleccionar una comida.
             </td>
             <td>EPIC-003</td>
         </tr>
@@ -634,7 +634,8 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
                 Integración con Asistentes Virtuales
             </td>
             <td>
-                Como usuario, quiero poder interactuar con NutriSend a través de asistentes virtuales como Alexa o Google Assistant, para que pueda realizar pedidos, consultar recetas y obtener consejos de nutrición por voz.
+                Como usuario, quiero poder interactuar con NutriSend a través de asistentes virtuales como Alexa o Google Assistant, para que pueda realizar pedidos, consultar recetas y obtener consejos de 
+                nutrición por voz.
             </td>
             <td>
                 <strong>Escenario 1:</strong> <br>
@@ -648,16 +649,16 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
         <tr>
             <td>US-033</td>
             <td>
-                Recetas Basadas en Ingredientes
+                Comidas Sugeridas por Preferencias
             </td>
             <td>
-                Como usuario, quiero poder buscar recetas en función de los ingredientes que tengo disponibles, para que pueda aprovechar al máximo los alimentos que ya poseo.
+                Como usuario, quiero recibir sugerencias de comidas basadas en mis preferencias alimenticias, para que pueda elegir opciones que se adapten a mis gustos.
             </td>
             <td>
                 <strong>Escenario 1:</strong> <br>
-                El usuario puede ingresar los ingredientes que tiene y obtener sugerencias de recetas. <br>
+                El usuario selecciona sus preferencias alimenticias en su perfil y el sistema muestra comidas que se ajustan a esas preferencias. <br>
                 <strong>Escenario 2:</strong> <br>
-                Las recetas se ordenan por relevancia según los ingredientes ingresados.
+                Las comidas se presentan con descripciones y valoraciones de otros usuarios.
             </td>
             <td>EPIC-003</td>
         </tr>
@@ -685,7 +686,8 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
                 Recetas Basadas en Macronutrientes
             </td>
             <td>
-                Como usuario que sigue una dieta específica, quiero poder buscar recetas en función de su composición de macronutrientes (proteínas, carbohidratos y grasas), para que pueda ajustar mi ingesta a mis necesidades.
+                Como usuario que sigue una dieta específica, quiero poder buscar recetas en función de su composición de macronutrientes (proteínas, carbohidratos y grasas), para que pueda ajustar mi ingesta a mis 
+                necesidades.
             </td>
             <td>
                 <strong>Escenario 1:</strong> <br>
@@ -702,7 +704,8 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
                 Integración con Aplicaciones de Salud
             </td>
             <td>
-                Como usuario, quiero que NutriSend se integre con aplicaciones de salud como Apple Health o Google Fit, para que pueda sincronizar mi actividad física y datos de salud para recibir recomendaciones más precisas.
+                Como usuario, quiero que NutriSend se integre con aplicaciones de salud como Apple Health o Google Fit, para que pueda sincronizar mi actividad física y datos de salud para recibir recomendaciones 
+                más precisas.
             </td>
             <td>
                 <strong>Escenario 1:</strong> <br>
@@ -750,16 +753,16 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
         <tr>
             <td>US-039</td>
             <td>
-                Recetas Basadas en Preferencias Culturales
+                 Recetas Basadas en Temporada
             </td>
             <td>
-                Como usuario con preferencias culturales específicas, quiero que NutriSend me sugiera recetas que se adapten a mi herencia cultural, para que pueda disfrutar de los sabores de mi infancia.
+                Como usuario, quiero que NutriSend me sugiera recetas con ingredientes de temporada, para que pueda disfrutar de alimentos frescos y de calidad.
             </td>
             <td>
                 <strong>Escenario 1:</strong> <br>
-                El usuario puede seleccionar su origen cultural en el perfil. <br>
+                La aplicación muestra un calendario de ingredientes de temporada. <br>
                 <strong>Escenario 2:</strong> <br>
-                NutriSend recomienda recetas tradicionales de la cultura seleccionada.
+                 Las recetas recomendadas utilizan ingredientes de temporada según la ubicación del usuario.
             </td>
             <td>EPIC-003</td>
         </tr>
@@ -878,36 +881,37 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
         <tr>
             <td>12</td>
             <td>US-012</td>
-            <td>Recibir Consejos de Nutrición Diarios</td>
-            <td>Como usuario interesado en la salud, quiero recibir consejos de nutrición diarios a través de la plataforma web, para que pueda mejorar mis hábitos alimenticios.</td>
+            <td>Consejos de Nutrición</td>
+            <td>Como usuario interesado en la salud, quiero recibir consejos de nutrición a través de la aplicación, para que pueda mejorar mis hábitos alimenticios.</td>
             <td>2</td>
         </tr>
         <tr>
             <td>13</td>
             <td>US-013</td>
-            <td>Comparar Opciones de Menú</td>
-            <td>Como usuario, quiero poder comparar diferentes opciones de menú, para que pueda elegir la que mejor se adapte a mis preferencias y necesidades.</td>
+            <td>Comparar Opciones de Pedido</td>
+            <td>Como usuario, quiero poder comparar diferentes opciones de pedido, para que pueda elegir la que mejor se adapte a mis preferencias y necesidades.</td>
             <td>3</td>
         </tr>
         <tr>
             <td>14</td>
             <td>US-014</td>
-            <td>Planificación de Comidas para Grupos</td>
-            <td>Como organizador de eventos, quiero poder planificar comidas para grupos, para que pueda asegurarme de que todos tengan opciones adecuadas según sus preferencias dietéticas.</td>
+            <td>Pedidos para Grupos</td>
+            <td>Como organizador de eventos, quiero poder realizar pedidos de comida para grupos, para que pueda asegurarme de que todos tengan opciones adecuadas según sus preferencias dietéticas.</td>
             <td>5</td>
         </tr>
         <tr>
             <td>15</td>
             <td>US-015</td>
-            <td>Acceso a Vídeos de Preparación de Comidas</td>
-            <td>Como usuario, quiero acceder a vídeos de preparación de comidas, para que pueda aprender a cocinar recetas saludables de manera más efectiva.</td>
+            <td>Información Nutricional de Comidas</td>
+            <td>Como usuario, quiero que cada comida incluya información nutricional detallada, para que pueda tomar decisiones informadas sobre lo que consumo.</td>
             <td>3</td>
         </tr>
         <tr>
             <td>16</td>
             <td>US-016</td>
             <td>Integración con Redes Sociales</td>
-            <td>Como usuario, quiero poder compartir mis logros y recomendaciones de comidas en redes sociales a través de la plataforma web, para que pueda inspirar a otros y recibir feedback sobre mis elecciones alimenticias.</td>
+            <td>Como usuario, quiero poder compartir mis logros y recomendaciones de comidas en redes sociales a través de la plataforma web, para que pueda inspirar a otros y recibir feedback sobre mis elecciones 
+            alimenticias.</td>
             <td>2</td>
         </tr>
         <tr>
@@ -942,22 +946,24 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>21</td>
             <td>US-021</td>
             <td>Personalización de Dietas Especiales</td>
-            <td>Como usuario con necesidades dietéticas especiales, quiero poder personalizar mi plan de comidas según mis restricciones alimentarias, para que pueda disfrutar de opciones que se adapten a mi salud.</td>
+            <td>Como usuario con necesidades dietéticas especiales, quiero poder personalizar mi plan de comidas según mis restricciones alimentarias, para que pueda disfrutar de opciones que se adapten a mi 
+            salud.   
+            </td>
             <td>5</td>
         </tr>
         <tr>
             <td>22</td>
             <td>US-022</td>
-            <td>Recetas con Información Nutricional Detallada</td>
-            <td>Como usuario preocupado por mi salud, quiero que las recetas incluyan información nutricional detallada, para que pueda tomar decisiones informadas sobre mi alimentación.</td>
+            <td>Información Nutricional de Comidas</td>
+            <td>Como usuario preocupado por mi salud, quiero que las comidas incluyan información nutricional detallada, para que pueda tomar decisiones informadas sobre mi alimentación.</td>
             <td>3</td>
         </tr>
         <tr>
             <td>23</td>
             <td>US-023</td>
-            <td>Funcionalidad de Búsqueda Avanzada</td>
-            <td>Como usuario, quiero poder buscar recetas y menús utilizando filtros avanzados, para que pueda encontrar opciones que se adapten a mis preferencias específicas.</td>
-            <td>5</td>
+            <td>Menú del Día</td>
+            <td>Como usuario, quiero ver un menú del día que destaque las comidas más populares, para que pueda elegir fácilmente opciones recomendadas.</td>
+            <td>3</td>
         </tr>
         <tr>
             <td>24</td>
@@ -1012,63 +1018,63 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>31</td>
             <td>US-031</td>
             <td>Modo Offline</td>
-            <td>Como usuario, quiero poder acceder a la plataforma web en modo offline, para que pueda consultar recetas, listas de compras y mi historial de pedidos sin necesidad de conexión a internet.</td>
+            <td>Como usuario, quiero poder acceder a la plataforma web en modo offline, para que pueda consultar mis listas de compras y mi historial de pedidos sin necesidad de conexión a internet.</td>
             <td>5</td>
         </tr>
-        <tr>
+              <tr>
             <td>32</td>
             <td>US-032</td>
             <td>Integración con Asistentes Virtuales</td>
-            <td>Como usuario, quiero poder interactuar con NutriSend a través de asistentes virtuales como Alexa o Google Assistant, para que pueda realizar pedidos, consultar recetas y obtener consejos de nutrición por voz.</td>
+            <td>Como usuario, quiero poder interactuar con NutriSend a través de asistentes virtuales como Alexa o Google Assistant, para que pueda realizar pedidos y consultar información por voz.</td>
             <td>8</td>
         </tr>
         <tr>
             <td>33</td>
             <td>US-033</td>
-            <td>Recetas Basadas en Ingredientes</td>
-            <td>Como usuario, quiero poder buscar recetas en función de los ingredientes que tengo disponibles, para que pueda aprovechar al máximo los alimentos que ya poseo.</td>
+            <td>Comidas Sugeridas por Ingredientes</td>
+            <td>Como usuario, quiero recibir sugerencias de comidas basadas en un ingrediente que elija, para que pueda utilizar lo que tengo en casa.</td>
             <td>1</td>
-        </tr>
+        </tr>        
         <tr>
             <td>34</td>
             <td>US-034</td>
             <td>Menús Colaborativos</td>
-            <td>Como usuario, quiero poder colaborar con amigos y familiares para crear menús semanales, para que podamos compartir ideas, recetas y responsabilidades en la planificación de comidas.</td>
+            <td>Como usuario, quiero poder colaborar con amigos y familiares para crear menús semanales, para que podamos compartir ideas y responsabilidades en la planificación de comidas.</td>
             <td>5</td>
-        </tr>
+        </tr>        
         <tr>
             <td>35</td>
             <td>US-035</td>
-            <td>Recetas Basadas en Macronutrientes</td>
-            <td>Como usuario que sigue una dieta específica, quiero poder buscar recetas en función de su composición de macronutrientes (proteínas, carbohidratos y grasas), para que pueda ajustar mi ingesta a mis necesidades.</td>
+            <td>Comidas Basadas en Macronutrientes</td>
+            <td>Como usuario que sigue una dieta específica, quiero poder buscar comidas en función de su composición de macronutrientes, para que pueda ajustar mi ingesta a mis necesidades.</td>
             <td>3</td>
-        </tr>
+        </tr>    
         <tr>
             <td>36</td>
             <td>US-036</td>
             <td>Integración con Aplicaciones de Salud</td>
-            <td>Como usuario, quiero que NutriSend se integre con aplicaciones de salud como Apple Health o Google Fit, para que pueda sincronizar mi actividad física y datos de salud para recibir recomendaciones más precisas.</td>
+            <td>Como usuario, quiero que NutriSend se integre con aplicaciones de salud como Apple Health o Google Fit, para que pueda sincronizar mi actividad física y datos de salud.</td>
             <td>8</td>
-        </tr>
+        </tr>   
         <tr>
             <td>37</td>
             <td>US-037</td>
-            <td>Recetas Basadas en Temporada</td>
-            <td>Como usuario, quiero que NutriSend me sugiera recetas con ingredientes de temporada, para que pueda disfrutar de alimentos frescos y de calidad.</td>
+            <td>Comidas Basadas en Temporada</td>
+            <td>Como usuario, quiero que NutriSend me sugiera comidas con ingredientes de temporada, para que pueda disfrutar de alimentos frescos y de calidad.</td>
             <td>3</td>
-        </tr>
+        </tr>      
         <tr>
             <td>38</td>
             <td>US-038</td>
             <td>Menús para Eventos Especiales</td>
-            <td>Como usuario, quiero poder crear menús personalizados para eventos especiales como fiestas o reuniones, para que pueda ofrecer a mis invitados una experiencia culinaria memorable.</td>
+            <td>Como usuario, quiero poder crear menús personalizados para eventos especiales, para que pueda ofrecer a mis invitados una experiencia culinaria memorable.</td>
             <td>5</td>
         </tr>
         <tr>
             <td>39</td>
             <td>US-039</td>
-            <td>Recetas Basadas en Preferencias Culturales</td>
-            <td>Como usuario con preferencias culturales específicas, quiero que NutriSend me sugiera recetas que se adapten a mi herencia cultural, para que pueda disfrutar de los sabores de mi infancia.</td>
+            <td>Comidas Basadas en Preferencias Culturales</td>
+            <td>Como usuario con preferencias culturales específicas, quiero que NutriSend me sugiera comidas que se adapten a mi herencia cultural, para que pueda disfrutar de los sabores de mi infancia.</td>
             <td>5</td>
         </tr>
         <tr>
