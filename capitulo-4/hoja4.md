@@ -195,7 +195,7 @@ El diagrama de flujo de usuario es una ilustración visual de los pasos que un u
 
 ![UserflowDiagram3](https://github.com/user-attachments/assets/cb3ebe0d-2825-4f8d-9278-73e4b1f7aee2)
 
-***Vista general del flujo de usuario:** 
+***Vista general del flujo de usuario:*** 
 
 ![GeneralUserFlowDiagram](https://github.com/user-attachments/assets/f4ff8208-d0e5-4269-b283-05aa75442529)
 
