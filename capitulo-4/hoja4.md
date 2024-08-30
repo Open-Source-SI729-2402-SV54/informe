@@ -207,6 +207,13 @@ https://www.figma.com/proto/a64BVB1zNy0aycIi3TtTg7/Landing-Page?node-id=10-8&t=5
 ![Prototipo](https://github.com/user-attachments/assets/3f4e7016-4504-49fd-b325-aa9ed97014b7)
 
 ---
-### 4.6. Domain-Driven Software Architecture.
+### 4.7. Software Object-Oriented Design.
 
-### 4.6.1. Software Architecture Context Diagram.
+El diseño de software orientado a objetos será fundamental para nuestro proyecto. Esta metodología nos permitirá organizar el sistema de manera modular y escalable, utilizando los principios de encapsulación, herencia y polimorfismo para desarrollar componentes reutilizables y fáciles de mantener.
+
+### 4.7.1. Class Diagrams.
+### 4.7.2. Class Dictionary.
+### 4.8. Database Design.
+### 4.8.1. Database Diagram.
+![Diagrama ER de base de datos (pata de gallo)](https://github.com/user-attachments/assets/1a13ef4f-3e3d-4b3b-b5d0-38f0320e1613)
+
