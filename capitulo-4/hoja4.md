@@ -156,63 +156,27 @@ En este apartado se mostrará un esquema de bajo nivel de la versión mobile de 
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.   
-La representación de wireframe de nuestro sitio web está compuesto por: 
 
-**Home:**  En esta sección se presentará el sitio web como introducción.<br>
-![Home Wireframe](../img/Home.png)
-
-**Sign In/ Sign Up:** En esta sección el usuario podrá iniciar sesión o registrarse en caso no tuviera una cuenta.<br>
-![Sign In](../img/SingIn.png)
-
-![Sign Up](../img/SignUp.png)
-
-**Orden Premium:** Sección encargada de mostrar los alimentos sanos en conjunto con varios tipos de ejercicios.<br>
-![Orden Premium](../img/SignUp.png)
-
-**Orden Free:** En este apartado se mostrará la lista de almuerzos "clásicos" que cualquier usuario puede tener acceso.<br>
-![Orden Free](../img/OrderNormal.png)
+![webWireframes](https://github.com/user-attachments/assets/5a607390-5f95-45a0-933f-4009207dcb14)
 
 ### 4.4.2. Web Applications Wireflow Diagrams. 
-**UH00X: Actualizar información de la cuenta**<br>
-Como usuario, quiero la capacidad de actualizar fácilmente mis datos de perfil para garantizar que la información asociada a mi cuenta esté siempre actualizada y precisa.
+Los diagramas de Wireflow para aplicaciones web son representaciones visuales que muestran los flujos de navegación y la estructura de una aplicación web. Estos diagramas combinan elementos de wireframes y diagramas de flujo para ofrecer una visión general de cómo los usuarios se moverán a través de la aplicación y cómo interactuarán con sus distintos componentes. Los wireflows son útiles para detectar posibles problemas de usabilidad y para diseñar una experiencia de usuario que sea coherente y eficiente.
 
-![ActualizarInformacion](https://github.com/user-attachments/assets/b25853ff-e353-4da2-9857-51d033481306)
+El siguiente diagrama de NutriSend muestra los diferentes flujos para los usuario que no tienen tiempo para cocinar y para los usuarios con un plan alimenticio estructurado y una lista de ejercicios preestablecido.
 
-
-**UH000X: Creación de cuenta nueva**<br>
-Como usuario, quiero tener la capacidad de registrar una cuenta nueva en el sitio web para poder acceder a todas las funcionalidades y opciones disponibles.
-
-![CrearCuenta](https://github.com/user-attachments/assets/21f95179-648e-4f2c-9b7e-fbbb7b6c5588)
-
-
-**UH00X: Seleccionar menú**<br>
-Como un usuario, quiero seleccionar un menú de opciones disponibles, para poder realizar mi pedido de manera fácil y rápida.
-
-![SeleccionarMenu](https://github.com/user-attachments/assets/f9d3d6fd-e5c2-4eba-978f-a471e9bc71a2)
-
-**UH00x: Acceder a los planes de suscripción**<br>
-como usuario que busca opciones saludables de comida, quiero tener una lista variada de alimentos saludables para progresar con mis objetivos nutricionales.
-
-![PlanesSuscripcion](https://github.com/user-attachments/assets/fe0e2fec-bced-4b92-828c-fe6b21508d2e)
+![wireflowDiagram](https://github.com/user-attachments/assets/4a19fbc6-59f6-4cdf-92f7-5a67f698dcde)
 
 ### 4.4.3. Web Application Mock Ups.
 Utilizando la paleta de colores y los estilos definidos, nuestro concepto de los mock ups será de la siguiente manera: 
 
-**Perfíl Premium:**
+![mockUp1](https://github.com/user-attachments/assets/cc0bd2e1-3ed5-45a1-a58f-a33266fc7a02)
 
-![ProfilePremium](https://github.com/user-attachments/assets/9625dcb6-0e5a-4221-a587-a9135a400227)
+![mockUp2](https://github.com/user-attachments/assets/e845eab8-e38b-46f7-8944-fb0571953952)
 
-**Orden Fit:**
+![mockUp3](https://github.com/user-attachments/assets/06964904-b490-4a22-94c4-dfe5f4dcac6c)
 
-![OrderFit](https://github.com/user-attachments/assets/e4e77a00-7f8e-418f-b1bf-4b95e4b5e624)
+![mockUp4](https://github.com/user-attachments/assets/2993a948-3df5-4785-91d0-4506716b571c)
 
-**Orden Básico:**
-
-![OrderNormal](https://github.com/user-attachments/assets/2c5b6802-0b65-4e23-9075-952ed2b7799d)
-
-**Sign In:**
-
-![SignIn](https://github.com/user-attachments/assets/a2d3bceb-db66-4b86-9157-94e48ad2de7f)
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
