@@ -180,25 +180,24 @@ Utilizando la paleta de colores y los estilos definidos, nuestro concepto de los
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
-**UH00X: Actualizar información de la cuenta**<br>
-Como usuario, quiero la capacidad de actualizar fácilmente mis datos de perfil para garantizar que la información asociada a mi cuenta esté siempre actualizada y precisa.
+El diagrama de flujo de usuario es una ilustración visual de los pasos que un usuario lleva a cabo al interactuar con una aplicación o sitio web. Este diagrama detalla la secuencia de acciones que el usuario efectúa para completar una tarea específica, lo cual nos permite identificar posibles obstáculos y mejorar la experiencia del usuario.
 
-![ActualizarMUWireflow](https://github.com/user-attachments/assets/376d0449-4750-4f6a-9420-84afa8ad1ac4)
+***Flujo de Usuario:*** El usuario ingresa a la página de inicio de NutriSend, ingresa a su cuenta previamente creada o crea una nueva cuenta en el que determina el plan que eligirá utilizar.
 
-**UH000X: Creación de cuenta nueva**<br>
-Como usuario, quiero tener la capacidad de registrar una cuenta nueva en el sitio web para poder acceder a todas las funcionalidades y opciones disponibles.
+![UserFlowDiagram1](https://github.com/user-attachments/assets/a0145789-7620-41a5-9ec9-24c17771cca9)
 
-![CrearCuentaMUWireflow](https://github.com/user-attachments/assets/dd2b212e-1c41-49fe-b72d-5740c9d13627)
+***Flujo de Plan Premium:*** El usuario del plan premium tiene a su disponibilidad diferentes opciones como "sport", "healthy" y "available" acorde a los objetivos de cada usuario. Además de tener un perfil personalizado que le permita tener notificaciones de sus rutinas y le permita contactar con nutricionistas y chef para ser asesodados en sus planes alimenticios.  
 
-**UH00X: Seleccionar menú**<br>
-Como un usuario, quiero seleccionar un menú de opciones disponibles, para poder realizar mi pedido de manera fácil y rápida.
+![UserFlowDiagram2](https://github.com/user-attachments/assets/8139db4c-ab0d-43a1-8fcc-c2473c091262)
 
-![ordenarMUWireflow](https://github.com/user-attachments/assets/8f03dd4a-3713-4270-9d94-1b479224bde9)
 
-**UH00x: Acceder a los planes de suscripción**<br>
-como usuario que busca opciones saludables de comida, quiero tener una lista variada de alimentos saludables para progresar con mis objetivos nutricionales.
+***Flujo de plan Free:***  El usuario del plan free cuenta con opciones de comida más limitada que el plan premium en la que puede elegir alimentos básicos y cuenta con un perfil personalizable básico. 
 
-![ElegirPlanMUWireflow](https://github.com/user-attachments/assets/97cdbb63-d15c-4ba3-87d1-9e9639278718)
+![UserflowDiagram3](https://github.com/user-attachments/assets/cb3ebe0d-2825-4f8d-9278-73e4b1f7aee2)
+
+***Vista general del flujo de usuario:** 
+
+![GeneralUserFlowDiagram](https://github.com/user-attachments/assets/f4ff8208-d0e5-4269-b283-05aa75442529)
 
 ### 4.5. Web Applications Prototyping.
 Hemos diseñado un prototipo de website para ofrecer un adelanto de lo que será nuestro sitio web. 
