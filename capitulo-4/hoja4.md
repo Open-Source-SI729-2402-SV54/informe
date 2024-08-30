@@ -212,8 +212,64 @@ https://www.figma.com/proto/a64BVB1zNy0aycIi3TtTg7/Landing-Page?node-id=10-8&t=5
 El diseño de software orientado a objetos será fundamental para nuestro proyecto. Esta metodología nos permitirá organizar el sistema de manera modular y escalable, utilizando los principios de encapsulación, herencia y polimorfismo para desarrollar componentes reutilizables y fáciles de mantener.
 
 ### 4.7.1. Class Diagrams.
+
+![DiagramClass](https://github.com/user-attachments/assets/8be3c743-bdf4-4213-95a8-c7fafe7c3155)
+
+
 ### 4.7.2. Class Dictionary.
+
+**User**<br>
+***Attributes:*** user_id, first_name, last_name, phone_number, password.<br>
+***Methods:*** register(), login(), updateProfile(), subscribePlan(plan_id), getNotifications().
+
+**Support**<br>
+***Attributes:*** support_id, support_type, message, response_time.<br>
+***Methods:*** requestSupport(user_id, support_type, message), getSupportHistory(user_id).
+
+**Plan**<br>
+***Attributes:*** plan_id, plan_name, string: description.<br>
+***Methods:*** createPlan(), updatePlan(), getPlans(), assignToUser(user_id).
+
+**Notification**<br>
+***Attributes:*** notification_id, type, time, string: message.<br>
+***Methods:*** createNotification(user_id, type, time, message), getNotifications(user_id), updateNotification(notification_id), deleteNotification(notification_id).
+
+**Order**<br>
+***Attributes:*** order_id, total_price, delivery_address, delivery_time, order_status.<br>
+***Methods:*** createOrder(), updateOrderStatus(order_id, status), getOrderDetails(order_id), calculateTotal().
+
+**Order_Item**<br>
+***Attributes:*** order_item_id, quantity, price.<br>
+***Methods:*** addItemToOrder(order_id, dish_id, quantity), removeItemFromOrder(order_item_id), updateQuantity(order_item_id, quantity).
+
+**Fit Order**<br>
+***Attributes:*** fit_order_id, total_price, delivery_address, delivery_time, order_status.
+***Methods:*** createFitOrder(), getFitOrderDetails(order_id), updateFitOrderStatus(order_id, status).
+
+**Fit_Order_Item**<br>
+***Attributes:*** fit_order_item_id, quantity, price.<br>
+***Methods:*** addFitItemToOrder(fit_order_id, exercise_pack_id, quantity), removeFitItemFromOrder(fit_order_item_id).
+
+**Sport**<br>
+***Attributes:*** sport_id, name. <br>
+***Methods:*** addSport(), getSports(), assignRecommendedDishes(sport_id, dish_ids).
+
+**Dish**<br>
+***Attributes:*** dish_id, photo, name, calories, fats, carbohydrates, proteins, price.<br>
+***Methods:*** createDish(), updateDish(), getDish(dish_id), deleteDish(dish_id).
+
+**Recommended_dish**<br>
+***Attributes:*** recommended_dish_id, sport_id, dish_id <br>
+***Methods:*** createRecommendation(sport_id, dish_id), updateRecommendation(recommendation_id), deleteRecommendation(recommendation_id).
+
+**Exercide_pack**<br>
+***Attributes:*** exercise_pack_id, name, description, price, photo
+***Methods:*** createExercisePack(), updateExercisePack(), getExercisePack(pack_id), deleteExercisePack(pack_id)
+
 ### 4.8. Database Design.
+
+El diseño de la base de datos desempeñará un papel crucial en nuestro proyecto, ya que ofrecerá la estructura esencial para almacenar y gestionar los datos de forma eficiente y segura. Emplearemos un enfoque meticuloso para modelar las tablas, relaciones y restricciones de la base de datos, alineándonos con los requisitos del sistema y siguiendo las mejores prácticas de diseño. Esto nos permitirá organizar los datos de manera lógica y coherente, facilitando su acceso y manejo en respuesta a las necesidades de los usuarios.
+
 ### 4.8.1. Database Diagram.
 ![Diagrama ER de base de datos (pata de gallo)](https://github.com/user-attachments/assets/1a13ef4f-3e3d-4b3b-b5d0-38f0320e1613)
 
