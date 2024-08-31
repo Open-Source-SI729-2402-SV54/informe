@@ -211,7 +211,7 @@ Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera d
 * Evidencia:
 
 ![Entrevista 4](https://github.com/user-attachments/assets/11c8833f-aa7f-446c-87b1-f577d6add386)
-##### b) Lian
+##### e) Lian
 * Edad: 20 años 
 * Ocupación: Delivery de lácteos 
 * Duración de entrevista: 2 min 43 s. 
@@ -260,6 +260,15 @@ Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera d
 * 100% de los entrevistados estarían dispuestos a pagar por el servicio si se adapta a sus necesidades específicas.
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
+En esencia, se trata de alcanzar metas empresariales mediante la comprensión de los desafíos que enfrentan nuestros usuarios. El objetivo no es generar beneficios económicos, sino hacer una diferencia significativa en la manera en que las personas viven y mejoran su salud mental. La conexión entre los artefactos que presentemos y el user persona será clave para que nuestros usuarios sean los principales beneficiados.
+##### a) Segmento Objetivo 1:
+
+![Juan García](https://github.com/user-attachments/assets/6530bac1-db4d-43fb-b8ec-4e3afb23d44c)
+
+##### b) Segmento Objetivo 2:
+
+![Diego Campos](https://github.com/user-attachments/assets/59392943-8acf-410b-8fdb-f55202c55e34)
+
 ### 2.3.2. User Task Matrix.
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
