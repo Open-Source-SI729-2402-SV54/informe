@@ -211,6 +211,16 @@ Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera d
 * Evidencia:
 
 ![Entrevista 4](https://github.com/user-attachments/assets/11c8833f-aa7f-446c-87b1-f577d6add386)
+##### b) Lian
+* Edad: 20 años 
+* Ocupación: Delivery de lácteos 
+* Duración de entrevista: 2 min 43 s. 
+* Interés en el Servicio: Lian muestra un interés positivo en un servicio de suscripción que le ofrezca planes de alimentación personalizados y entrega de alimentos, siempre que el servicio sea eficiente y cumpla con lo prometido. Considera importante que los planes se adapten a sus necesidades específicas, dado que no todos tienen las mismas demandas en su alimentación.
+* Conclusión: Lian es un usuario potencial para un servicio de envío de alimentos con información nutricional detallada, especialmente si este le ahorra tiempo y ofrece una solución personalizada para mantener su régimen alimenticio. Su disposición a pagar por un servicio que cumpla con sus expectativas indica una buena oportunidad de mercado dentro de su segmento.
+*  URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/EZ2a5bW6KIFPsPBfpKMieK4BK2ISWlIMKQBJv_Fq2A-3Ag?e=cuODEG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+![Entrevista 7](https://github.com/user-attachments/assets/0e33b538-f910-4fb3-86e9-06db338e6b20)
+
 #### Entrevistas para el Segmento Objetivo 2:
 ##### a) Diego Ramirez 
 * Edad: 22 años 
