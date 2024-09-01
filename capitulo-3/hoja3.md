@@ -2,6 +2,9 @@
 
 ## 3.1. To-Be Scenario Mapping.
 
+<img src="../img/To-Be Scenario Mapping 1.jpg" alt="Colors">
+<img src="../img/To-Be Scenario Mapping 2.jpg" alt="Colors">
+
 ## 3.2. User Stories.
 En este punto, se encuentran una serie de historias de usuario que han sido creadas para capturar las necesidades y expectativas clave del producto. Estas historias servirán como base para la planificación, el desarrollo y la validación del software.
 <table>
