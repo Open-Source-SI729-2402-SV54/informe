@@ -267,9 +267,21 @@ En esencia, se trata de alcanzar metas empresariales mediante la comprensión de
 
 ##### b) Segmento Objetivo 2:
 
-![Diego Campos](https://github.com/user-attachments/assets/59392943-8acf-410b-8fdb-f55202c55e34)
+![Diego Campos (1)](https://github.com/user-attachments/assets/dfff5a8d-db70-4054-a47f-b549610cfe16)
 
 ### 2.3.2. User Task Matrix.
+El User Task Matrix está diseñado para analizar y comprender las tareas clave de dos segmentos objetivos distintos en relación con sus hábitos alimenticios y de bienestar:
+
+Personas con poco tiempo para llevar un buen régimen de alimentación: Este segmento incluye a individuos que, debido a sus ocupadas agendas laborales, familiares o personales, enfrentan dificultades para planificar, preparar y mantener una dieta equilibrada. Su enfoque principal es encontrar soluciones prácticas y convenientes que les permitan seguir una alimentación saludable sin comprometer demasiado su tiempo ni su presupuesto.
+
+Personas que llevan un régimen de comida y ejercicios estrictos: Este segmento está compuesto por individuos altamente disciplinados, como atletas o entusiastas del fitness, que siguen un régimen alimenticio y de ejercicios muy estructurado y personalizado. Buscan optimizar su rendimiento físico y alcanzar metas específicas de salud mediante la planificación meticulosa de su dieta y la monitorización detallada de su progreso.
+
+El User Task Matrix destaca las tareas más relevantes para cada grupo, explorando las diferencias y similitudes en sus necesidades y enfoques hacia la alimentación y el bienestar.
+
+![UTM](https://github.com/user-attachments/assets/542e6dda-5a8f-4a5d-9778-ad811264e94a)
+
+Analizando los User Task Matrix se puede observar que Juan García (User Persona 1) se centra en tareas que le permiten mantener una dieta saludable sin complicarse demasiado, priorizando la simplicidad y la eficiencia debido a su agenda ocupada. Diego Campos (User Persona 2), por otro lado, realiza tareas más detalladas y específicas, con un fuerte enfoque en la personalización y el rendimiento físico, lo que requiere un manejo más cuidadoso de la información nutricional y la planificación alimentaria. Las diferencias principales radican en la profundidad y especificidad de las tareas relacionadas con la alimentación y el rendimiento físico, mientras que las coincidencias se encuentran en la necesidad compartida de planificación y gestión del tiempo para mantener sus respectivos estilos de vida saludables.
+
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
