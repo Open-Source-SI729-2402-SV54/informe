@@ -283,10 +283,12 @@ El User Task Matrix destaca las tareas más relevantes para cada grupo, exploran
 Analizando los User Task Matrix se puede observar que Juan García (User Persona 1) se centra en tareas que le permiten mantener una dieta saludable sin complicarse demasiado, priorizando la simplicidad y la eficiencia debido a su agenda ocupada. Diego Campos (User Persona 2), por otro lado, realiza tareas más detalladas y específicas, con un fuerte enfoque en la personalización y el rendimiento físico, lo que requiere un manejo más cuidadoso de la información nutricional y la planificación alimentaria. Las diferencias principales radican en la profundidad y especificidad de las tareas relacionadas con la alimentación y el rendimiento físico, mientras que las coincidencias se encuentran en la necesidad compartida de planificación y gestión del tiempo para mantener sus respectivos estilos de vida saludables.
 
 ### 2.3.3. User Journey Mapping.
+#### a) Segmento objetivo 1 
 El User Journey Mapping de Juan García (User Persona 1) describe el proceso que sigue este joven profesional de 30 años para encontrar una solución que le permita mantener una dieta saludable sin afectar su ocupada agenda laboral. A lo largo del journey, se exploran sus necesidades, puntos de contacto, motivaciones, y frustraciones, desde que toma conciencia de su necesidad, evalúa opciones, toma una decisión, utiliza el servicio y, finalmente, decide si desarrolla lealtad o cambia de opción.
 
 ![UJM-01](https://github.com/user-attachments/assets/93a256db-fa8a-4458-aa94-71e9395596f4)
 
+#### b) Segmento objetivo 2
 El User Journey Mapping de Diego Campos (User Persona 2) detalla el recorrido de un joven atleta universitario de 22 años que busca una herramienta de nutrición personalizada para mejorar su rendimiento físico. El journey explora sus etapas desde el reconocimiento de la necesidad de una solución mejor, la consideración de opciones, la toma de decisión, el uso del servicio, hasta la evaluación de su lealtad, destacando sus motivaciones, frustraciones, puntos de contacto, y barreras durante el proceso.
 
 ![UJM-02](https://github.com/user-attachments/assets/7f493f15-e5be-48a5-bc76-e1d0b4b34b73)
@@ -301,4 +303,38 @@ El User Journey Mapping de Diego Campos (User Persona 2) detalla el recorrido de
 ![Diego Campos (3)](https://github.com/user-attachments/assets/254f91d0-4241-4b68-8207-d81694a5520e)
 
 ### 2.3.5. As-is Scenario Mapping.
+#### a) Segmento objetivo 1 
+El "As-Is" Scenario Mapping de Juan García (User Persona 1) muestra cómo, a pesar de encontrar soluciones parciales a sus necesidades de dieta saludable, todavía enfrenta desafíos en términos de variedad y costo, lo que influye en su decisión final sobre la lealtad a un servicio o la búsqueda de alternativas mejores.
+
+![Scenario Mapping Template (1)](https://github.com/user-attachments/assets/80a517e8-bff9-4c62-96b6-ee64b50d7428)
+https://miro.com/welcomeonboard/MmJhQlMzbUk5WE1NNkRtRXFlMWVqOG9KTDNrYVgwQzFZdHBzTjBGT0prdVc2elVrQnVmZHBaZEdCSERyNjBWQXwzNDU4NzY0NTUxNjIyOTUwNzc1fDI=?share_link_id=127293495699
+
+#### b) Segmento objetivo 2
+El "As-Is" Scenario Mapping de Diego Campos (User Persona 2) revela que, aunque ha encontrado herramientas que le proporcionan una cierta orientación en su dieta personalizada, sigue enfrentando importantes desafíos en cuanto a la personalización efectiva, el tiempo invertido en la planificación y preparación de comidas, y la falta de resultados tangibles. Estas dificultades influyen en su satisfacción general y en su disposición a seguir utilizando las aplicaciones actuales, lo que lo mantiene en una constante búsqueda de alternativas que se adapten mejor a sus necesidades específicas como atleta.
+
+![Scenario Mapping Template (2)](https://github.com/user-attachments/assets/6d0e4ab6-9f29-4e11-822e-ec65b1f102d1)
+https://miro.com/welcomeonboard/MmJhQlMzbUk5WE1NNkRtRXFlMWVqOG9KTDNrYVgwQzFZdHBzTjBGT0prdVc2elVrQnVmZHBaZEdCSERyNjBWQXwzNDU4NzY0NTUxNjIyOTUwNzc1fDI=?share_link_id=127293495699
+
 ## 2.4. Ubiquitous Language.
+
+Acontinuacion se enlistará algunos de los terminos que se utilizaran en este proyecto: 
+
+* Meal Plan (Plan de alimentación): Conjunto de comidas organizadas que incluye detalles sobre los ingredientes y la información nutricional, diseñado para cumplir con los objetivos dietéticos de una persona.
+
+* Nutritional Content (Contenido nutricional): Información detallada sobre las calorías, proteínas, grasas, carbohidratos, vitaminas y otros nutrientes presentes en los alimentos.
+
+* Subscription Service (Servicio de suscripción): Modelo de negocio en el cual los clientes pagan una cuota recurrente para recibir un servicio continuo, en este caso, la entrega de alimentos y planes de alimentación personalizados.
+
+* Personalized Nutrition (Nutrición personalizada): Adaptación de planes de alimentación y recomendaciones nutricionales para cumplir con las necesidades y objetivos específicos de un individuo.
+
+* Food Delivery (Entrega de alimentos): Servicio que proporciona alimentos directamente en la ubicación del cliente, basándose en un plan de alimentación predefinido.
+
+* Time Constraints (Restricciones de tiempo): Limitaciones de tiempo que afectan la capacidad de una persona para planificar, preparar y cocinar sus comidas.
+
+* Dietary Preferences (Preferencias dietéticas): Elecciones personales relacionadas con la alimentación, que pueden incluir restricciones por salud, creencias culturales o gustos personales.
+
+* Energy Levels (Niveles de energía): Medición del estado físico y mental de una persona, que puede verse afectada por la dieta y la actividad física.
+
+* Online Grocery Shopping (Compra de alimentos en línea): Proceso de adquirir alimentos y productos relacionados a través de plataformas de comercio electrónico.
+
+* Digital Channels (Canales digitales): Medios online como páginas web, aplicaciones, redes sociales y foros utilizados para acceder a información sobre nutrición, alimentos y dietas.
