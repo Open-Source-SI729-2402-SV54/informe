@@ -292,5 +292,13 @@ El User Journey Mapping de Diego Campos (User Persona 2) detalla el recorrido de
 ![UJM-02](https://github.com/user-attachments/assets/7f493f15-e5be-48a5-bc76-e1d0b4b34b73)
 
 ### 2.3.4. Empathy Mapping.
+#### a) Segmento objetivo 1 
+
+![Juan García (1)](https://github.com/user-attachments/assets/0347c48f-fec4-44bd-93b3-c6ae931458c5)
+
+#### b) Segmento objetivo 2
+
+![Diego Campos (2)](https://github.com/user-attachments/assets/ffb02bf0-1763-4b48-be6d-802b1ceb3434)
+
 ### 2.3.5. As-is Scenario Mapping.
 ## 2.4. Ubiquitous Language.
