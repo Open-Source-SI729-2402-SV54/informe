@@ -791,6 +791,8 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
 
 ## 3.3. Impact Mapping.
 
+<img src="../img/Impact map - Open Source.jpg" alt="Colors">
+
 ## 3.4. Product Backlog.
 
 <table>
