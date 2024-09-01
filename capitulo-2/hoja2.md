@@ -283,6 +283,14 @@ El User Task Matrix destaca las tareas más relevantes para cada grupo, exploran
 Analizando los User Task Matrix se puede observar que Juan García (User Persona 1) se centra en tareas que le permiten mantener una dieta saludable sin complicarse demasiado, priorizando la simplicidad y la eficiencia debido a su agenda ocupada. Diego Campos (User Persona 2), por otro lado, realiza tareas más detalladas y específicas, con un fuerte enfoque en la personalización y el rendimiento físico, lo que requiere un manejo más cuidadoso de la información nutricional y la planificación alimentaria. Las diferencias principales radican en la profundidad y especificidad de las tareas relacionadas con la alimentación y el rendimiento físico, mientras que las coincidencias se encuentran en la necesidad compartida de planificación y gestión del tiempo para mantener sus respectivos estilos de vida saludables.
 
 ### 2.3.3. User Journey Mapping.
+El User Journey Mapping de Juan García (User Persona 1) describe el proceso que sigue este joven profesional de 30 años para encontrar una solución que le permita mantener una dieta saludable sin afectar su ocupada agenda laboral. A lo largo del journey, se exploran sus necesidades, puntos de contacto, motivaciones, y frustraciones, desde que toma conciencia de su necesidad, evalúa opciones, toma una decisión, utiliza el servicio y, finalmente, decide si desarrolla lealtad o cambia de opción.
+
+![UJM-01](https://github.com/user-attachments/assets/93a256db-fa8a-4458-aa94-71e9395596f4)
+
+El User Journey Mapping de Diego Campos (User Persona 2) detalla el recorrido de un joven atleta universitario de 22 años que busca una herramienta de nutrición personalizada para mejorar su rendimiento físico. El journey explora sus etapas desde el reconocimiento de la necesidad de una solución mejor, la consideración de opciones, la toma de decisión, el uso del servicio, hasta la evaluación de su lealtad, destacando sus motivaciones, frustraciones, puntos de contacto, y barreras durante el proceso.
+
+![UJM-02](https://github.com/user-attachments/assets/7f493f15-e5be-48a5-bc76-e1d0b4b34b73)
+
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
 ## 2.4. Ubiquitous Language.
