@@ -92,7 +92,7 @@
 ### Capítulo I: Introducción
 - 1.1. [Startup Profile](#11-Startup-Profile)
   - 1.1.1. [Descripción de la Startup](#111-Descripción-de-la-Startup)
-  - 1.1.2. [Perfiles de integrantes del equipo](#112-Perfiles-de-integrantes-del-grupo)
+  - 1.1.2. [Perfiles de integrantes del equipo](#112-Perfiles-de-integrantes-del-equipo)
 - 1.2. [Solution Profile](#12-Solution-profile)
   - 1.2.1. [Antecedentes y problemática](#121-Antecedentes-y-problemática)
   - 1.2.2. [Lean UX Process](#122-Lean-UX-Proccess)
