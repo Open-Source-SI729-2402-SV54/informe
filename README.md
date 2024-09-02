@@ -106,7 +106,7 @@
 ### Capítulo II: Requirements Elicitation & Analysis
 - 2.1. [Competidores](#21-Competidores)
   - 2.1.1. [Análisis competitivo](#211-Análisis-competitivo)
-  - 2.1.2. [Estrategias y tácticas frente a competidores](#212-Estrategias-y-tácticas)
+  - 2.1.2. [Estrategias y tácticas frente a competidores](#212-Estrategias-y-tácticas-frente-a-competidores)
 - 2.2. [Entrevistas](#22-Entrevistas)
   - 2.2.1. [Diseño de entrevistas](#221-Diseño-de-entrevistas)
   - 2.2.2. [Registro de entrevistas](#222-Registro-de-entrevistas)
@@ -199,7 +199,7 @@
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 
-### 1.1.1   Descripción de la Startup
+### 1.1.1. Descripción de la Startup
 
 NAXUS es una startup innovadora creada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC), específicamente de la Facultad de Ingeniería. Nuestra startup ofrece una plataforma web llamada **NutriSend**, diseñada para simplificar la planificación de comidas y apoyar un estilo de vida saludable. NutriSend se posiciona como una solución ideal para quienes buscan mantener un equilibrio entre su vida personal y sus objetivos de salud, proporcionando comodidad y calidad en cada entrega.
 
@@ -218,7 +218,7 @@ NutriSend ofrece diferentes planes adaptados a las necesidades de sus usuarios:
      - Soporte prioritario y acceso a contenido exclusivo, como recetas de chefs o nutricionistas reconocidos.
      - Integración con wearables y apps de fitness para recomendaciones más precisas.
 
-### 1.1.2   Perfiles de integrantes del equipo
+### 1.1.2.   Perfiles de integrantes del equipo
 
 <table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
   <tr>
@@ -266,7 +266,7 @@ NutriSend ofrece diferentes planes adaptados a las necesidades de sus usuarios:
 
 
 ## 1.2. Solution Profile
-### 1.2.1 Antecedentes y problemática
+### 1.2.1. Antecedentes y problemática
 - **Antecedentes** 
 
   Desde el inicio de la pandemia de Covid-19 en Perú, se han producido cambios significativos en los hábitos de vida de las personas, particularmente en lo que respecta a la cocina. Durante el confinamiento, la cocina y la repostería emergieron como actividades clave para el 66% de los hogares peruanos, lo que evidenció una transformación en las rutinas diarias y en el valor asignado a la preparación de alimentos caseros. Aunque muchos de estos hábitos persisten, la realidad actual muestra un escenario mixto: mientras que un 62% de las familias aún mantiene prácticas de cocina, un 13% ha señalado una disminución en el tiempo disponible para cocinar debido a la reactivación de la vida laboral y académica (Kantar, 2021).
@@ -310,7 +310,7 @@ NutriSend ofrece diferentes planes adaptados a las necesidades de sus usuarios:
 
   Los platos se mantendrán frescos y seguros en el refrigerador por hasta 8 días. Los precios se fijarán de manera competitiva, considerando el costo del proceso de preparación, la calidad de los ingredientes, y la conveniencia del servicio. El objetivo es ofrecer una opción accesible y atractiva para un amplio espectro de consumidores, equilibrando calidad y costo.
 
-### 1.2.2 Lean UX Process.
+### 1.2.2. Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
 Para los usuarios con agendas ocupadas que no disponen de tiempo para cocinar con frecuencia, Nutri Send aborda el reto de ofrecer una solución rápida y conveniente que cubra sus necesidades alimentarias sin sacrificar la calidad.
 
@@ -358,6 +358,7 @@ A continuacion presentamos a nuestros tres principales competidores:
 
 * Freshly:  es un servicio de entrega de comidas preparadas frescas y saludables, listas para calentar y comer. Ofrece una solución conveniente para personas ocupadas, con un enfoque en comidas nutricionalmente balanceadas y opciones dietéticas específicas. Cada platillo viene con información nutricional detallada, lo que facilita el control de la dieta.
   Link de la pagina web: https://www.freshly.com/
+
 ### 2.1.1. Análisis competitivo.
 
 <table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
@@ -468,7 +469,9 @@ Freshly es un servicio de entrega de comidas preparadas que ofrece platos fresco
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+
 ## 2.2. Entrevistas.
+
 ### 2.2.1. Diseño de entrevistas.
 #### Buenas prácticas:  
 * Es importante que, en la instancia de presentación, quede explicada la confidencialidad y el anonimato en el uso de la información recabada. El entrevistador debe aclarar que no se personaliza  ni  asociará  la  información  obtenida  con  el  entrevistado  que  brindó  dicha información,  y  que  las  opiniones  serán  analizadas  en  forma  agregada,  entre  todos  los entrevistados que participan. 
@@ -1786,7 +1789,7 @@ Para la creación del logo de nuestro producto NutriSend, se ha optado por un di
 
 <br>
 <div style="text-align: center;">
-    <img src="../img/logo.PNG" alt="Colors">
+    <img src="img/logo.PNG" alt="Colors">
 </div></br>
 
 **Colores** <br>
@@ -1794,7 +1797,7 @@ NutriSend se enfoca en mantener un estilo minimalista que permita al usuario una
 
 <br>
 <div style="text-align: center;">
-    <img src="../img/Colors.PNG" alt="Colors">
+    <img src="img/Colors.PNG" alt="Colors">
 </div></br>
 
 **Iconos**<br>
@@ -1802,7 +1805,7 @@ Dado que NutriSend está diseñado para deportistas y personas que no tienen tie
 
 <br>
 <div style="text-align: center;">
-    <img src="../img/icons.PNG" alt="icons">
+    <img src="img/icons.PNG" alt="icons">
 </div></br>
 
 **Typography**<br>
@@ -1810,8 +1813,8 @@ Para garantizar una apariencia uniforme en el desarrollo de nuestro aplicativo, 
 
 <br>
 <div style="text-align: center;">
-    <img src="../img/Typography.PNG" alt="Typography">
-    <img src="../img/Typography2.PNG" alt="Typography">
+    <img src="img/Typography.PNG" alt="Typography">
+    <img src="img/Typography2.PNG" alt="Typography">
 
 </div></br>
 
@@ -1819,7 +1822,7 @@ Para garantizar una apariencia uniforme en el desarrollo de nuestro aplicativo, 
 El espaciado de la aplicación web es importante debido a que no queremos abrumar a nuestros usuarios, ya que nuestra aplicación tiene como objetivo ofrecer una experiencia de usuario sencilla y agradable. Consideramos que un diseño limpio y organizado mejora la usabilidad y reduce la carga cognitiva del usuario, permitiéndole interactuar de manera eficiente con las diferentes funciones y secciones de la aplicación.</br>
 
 <div style="text-align: center;">
-    <img src="../img/spacing.PNG" alt="icons">
+    <img src="img/spacing.PNG" alt="icons">
 </div></br>
 
 **Tono de comunicación y lenguaje**<br>
@@ -2122,8 +2125,56 @@ En esta sección se mostrará una representación de la landing page para Deskto
 </br>
 
 ## 4.4. Web Applications UX/UI Design.
+### 4.4.1. Web Applications Wireframes.   
 
-## 4.5. Web Applications Prototyping.
+![webWireframes](https://github.com/user-attachments/assets/5a607390-5f95-45a0-933f-4009207dcb14)
+
+### 4.4.2. Web Applications Wireflow Diagrams. 
+Los diagramas de Wireflow para aplicaciones web son representaciones visuales que muestran los flujos de navegación y la estructura de una aplicación web. Estos diagramas combinan elementos de wireframes y diagramas de flujo para ofrecer una visión general de cómo los usuarios se moverán a través de la aplicación y cómo interactuarán con sus distintos componentes. Los wireflows son útiles para detectar posibles problemas de usabilidad y para diseñar una experiencia de usuario que sea coherente y eficiente.
+
+El siguiente diagrama de NutriSend muestra los diferentes flujos para los usuario que no tienen tiempo para cocinar y para los usuarios con un plan alimenticio estructurado y una lista de ejercicios preestablecido.
+
+![wireflowDiagram](https://github.com/user-attachments/assets/4a19fbc6-59f6-4cdf-92f7-5a67f698dcde)
+
+### 4.4.3. Web Application Mock Ups.
+Utilizando la paleta de colores y los estilos definidos, nuestro concepto de los mock ups será de la siguiente manera: 
+
+![mockUp1](https://github.com/user-attachments/assets/cc0bd2e1-3ed5-45a1-a58f-a33266fc7a02)
+
+![mockUp2](https://github.com/user-attachments/assets/e845eab8-e38b-46f7-8944-fb0571953952)
+
+![mockUp3](https://github.com/user-attachments/assets/06964904-b490-4a22-94c4-dfe5f4dcac6c)
+
+![mockUp4](https://github.com/user-attachments/assets/2993a948-3df5-4785-91d0-4506716b571c)
+
+
+### 4.4.4. Web Applications User Flow Diagrams.
+
+El diagrama de flujo de usuario es una ilustración visual de los pasos que un usuario lleva a cabo al interactuar con una aplicación o sitio web. Este diagrama detalla la secuencia de acciones que el usuario efectúa para completar una tarea específica, lo cual nos permite identificar posibles obstáculos y mejorar la experiencia del usuario.
+
+***Flujo de Usuario:*** El usuario ingresa a la página de inicio de NutriSend, ingresa a su cuenta previamente creada o crea una nueva cuenta en el que determina el plan que eligirá utilizar.
+
+![UserFlowDiagram1](https://github.com/user-attachments/assets/a0145789-7620-41a5-9ec9-24c17771cca9)
+
+***Flujo de Plan Premium:*** El usuario del plan premium tiene a su disponibilidad diferentes opciones como "sport", "healthy" y "available" acorde a los objetivos de cada usuario. Además de tener un perfil personalizado que le permita tener notificaciones de sus rutinas y le permita contactar con nutricionistas y chef para ser asesodados en sus planes alimenticios.  
+
+![UserFlowDiagram2](https://github.com/user-attachments/assets/8139db4c-ab0d-43a1-8fcc-c2473c091262)
+
+
+***Flujo de plan Free:***  El usuario del plan free cuenta con opciones de comida más limitada que el plan premium en la que puede elegir alimentos básicos y cuenta con un perfil personalizable básico. 
+
+![UserflowDiagram3](https://github.com/user-attachments/assets/cb3ebe0d-2825-4f8d-9278-73e4b1f7aee2)
+
+***Vista general del flujo de usuario:*** 
+
+![GeneralUserFlowDiagram](https://github.com/user-attachments/assets/f4ff8208-d0e5-4269-b283-05aa75442529)
+
+### 4.5. Web Applications Prototyping.
+Hemos diseñado un prototipo de website para ofrecer un adelanto de lo que será nuestro sitio web. 
+
+https://www.figma.com/proto/a64BVB1zNy0aycIi3TtTg7/Landing-Page?node-id=10-8&t=5P63FVO0ajcTVU0r-1&scaling=min-zoom&content-scaling=fixed&page-id=6%3A3&starting-point-node-id=10%3A8
+
+![Prototipo](https://github.com/user-attachments/assets/3f4e7016-4504-49fd-b325-aa9ed97014b7)
 
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
@@ -2177,7 +2228,6 @@ athlete -> webapp "Plans and orders meals according to their exercise regimen"
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
-4.6.2. Software Architecture Container Diagram
 Elementos:
 
 * Contenedores del sistema principal:
@@ -2217,13 +2267,69 @@ databaseAccess = component "Database Access" "Manages database access and operat
     <img src="img/structurizr03.png" alt="Container">
 </div>
 
-## 4.7. Software Object-Oriented Design.
+### 4.7. Software Object-Oriented Design.
+
+El diseño de software orientado a objetos será fundamental para nuestro proyecto. Esta metodología nos permitirá organizar el sistema de manera modular y escalable, utilizando los principios de encapsulación, herencia y polimorfismo para desarrollar componentes reutilizables y fáciles de mantener.
 
 ### 4.7.1. Class Diagrams.
 
+![DiagramClass](https://github.com/user-attachments/assets/8be3c743-bdf4-4213-95a8-c7fafe7c3155)
+
+
 ### 4.7.2. Class Dictionary.
 
-## 4.8. Database Design.
+**User**<br>
+***Attributes:*** user_id, first_name, last_name, phone_number, password.<br>
+***Methods:*** register(), login(), updateProfile(), subscribePlan(plan_id), getNotifications().
+
+**Support**<br>
+***Attributes:*** support_id, support_type, message, response_time.<br>
+***Methods:*** requestSupport(user_id, support_type, message), getSupportHistory(user_id).
+
+**Plan**<br>
+***Attributes:*** plan_id, plan_name, string: description.<br>
+***Methods:*** createPlan(), updatePlan(), getPlans(), assignToUser(user_id).
+
+**Notification**<br>
+***Attributes:*** notification_id, type, time, string: message.<br>
+***Methods:*** createNotification(user_id, type, time, message), getNotifications(user_id), updateNotification(notification_id), deleteNotification(notification_id).
+
+**Order**<br>
+***Attributes:*** order_id, total_price, delivery_address, delivery_time, order_status.<br>
+***Methods:*** createOrder(), updateOrderStatus(order_id, status), getOrderDetails(order_id), calculateTotal().
+
+**Order_Item**<br>
+***Attributes:*** order_item_id, quantity, price.<br>
+***Methods:*** addItemToOrder(order_id, dish_id, quantity), removeItemFromOrder(order_item_id), updateQuantity(order_item_id, quantity).
+
+**Fit Order**<br>
+***Attributes:*** fit_order_id, total_price, delivery_address, delivery_time, order_status.
+***Methods:*** createFitOrder(), getFitOrderDetails(order_id), updateFitOrderStatus(order_id, status).
+
+**Fit_Order_Item**<br>
+***Attributes:*** fit_order_item_id, quantity, price.<br>
+***Methods:*** addFitItemToOrder(fit_order_id, exercise_pack_id, quantity), removeFitItemFromOrder(fit_order_item_id).
+
+**Sport**<br>
+***Attributes:*** sport_id, name. <br>
+***Methods:*** addSport(), getSports(), assignRecommendedDishes(sport_id, dish_ids).
+
+**Dish**<br>
+***Attributes:*** dish_id, photo, name, calories, fats, carbohydrates, proteins, price.<br>
+***Methods:*** createDish(), updateDish(), getDish(dish_id), deleteDish(dish_id).
+
+**Recommended_dish**<br>
+***Attributes:*** recommended_dish_id, sport_id, dish_id <br>
+***Methods:*** createRecommendation(sport_id, dish_id), updateRecommendation(recommendation_id), deleteRecommendation(recommendation_id).
+
+**Exercide_pack**<br>
+***Attributes:*** exercise_pack_id, name, description, price, photo
+***Methods:*** createExercisePack(), updateExercisePack(), getExercisePack(pack_id), deleteExercisePack(pack_id)
+
+### 4.8. Database Design.
+
+El diseño de la base de datos desempeñará un papel crucial en nuestro proyecto, ya que ofrecerá la estructura esencial para almacenar y gestionar los datos de forma eficiente y segura. Emplearemos un enfoque meticuloso para modelar las tablas, relaciones y restricciones de la base de datos, alineándonos con los requisitos del sistema y siguiendo las mejores prácticas de diseño. Esto nos permitirá organizar los datos de manera lógica y coherente, facilitando su acceso y manejo en respuesta a las necesidades de los usuarios.
+
 ### 4.8.1. Database Diagram.
 
 <div style="text-align: center;">
