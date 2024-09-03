@@ -7,11 +7,11 @@
 ### 5.1.4. Software Deployment Configuration.
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
-### 5.2.1.1. Sprint Planning 1.
-### 5.2.1.2. Sprint Backlog 1.
-### 5.2.X.3. Development Evidence for Sprint Review.
-### 5.2.X.4. Testing Suite Evidence for Sprint Review.
-### 5.2.X.5. Execution Evidence for Sprint Review.
-### 5.2.X.6. Services Documentation Evidence for Sprint Review.
-### 5.2.X.7. Software Deployment Evidence for Sprint Review.
-### 5.2.X.8. Team Collaboration Insights during Sprint.
+#### 5.2.1.1. Sprint Planning 1.
+#### 5.2.1.2. Sprint Backlog 1.
+#### 5.2.X.3. Development Evidence for Sprint Review.
+#### 5.2.X.4. Testing Suite Evidence for Sprint Review.
+#### 5.2.X.5. Execution Evidence for Sprint Review.
+#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.X.8. Team Collaboration Insights during Sprint.
