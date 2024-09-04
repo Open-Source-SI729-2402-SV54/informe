@@ -8,7 +8,9 @@
 ## 5.2. Landing Page, Services & Applications Implementation.
 La implementación de la página de inicio, los servicios y las aplicaciones representa un paso crucial en nuestro proceso de desarrollo. Este proceso nos permite convertir los diseños y funcionalidades planificados en productos concretos y operativos. Durante esta fase, traducimos las especificaciones y requisitos en código, desarrollando la estructura de la página, los servicios y las aplicaciones de acuerdo con las necesidades identificadas.
 ### 5.2.1. Sprint 1
+Para este primer sprint, es importante clarificar las tareas y enfocarnos en nuestro proceso de desarrollo ágil. Durante este período, se desarrollan las características identificadas en el plan inicial. Esto implica sentar las bases del código funcional para desarrollarlo de manera iterativa.
 #### 5.2.1.1. Sprint Planning 1.
+
 #### 5.2.1.2. Sprint Backlog 1.
 #### 5.2.X.3. Development Evidence for Sprint Review.
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review.
