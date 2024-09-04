@@ -174,8 +174,15 @@ Luego de ello, usamos el WebStorm para su elaboracion en Html, CSS y JavaScript.
 
 A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo
 
+![image](https://github.com/user-attachments/assets/c9d9f876-0b59-4ed8-8351-674a0d878f0c)
 
 Asimismo, se muestra en una represetacion visual sobre el trafico de los "Git clones" y "Visitors" registrados en cada accion realizada al cabo de la elaboracion en el repositorio.
 
-Todo ello, demuestra el avanzce y el compromiso del equipo en el desarrollo del proyecto.
+Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del desarrollo.
+
+![image](https://github.com/user-attachments/assets/6fdbaca7-6ba4-4c6a-8fc8-47db4b7c6065)
+
+![image](https://github.com/user-attachments/assets/27e7125e-b971-48ca-9138-b35479ddc5c6)
+
+![image](https://github.com/user-attachments/assets/1878c86d-23fd-4b8c-96f7-78f6f90baba2)
 
