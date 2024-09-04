@@ -66,6 +66,7 @@ Para este primer sprint, es importante clarificar las tareas y enfocarnos en nue
     </tr>
   </tbody>
 </table>
+
 #### 5.2.1.2. Sprint Backlog 1.
 #### 5.2.X.3. Development Evidence for Sprint Review.
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review.
