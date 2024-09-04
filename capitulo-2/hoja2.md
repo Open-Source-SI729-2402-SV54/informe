@@ -242,21 +242,32 @@ Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera d
 * Evidencia:
 
 ![Entrevista 6](https://github.com/user-attachments/assets/caa27474-80b8-4392-8961-c3de1fb676da) 
+
+##### c) Juan Torres
+* Edad: 20 años 
+* Ocupación: Universitario 
+* Duración de entrevista: 6 min 20 s. 
+* Interés en el Servicio : Juan Manuel Santos está dispuesto a pagar por un servicio de suscripción que le proporcione planes de alimentación personalizados y la entrega de alimentos adecuados para su régimen. Esto indica que valora la eficiencia y conveniencia que estos servicios podrían ofrecerle, siempre que cumplan con sus expectativas en términos de calidad y precisión.
+* Conclusión: Juan Manuel Santos es un joven estudiante universitario comprometido con su crecimiento físico y rendimiento deportivo. Es un usuario que busca precisión, personalización y profesionalismo en su régimen alimenticio, valorando las soluciones tecnológicas que le permitan optimizar su dieta y ejercicio. Su disposición a pagar por servicios que simplifiquen su vida y mejoren su rendimiento lo convierte en un arquetipo valioso para considerar en el desarrollo de soluciones web orientadas a planes de alimentación personalizados.
+* URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/EVLWV9iHq75HhWRkgcVvDY8BsLcrhVRhEhZzAZmHas0oYQ?e=S8bElE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+![image](https://github.com/user-attachments/assets/a3e0da18-15dc-4d57-9e9e-6c5c933ec3a7)
+
 ### 2.2.3. Análisis de entrevistas.
 #### Segmento Objetivo 1:
 * 100% de los entrevistados están interesados en mejorar su nutrición y mantener una dieta equilibrada.
-* 50% de los entrevistados (Valentino Montoro y Junior Aliaga) no están dispuestos a pagar por un servicio de suscripción que ofrezca planes de alimentación personalizados y entrega de comidas saludables.
-* 50% de los entrevistados (Aldo Cafferata y José Carranza) consideran importante la conveniencia y estarían dispuestos a pagar por un servicio que les facilite mantener una alimentación equilibrada.
+* 60% de los entrevistados (Valentino Montoro, Junior Aliaga, y Lian) no están dispuestos a pagar por un servicio de suscripción que ofrezca planes de alimentación personalizados y entrega de comidas saludables.
+* 40% de los entrevistados (Aldo Cafferata y José Carranza) consideran importante la conveniencia y estarían dispuestos a pagar por un servicio que les facilite mantener una alimentación equilibrada.
 * 100% de los entrevistados creen que un servicio de envío de alimentos con información nutricional detallada les ayudaría a mejorar su salud y bienestar.
-* 25% de los entrevistados (José Carranza) mencionaron específicamente que les ayudaría a tomar decisiones informadas para mejorar su salud.
-* 50% de los entrevistados (Aldo Cafferata y José Carranza) tienen rutinas ocupadas y consideran que un servicio de este tipo les ahorraría tiempo y les ayudaría a mantener su energía y bienestar.
-* 50% de los entrevistados (Valentino Montoro y Junior Aliaga) enfrentan dificultades para estructurar su dieta, pero no consideran pagar por un servicio como una opción viable debido al costo.
+* 40% de los entrevistados (José Carranza y Lian) mencionaron que les ayudaría a tomar decisiones informadas para mejorar su salud.
+* 60% de los entrevistados (Aldo Cafferata, José Carranza y Lian) tienen rutinas ocupadas y consideran que un servicio de este tipo les ahorraría tiempo y les ayudaría a mantener su energía y bienestar.
+* 60% de los entrevistados (Valentino Montoro, Junior Aliaga, y Lian) enfrentan dificultades para estructurar su dieta, pero no consideran pagar por un servicio como una opción viable debido al costo.
 #### Segmento Objetivo 2:
 * 100% de los entrevistados están interesados en probar el servicio de suscripción para planes de alimentación personalizados.
-* 50% de los entrevistados son estudiantes universitarios, y el otro 50% trabaja en el área administrativa.
-* 50% de los entrevistados son atletas dedicados que buscan personalización en sus planes de alimentación para mejorar su rendimiento físico.
+* 67% de los entrevistados son estudiantes universitarios, y el otro 33% trabaja en el área administrativa.
+* 67% de los entrevistados son atletas dedicados que buscan personalización en sus planes de alimentación para mejorar su rendimiento físico.
 * 100% de los entrevistados consideran importante que el servicio ofrezca guías personalizadas y detalles sobre los valores nutricionales.
-* 50% de los entrevistados mencionaron haber probado aplicaciones de nutrición anteriormente, aunque no tuvieron éxito con ellas.
+* 33% de los entrevistados mencionaron haber probado aplicaciones de nutrición anteriormente, aunque no tuvieron éxito con ellas.
 * 100% de los entrevistados estarían dispuestos a pagar por el servicio si se adapta a sus necesidades específicas.
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
