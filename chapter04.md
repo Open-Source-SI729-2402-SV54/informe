@@ -398,7 +398,7 @@ Hemos diseñado un prototipo de website para ofrecer un adelanto de lo que será
 
 https://www.figma.com/proto/a64BVB1zNy0aycIi3TtTg7/Landing-Page?node-id=10-8&t=5P63FVO0ajcTVU0r-1&scaling=min-zoom&content-scaling=fixed&page-id=6%3A3&starting-point-node-id=10%3A8
 
-![Prototipo](https://github.com/user-attachments/assets/3f4e7016-4504-49fd-b325-aa9ed97014b7)
+![Prototype](https://github.com/user-attachments/assets/bd545ccb-1c0a-4fb4-bf22-5e2ee66409fe)
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram

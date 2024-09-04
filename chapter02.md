@@ -342,10 +342,4 @@ Acontinuacion se enlistará algunos de los terminos que se utilizaran en este pr
 
 * Time Constraints (Restricciones de tiempo): Limitaciones de tiempo que afectan la capacidad de una persona para planificar, preparar y cocinar sus comidas.
 
-* Dietary Preferences (Preferencias dietéticas): Elecciones personales relacionadas con la alimentación, que pueden incluir restricciones por salud, creencias culturales o gustos personales.
-
-* Energy Levels (Niveles de energía): Medición del estado físico y mental de una persona, que puede verse afectada por la dieta y la actividad física.
-
-* Online Grocery Shopping (Compra de alimentos en línea): Proceso de adquirir alimentos y productos relacionados a través de plataformas de comercio electrónico.
-
 * Digital Channels (Canales digitales): Medios online como páginas web, aplicaciones, redes sociales y foros utilizados para acceder a información sobre nutrición, alimentos y dietas.
