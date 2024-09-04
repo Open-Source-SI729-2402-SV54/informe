@@ -5,6 +5,21 @@
 
 NAXUS es una startup innovadora creada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC), específicamente de la Facultad de Ingeniería. Nuestra startup ofrece una plataforma web llamada **NutriSend**, diseñada para simplificar la planificación de comidas y apoyar un estilo de vida saludable. NutriSend se posiciona como una solución ideal para quienes buscan mantener un equilibrio entre su vida personal y sus objetivos de salud, proporcionando comodidad y calidad en cada entrega.
 
+NutriSend se enfoca en proporcionar alimentos que se ajustan a las calorías, carbohidratos, grasas y proteínas que pueden consumir nuestros clientes, en lugar de centrarse en aspectos nutricionales generales. 
+
+**Misión**: Nuestro propósito es facilitar la vida de nuestros clientes, brindándoles alimentos que se alinean con sus requerimientos específicos de calorías, carbohidratos, grasas y proteínas. Nos dedicamos a ofrecer una solución práctica y personalizada que respalde un estilo de vida saludable, ayudando a nuestros usuarios a alcanzar sus metas de bienestar de manera efectiva.
+
+**Visión**: Queremos ser la plataforma de referencia en planificación alimentaria personalizada, reconocida por nuestra habilidad para adaptar los alimentos a las necesidades cuantitativas de cada cliente. Nuestro objetivo es capacitar a las personas para que gestionen su salud y nutrición, haciendo que una alimentación equilibrada sea un estándar accesible y conveniente para todos.
+
+**Objetivos**:
+
+- Optimizar la planificación alimentaria con herramientas precisas.
+- Ofrecer menús personalizados según necesidades individuales.
+- Facilitar el acceso a alimentos saludables y equilibrados.
+- Innovar y mejorar continuamente nuestros servicios.
+- Asegurar alta satisfacción del cliente con un servicio confiable.
+- Expandir nuestra base de usuarios y presencia en el mercado.
+
 NutriSend ofrece diferentes planes adaptados a las necesidades de sus usuarios:
 
 **1) Plan Básico (Gratis):**
@@ -17,7 +32,6 @@ NutriSend ofrece diferentes planes adaptados a las necesidades de sus usuarios:
      - Planificación y pedidos de alimentos para todo el mes, con ajustes automáticos según las necesidades nutricionales del usuario.
      - Menús personalizados que se ajustan dinámicamente según el régimen deportivo, objetivos de salud, y disponibilidad de alimentos. 
      - Alertas avanzadas que indican el momento óptimo para consumir alimentos, sincronizadas con el horario deportivo y otros hábitos de salud. 
-     - Soporte prioritario y acceso a contenido exclusivo, como recetas de chefs o nutricionistas reconocidos.
 
 ### 1.1.2.   Perfiles de integrantes del equipo
 
@@ -88,7 +102,7 @@ NutriSend ofrece diferentes planes adaptados a las necesidades de sus usuarios:
   Nuestro público objetivo incluye:
 
   * Profesionales y estudiantes con agendas apretadas que encuentran difícil dedicar tiempo a la cocina.
-  * Personas que siguen regímenes alimenticios específicos, como deportistas y aquellos con condiciones de salud que requieren un control nutricional detallado.
+  * Personas que siguen regímenes alimenticios específicos, como deportistas y aquellos con condiciones de salud que requieren un control en su alimentación.
 
   **3. Where(Dónde):**
 
@@ -115,13 +129,14 @@ NutriSend ofrece diferentes planes adaptados a las necesidades de sus usuarios:
 ### 1.2.2. Lean UX Process.
 
 #### 1.2.2.1. Lean UX Problem Statements
-Para los usuarios con agendas ocupadas que no disponen de tiempo para cocinar con frecuencia, Nutri Send aborda el reto de ofrecer una solución rápida y conveniente que cubra sus necesidades alimentarias sin sacrificar la calidad.
 
 **¿Cómo podemos ofrecer una solución conveniente y rápida que satisfaga las necesidades alimentarias de los usuarios ocupados sin comprometer la calidad de  los alimentos preparados?**
 
-Para los usuarios con un plan alimenticio estructurado que desean tener un control sobre sus alimentos y llevar una rutina de ejercicios y llevar un estilo de vida más saludable. Nutri Send aborda el reto de ofrecer una solución rápida y conveniente que cumpla con los requisitos alimenticios sin sacrificar la calidad ni el valor nutricional de los alimentos preparados y tener una estructura de ejercicios establecidos.
+Para los usuarios con agendas ocupadas que no disponen de tiempo para cocinar con frecuencia, NutriSend aborda el reto de ofrecer una solución rápida y conveniente que cubra sus necesidades alimentarias sin sacrificar la calidad.
 
 **¿Cómo podemos ofrecer una solución rápida y conveniente que cumpla con los requisitos alimenticios de los usuarios con un plan estructurado, permitiéndoles controlar sus alimentos, mantener una rutina de ejercicios y llevar un estilo de vida más saludable sin sacrificar la calidad ni el valor nutricional de los alimentos preparados?**
+
+Para los usuarios con un plan alimenticio estructurado que desean tener un control sobre sus alimentos y llevar una rutina de ejercicios y llevar un estilo de vida más saludable. NutriSend aborda el reto de ofrecer una solución rápida y conveniente que cumpla con los requisitos alimenticios sin sacrificar la calidad ni el valor nutricional de los alimentos preparados y tener una estructura de ejercicios establecidos.
 
 #### 1.2.2.2. Lean UX Assumptions.
 - **Business Assumptions**: Asumimos que NutriSend podrá capturar una cuota significativa del mercado en Lima, basándose en la demanda existente de servicios alimenticios convenientes y saludables.
