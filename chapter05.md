@@ -68,6 +68,11 @@ Para este primer sprint, es importante clarificar las tareas y enfocarnos en nue
 </table>
 
 #### 5.2.1.2. Sprint Backlog 1.
+En este primer sprint, nos centramos en implementar las funcionalidades esenciales de la Landing Page, como la estructura general, el diseño visual y la navegación básica. Además, se elaboró un reporte que documenta el ciclo de vida completo de nuestro proyecto de software. Estas características son cruciales para establecer los cimientos de nuestro producto y asegurar una experiencia de usuario consistente y de calidad. A continuación, se presenta el sprint backlog 1 y el tablero de Trello con la distribución de tareas:
+
+![Spring1Trello](https://github.com/user-attachments/assets/ed83c86a-c4b0-4827-b7f4-bb3e7441da86)
+
+
 #### 5.2.X.3. Development Evidence for Sprint Review.
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review.
 #### 5.2.X.5. Execution Evidence for Sprint Review.
