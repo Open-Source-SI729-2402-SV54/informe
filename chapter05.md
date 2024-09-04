@@ -15,6 +15,7 @@ Para este primer sprint, es importante clarificar las tareas y enfocarnos en nue
     <tr>
       <th>Sprint #</th>
       <th>Sprint 1 </th>
+    </tr>
   </thead>
   <tbody>
     <tr>
@@ -72,6 +73,90 @@ En este primer sprint, nos centramos en implementar las funcionalidades esencial
 
 ![Spring1Trello](https://github.com/user-attachments/assets/ed83c86a-c4b0-4827-b7f4-bb3e7441da86)
 
+<table table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
+  <thead>
+    <tr>
+      <th>Sprint #</th>
+      <th colspan="7">Sprint 1</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">Work - Item / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation(Hours)</th>
+      <th>Assigned To</th>
+      <th>Status (To-do / InProcess / To-Review/ Done)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th></th>
+      <th></th>
+      <th>TSK001</th>
+      <th>Remote environment creation for Report and Landing Page</th>
+      <th>Organization, repositories and branch creation in GitHub</th>
+      <th>0.5</th>
+      <th>Camila Leonor Espinoza Vivas</th>
+      <th>Done</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th></th>
+      <th>TSK002</th>
+      <th>Conclude Chapter01</th>
+      <th>Finish all section and add the respective information in chapter01</th>
+      <th>3</th>
+      <th>All team members</th>
+      <th>Done</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th></th>
+      <th>TSK003</th>
+      <th>Conclude Chapter02</th>
+      <th>Finish all section and add the respective information in chapter02</th>
+      <th>6</th>
+      <th>Fatima Asmad Padilla</th>
+      <th>Done</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th></th>
+      <th>TSK004</th>
+      <th>Conclude Chapter03</th>
+      <th>Finish all section and add the respective information in chapter03</th>
+      <th>12</th>
+      <th>Jhordi Luis Carranza Pérez / Luis Alfonso Villegas Jipa</th>
+      <th>Done</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th></th>
+      <th>TSK005</th>
+      <th>Conclude Chapter04</th>
+      <th>Finish all section and add the respective information in chapter04</th>
+      <th>26</th>
+      <th>Renzo José Araujo Ingunza / Camila Leonor Espinoza Vivas</th>
+      <th>Done</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th></th>
+      <th>TSK006</th>
+      <th>conclude Chapter05</th>
+      <th>Finish all section and add the respective information in chapter05</th>
+      <th>5</th>
+      <th>all team members</th>
+      <th>Done</th>
+    </tr>
+  </tbody>
+</table>
 
 #### 5.2.X.3. Development Evidence for Sprint Review.
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review.
