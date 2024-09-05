@@ -1,9 +1,3 @@
-<style>
-  body {
-  font-family: 'Times New Roman', Times, serif;
-  }
-</style>
-
 <h1 style="text-align: center;"><b>Universidad Peruana de Ciencias Aplicadas</b></h1>
 
 <h2 style="text-align: center;">
@@ -45,6 +39,10 @@
     <td>Jhordi Luis Carranza Pérez</td>
     <td>u20191e835</td>
   </tr>
+  <tr>
+    <td>Luis Alfonso Villegas Jipa</td>
+    <td>u201717523</td>
+  </tr>
 </table>
 
 <h4 style="text-align: center;">Agosto 2024</h4>
@@ -60,32 +58,86 @@
   </tr>
   <tr>
     <td>TB1</td>
-    <td>15/08</td>
+    <td>6/09/2024</td>
     <td>Camila Leonor Espinoza Vivas</td>
-    <td>Caratula</td>
+    <td>
+      - Añadio contenido a todos los capitulo.<br>
+      - Realizo codigo para el despliegue de la Landing Page. <br>
+      - Aporto ideas para la creacion de User Stories. <br>
+      - Realizo el capitulo 4
+      - Desplego el repositorio en GitHub. <br>
+      - Aportó ideas para los User Stories <br>
+      - Realizó el capitulo 5<br>
+    </td>
   </tr>
   <tr>
     <td>TB1</td>
-    <td>16/08</td>
+    <td>6/09/2024</td>
     <td>Renzo José Araujo Ingunza</td>
-    <td>Índice</td>
+    <td>
+      - Realizo Web Applications Wireflow Diagrams. <br>
+      - Aporto ideas para Information Architecture. <br>
+      - Realizo la Web Applications Prototyping. <br>
+      - Realizo el Software Object-Oriented Design. <br>
+      - Aportó ideas para los User Stories <br>
+      - Realizó el capitulo 5<br>
+    </td>
   </tr> 
   <tr>
     <td>TB1</td>
-    <td>---</td>
+    <td>6/09/2024</td>
     <td>Fatima Asmad Padilla</td>
-    <td>---</td>
+    <td>
+      - Realizó el analisis de competidores <br>
+      - Realizó las estrategias ante los competidores <br>
+      - Realizó diseño de entrevistas <br>
+      - Realizó análisis de entrevistas <br>
+      - Realizó User Persona <br>
+      - Realizó User Task Matrix  <br>
+      - Realizó User Journey Mapping <br>
+      - Empathy Mapping <br>
+      - As-is Scenario Mapping <br>
+      - Aportó ideas para los User Stories <br>
+      - Realizó el capitulo 5<br>
+    </td>
   </tr>
   <tr>
     <td>TB1</td>
-    <td>---</td>
+    <td>6/09/2024</td>
     <td>Jhordi Luis Carranza Pérez</td>
-    <td>---</td>
+    <td>
+      - Realizó el startup profile <br>
+      - Realizó el solution profile <br>
+      - Realizó los segmentos objetivos <br>
+      - Realizó el To-Be Scenario Mapping <br>
+      - Realizó el Impact Mapping <br>
+      - Realizó el capitulo 5<br>
+    </td>
+  </tr>
+  <tr>
+    <td>TB1</td>
+    <td>6/09/2024</td>
+    <td>Luis Alfonso Villegas Jipa</td>
+    <td>
+      - Contribuyo en el desarrollo del capitulo 1<br>
+      - Realizó los User Stories <br>
+      - Realizó el Product Backlog<br>
+      - Realizó el capitulo 5<br>
+    </td>
   </tr>
 </table>
 
 
 # Project Report Collaboration Insights
+
+El enlace que sigue dirige al repositorio público de nuestra organización en GitHub: https://github.com/Open-Source-SI729-2402-SV54/informe.git
+
+A continuación, se detalla el desarrollo de las actividades relacionadas con la elaboración del informe, incluyendo capturas de los análisis de colaboración y los commits en GitHub. Para la entrega de la TB1, se presenta un análisis de colaboración que muestra el número de contribuciones realizadas en el repositorio del informe.
+
+<div style="text-align: center;">
+    <img src="img/evidencia.PNG" alt="UPC Logo">
+</div>
+
 
 # Contenido 
 
@@ -190,14 +242,62 @@
     <th>Conclusiones</th>
   </tr>
   <tr>
-    <td>Desarrollo de experimentos</td>
-    <td>TB1</td>
-    <td>TB1</td>
+    <td>Comunica oralmente con efectividad a diferentes rangos de audiencia</td>
+    <td>
+      Camila Leonor Espinoza Vivas <br>
+      TB1 <br>
+      Creo los repositorios asi como la division y la supervision de las tareas. Analizando que todo se cumpla segun la rubrica del trabajo. Estuvo pendiente de toda entrega y realizo la retroalimentacion de los avances de sus compañeros. <br>
+      <br>
+      Renzo José Araujo Ingunza<br>
+      TB1 <br>
+      Avanzó los elementos asignados a través de las reuniones grupales que fueron realizadas de manera diaria y semanal, por lo que pudo avanzar de la manera esperada. Ayudo en la coordinacion del grupo. 
+      <br>
+      Fatima Asmad Padilla<br>
+      TB1 <br>	
+      Avanzó los elementos asignados a través de las reuniones grupales que fueron realizadas de manera diaria y semanal, por lo que pudo avanzar de la manera esperada. Ayudo en la coordinacion del grupo. 
+      <br>
+      Jhordi Luis Carranza Pérez<br>	
+      TB1 <br>
+      Avanzó los elementos asignados a través de las reuniones grupales que fueron realizadas de manera diaria y semanal. Su ausencia perjudico algunos puntos. 
+      <br>
+      Luis Alfonso Villegas Jipa<br>
+      TB1 <br>
+      Avanzó los elementos asignados a través de las reuniones grupales que fueron realizadas de manera diaria y semanal, pero no logro con el objetivo de su tarea.
+      <br>
+    </td>
+    <td>
+    TB1 <br>
+    El equipo mostró un enfoque comprometido y coordinado en la realización de las tareas asignadas, utilizando reuniones diarias y semanales para avanzar en el proyecto. La supervisión constante y la retroalimentación permitieron a los miembros ajustar su trabajo de acuerdo con las expectativas y la rúbrica del proyecto. Sin embargo, la falta de cumplimiento de ciertos objetivos individuales y la ausencia de algunos miembros afectaron el progreso en momentos puntuales. A pesar de estos desafíos, el equipo logró mantener una comunicación clara y avanzar en las tareas, destacando la capacidad de colaboración en la mayoría de los integrantes.
+    </td>
   </tr>
   <tr>
-    <td>Análisis e interpretación de datos/ resultados</td>
-    <td>TB1</td>
-    <td>TB1</td>
+    <td>Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
+    <td>
+    Camila Leonor Espinoza Vivas <br>
+      TB1 <br>
+      Llevo a cabo el análisis y la retroalimentación de todos los capítulos, además del despliegue y diseño de la landing page. Desarrollo guías de estilo, estructuré la arquitectura de la información, y optimicé etiquetas SEO. Diseño la interfaz de usuario para la landing page con wireframes y mockups, y trabajo en la arquitectura de software basada en el dominio, incluyendo diagramas de contexto, contenedores y componentes. También realizo el diseño orientado a objetos y la creación de un diagrama de base de datos para una mejor comunicación técnica entre los equipos.
+      <br>
+      Renzo José Araujo Ingunza<br>
+      TB1 <br>
+      Estructuro la arquitectura de la información, e implemento etiquetas SEO para mejorar la comprensión y visibilidad del contenido. Diseño wireframes y prototipos de UX/UI, asegurando una comunicación clara para audiencias técnicas y no técnicas. Además, creo diagramas y diccionarios de clases para facilitar la comunicación entre desarrolladores.
+      <br>
+      Fatima Asmad Padilla<br>
+      TB1 <br> 
+      Investigó los competidores actuales y potenciales de nuestro negocio, con el objetivo de obtener retroalimentación y resaltar los aspectos que pueden hacer que nos destaquemos frente a ellos. Esto permitió obtener una mejor comprensión del dominio del problema que abarca este modelo de negocio.
+      <br>
+      Jhordi Luis Carranza Pérez<br>	
+      TB1 <br>
+      Investigó el dominio y la aplicación del software a implementar, involucrando a todo el equipo en el proceso de investigación de la problemática y la segmentación de nuestro público objetivo, con una participación activa de cada miembro.
+      <br>
+      Luis Alfonso Villegas Jipa<br>
+      TB1 <br>
+      Contribuyo al desarrollo del capítulo 1, donde redacto y estructuro el contenido para asegurar una comunicación clara. También elaboro las user stories y el product backlog, adaptando el lenguaje y la información para audiencias técnicas y no técnicas, facilitando la comprensión del proyecto en distintos niveles.
+      <br>
+    </td>
+    <td>
+    TB1<br>
+    El equipo demostró una destacada capacidad para comunicar por escrito con efectividad a diferentes rangos de audiencia. Camila Leonor Espinoza Vivas, Renzo José Araujo Ingunza, Fatima Asmad Padilla, Jhordi Luis Carranza Pérez y Luis Alfonso Villegas Jipa realizaron contribuciones significativas en áreas clave como el diseño de la interfaz, la arquitectura de la información, la investigación del dominio y la redacción de documentación técnica. La elaboración de guías de estilo, la creación de wireframes, y el diseño de prototipos reflejan un enfoque meticuloso en la comunicación visual y técnica. La investigación sobre competidores y el análisis del dominio aportaron una comprensión valiosa para adaptar el proyecto a las necesidades del mercado. La capacidad del equipo para estructurar y presentar información técnica de manera clara y efectiva fue fundamental para el avance del proyecto y para asegurar la alineación con los objetivos del negocio.
+    </td>
   </tr>
 </table>
 
@@ -206,3 +306,28 @@
 # Bibliografía
 
 # Anexos
+
+Despliegue del lading-page (version0.1): https://open-source-si729-2402-sv54.github.io/landing-page/
+
+Repositorio del informe: https://github.com/Open-Source-SI729-2402-SV54/informe.git
+
+Repositorio del landing-page: https://github.com/Open-Source-SI729-2402-SV54/landing-page.git
+
+As-is Scenario Mapping: https://miro.com/welcomeonboard/MmJhQlMzbUk5WE1NNkRtRXFlMWVqOG9KTDNrYVgwQzFZdHBzTjBGT0prdVc2elVrQnVmZHBaZEdCSERyNjBWQXwzNDU4NzY0NTUxNjIyOTUwNzc1fDI=?share_link_id=127293495699 
+
+To-Be Scenario Maps: https://miro.com/app/board/uXjVKlfaPCE=/ 
+
+User Flow diagrams lucidchart:
+https://lucid.app/lucidspark/218fc663-d0e7-4abd-ac28-5dcf2880c784/edit?viewport_loc=-1776%2C-1502%2C13846%2C7030%2C0_0&invitationId=inv_d8c0a7b4-5892-4745-bb5d-a3c04d7deb75
+
+Wireframes, Mock-ups y Prototypes (figma):
+https://www.figma.com/design/a64BVB1zNy0aycIi3TtTg7/Landing-Page?node-id=6-3&node-type=CANVAS&t=Nvxq0eWvqTN79PFb-0
+
+NutriSend diagram class lucidchart: 
+https://lucid.app/lucidchart/d2d74609-8e59-4b27-86f3-7baa1fd12925/edit?viewport_loc=486%2C168%2C4056%2C2033%2CHWEp-vi-RSFO&invitationId=inv_36ef38f1-e55f-4db4-985f-79e351548972
+
+NutriSend diagram database lucidchart: 
+https://lucid.app/lucidchart/70432eed-3de6-4692-b911-abeeb9d8b2fc/edit?viewport_loc=-1035%2C-384%2C3903%2C2343%2CHWEp-vi-RSFO&invitationId=inv_3b35149f-30bf-4772-81cd-70f8a72eae10 
+
+Spring 1 Trello: 
+https://trello.com/b/OwgxqazN
