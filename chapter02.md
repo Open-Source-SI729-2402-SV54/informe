@@ -26,15 +26,15 @@ A continuacion presentamos a nuestros tres principales competidores:
   </tr>
   <tr>
    <td colspan="2"></td>
-    <td>NutriSend</td>
-    <td>HelloFresh</td>
-    <td>Blue Apron</td>
-    <td>Freshly</td> 
+    <td>NutriSend <img src="img/logo.PNG" alt="logo-NutriSend" width="50"/></td>
+    <td>HelloFresh <img src="https://github.com/user-attachments/assets/c4929947-2f6b-4113-8fb8-1cc8c101cc86" alt="logo-HelloFresh" width="60"/></td>
+    <td>Blue Apron <img src="https://github.com/user-attachments/assets/1a93e697-02e2-4e62-83e4-f9395c7b5193" alt="logo-BlueApron" width="90"/></td>
+    <td>Freshly  <img src="https://github.com/user-attachments/assets/df611e8c-e80f-4c74-a544-ceec5f3ad8a4" alt="logo-Freshly" width="60"/></td> 
   </tr>
   <tr>
     <td rowspan="2">Perfil</td>
     <td>Overview</td>
-    <td> NutriSend es una plataforma web emergente que entrega comidas personalizadas para personas con estilos de vida ocupados y aquellos con regímenes estrictos de dieta y ejercicio. Cada entrega incluye información detallada sobre nutrientes como calorías, proteínas, y grasas.</td>
+    <td>NutriSend es una plataforma web emergente que entrega comidas personalizadas para personas con estilos de vida ocupados y aquellos con regímenes estrictos de dieta y ejercicio. Cada entrega incluye información detallada sobre calorías, proteínas, carbohidratos y grasas.</td>
     <td>HelloFresh es una empresa de entrega de kits de comida que ofrece ingredientes frescos con recetas fáciles de seguir, enfocada en opciones saludables con información nutricional detallada.</td>
     <td>Blue Apron es un servicio de kits de comida que se enfoca en la entrega de ingredientes frescos y recetas detalladas, con un fuerte compromiso con la sostenibilidad y la transparencia nutricional. Fundada en 2012, sigue siendo un líder en su industria en Estados Unidos, pese a enfrentar desafíos financieros.</td>
     <td>
@@ -42,7 +42,7 @@ Freshly es un servicio de entrega de comidas preparadas que ofrece platos fresco
   </tr>
   <tr>
     <td>Ventaja competitiva ¿Que valor ofrece a los clientes?</td>
-    <td>Ofrece alta personalización, transparencia en la información nutricional, y conveniencia para clientes ocupados, superando a competidores al centrarse en las necesidades específicas de los usuarios.</td>
+    <td>Ofrece alta personalización y transparencia en la información de nutrientes, adaptándose a las necesidades específicas de los usuarios para una dieta estructurada y saludable.</td>
     <td>HelloFresh se basa en su capacidad para ofrecer comodidad, variedad y personalización, así como información nutricional detallada. Estos elementos permiten a los clientes preparar comidas saludables en casa de manera fácil y adaptada a sus necesidades dietéticas.</td>
     <td>Blue Apron se basa en ofrecer ingredientes frescos y de alta calidad con recetas detalladas, sostenibilidad y transparencia nutricional, además de opciones para diferentes dietas.</td>
     <td>Freshly ofrece a sus clientes la ventaja de comidas preparadas frescas y saludables, listas para comer en minutos, con información nutricional detallada, facilitando una dieta balanceada sin necesidad de cocinar.</td>
@@ -57,7 +57,7 @@ Freshly es un servicio de entrega de comidas preparadas que ofrece platos fresco
   </tr>
   <tr>
     <td>Estrategias de marketing</td>
-    <td>Se enfoca en contenido educativo, publicidad dirigida en redes sociales, y asociaciones con influenciadores del fitness.</td>
+    <<td>Se enfoca en contenido educativo, publicidad dirigida en redes sociales.</td>
     <td>Se enfoca en campañas de marketing digital y en promociones de conveniencia, subrayando la facilidad y rapidez de sus recetas. También destacan la transparencia en los ingredientes y la experiencia de cocinar en casa con productos frescos.</td>
     <td>Blue Apron utiliza marketing digital y se enfoca en la personalización de las comidas, permitiendo a los clientes hacer sustituciones en los ingredientes. También promueven sus servicios adicionales como maridaje de vinos.</td>
     <td>Freshly utiliza estrategias de marketing como la promoción de conveniencia, presencia en redes sociales, ofertas para nuevos clientes, contenido educativo, personalización de servicios, testimonios de clientes, campañas de retargeting y sostenibilidad para atraer y retener a sus clientes en el mercado de entrega de comidas.</td>
@@ -65,7 +65,7 @@ Freshly es un servicio de entrega de comidas preparadas que ofrece platos fresco
   <tr>
     <td rowspan="3">Perfil de Producto</td>
     <td>Productos & Servicios</td>
-    <td>Comidas personalizadas para la semana, planes nutricionales y herramientas de seguimiento nutricional.</td>
+    <td>Comidas personalizadas para la semana, con información detallada sobre calorías, proteínas, carbohidratos y grasas</td>
     <td>Ofrece kits de comida con ingredientes frescos, junto con recetas fáciles de seguir. No ofrece comidas listas para consumir, pero tiene opciones de recetas rápidas y de baja preparación.</td>
     <td>Ofrece tanto kits de comida como comidas listas para calentar y servir, además de suscripciones para vinos. También se enfoca en la sostenibilidad y la reducción de residuos.</td>
     <td>Sus productos y servicios actuales incluyen: Comidas Preparadas, Opciones Dietéticas Específicas, Información Nutricional Transparente, Planes de Suscripción Flexibles, Menú Rotativo Semanal, Opciones Personalizadas</td>
@@ -121,6 +121,26 @@ Freshly es un servicio de entrega de comidas preparadas que ofrece platos fresco
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+1. Fortalezas:
+
+    * Personalización Avanzada: Seguir perfeccionando la capacidad de personalizar las comidas según necesidades nutricionales específicas. Emplear tecnología de análisis de datos avanzada para proporcionar recomendaciones y ajustes más precisos en los planes de comida.
+    * Compromiso con Salud y Rendimiento: Destacar el compromiso con la salud y el rendimiento en la comunicación de la marca. Crear contenido educativo que muestre cómo NutriSend apoya un estilo de vida saludable y ayuda a lograr objetivos de rendimiento.
+    * Conveniencia para Clientes con Horarios Ajetreados: Subrayar la conveniencia de las comidas listas para consumir y la facilidad de uso de la plataforma. Implementar un proceso de pedido simplificado y opciones de entrega rápida para atraer a usuarios con horarios ocupados.
+
+2. Debilidades:
+
+    * Visibilidad y Reconocimiento de Marca Mejorados: Incrementar la visibilidad y el reconocimiento de la marca a través de campañas de marketing específicas. Ejecutar campañas de marketing digital, asociarse con marcas complementarias y utilizar publicidad dirigida en redes sociales.
+    * Reducción de la Dependencia del Modelo de Suscripción: Diversificar las ofertas para disminuir la dependencia del modelo de suscripción. Ofrecer opciones de compra única para atraer a clientes que prefieren no comprometerse con una suscripción
+
+3. Oportunidades:
+
+    * Innovación Tecnológica: Invertir en el desarrollo de tecnologías que optimicen la experiencia del usuario y la precisión en la personalización. Incorporar características avanzadas en la plataforma, como algoritmos de recomendación y análisis predictivo.
+
+4. Amenazas:
+
+    * Competencia: Distinguir a NutriSend mediante una oferta de personalización única basada en datos precisos. Proporcionar promociones y descuentos exclusivos para atraer nuevos clientes y mantener la lealtad de los existentes.
+    * Variaciones en los Precios de los Ingredientes: Administrar de manera eficiente la cadena de suministro para minimizar el impacto de las fluctuaciones en los precios. Establecer acuerdos a largo plazo con proveedores y mantener un inventario adaptable para ajustarse a cambios en los costos.
 
 ## 2.2. Entrevistas
 
@@ -332,7 +352,7 @@ Acontinuacion se enlistará algunos de los terminos que se utilizaran en este pr
 
 * Meal Plan (Plan de alimentación): Conjunto de comidas organizadas que incluye detalles sobre los ingredientes y la información nutricional, diseñado para cumplir con los objetivos dietéticos de una persona.
 
-* Nutritional Content (Contenido nutricional): Información detallada sobre las calorías, proteínas, grasas, carbohidratos, vitaminas y otros nutrientes presentes en los alimentos.
+* Nutrient Information (Información de nutrientes): Datos detallados sobre calorías, proteínas, grasas, carbohidratos y otros nutrientes esenciales presentes en los alimentos.
 
 * Subscription Service (Servicio de suscripción): Modelo de negocio en el cual los clientes pagan una cuota recurrente para recibir un servicio continuo, en este caso, la entrega de alimentos y planes de alimentación personalizados.
 
