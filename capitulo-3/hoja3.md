@@ -63,10 +63,11 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
         </tr>
         <tr>
             <td>EPIC-005</td>
-            <td>Soporte y Asesoramiento Nutricional</td>
+            <td>Evaluación y Feedback</td>
             <td>
-                <strong>Como</strong> usuario que busca mejorar su salud, <strong>quiero</strong> tener acceso a soporte y asesoramiento de nutricionistas, 
-                <strong>para</strong> que pueda tomar decisiones informadas sobre mi alimentación y estilo de vida.
+                <strong>Como</strong> usuario, <strong>quiero</strong> que la plataforma web se adapte fácilmente a diferentes dispositivos y tamaños de
+                pantalla, 
+                <strong>para</strong> que pueda acceder a la información de manera cómoda y eficiente, sin importar el dispositivo que esté utilizando.
             </td>
             <td>N/A</td>
             <td>N/A</td>
@@ -235,18 +236,18 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
 <tr>
     <td>US-008</td>
     <td>
-        Conexión con Chef y Nutricionista (Premium)
+        Adaptación de la Visualización de la Plataforma
     </td>
     <td>
-        Como usuario premium, quiero poder conectarme con un chef y un nutricionista, para recibir asesoramiento personalizado sobre mis comidas.
+        Como usuario, quiero que la plataforma web se ajuste automáticamente a diferentes tamaños de pantalla y dispositivos, para que pueda navegar y acceder a mis datos de manera cómoda y eficiente.
     </td>
     <td>
         <strong>Escenario 1:</strong> <br>
-        El usuario premium puede solicitar una consulta con un chef o nutricionista a través de la aplicación. <br>
+        La interfaz de la plataforma se ajusta adecuadamente en dispositivos móviles, tabletas y computadoras de escritorio. <br>
         <strong>Escenario 2:</strong> <br>
-        El usuario recibe recomendaciones personalizadas basadas en su consulta.
+        Todos los elementos de la interfaz son accesibles y funcionales en cualquier dispositivo. <br>
     </td>
-    <td>EPIC-005</td>
+    <td>EPIC-007</td>
 </tr>
 
 <!--User Story 9-->
@@ -857,11 +858,12 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>3</td>
         </tr>
         <tr>
-            <td>8</td>
+             <td>8</td>
             <td>US-008</td>
-            <td>Conexión con Chef y Nutricionista (Premium)</td>
-            <td>Como usuario premium, quiero poder conectarme con un chef y un nutricionista, para recibir asesoramiento personalizado sobre mis comidas.</td>
-            <td>5</td>
+    <td>Adaptación de la Visualización de la Plataforma</td>
+    <td>Como usuario, quiero que la plataforma web se ajuste automáticamente a diferentes tamaños de pantalla y dispositivos, para que pueda navegar y acceder a
+        mis datos de manera cómoda y eficiente.</td>
+    <td>5</td>
         </tr>
         <tr>
             <td>9</td>
