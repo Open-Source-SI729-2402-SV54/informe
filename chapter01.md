@@ -64,7 +64,8 @@ NutriSend ofrece diferentes planes adaptados a las necesidades de sus usuarios:
 </td>
   </tr>
   <tr>
-    <td>Jhordi Luis Carranza Pérez</td>
+    <td>Jhordi Luis Carranza Pérez<br>
+    <img src="https://github.com/Open-Source-SI729-2402-SV54/informe/blob/main/img/WhatsApp%20Image%202024-09-05%20at%2011.38.01_2f539344.jpg?raw=true"alt="logo-NutriSend" width="50"/></td></td>
     <td>u20191e835</td>
     <td>Ingeniería de Software</td>
     <td>Soy una persona dispuesta a seguir aprendiendo y mejorando constantemente. Mis conocimientos de programación en C++, Python, HTML y sobre todo la lógica de programación serán de vital ayuda para la realización de este proyecto.</td>
