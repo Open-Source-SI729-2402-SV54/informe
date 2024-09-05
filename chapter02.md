@@ -205,6 +205,8 @@ Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera d
 
 ### 2.2.2. Registro de entrevistas
 
+UTL: https://upcedupe-my.sharepoint.com/:f:/g/personal/u202214572_upc_edu_pe/ElawDs9zQEJHhXKO8Nss1VABmeiAiI5D3Loz-nYIZ8GhTQ?e=WgihGA
+
 #### Entrevistas para el Segmento Objetivo 1:
 ##### a) Valentino Montoro 
 * Edad: 19 años 
@@ -212,7 +214,6 @@ Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera d
 * Duración de entrevista: 4 min 02 s. 
 * Interés en el servicio: Cree que un servicio de envío de alimentos con información nutricional le ayudaría a definir su consumo diario y ajustar su dieta. Sin embargo, no estaría dispuesto a pagar por un servicio de suscripción que ofrezca planes de alimentación personalizados y la entrega de comidas saludables.
 * Conclusión: Fabio es un joven que valora la nutrición y se esfuerza por mantener una dieta equilibrada, pero enfrenta desafíos con los antojos y tiene una rutina ocupada. Aunque muestra interés en un servicio que le facilite la planificación de sus comidas, no está dispuesto a pagar por una suscripción.
-* URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/Ea2feQ21rL9IrJ3ofZY3eDsBBiY2_p47RIXikaySVEPeDw?e=3Mn8f5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 * Evidencia:
 
 ![Entrevista 1](https://github.com/user-attachments/assets/d262b24a-b50c-4e2a-9c42-4067b4a72ab8)
@@ -222,7 +223,7 @@ Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera d
 * Duración de entrevista: 4 min 11 s. 
 * Interés en el servicio: Aldo muestra un claro interés en un servicio que le facilite mantener una alimentación equilibrada y adecuada a su estilo de vida ocupado. Dado que su trabajo le deja poco tiempo para planificar y preparar comidas saludables, un servicio de envío de alimentos con información nutricional detallada sería beneficioso para él, ya que podría ayudarle a mantener su energía y bienestar sin la necesidad de dedicar tiempo extra a estas tareas.
 * Conclusión: Aldo es un candidato ideal para un servicio de envío de alimentos que ofrezca conveniencia y aporte a su salud. Su falta de tiempo para preparar comidas saludables y su interés previo en mejorar su energía y bienestar físico indican que estaría receptivo a una solución que se adapte a su rutina diaria y le permita mantener una alimentación equilibrada de manera práctica.
-* URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/ESR1NxY0P59AoqDpW07m-4IBxcsH18WMlSuOH-0_tS12hA?e=hPkru8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 * Evidencia:
 
 ![Entrevista 2](https://github.com/user-attachments/assets/f4e2bf5e-910d-40f2-a352-fa7a31acc6ac)
@@ -232,7 +233,7 @@ Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera d
 * Duración de entrevista: 6 min 28 s. 
 * Interés en el Servicio: José Luis muestra un alto interés en un servicio de envío de alimentos que incluya planes alimenticios personalizados y la entrega de comidas saludables con información nutricional detallada. Considera que este tipo de servicio le ayudaría a superar las dificultades de mantener una dieta equilibrada debido a su ocupada agenda laboral y facilitaría la toma de decisiones informadas para mejorar su salud.
 * Conclusión: José Luis, a pesar de las limitaciones de tiempo impuestas por su trabajo, está motivado por el deseo de mantener una buena salud. Considera que un servicio de suscripción que le ofrezca alimentos saludables y planes nutricionales detallados sería una herramienta valiosa para alcanzar sus objetivos de bienestar. Su disposición a pagar por este servicio subraya la importancia que le da a la conveniencia y a la información nutricional precisa.
-* URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/EVG62K8PCzFNulwlcq48iqYBrR4EnCNJNlOODTm2k6Yj8A?e=dnMXiM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 * Evidencia:
 
 ![Entrevista 3](https://github.com/user-attachments/assets/7d07b3b8-a4f4-4f10-91b0-a1ef4d9bfe56)
@@ -242,7 +243,7 @@ Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera d
 * Duración de entrevista: 4 min 21 s. 
 * Interés en el Servicio: Junior tiene interés en un servicio de envío de alimentos con información nutricional detallada, principalmente para reducir el tiempo que dedica a planificar y organizar su alimentación. Sin embargo, a pesar de este interés, no está dispuesto a pagar por un servicio de suscripción.
 * Conclusión: Junior es un estudiante de medicina que valora mantener una dieta equilibrada por su impacto en el rendimiento académico y en su salud general. Aunque su rutina es sedentaria y enfrenta dificultades para estructurar su dieta, invierte tiempo en la planificación de sus comidas. Su interés en un servicio que optimice esta tarea es evidente, pero no está dispuesto a asumir un costo adicional por ello, lo que sugiere que el precio puede ser una barrera significativa para la adopción del servicio.
-* URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/EclgsxdRMUtFsYWIDL7fmIABJnXHMS3YmMlHI6VFhQleaQ?e=gn32GE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 * Evidencia:
 
 ![Entrevista 4](https://github.com/user-attachments/assets/11c8833f-aa7f-446c-87b1-f577d6add386)
@@ -252,7 +253,7 @@ Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera d
 * Duración de entrevista: 2 min 43 s. 
 * Interés en el Servicio: Lian muestra un interés positivo en un servicio de suscripción que le ofrezca planes de alimentación personalizados y entrega de alimentos, siempre que el servicio sea eficiente y cumpla con lo prometido. Considera importante que los planes se adapten a sus necesidades específicas, dado que no todos tienen las mismas demandas en su alimentación.
 * Conclusión: Lian es un usuario potencial para un servicio de envío de alimentos con información nutricional detallada, especialmente si este le ahorra tiempo y ofrece una solución personalizada para mantener su régimen alimenticio. Su disposición a pagar por un servicio que cumpla con sus expectativas indica una buena oportunidad de mercado dentro de su segmento.
-*  URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/EZ2a5bW6KIFPsPBfpKMieK4BK2ISWlIMKQBJv_Fq2A-3Ag?e=cuODEG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 
 ![Entrevista 7](https://github.com/user-attachments/assets/0e33b538-f910-4fb3-86e9-06db338e6b20)
 
@@ -263,7 +264,7 @@ Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera d
 * Duración de entrevista: 7 min 24 s. 
 * Interés en el Servicio: Diego muestra un interés positivo en el servicio de suscripción que ofrece planes de alimentación personalizados y la entrega de alimentos adecuados para su régimen. Expresó que estaría dispuesto a pagar por el servicio, siempre y cuando funcione bien y se adapte a sus necesidades específicas, considerándolo una opción favorable para quienes buscan mantener un régimen alimenticio estricto.
 * Conclusión: Diego es un estudiante universitario y atleta dedicado que valora la personalización en sus planes de alimentación para alcanzar sus objetivos de rendimiento físico. A pesar de enfrentar desafíos como las tentaciones alimenticias, su compromiso con su rutina y disposición para invertir en herramientas que le faciliten mantener su régimen indican que sería un cliente potencial para servicios que ofrezcan soluciones nutricionales personalizadas y convenientes.
-* URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/ETQwuGOCAT5Hr7tFFZylYt8BwCtZCdDM0NgnDQVZi9hd0Q?e=hCsZoU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 * Evidencia:
 
 ![Entrevista 5](https://github.com/user-attachments/assets/23689aa7-c7d8-4173-a09e-3bdd31efbd55)
@@ -273,10 +274,19 @@ Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera d
 * Duración de entrevista: 4 min 20 s. 
 * Interés en el Servicio: Giovanni muestra disposición a probar el servicio alimentario nutricional propuesto, destacando que valdría la pena intentarlo si ofrece detalles sobre los valores nutritivos y guías personalizadas para su consumo diario.
 * Conclusión: Giovanni es un profesional que mantiene un estilo de vida saludable mediante la práctica regular de ejercicio, aunque ocasionalmente consume comida chatarra. Aunque ha probado aplicaciones de nutrición sin éxito, está abierto a explorar nuevas opciones que le ofrezcan un soporte más estructurado y personalizado en su régimen alimentario.
-* URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/EdhhBgTp1ANAsCkk1TXfjlIB9JGUw-7i1y7dkCjT5KMvqA?e=XECBat&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 * Evidencia:
 
 ![Entrevista 6](https://github.com/user-attachments/assets/caa27474-80b8-4392-8961-c3de1fb676da) 
+
+c) Juan Torres
+Edad: 20 años
+Ocupación: Universitario
+Duración de entrevista: 6 min 20 s.
+Interés en el Servicio : Juan Manuel Santos está dispuesto a pagar por un servicio de suscripción que le proporcione planes de alimentación personalizados y la entrega de alimentos adecuados para su régimen. Esto indica que valora la eficiencia y conveniencia que estos servicios podrían ofrecerle, siempre que cumplan con sus expectativas en términos de calidad y precisión.
+Conclusión: Juan Manuel Santos es un joven estudiante universitario comprometido con su crecimiento físico y rendimiento deportivo. Es un usuario que busca precisión, personalización y profesionalismo en su régimen alimenticio, valorando las soluciones tecnológicas que le permitan optimizar su dieta y ejercicio. Su disposición a pagar por servicios que simplifiquen su vida y mejoren su rendimiento lo convierte en un arquetipo valioso para considerar en el desarrollo de soluciones web orientadas a planes de alimentación personalizados.
+
+![image](https://github.com/user-attachments/assets/a3e0da18-15dc-4d57-9e9e-6c5c933ec3a7)
 
 ### 2.2.3. Análisis de entrevistas
 #### Segmento Objetivo 1:
