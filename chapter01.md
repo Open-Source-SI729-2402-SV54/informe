@@ -68,12 +68,15 @@ NutriSend ofrece diferentes planes adaptados a las necesidades de sus usuarios:
     <td>u20191e835</td>
     <td>Ingeniería de Software</td>
     <td>Soy una persona dispuesta a seguir aprendiendo y mejorando constantemente. Mis conocimientos de programación en C++, Python, HTML y sobre todo la lógica de programación serán de vital ayuda para la realización de este proyecto.</td>
-   <td>Luis Alfonso Villegas Jipa</td>
+    </td>
+  </tr> 
+   <tr>
+      <td>Luis Alfonso Villegas Jipa<br>
+      <img src="https://github.com/user-attachments/assets/10fd141f-6f2e-421d-87d4-628ce712eb08"alt="logo-NutriSend" width="50"/></td></td>
     <td>u201717523</td>
     <td>Ingeniería de Software</td>
     <td>Soy una persona creativa que le gusta aprender nuevos horizontes. Tengo conocimientos de programacion en C++, Python, HTML y JS. Asimismo tengo conocimientos en SQl (Visual Management) y NoSQl (MongoDB).
-    </td>
-  </tr>  
+   </tr>
 </table>
 
 
