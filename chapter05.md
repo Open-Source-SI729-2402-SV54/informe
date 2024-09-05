@@ -1,10 +1,49 @@
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management.
-### 5.1.1. Software Development Environment Configuration.
-### 5.1.2. Source Code Management.
-### 5.1.3. Source Code Style Guide & Conventions.
-### 5.1.4. Software Deployment Configuration.
+
+## 5.1. Software Configuration Management
+En esta sección se establecen las decisiones y convenciones para mantener la consistencia durante el ciclo de vida del software, asegurando la correcta gestión del código fuente, la configuración del entorno de desarrollo y el despliegue de las aplicaciones.
+
+### 5.1.1. Software Development Environment Configuration
+- **IDE:** WebStorm, para desarrollar el Frontend y el Backend.
+- **Control de Versiones:** GitHub para el alojamiento de los repositorios creados.
+- **Desarrollo de Software:**
+  - **Node.js:** Para ejecutar y desarrollar aplicaciones en JavaScript.
+  - **Angular CLI:** Para el scaffolding de aplicaciones web frontend.
+- **Diseño UX/UI:** Figma, para el diseño colaborativo de interfaces.
+- **Testing:**
+  - **Jest:** Para pruebas unitarias.
+  - **Cypress:** Para pruebas de integración.
+- **Documentación:** La documentación respectiva se hará en formato Markdown.
+- **Despliegue:**
+  - **Docker:** Para la contenedorización de aplicaciones.
+  - **Jenkins:** Para la configuración de CI/CD.
+
+### 5.1.2. Source Code Management
+Utilizaremos **GitHub** como la plataforma de control de versiones principal para el proyecto. Aplicaremos **GitFlow** como workflow de desarrollo, que incluirá diferentes ramas según se requiera.
+
+La integración completa del proyecto se hará en la rama **main**; así mismo cadaintegrante contará con una rama en específico para que pueda avanzar su tarea correspondiente.
+Cada capítulo se encontrará en una rama, para luego juntar todo en la documentación de la rama principal.
+
+Los commits seguirán la convención de **Conventional Commits**, asegurando mensajes claros y estructurados, por ejemplo:
+
+- `feat: add user authentication`
+- `fix: correct typo in main page`
+- `chore: update dependencies`
+
+### 5.1.3. Source Code Style Guide & Conventions
+
+Para garantizar la coherencia y calidad del código, seguiremos las siguientes guías de estilo y convenciones de codificación:
+
+- **HTML y CSS:** Se utilizará la **guía de estilos de Google** para HTML y CSS, asegurando nombres de clases semánticos y estructurados en inglés.
+- **JavaScript y TypeScript:** Adopción de la **guía de estilos de Google para JavaScript y TypeScript**, aplicando **ES6+** y asegurando consistencia en la sintaxis y nomenclatura de variables, funciones y clases.
+- **Java:** Uso de la **guía de estilos de Google para Java**, con énfasis en la nomenclatura **camelCase** para variables y métodos, y **PascalCase** para clases.
+
+### 5.1.4. Software Deployment Configuration
+
+El despliegue de las aplicaciones se automatizará desde los repositorios de GitHub utilizando pipelines definidos en Jenkins. Para cada aplicación (Landing Page, Web Services, Frontend Web Applications), el pipeline incluirá los siguientes pasos:
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 La implementación de la página de inicio, los servicios y las aplicaciones representa un paso crucial en nuestro proceso de desarrollo. Este proceso nos permite convertir los diseños y funcionalidades planificados en productos concretos y operativos. Durante esta fase, traducimos las especificaciones y requisitos en código, desarrollando la estructura de la página, los servicios y las aplicaciones de acuerdo con las necesidades identificadas.
 ### 5.2.1. Sprint 1
@@ -158,9 +197,75 @@ En este primer sprint, nos centramos en implementar las funcionalidades esencial
   </tbody>
 </table>
 
-#### 5.2.X.3. Development Evidence for Sprint Review.
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review.
-#### 5.2.X.5. Execution Evidence for Sprint Review.
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
-#### 5.2.X.8. Team Collaboration Insights during Sprint.
+#### 5.2.1.3. Development Evidence for Sprint Review.
+
+En esta sección se detallan y presentan los avances en la implementación de los componentes de la solución, de acuerdo con el alcance definido para el Sprint: Landing Page, Aplicaciones Web y Servicios Web. En primer lugar, se destacarán los commits más relevantes para el reporte, los cuales reflejan el ciclo de vida del proyecto, así como toda la información que se ha utilizado, se está utilizando y se utilizará en el desarrollo del mismo.
+
+Camila Leonor Espinoza Vivas
+
+![commit1](https://github.com/user-attachments/assets/604d056c-1bf4-4940-b88f-283a4c8d1d88)
+
+Renzo José Araujo Ingunza
+
+![commit2](https://github.com/user-attachments/assets/b756140f-e4f2-417f-9d6e-2bf453fb55a4)
+
+Luis Alfonso Villegas Jipa
+
+![45678](https://github.com/user-attachments/assets/f104aaa7-9cf6-451a-b0fa-cd47521fcd55)
+
+Jhordi Luis Carranza Pérez
+
+![2345678](https://github.com/user-attachments/assets/17ee9e9c-f63b-45f3-88b9-c2c911c49e1e)
+
+Fatima Asmad Padilla
+
+![45456789](https://github.com/user-attachments/assets/39243b85-5d16-4dfa-8765-7252a35e2a18)
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en
+una etapa posterior del desarrollo
+
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+
+En esta entrega, el equipo de desarrolladores de NutriSend ha completado con éxito la implementación y el lanzamiento de la página de la Landing Page.
+Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto. Despliegue del lading-page (version0.1): https://open-source-si729-2402-sv54.github.io/landing-page/
+
+Repositorio del landing-page: https://github.com/Open-Source-SI729-2402-SV54/landing-page.git
+
+![4367](https://github.com/user-attachments/assets/6571cefb-6bf2-48c4-86e7-00bf0ee3d2a4)
+
+![456789](https://github.com/user-attachments/assets/3a1b3b2e-9d6f-433a-bf04-d31255be508b)
+
+![345645789](https://github.com/user-attachments/assets/bf16429b-d401-4a6e-ab5f-b315f2126d41)
+![546789](https://github.com/user-attachments/assets/118762f1-414e-49f4-a474-eec66028c49f)
+![3r43354565654](https://github.com/user-attachments/assets/871fe8d2-319a-41a6-a7fc-e693d7ff523c)
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en
+una etapa posterior del desarrollo.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Para la implementación de nuestra página, optamos por utilizar GitHub Pages.Ya que, este es un repositorio en donde podemos gestionar el control de versiones. En ello, se ha creado la primera version denominado "lp-prueba.github.io". 
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+Durante el desarrollo en la implementacion del Landing Page se ha utilizado diversos herramientas como el Figma para su desarrollo base de prototipado (WireFrames, UI,UX Desing, entre otros) y utilizando los guias de estilos que habiamos propuesto.
+
+Luego de ello, usamos el WebStorm para su elaboracion en Html, CSS y JavaScript.
+
+A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo
+
+![image](https://github.com/user-attachments/assets/c9d9f876-0b59-4ed8-8351-674a0d878f0c)
+
+Asimismo, se muestra en una represetacion visual sobre el trafico de los "Git clones" y "Visitors" registrados en cada accion realizada al cabo de la elaboracion en el repositorio.
+
+Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del desarrollo.
+
+![image](https://github.com/user-attachments/assets/6fdbaca7-6ba4-4c6a-8fc8-47db4b7c6065)
+
+![image](https://github.com/user-attachments/assets/27e7125e-b971-48ca-9138-b35479ddc5c6)
+
+![image](https://github.com/user-attachments/assets/1878c86d-23fd-4b8c-96f7-78f6f90baba2)

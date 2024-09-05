@@ -67,12 +67,6 @@ NutriSend ofrece diferentes planes adaptados a las necesidades de sus usuarios:
     <td>u20191e835</td>
     <td>Ingeniería de Software</td>
     <td>Soy una persona dispuesta a seguir aprendiendo y mejorando constantemente. Mis conocimientos de programación en C++, Python, HTML y sobre todo la lógica de programación serán de vital ayuda para la realización de este proyecto.</td>
-  </tr>
-  <td>Renzo José Araujo Ingunza</td>
-    <td>u202113612</td>
-    <td>Ingeniería de Software</td>
-    <td>Soy una persona creativa con pasión por aprender. Tengo habilidades en programación en C++, Python, HTML y JS, además de conocimientos en SQL (Visual Management) y NoSQL (MongoDB).</td>
-  </tr>  
    <td>Luis Alfonso Villegas Jipa</td>
     <td>u201717523</td>
     <td>Ingeniería de Software</td>
