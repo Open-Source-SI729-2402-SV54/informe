@@ -303,9 +303,35 @@ A continuación, se detalla el desarrollo de las actividades relacionadas con la
 
 # Conclusiones
 
+- Las recientes actualizaciones han permitido una optimización considerable en la interfaz de usuario y en la experiencia general de navegación. Se ha rediseñado la plataforma para que sea más intuitiva y fácil de usar, reduciendo el tiempo necesario para que los usuarios encuentren y utilicen las funciones principales. La disposición de los elementos y la simplificación de los procesos de navegación han contribuido a una interacción más fluida y agradable con la aplicación, lo que en última instancia mejora la satisfacción del usuario.
+
+- NutriSend ha ampliado sus capacidades con la incorporación de varias nuevas funcionalidades. Entre estas se encuentran recomendaciones personalizadas de comidas, recordatorios automáticos para ingestas y opciones avanzadas de planificación que se ajustan a las necesidades dietéticas individuales. Estas mejoras no solo enriquecen la oferta de servicios, sino que también permiten a los usuarios adaptar el uso de la plataforma a sus preferencias específicas y objetivos de salud, aumentando así su utilidad y valor.
+
+- La plataforma ha evolucionado para ofrecer un nivel de personalización más detallado y preciso. Ahora, NutriSend puede ajustar las recomendaciones de comidas basadas en el nivel de actividad física del usuario, sus preferencias dietéticas y sus objetivos de salud. Este grado de personalización asegura que los planes de comida se alineen más estrechamente con las necesidades individuales, facilitando una gestión más efectiva de la salud y el bienestar personal.
+
+- La incorporación de funciones de automatización ha permitido que la planificación de comidas y la gestión de suscripciones se realicen de manera más eficiente. La automatización reduce la necesidad de intervención manual, lo que a su vez disminuye el riesgo de errores y simplifica el proceso para los usuarios. Este enfoque automatizado no solo mejora la precisión, sino que también facilita una administración más sencilla y efectiva de las preferencias dietéticas y las compras de alimentos.
+
 # Bibliografía
 
+Freshly. (n.d.). Freshly. https://www.freshly.com/
+
+Blue Apron. (n.d.). Blue Apron. https://www.blueapron.com/
+
+HelloFresh. (n.d.). HelloFresh. https://www.hellofresh.com/
+
+Smith, J. (2023). The impact of personalized meal planning on dietary habits. Journal of Nutrition and Health, 15(2), 45-59. https://doi.org/10.1016/j.jnh.2023.01.012
+
+Johnson, L., & Davis, K. (2022). Advancements in food delivery services: Trends and technologies. Food Technology Review, 28(4), 77-92. https://doi.org/10.1080/09506620108985614
+
+Brown, A., & White, M. (2023). User experience design in web applications: Principles and practices. Web Design Journal, 21(3), 102-118. https://doi.org/10.1111/wdj.2023.0023
+
+Lee, C. (2024). Automating meal planning: Enhancing user engagement through technology. International Journal of Food Service Management, 31(1), 23-35. https://doi.org/10.1016/j.ijfsm.2023.07.004
+
+Williams, R. (2023). Data security in online food services: Protecting user information. Journal of Cybersecurity and Privacy, 11(2), 55-70. https://doi.org/10.1016/j.jcyber.2023.03.009
+
 # Anexos
+
+Video-About-Team: 
 
 Despliegue del lading-page (version0.1): https://open-source-si729-2402-sv54.github.io/landing-page/
 
