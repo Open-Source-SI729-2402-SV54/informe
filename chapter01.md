@@ -57,8 +57,7 @@ NutriSend ofrece diferentes planes adaptados a las necesidades de sus usuarios:
     <td>Soy una persona responsable y aplicada. para este proyecto cuento con conocimientos en lenguajes de programación como C + +, Python y java.</td>
   </tr>
   <tr>
-    <td>Fatima Asmad Padilla</td>
-     <img src="https://github.com/user-attachments/assets/c1abfa42-e945-4936-8ac7-93828b200e0c"alt="logo-NutriSend" width="50"/></td></td>
+    <td>Fatima Asmad Padilla<img src="https://github.com/user-attachments/assets/c1abfa42-e945-4936-8ac7-93828b200e0c"alt="logo-NutriSend" width="50"/></td></td>
     <td>u202113612</td>
     <td>Ingeniería de Software</td>
     <td>Soy una persona aplicada y responsable ademas de organizada. Me gusta el programar en phyton y java, ademas tambien de Html
