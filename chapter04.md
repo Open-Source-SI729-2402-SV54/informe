@@ -369,7 +369,7 @@ Utilizando la paleta de colores y los estilos definidos, nuestro concepto de los
 
 ![mockUp3](https://github.com/user-attachments/assets/06964904-b490-4a22-94c4-dfe5f4dcac6c)
 
-![mockUp4](https://github.com/user-attachments/assets/2993a948-3df5-4785-91d0-4506716b571c)
+![MockUp4OrderFit](https://github.com/user-attachments/assets/cb46eb39-74a9-4c6c-ba70-3d19093a14fe)
 
 
 ### 4.4.4. Web Applications User Flow Diagrams
