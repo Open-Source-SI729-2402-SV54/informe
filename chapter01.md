@@ -43,10 +43,11 @@ NutriSend ofrece diferentes planes adaptados a las necesidades de sus usuarios:
     <th>Principales conocimientos / habilidades</th>
   </tr>
   <tr>
-    <td>Camila Leonor Espinoza Vivas</td>
+    <td>Camila Leonor Espinoza Vivas<br>
+    <img src="https://github.com/user-attachments/assets/2a5188a5-e379-4f3d-923c-34c853b02878" alt="logo-NutriSend" width="50"/></td></td>
     <td>u202214572</td>
     <td>Ingeniería de Software</td>
-    <td>----</td>
+    <td>Soy responsable, dedicada, perfeccionista y tengo liderazgo. Para este proyecto cuento con conocimiento en lenguajes de programacion como html, css, java, python y c++</td>
   </tr>
   <tr>
     <td>Renzo José Araujo Ingunza</td>
@@ -57,8 +58,9 @@ NutriSend ofrece diferentes planes adaptados a las necesidades de sus usuarios:
   <tr>
     <td>Fatima Asmad Padilla</td>
     <td>u202113612</td>
-    <td>----</td>
-    <td>----</td>
+    <td>Ingeniería de Software</td>
+    <td>Soy una persona responsable y aplicada. Para este proyecto, tengo conocimientos en lenguajes de programación como C++, Python y Java.
+</td>
   </tr>
   <tr>
     <td>Jhordi Luis Carranza Pérez</td>
@@ -68,8 +70,8 @@ NutriSend ofrece diferentes planes adaptados a las necesidades de sus usuarios:
   </tr>
   <td>Renzo José Araujo Ingunza</td>
     <td>u202113612</td>
-    <td>----</td>
-    <td>----</td>
+    <td>Ingeniería de Software</td>
+    <td>Soy una persona creativa con pasión por aprender. Tengo habilidades en programación en C++, Python, HTML y JS, además de conocimientos en SQL (Visual Management) y NoSQL (MongoDB).</td>
   </tr>  
    <td>Luis Alfonso Villegas Jipa</td>
     <td>u201717523</td>

@@ -3,7 +3,7 @@
 ## 3.1. To-Be Scenario Mapping.
 
 <img src="img/To-Be Scenario Mapping 1.jpg" alt="Colors">
-<img src="img/To-Be Scenario Mapping 2.jpg" alt="Colors">
+<img src="https://github.com/user-attachments/assets/d640f9c0-b338-4347-9311-9760daf6f1d7" alt="Colors">
 
 ## 3.2. User Stories.
 En este punto, se encuentran una serie de historias de usuario que han sido creadas para capturar las necesidades y expectativas clave del producto. Estas historias servirán como base para la planificación, el desarrollo y la validación del software.
@@ -21,58 +21,44 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
     <tbody>
         <tr>
             <td>EPIC-001</td>
-            <td>Conveniencia en la Planificación de Comidas</td>
+            <td>Facilidad en la Planificación de Comidas</td>
             <td>
-                <strong>Como</strong> profesional joven con una agenda ocupada, <strong>quiero</strong> poder planificar mis comidas de manera rápida y sencilla, 
-                <strong>para</strong> que pueda disfrutar de alimentos saludables sin perder tiempo en la cocina.
+                Como persona con una agenda apretada, deseo poder planificar mis comidas de manera rápida y sencilla, para disfrutar de alimentos que se ajusten a mis necesidades.
             </td>
         </tr>
         <tr>
             <td>EPIC-002</td>
-            <td>Control sobre la Alimentación y Ejercicio</td>
+            <td>Control sobre la Dieta y el Ejercicio</td>
             <td>
-                <strong>Como</strong> persona que sigue un régimen alimenticio estructurado, <strong>quiero</strong> tener acceso a menús personalizados que se ajusten a mis necesidades nutricionales y de ejercicio, 
-                <strong>para</strong> que pueda mantener un estilo de vida saludable.
+                Como persona que sigue una dieta estructurada, quiero tener acceso a menús que se ajusten a mis necesidades de calorías, proteínas, carbohidratos y grasas, para mantener un estilo de vida saludable.
             </td>
         </tr>
         <tr>
             <td>EPIC-003</td>
             <td>Acceso a Comidas Saludables</td>
             <td>
-                <strong>Como</strong> usuario quiero acceder a comidas saludables y listas para consumir,
-                <strong>para</strong> asegurar que pueda disfrutar de las diversas opciones nutritivas.
+                Como persona quiero acceder a comidas que se ajusten a mis requerimientos nutricionales y estén listas para consumir, para asegurarme de disfrutar de opciones adecuadas a mis necesidades específicas.
             </td>
         </tr>
         <tr>
             <td>EPIC-004</td>
             <td>Desarrollo de una Plataforma Web Integrada</td>
             <td>
-                <strong>Como</strong> entusiasta del fitness, quiero tener una plataforma web de NutriSend que me permita gestionar mis comidas 
-                <strong>para</strong> que pueda recibir recomendaciones personalizadas sobre mis necesidades alimenticias basadas en mi actividad física. .
+                Como persona quiero que la plataforma web de NutriSend me permita gestionar mis comidas y recibir recomendaciones personalizadas sobre mis necesidades de calorías y macronutrientes basadas en mi actividad física.
             </td>
         </tr>
         <tr>
             <td>EPIC-005</td>
-            <td>Soporte y Asesoramiento Nutricional</td>
+            <td>Alertas y Recordatorios Personalizados</td>
             <td>
-                <strong>Como</strong> usuario que busca mejorar su salud, <strong>quiero</strong> tener acceso a soporte y asesoramiento de nutricionistas, 
-                <strong>para</strong> que pueda tomar decisiones informadas sobre mi alimentación y estilo de vida.
+                Como persona con un estilo de vida activo, quiero recibir alertas y recordatorios sobre mis horarios de comida y ejercicio, para optimizar mi rutina diaria y asegurarme de cumplir con mis objetivos de salud.
             </td>
         </tr>
         <tr>
             <td>EPIC-006</td>
-            <td>Alertas y Recordatorios Personalizados</td>
+            <td>Usabilidad de la Plataforma</td>
             <td>
-                <strong>Como</strong> usuario con un estilo de vida activo, <strong>quiero</strong> recibir alertas y recordatorios sobre mis horarios de comida y ejercicio, 
-                <strong>para</strong> que pueda optimizar mi rutina diaria y asegurarme de cumplir con mis objetivos de salud.
-            </td>
-        </tr>
-        <tr>
-            <td>EPIC-007</td>
-            <td>Facilidad de Uso de la Plataforma</td>
-            <td>
-                <strong>Como</strong> usuario que valora la tecnología, <strong>quiero</strong> que la plataforma NutriSend sea intuitiva y fácil de usar, 
-                <strong>para</strong> que pueda realizar pedidos y gestionar mis comidas sin complicaciones.
+                Como persona que valora la tecnología, quiero que la plataforma NutriSend sea intuitiva y fácil de usar, para que pueda realizar pedidos y gestionar mis comidas sin complicaciones.
             </td>
         </tr>
     </tbody>
@@ -95,102 +81,125 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
         <tr>
             <td>US-001</td>
             <td>
-                Planificación Rápida de Comidas
+                Registro de Usuarios
             </td>
             <td>
-                Como profesional joven, quiero poder planificar mis comidas en menos de 5 minutos, para que pueda dedicar más tiempo a otras actividades.
+                COMO usuario QUIERO observar un apartado de “Regístrate” PARA poder crear una cuenta propia.
             </td>
             <td>
-                <strong>Escenario 1:</strong> <br>
-                El usuario puede seleccionar recetas y generar un plan de comidas en menos de 5 minutos. <br>
-                <strong>Escenario 2:</strong> <br>
-                El sistema sugiere automáticamente recetas basadas en preferencias del usuario.
+                <strong>Escenario 1:</strong> El usuario se dirige a registrarse<br>
+                Dado que el usuario se encuentre en la Landing Page 
+                Cuando le de click al botón de “Registrarse” 
+                Entonces le llevará a la página respectiva donde podrá registrarse.
             </td>
-            <td>EPIC-001</td>
+            <td>EPIC-006</td>
         </tr>
         <!--User Story 2-->
         <tr>
             <td>US-002</td>
             <td>
-                Acceso a Menús Personalizados
+                Inserción 
             </td>
             <td>
-                Como usuario con un régimen alimenticio estructurado, quiero recibir menús personalizados cada semana, para que se ajusten a mis necesidades nutricionales y de ejercicio.
+                COMO usuario QUIERO ingresar mis datos principales PARA tener un perfil en la aplicación
             </td>
             <td>
-                <strong>Escenario 1:</strong> <br>
-                El usuario recibe un menú semanal basado en sus preferencias y objetivos. <br>
-                <strong>Escenario 2:</strong> <br>
-                El usuario puede modificar el menú y recibir recomendaciones alternativas.
+                Escenario 1: El usuario ingresa sus datos correctamente <br>
+                Dado que el usuario ingresa todos los datos requeridos por el sistema <br>
+                Cuando el usuario le dé al botón de registrar <br>
+                Entonces se creara su perfil y podrá acceder a él cuando desee <br>
+                Escenario 2: El usuario ingresa sus datos incorrectamente <br>
+                Dado que el usuario ingresa algún dato indebidamente <br>
+                Cuando el usuario le dé al botón de registrar aparecerá una alerta diciendo que un dato está incorrecto <br>
+                Entonces deberá volver a registrar ese dato<br>
             </td>
-            <td>EPIC-002</td>
+            <td>EPIC-006</td>
         </tr>
         <!--User Story 3-->
         <tr>
             <td>US-003</td>
             <td>
-                Recetas Saludables y Fáciles de Preparar
+                Inicio de sesión 
             </td>
             <td>
-                Como usuario interesado en la nutrición, quiero acceder a una variedad de comidas saludables que estén listas para consumir, para que pueda diversificar mi alimentación sin complicaciones.
+                COMO usuario QUIERO ingresar a la aplicación con mi cuenta registrada PARA usar mi perfil creado
             </td>
             <td>
-                <strong>Escenario 1:</strong> <br>
-                El usuario puede explorar un catálogo de comidas saludables disponibles para pedidos. <br>
-                <strong>Escenario 2:</strong> <br>
-                El usuario puede filtrar las comidas por tipo de dieta (vegana, sin gluten, etc.).
+                Escenario 1: El usuario ingresa correctamente el usuario y contraseña. <br>
+                Dado que el usuario ingresa sus credenciales válidas <br>
+                Cuando le de clic al botón de “Ingresar”, ubicado en la parte inferior de los datos ingresados <br>
+                Entonces será dirigido a la página principal. <br>
+                Escenario 2: El usuario ingresa una contraseña incorrecta.<br> 
+                Dado que el usuario tiente ingresa mal su contraseña de registro<br>
+                Cuando le de clic al botón “Ingresar” <br>
+                Entonces se mostrará un mensaje de error pidiendo que ingrese nuevamente solo la clave, y será incitado a utilizar el botón “Olvidé mi contraseña” en caso sea necesario. <br>
+                Escenario 3: El usuario ingresa un usuario que no está registrado <br>
+                Dado que el usuario ingresa una información no registrada previamente. <br>
+                Cuando le de clic al botón “Ingresar” <br>
+                Entonces se le indicará que la cuenta no está registrada y que ingrese un usuario registrado o que se dirija a la página de registro. 
             </td>
-            <td>EPIC-003</td>
+            <td>EPIC-006</td>
         </tr>
         <!--User Story 4-->
         <tr>
             <td>US-004</td>
             <td>
-                Integración con Dispositivos Wearables
+                Cierre de sesión
             </td>
             <td>
-               Como entusiasta del fitness, quiero tener una plataforma web de NutriSend que me permita gestionar mis comidas y recibir recomendaciones personalizadas sobre mis necesidades alimenticias basadas en 
-               mi actividad física.
+               COMO usuario QUIERO salir de la aplicación PARA evitar el uso de mi cuenta en las manos de otras personas.
             </td>
             <td>
-                <strong>Escenario 1:</strong> <br>
-                Ingreso mis datos de actividad física (como pasos, tiempo de ejercicio, etc.) <br>
-                <strong>Escenario 2:</strong> <br>
-                El sistema me proporciona recomendaciones de comidas personalizadas basadas en esos datos.
+                Escenario 1: El usuario cierra sesión <br>
+                Dado que el usuario quiere cerrar su sesión <br>
+                Cuando le dé clic al botón de “Cerrar sesión” <br>
+                Entonces será verificado que desea salir de la sesión <br>
+                Y al realizar la confirmación su sesión se cerrará.<br>
             </td>
-            <td>EPIC-004</td>
+            <td>EPIC-006</td>
         </tr>
         <!--User Story 5-->
         <tr>
             <td>US-005</td>
             <td>
-                Soporte Nutricional Accesible
+                Editar perfil 
             </td>
             <td>
-                Como usuario que busca mejorar su salud, quiero tener acceso a un chat en vivo con un nutricionista, para que pueda hacer preguntas sobre mi dieta y recibir asesoramiento personalizado.
+                COMO usuario QUIERO poder editar algún detalle de mi perfil PARA tenerlo actualizado al momento. 
             </td>
             <td>
-                <strong>Escenario 1:</strong> <br>
-                El usuario puede iniciar un chat con un nutricionista en cualquier momento. <br>
-                <strong>Escenario 2:</strong> <br>
-                El usuario recibe respuestas a sus preguntas en un tiempo máximo de 30 minutos.
+                Escenario 1: El usuario edita su perfil correctamente <br>
+                Dado que el cliente quiere editar su perfil <br>
+                Cuando le dé clic al botón de “Editar perfil” podrá modificar el dato que desee <br>
+                Entonces le dará al botón de “Guardar” <br>
+                Y la actualización de datos se completará.<br> 
+                Escenario 2: El usuario edita su perfil incorrectamente <br>
+                Dado que el usuario quiere editar su perfil <br>
+                Cuando cuando termine de editarlo le dará clic al botón de “Guardar” <br>
+                Entonces aparecerá una advertencia diciendo “Datos ingresados inválidos” <br>
+                Y deberá volver a digitar el dato correctamente. <br>
             </td>
-            <td>EPIC-005</td>
+            <td>EPIC-006</td>
         </tr>
         <!--User Story 6-->
         <tr>
             <td>US-006</td>
             <td>
-                Alertas de Comida y Ejercicio
+                Elección de plan
             </td>
             <td>
-                Como usuario activo, quiero recibir alertas sobre mis horarios de comida y ejercicio, para que pueda seguir mi rutina de manera efectiva.
+                COMO usuario QUIERO tener opción en la elección de planes PARA tener opción de elección.
             </td>
             <td>
-                <strong>Escenario 1:</strong> <br>
-                El usuario recibe notificaciones 15 minutos antes de cada comida programada. <br>
-                <strong>Escenario 2:</strong> <br>
-                El usuario puede personalizar la frecuencia y el tipo de alertas que recibe.
+                Escenario 1:<br>
+                Dado que el usuario elige el plan que desea usar<br>
+                Cuando termine de loguearse, aparecerá la ventana de los planes a elegir.<br>
+                Entonces podrá escoger qué tipo de plan desea utilizar.<br>
+                Escenario 2:<br>
+                Dado que el usuario se encuentra en cualquier otra pestaña
+                Y quiera cambiar de plan.<br> 
+                Cuando le de click al botón de “plan” en la parte superior derecha de la pantalla.<br>
+                Entonces se le redirigirá a la pestaña de los planes para que pueda escoger su nuevo plan.<br>
             </td>
             <td>EPIC-006</td>
         </tr>
@@ -198,118 +207,139 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
         <tr>
             <td>US-007</td>
             <td>
-                Interfaz Intuitiva y Fácil de Usar
+                Realizar el pedido 
             </td>
             <td>
-                Como usuario que valora la tecnología, quiero que la plataforma tenga una interfaz intuitiva, para que pueda navegar y realizar pedidos sin complicaciones.
+                Como usuario que busca una opción conveniente y saludable para mis comidas, quiero poder realizar pedidos de comida a través de la aplicación, para poder disfrutar de comidas deliciosas y nutritivas sin tener que cocinar.
             </td>
             <td>
-                <strong>Escenario 1:</strong> <br>
-                El usuario puede realizar un pedido en menos de 3 clics. <br>
-                <strong>Escenario 2:</strong> <br>
-                El usuario puede encontrar fácilmente la sección de ayuda y soporte.
+                Escenario 1: Visualización del Menú <br>
+                Dado que el usuario ha iniciado sesión en la aplicación, <br>
+                Cuando el usuario selecciona la opción de realizar un nuevo pedido, <br>
+                Entonces el usuario debería ser dirigido a una página donde pueda ver el menú disponible. <br>
             </td>
-            <td>EPIC-007</td>
+            <td>EPIC-001</td>
         </tr>
         <!--User Story 8-->
         <tr>
             <td>US-008</td>
             <td>
-                Guardar Preferencias de Comida
+                Como usuario, quiero tener la capacidad de acceder fácilmente al catálogo del menú a través de la aplicación, para poder revisar las diferentes opciones disponibles
             </td>
             <td>
                 Como usuario, quiero poder guardar mis preferencias alimenticias, para que las recomendaciones de NutriSend se ajusten a mis gustos y necesidades.
             </td>
             <td>
-                <strong>Escenario 1:</strong> <br>
-                El usuario puede seleccionar y guardar ingredientes que le gustan o no le gustan. <br>
-                <strong>Escenario 2:</strong> <br>
-                El sistema utiliza estas preferencias para personalizar menús y recetas.
+                Escenario 1: Acceso al catálogo. <br>  
+                Dado que el usuario ha iniciado sesión en la aplicación, <br> 
+                Cuando el usuario selecciona la opción de explorar el catálogo del menú,  <br>
+                Entonces el usuario debería ser dirigido a una página donde pueda ver todas las opciones disponibles en el menú.  <br>
+                Escenario 2: Regreso al Catálogo  <br>
+                Dado que el usuario está visualizando los detalles de un elemento del menú.  <br>
+                Cuando el usuario desea regresar al catálogo para explorar otros elementos. <br> 
+                Entonces el usuario debería poder volver fácilmente al catálogo principal del menú.
             </td>
-            <td>EPIC-002</td>
+            <td>EPIC-003</td>
         </tr>
         <!--User Story 9-->
         <tr>
             <td>US-009</td>
             <td>
-                Recomendaciones Basadas en Historial de Comidas
+                Visualización de información nutricional 
             </td>
             <td>
-               Como usuario, quiero recibir recomendaciones de comidas basadas en mi historial de pedidos, para que pueda descubrir nuevas opciones que me gusten.
+               Como usuario de la aplicación de gestión de restaurantes, quiero visualizar la cantidad total de calorias al momento de pagar, para tomar decisiones informadas sobre mis elecciones alimenticias.
             </td>
             <td>
-                <strong>Escenario 1:</strong> <br>
-                El sistema analiza el historial de pedidos del usuario y sugiere nuevas comidas. <br>
-                <strong>Escenario 2:</strong> <br>
-                El usuario puede calificar las recomendaciones para mejorar futuras sugerencias.
+                Escenario 1:  Visualización de calorias<br>  
+                Dado que el usuario ha agregado items a su carro de compra. 
+                Y desea pagar.   <br> 
+                Cuando ingresa al portal de pago , <br> 
+                Entonces el usuario puede visualizar la cantidad de calorias del pedido junto a el costo del pedido 
             </td>
-            <td>EPIC-003</td>
+            <td>EPIC-002</td>
         </tr>
         <!--User Story 10-->
         <tr>
             <td>US-010</td>
             <td>
-                Feedback sobre la Calidad de los Alimentos
+                Editar Pedido 
             </td>
             <td>
-                Como usuario, quiero poder dejar comentarios sobre la calidad de los alimentos recibidos, para que NutriSend pueda mejorar sus servicios y productos.
+                Como usuario de la aplicación, quiero tener la posibilidad de editar mis pedidos, para tener la opción de agregar o eliminar algún platillo que desee.
             </td>
             <td>
-                <strong>Escenario 1:</strong> <br>
-                El usuario puede dejar comentarios y calificaciones después de recibir su pedido. <br>
-                <strong>Escenario 2:</strong> <br>
-                El sistema envía un resumen de comentarios al usuario para que vea cómo se están utilizando sus sugerencias.
+                Escenario 1: Edición para agregar un platillo. <br>
+                Dado que el usuario se encuentra en la pestaña del carrito de compras, <br>
+                Cuando selecciona la opción para editar pedido y agregar un platillo más.<br>
+                Entonces el sistema le muestra el pedido actualizado del usuario.<br>
+                Escenario 2: Edición para eliminar un platillo.<br>
+                Dado que el usuario se encuentra en la pestaña del carrito de compras, <br>
+                Cuando selecciona la opción para editar pedido y eliminar un platillo.<br>
+                Entonces el sistema le muestra el pedido actualizado con su platillo eliminado.<br>
             </td>
-            <td>EPIC-005</td>
+            <td>EPIC-001</td>
         </tr>
       <!--User Story 11-->
         <tr>
             <td>US-011</td>
             <td>
-                Personalización de Porciones
+                Recordatorios de comidas
             </td>
             <td>
-                Como usuario, quiero poder personalizar las porciones de mis comidas, para que se ajusten a mis necesidades nutricionales y de saciedad.
+                Como usuario con una agenda ocupada quiero recibir recordatorios automáticos sobre mis comidas diarias para no olvidar comer en los momentos adecuados.
             </td>
             <td>
-                <strong>Escenario 1:</strong> <br>
-                El usuario puede seleccionar el tamaño de las porciones al realizar un pedido. <br>
-                <strong>Escenario 2:</strong> <br>
-                El sistema ajusta automáticamente los ingredientes según el tamaño de la porción seleccionada.
+                Escenario 1:<br>
+                Dado que el usuario tiene configurado un recordatorio de comida diaria como su desayuno, almuerzo y cena,<br>
+                Cuando sea la hora de la comida programada,<br>
+                Entonces el sistema enviará una notificación recordando al usuario que debe comer.<br>
+                Escenario 2:<br>
+                Dado que el usuario desea modificar sus recordatorios de comidas,<br>
+                Cuando acceda a la configuración de notificaciones,<br>
+                Entonces podrá ajustar los horarios de sus recordatorios según su agenda diaria.
             </td>
-            <td>EPIC-002</td>
+            <td>EPIC-001</td>
         </tr>
         <!--User Story 12-->
         <tr>
             <td>US-012</td>
             <td>
-                Recibir Consejos de Nutrición Diarios
+                Planificación automática de comidas según el horario
             </td>
             <td>
-                Como usuario interesado en la salud, quiero recibir consejos de nutrición diarios a través de la aplicación, para que pueda mejorar mis hábitos alimenticios.
+                Como usuario con una agenda ocupada, quier que NutriSend planifique automáticamente mis comidas para cada semana, para no tener que planificarlas manualmente y asegurarme de cumplir con mis objetivos nutricionales sin perder tiempo
             </td>
             <td>
-                <strong>Escenario 1:</strong> <br>
-                El usuario recibe una notificación diaria con un consejo de nutrición. <br>
-                <strong>Escenario 2:</strong> <br>
-                El usuario puede guardar sus consejos favoritos para consultarlos más tarde.
+                Escenario 1: <br>
+                Dado que el usuario ha configurado su horario semanal de comidas,
+                Cuando llegue el inicio de una semana,<br>
+                Entonces NutriSend planificará automáticamente las comidas para toda la semana en función de su agenda.<br>
+                Escenario 2:<br>
+                Dado que el usuario ha actualizado su horario con diferentes comidas,<br>
+                Cuando el usuario guarde los cambios en su horario,<br>
+                Entonces NutriSend ajustará la planificación de las comidas automáticamente según los nuevos horarios.<br>
             </td>
-            <td>EPIC-005</td>
+            <td>EPIC-001</td>
         </tr>
         <!--User Story 13-->
         <tr>
             <td>US-013</td>
             <td>
-                Comparar Opciones de Menú
+                Repetición de pedidos anteriores
             </td>
             <td>
-                Como usuario, quiero poder comparar diferentes opciones de menú, para que pueda elegir la que mejor se adapte a mis preferencias y necesidades.
+                Como usuario quiero poder repetir pedidos anteriores con un solo clic para ahorrar tiempo en la planificación de mis comidas
             </td>
             <td>
-                <strong>Escenario 1:</strong> <br>
-                El usuario puede ver dos o más menús lado a lado para comparar ingredientes y calorías. <br>
-                <strong>Escenario 2:</strong> <br>
-                El usuario puede seleccionar un menú y ver recomendaciones basadas en su elección.
+                Escenario 1:<br>
+                Dado que el usuario ha realizado pedidos previamente,<br>
+                Cuando guarde su horario de comidas,<br>
+                Entonces recibirá una notificación para saber si desea realizar las mismas compras de la semana pasada para la siguiente semana<br>
+                Escenario 2:<br>
+                Dado que el usuario desea repetir un pedido anterior,<br>
+                Cuando seleccione la opción de repetir un pedido,<br>
+                Entonces podrá revisar y editar su horario de comidas.<br>
             </td>
             <td>EPIC-001</td>
         </tr>
@@ -317,470 +347,296 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
         <tr>
             <td>US-014</td>
             <td>
-                Planificación de Comidas para Grupos
+                Personalización según tipo de actividad física
             </td>
             <td>
-                Como organizador de eventos, quiero poder planificar comidas para grupos, para que pueda asegurarme de que todos tengan opciones adecuadas según sus preferencias dietéticas.
+                Como usuario, quiero que NutriSend me proporcione alimentos adaptados al tipo de deporte que practico, para que mi dieta se ajuste de manera óptima a mis entrenamientos y mejore mi rendimiento físico.
             </td>
             <td>
-                <strong>Escenario 1:</strong> <br>
-                El usuario puede ingresar la cantidad de personas y sus preferencias alimenticias. <br>
-                <strong>Escenario 2:</strong> <br>
-                El sistema genera un menú y lista de compras adaptados para el grupo.
+                Escenario 1:<br>
+                Dado que el usuario se ha suscrito al plan premium,<br>
+                Cuando desee ordenar sus alimentos,<br>
+                Entonces tendrá la opción de elegir los alimentos según el deporte que desea.<br>
+                Escenario 2:<br>
+                Dado que el usuario cambia su rutina de ejercicios,<br>
+                Cuando desee ordenar sus alimentos,<br>
+                Entonces tendrá la opción de elegir los alimentos según el deporte que desea.<br>
             </td>
-            <td>EPIC-001</td>
+            <td>EPIC-002</td>
         </tr>
         <!--User Story 15-->
         <tr>
             <td>US-015</td>
             <td>
-                Acceso a Información Nutricional de Comidas
+                Recomendaciones de comidas
             </td>
             <td>
-                Como usuario, quiero que cada comida incluya información nutricional detallada, para que pueda tomar decisiones informadas sobre lo que consumo.
+                Como usuario quiero recibir recomendaciones de comidas para optimizar mi rendimiento físico.
             </td>
             <td>
-                <strong>Escenario 1:</strong> <br>
-                Cada comida muestra información sobre calorías, grasas, proteínas y carbohidratos. <br>
-                <strong>Escenario 2:</strong> <br>
-                El usuario puede ver un desglose nutricional al seleccionar una comida.
+                Escenario 1:<br>
+                Dado que el usuario regularmente pide exactamente alimentos con un nutriente en específico<br>
+                Cuando NutriSend muestre el apartado de alimentos,<br>
+                Entonces el sistema recomendará platos similares a los alimentos de mayor demanda.<br>
+                Escenario 2:<br>
+                Dado que el usuario tiene objetivos específicos de salud (pérdida de peso, ganancia muscular, etc.),<br>
+                Cuando NutriSend planifique sus comidas,<br>
+                Entonces el sistema recomendará opciones que apoyen esos objetivos específicos.<br>
             </td>
-            <td>EPIC-003</td>
+            <td>EPIC-002</td>
         </tr>
         <!--User Story 16-->
         <tr>
             <td>US-016</td>
             <td>
-                Integración con Redes Sociales
+                Revisión de ingredientes frescos
             </td>
             <td>
-                Como usuario, quiero poder compartir mis logros y recetas en redes sociales a través de la plataforma web, para que pueda inspirar a otros y recibir feedback sobre mis elecciones alimenticias.
+                Como usuario quiero revisar que los ingredientes de las comidas sean frescos y de alta calidad para asegurar que mis comidas sean saludables y nutritivas.
             </td>
             <td>
-                <strong>Escenario 1:</strong> <br>
-                El usuario puede compartir recetas y menús en sus perfiles de redes sociales. <br>
-                <strong>Escenario 2:</strong> <br>
-                El usuario puede invitar a amigos a unirse a NutriSend a través de las redes sociales.
+                Escenario 1:<br>
+                Dado que el usuario está revisando una opción de comida en el catálogo,<br>
+                Cuando seleccione la comida,<br>
+                Entonces podrá ver una descripción detallada de los ingredientes y su frescura.<br>
+                Escenario 2:<br>
+                Dado que el usuario está buscando comidas en el catálogo,<br>
+                Cuando aplique el filtro de ingredientes frescos,<br>
+                Entonces sólo se mostrarán las opciones que utilizan ingredientes frescos y de alta calidad.
             </td>
-            <td>EPIC-004</td>
+            <td>EPIC-003</td>
         </tr>
         <!--User Story 17-->
         <tr>
             <td>US-017</td>
             <td>
-                Registro de Progreso de Salud
+                ROpción de platos bajos en calorías
             </td>
             <td>
-                Como usuario, quiero poder registrar mi progreso de salud en la aplicación, para que pueda monitorear mis avances y hacer ajustes a mi dieta y rutina de ejercicios.
+                Como usuario quiero acceder a una selección de comidas bajas en calorías para poder mantener una dieta controlada sin complicaciones.
             </td>
             <td>
-                <strong>Escenario 1:</strong> <br>
-                El usuario puede ingresar datos sobre su peso, medidas y actividad física. <br>
-                <strong>Escenario 2:</strong> <br>
-                El sistema proporciona gráficos y estadísticas sobre el progreso del usuario a lo largo del tiempo.
+                Escenario 1:<br>
+                Dado que el usuario desea mantener una dieta controlada,<br>
+                Cuando acceda al catálogo de comidas,<br>
+                Entonces podrá seleccionar un filtro de platos bajos en calorías para ver opciones adecuadas.<br>
+                Escenario 2:
+                Dado que el usuario ha indicado una preferencia por comidas bajas en calorías,<br>
+                Cuando NutriSend planifique las comidas,<br>
+                Entonces priorizará las opciones bajas en calorías dentro del plan del usuario.
             </td>
-            <td>EPIC-006</td>
+            <td>EPIC-003</td>
         </tr>
         <!--User Story 18-->
         <tr>
             <td>US-018</td>
             <td>
-                Notificaciones de Nuevas Recetas
+                Recomendaciones basadas en pedidos
             </td>
             <td>
-                 Como usuario, quiero recibir notificaciones sobre nuevas opciones de comida que se agregan a la plataforma, para que pueda probar opciones frescas y emocionantes.
+                 Como usuario quiero recibir recomendaciones de comidas basadas en mis pedidos para encontrar fácilmente opciones que se alineen con mis preferencias
             </td>
             <td>
-                <strong>Escenario 1:</strong> <br>
-                El usuario recibe una notificación cada vez que se añade una nueva opción de comida. <br>
-                <strong>Escenario 2:</strong> <br>
-                El usuario puede personalizar las categorías de  comida que desea recibir notificaciones.
+                Escenario 1:<br>
+                Dado que el usuario ha realizado varios pedidos en el pasado,<br>
+                Cuando acceda al catálogo de comidas,<br>
+                Entonces el sistema le recomendará comidas similares o relacionadas con sus pedidos anteriores.<br>
+                Escenario 2:<br>
+                Dado que el usuario ha actualizado sus preferencias alimentarias,<br>
+                Cuando el sistema procese sus cambios,<br>
+                Entonces las futuras recomendaciones de comidas reflejarán las nuevas preferencias del usuario.
             </td>
-            <td>EPIC-003</td>
+            <td>EPIC-004</td>
         </tr>
         <!--User Story 19-->
         <tr>
             <td>US-019</td>
             <td>
-                Opción de Suscripción Mensual
+                Ajustes rápidos de planes semanales
             </td>
             <td>
-                Como usuario, quiero tener la opción de suscribirme a un plan mensual de comidas, para que pueda recibir mis alimentos de manera regular y sin complicaciones.
+                Como usuario quiero poder ajustar fácilmente mis planes de comida semanales desde mi perfil, para adaptarlos a cambios inesperados en mi agenda
             </td>
             <td>
-                <strong>Escenario 1:</strong> <br>
-                El usuario puede seleccionar un plan de suscripción y realizar el pago. <br>
-                <strong>Escenario 2:</strong> <br>
-                El usuario recibe un resumen mensual de sus pedidos y puede modificar su plan en cualquier momento.
+                Escenario 1:<br>
+                Dado que el usuario necesita ajustar su plan de comidas,<br>
+                Cuando acceda a su perfil y seleccione el horario de sus comidas,<br>
+                Entonces podrá realizar ajustes rápidos en la cantidad de comidas o tipos de platos.<br>
             </td>
-            <td>EPIC-002</td>
+            <td>EPIC-001</td>
         </tr>
         <!--User Story 20-->
         <tr>
             <td>US-020</td>
             <td>
-                Feedback sobre la Experiencia de Usuario
+                Gestión de suscripciones y renovaciones
             </td>
             <td>
-                Como usuario, quiero poder dejar comentarios sobre mi experiencia con la aplicación, para que NutriSend pueda mejorar su servicio y funcionalidad.
+                Como usuario quiero poder gestionar mi suscripción y renovarla directamente desde la plataforma para asegurarme de que mi plan de comidas continúe sin interrupciones.
             </td>
             <td>
-                <strong>Escenario 1:</strong> <br>
-                El usuario puede completar una encuesta de satisfacción después de usar la aplicación. <br>
-                <strong>Escenario 2:</strong> <br>
-                El usuario recibe una respuesta del equipo de NutriSend sobre su feedback en un plazo de 48 horas.
+                Escenario 1:<br>
+                Dado que el usuario tiene una suscripción activa,<br>
+                Cuando se aproxime la fecha de renovación,<br>
+                Entonces el sistema renovará automáticamente la suscripción,notificando al usuario con anticipación.<br>
+                Escenario 2:<br>
+                Dado que el usuario desea cambiar su plan de suscripción,<br>
+                Cuando acceda a la sección de gestión de suscripciones,<br>
+                Entonces podrá seleccionar un nuevo plan y confirmar el cambio de manera sencilla.
             </td>
-            <td>EPIC-007</td>
+            <td>EPIC-004</td>
         </tr>
         <!--User Story 21-->
         <tr>
             <td>US-021</td>
             <td>
-                Personalización de Dietas Especiales
+                Recordatorio de Preparación de Comida
             </td>
             <td>
-                Como usuario con necesidades dietéticas especiales, quiero poder personalizar mi plan de comidas según mis restricciones alimentarias, para que pueda disfrutar de opciones que se adapten a mi salud.
+                Como usuario quiero recibir recordatorios para preparar mis comidas para evitar saltarme las comidas o hacer elecciones no saludables 
             </td>
             <td>
-                <strong>Escenario 1:</strong> <br>
-                El usuario puede seleccionar restricciones alimentarias (como sin gluten, vegano, etc.) al crear su perfil. <br>
-                <strong>Escenario 2:</strong> <br>
-                El sistema genera menús que excluyen ingredientes no deseados.
+                Escenario 1: Recordatorio en Tiempo Adecuado<br>
+                Dado que el usuario tiene una comida planificada para las 13:00 en su plan de alimentación <br>
+                Cuando sea las 12:00<br>
+                Entonces el sistema enviará una notificación con un recordatorio. <br>
+                Escenario 2: Posponer el recordatorio <br>
+                Dado que el usuario recibe un recordatorio de comidas a las 12:00<br>
+                Cuando el usuario responda con posponer por 15, 30 o 60 minutos <br>
+                Entonces el sistema enviará nuevamente el recordatorio según el tiempo elegido.
             </td>
-            <td>EPIC-002</td>
+            <td>EPIC-005</td>
         </tr>
         <!--User Story 22-->
         <tr>
             <td>US-022</td>
             <td>
-                Recetas con Información Nutricional Detallada
+                Notificación vía Correo o SMS
             </td>
             <td>
-                Como usuario preocupado por mi salud, quiero que las recetas incluyan información nutricional detallada, para que pueda tomar decisiones informadas sobre mi alimentación.
+                Como usuario quiero poder recibir alertas y recordatorios a través de correo electrónico o sms para asegurarme de estar pendiente de mis comidas y ejercicios diarios
             </td>
             <td>
-                <strong>Escenario 1:</strong> <br>
-                Cada receta muestra información sobre calorías, grasas, proteínas y carbohidratos. <br>
-                <strong>Escenario 2:</strong> <br>
-                El usuario puede ver un desglose nutricional al seleccionar una receta.
+                Escenario 1: Notificación vía correo Electrónico <br>
+                Dado que el usuario ha configurado recibir notificaciones vía correo electrónico<br>
+                Cuando se acerque la hora de mis comidas o ejercicios<br>
+                Entonces el sistema le enviará un correo electrónico al usuario recordandole su actividad pendiente.<br>
+                Escenario 2:Notificación vía SMS<br>
+                Dado que el usuario ha configurado recibir notificaciones vía SMS. <br>
+                Cuando se acerque la hora de mis comidas o ejercicios<br>
+                Entonces el sistema le enviará un SMS al usuario recordandole su actividad pendiente.<br>
             </td>
-            <td>EPIC-003</td>
+            <td>EPIC-005</td>
         </tr>
         <!--User Story 23-->
         <tr>
             <td>US-023</td>
             <td>
-                Menú del dia
+                Alerta de Ejercicio Programado
             </td>
             <td>
-                Como usuario, quiero ver un menú del día que destaque las comidas más populares, para que pueda elegir fácilmente opciones recomendadas
+                Como usuario con una rutina de ejercicios, quiero recibir alertas sobre mis entrenamientos con suficiente antelación, para asegurarme de realizar mi actividad física sin interrupciones ni olvidar mis sesiones. 
             </td>
             <td>
-                <strong>Escenario 1:</strong> <br>
-                El usuario accede a la sección del menú del día y ve las comidas destacadas. <br>
-                <strong>Escenario 2:</strong> <br>
-                El usuario puede hacer clic en una comida del menú del día para ver más detalles y realizar un pedido
+                Escenario 1: Configuración de alerta de ejercicio<br>
+                Dado que el usuario a configurado una rutina de ejercicio<br>
+                Cuando debo entrenar 7:00 am<br>
+                Entonces quiero recibir una alerta a las 6:30 am<br>
+                Escenario 2: Modificación de horario de ejercicio <br>
+                Dado que tengo un entrenamiento programado para hoy 6:00 pm<br>
+                Cuando cambió el horario de ejercicio a las 7:00 pm<br>
+                Entonces quiero que la alerta se actualice automáticamente
             </td>
-            <td>EPIC-001</td>
+            <td>EPIC-005</td>
         </tr>
         <!--User Story 24-->
         <tr>
             <td>US-024</td>
             <td>
-                Programa de Recompensas por Lealtad
+                Interfaz Intuitiva para la Gestión de Comidas
             </td>
             <td>
-                Como usuario frecuente, quiero participar en un programa de recompensas, para que pueda obtener descuentos y beneficios por mis compras regulares.
+                Como usuario, quiero una interfaz intuitiva para ingresar y gestionar mis comidas, para que el proceso sea rápido, sencillo y eficiente.
             </td>
             <td>
-                <strong>Escenario 1:</strong> <br>
-                El usuario puede ver su saldo de puntos de recompensa en la aplicación. <br>
-                <strong>Escenario 2:</strong> <br>
-                El usuario puede canjear puntos por descuentos en futuros pedidos.
+                Escenario 1: Ingreso de una Nuevo Pedido<br>
+                Dado que estoy en la pantalla de pedido de comidas,<br>
+                Cuando ingreso los detalles del nuevo pedido<br>
+                Entonces quiero que la comida se guarde correctamente en mi horario de comidas y que el resumen de mi ingesta diaria se actualice <br>
+                Escenario 2: Selección de un Deporte y Ajuste de Recomendaciones Nutricionales<br>
+                Dado que estoy en la pantalla de deportes y he seleccionado un deporte específico<br>
+                Cuando cambió el deporte seleccionado a otro<br>
+                Entonces quiero que las recomendaciones nutricionales se ajusten automáticamente para reflejar las necesidades energéticas y los macronutrientes específicos asociados con el nuevo deporte.<br>
             </td>
-            <td>EPIC-005</td>
+            <td>EPIC-004</td>
         </tr>
         <!--User Story 25-->
         <tr>
             <td>US-025</td>
             <td>
-                Opción de Entrega Programada
+                Ver historial de comidas y nutrientes
             </td>
             <td>
-                Como usuario, quiero poder programar mis entregas de comida con anticipación, para que pueda recibir mis alimentos en el momento más conveniente para mí.
+                Como usuario, quiero poder ver un historial de mis comidas y nutrientes consumidos para evaluar mi progreso a lo largo del tiempo.
             </td>
             <td>
-                <strong>Escenario 1:</strong> <br>
-                El usuario puede seleccionar una fecha y hora para la entrega al realizar un pedido. <br>
-                <strong>Escenario 2:</strong> <br>
-                El sistema envía un recordatorio al usuario un día antes de la entrega programada.
+                Escenario 1: Visualización del historial <br>
+                Dado que estoy en la sección de historial de en la plataforma web,<br>
+                Cuando accedo al historial de un mes específico,<br>
+                Entonces quiero que se muestren todas las comidas y nutrientes consumidos en ese mes.<br>
+                Escenario 2: Exportación de datos <br>
+                Dado que tengo el historial de mis comidas y nutrientes visible en la plataforma,<br>
+                Cuando elijo exportar los datos en formato CSV,<br>
+                Entonces quiero recibir un archivo descargable que contenga todos los detalles de mis comidas, calorías y macronutrientes consumidos, y que esté correctamente formateado para su análisis en una hoja de cálculo.
             </td>
-            <td>EPIC-001</td>
+            <td>EPIC-004</td>
         </tr>
         <!--User Story 26-->
         <tr>
             <td>US-026</td>
             <td>
-                Integración de Pagos Seguros
+               Acceso a Soporte en Línea y  FAQ
             </td>
             <td>
-                Como usuario, quiero que la aplicación ofrezca opciones de pago seguras, para que pueda realizar mis transacciones con confianza.
+                Como usuario quiero tener acceso a un soporte en línea o a una sección de Preguntas Frecuentes (FAQ) para resolver cualquier duda o problema que tenga sobre el uso de la plataforma
             </td>
             <td>
-                <strong>Escenario 1:</strong> <br>
-                El usuario puede elegir entre varias opciones de pago (tarjeta de crédito, PayPal, etc.). <br>
-                <strong>Escenario 2:</strong> <br>
-                El sistema utiliza cifrado para proteger la información de pago del usuario.
+                Escenario 1: Revisión de la FAQ tras un Problema Común<br>
+                Dado que encuentro un problema común al registrar mis comidas<br>
+                Cuando busco en la sección de FAQ sobre cómo solucionar problemas con el registro de comidas<br>
+                Entonces quiero ver una respuesta actualizada y útil que resuelva mi problema o me dirija a un contacto de soporte adecuado
             </td>
-            <td>EPIC-007</td>
+            <td>EPIC-004</td>
         </tr>
         <!--User Story 27-->
         <tr>
             <td>US-027</td>
             <td>
-               Acceso a Información Nutricional de Comidas: 
+              Ajuste de Tamaño de Porciones en Menús 
             </td>
             <td>
-                Como usuario interesado en la salud, quiero que cada comida incluya información nutricional detallada, para que pueda tomar decisiones informadas sobre lo que consumo.
+                Como usuario, quiero ajustar el tamaño de las porciones en los menús, para poder controlar mejor mi ingesta calórica y nutricional 
             </td>
             <td>
-                <strong>Escenario 1:</strong> <br>
-                Cada comida muestra información sobre calorías, grasas, proteínas y carbohidratos. <br>
-                <strong>Escenario 2:</strong> <br>
-                El usuario puede ver un desglose nutricional al seleccionar una comida.
-            </td>
-            <td>EPIC-003</td>
-        </tr>
-        <!--User Story 28-->
-        <tr>
-            <td>US-028</td>
-            <td>
-                Compartir Listas de Compras
-            </td>
-            <td>
-                Como usuario, quiero poder compartir mis listas de compras con amigos y familiares, para que puedan ayudarme a comprar los ingredientes necesarios.
-            </td>
-            <td>
-                <strong>Escenario 1:</strong> <br>
-                El usuario puede enviar su lista de compras a través de correo electrónico o mensaje de texto. <br>
-                <strong>Escenario 2:</strong> <br>
-                El usuario puede recibir sugerencias de otros usuarios sobre ingredientes adicionales a incluir en su lista.
-            </td>
-            <td>EPIC-001</td>
-        </tr>
-        <!--User Story 29-->
-        <tr>
-            <td>US-029</td>
-            <td>
-                Registro de Alérgenos
-            </td>
-            <td>
-                Como usuario con alergias alimentarias, quiero poder registrar mis alérgenos en la aplicación, para que pueda recibir alertas sobre ingredientes que debo evitar.
-            </td>
-            <td>
-                <strong>Escenario 1:</strong> <br>
-                El usuario puede ingresar sus alérgenos en su perfil. <br>
-                <strong>Escenario 2:</strong> <br>
-                El sistema alerta al usuario si alguna receta contiene ingredientes que coinciden con sus alérgenos registrados.
+                Escenario 1: Ajuste de porciones para incrementar calorías<br>
+                Dado que mi nivel de actividad física ha aumentado debido a entrenamientos intensos<br>
+                Cuando ajusto el tamaño de las porciones en el menú para aumentar las calorías<br>
+                Entonces el sistema calculará automáticamente los valores nutricionales para reflejar el aumento en proteínas, carbohidratos, y grasas.<br>
+                Escenario 2: Mantener balance de macros al ajustar porciones<br>
+                Dado que necesito mantener un balance específico entre proteínas, carbohidratos y grasas <br>
+                Cuando ajusto el tamaño de las porciones de un alimento alto en carbohidratos,<br>
+                Entonces el sistema sugerirá ajustes en otros alimentos para mantener el balance nutricional
             </td>
             <td>EPIC-002</td>
-        </tr>
-        <!--User Story 30-->
-        <tr>
-            <td>US-030</td>
-            <td>
-                Acceso a Comunidad de Usuarios
-            </td>
-            <td>
-                Como usuario, quiero tener acceso a una comunidad de otros usuarios de NutriSend, para que pueda compartir experiencias, recetas y consejos sobre alimentación saludable.
-            </td>
-            <td>
-                <strong>Escenario 1:</strong> <br>
-                El usuario puede unirse a foros de discusión dentro de la aplicación. <br>
-                <strong>Escenario 2:</strong> <br>
-                El usuario puede crear publicaciones y responder a otros usuarios en la comunidad.
-            </td>
-            <td>EPIC-005</td>
-        </tr>
-        <!--User Story 31-->
-        <tr>
-            <td>US-031</td>
-            <td>
-                Modo Offline
-            </td>
-            <td>
-                Como usuario, quiero poder acceder a la aplicación en modo offline, para que pueda consultar recetas, listas de compras y mi historial de pedidos sin necesidad de conexión a internet.
-            </td>
-            <td>
-                <strong>Escenario 1:</strong> <br>
-                La aplicación permite acceder a contenido cacheado cuando no hay conexión a internet. <br>
-                <strong>Escenario 2:</strong> <br>
-                Los pedidos realizados en modo offline se sincronizan automáticamente cuando se restablece la conexión.
-            </td>
-            <td>EPIC-007</td>
-        </tr>
-        <!--User Story 32-->
-        <tr>
-            <td>US-032</td>
-            <td>
-                Integración con Asistentes Virtuales
-            </td>
-            <td>
-                Como usuario, quiero poder interactuar con NutriSend a través de asistentes virtuales como Alexa o Google Assistant, para que pueda realizar pedidos, consultar recetas y obtener consejos de 
-                nutrición por voz.
-            </td>
-            <td>
-                <strong>Escenario 1:</strong> <br>
-                El usuario puede dar comandos de voz al asistente virtual para realizar pedidos. <br>
-                <strong>Escenario 2:</strong> <br>
-                El asistente proporciona recetas y consejos de nutrición en respuesta a preguntas del usuario.
-            </td>
-            <td>EPIC-004</td>
-        </tr>
-        <!--User Story 33-->
-        <tr>
-            <td>US-033</td>
-            <td>
-                Comidas Sugeridas por Preferencias
-            </td>
-            <td>
-                Como usuario, quiero recibir sugerencias de comidas basadas en mis preferencias alimenticias, para que pueda elegir opciones que se adapten a mis gustos.
-            </td>
-            <td>
-                <strong>Escenario 1:</strong> <br>
-                El usuario selecciona sus preferencias alimenticias en su perfil y el sistema muestra comidas que se ajustan a esas preferencias. <br>
-                <strong>Escenario 2:</strong> <br>
-                Las comidas se presentan con descripciones y valoraciones de otros usuarios.
-            </td>
-            <td>EPIC-003</td>
-        </tr>
-             <!--User Story 34-->
-        <tr>
-            <td>US-034</td>
-            <td>
-                Menús Colaborativos
-            </td>
-            <td>
-                Como usuario, quiero poder colaborar con amigos y familiares para crear menús semanales, para que podamos compartir ideas, recetas y responsabilidades en la planificación de comidas.
-            </td>
-            <td>
-                <strong>Escenario 1:</strong> <br>
-                Varios usuarios pueden acceder y editar un mismo menú semanal. <br>
-                <strong>Escenario 2:</strong> <br>
-                El sistema envía notificaciones cuando se realizan cambios en el menú colaborativo.
-            </td>
-            <td>EPIC-002</td>
-        </tr>
-        <!--User Story 35-->
-        <tr>
-            <td>US-035</td>
-            <td>
-                Recetas Basadas en Macronutrientes
-            </td>
-            <td>
-                Como usuario que sigue una dieta específica, quiero poder buscar recetas en función de su composición de macronutrientes (proteínas, carbohidratos y grasas), para que pueda ajustar mi ingesta a mis 
-                necesidades.
-            </td>
-            <td>
-                <strong>Escenario 1:</strong> <br>
-                El usuario puede filtrar recetas por porcentaje de macronutrientes. <br>
-                <strong>Escenario 2:</strong> <br>
-                Las recetas muestran el desglose de macronutrientes por porción.
-            </td>
-            <td>EPIC-003</td>
-        </tr>
-        <!--User Story 36-->
-        <tr>
-            <td>US-036</td>
-            <td>
-                Integración con Aplicaciones de Salud
-            </td>
-            <td>
-                Como usuario, quiero que NutriSend se integre con aplicaciones de salud como Apple Health o Google Fit, para que pueda sincronizar mi actividad física y datos de salud para recibir recomendaciones 
-                más precisas.
-            </td>
-            <td>
-                <strong>Escenario 1:</strong> <br>
-                La aplicación solicita permiso para acceder a datos de salud y actividad física. <br>
-                <strong>Escenario 2:</strong> <br>
-                NutriSend ajusta automáticamente los menús y recomendaciones según los datos sincronizados.
-            </td>
-            <td>EPIC-004</td>
-        </tr>
-        <!--User Story 37-->
-        <tr>
-            <td>US-037</td>
-            <td>
-                Recetas Basadas en Temporada
-            </td>
-            <td>
-                Como usuario, quiero que NutriSend me sugiera recetas con ingredientes de temporada, para que pueda disfrutar de alimentos frescos y de calidad.
-            </td>
-            <td>
-                <strong>Escenario 1:</strong> <br>
-                La aplicación muestra un calendario de ingredientes de temporada. <br>
-                <strong>Escenario 2:</strong> <br>
-                Las recetas recomendadas utilizan ingredientes de temporada según la ubicación del usuario.
-            </td>
-            <td>EPIC-003</td>
-        </tr>
-        <!--User Story 38-->
-        <tr>
-            <td>US-038</td>
-            <td>
-                Menús para Eventos Especiales
-            </td>
-            <td>
-                Como usuario, quiero poder crear menús personalizados para eventos especiales como fiestas o reuniones, para que pueda ofrecer a mis invitados una experiencia culinaria memorable.
-            </td>
-            <td>
-                <strong>Escenario 1:</strong> <br>
-                El usuario puede seleccionar el tipo de evento y el número de invitados. <br>
-                <strong>Escenario 2:</strong> <br>
-                NutriSend genera un menú completo con recetas, lista de compras y sugerencias de decoración.
-            </td>
-            <td>EPIC-002</td>
-        </tr>
-        <!--User Story 39-->
-        <tr>
-            <td>US-039</td>
-            <td>
-                 Sugerencias de Comidas para Dietas Específicas
-            </td>
-            <td>
-                Como usuario que sigue una dieta específica, quiero recibir sugerencias de comidas que se alineen con mis necesidades dietéticas, para que pueda disfrutar de opciones que se adapten a mi salud.
-            </td>
-            <td>
-                <strong>Escenario 1:</strong> <br>
-                 El usuario puede seleccionar su tipo de dieta (como keto, paleo, etc.) en su perfil. <br>
-                <strong>Escenario 2:</strong> <br>
-                 El sistema sugiere comidas que cumplen con los requisitos de la dieta seleccionada.
-            </td>
-            <td>EPIC-003</td>
-        </tr>
-        <!--User Story 40-->
-        <tr>
-            <td>US-040</td>
-            <td>
-                Integración con Servicios de Entrega
-            </td>
-            <td>
-                Como usuario, quiero que NutriSend se integre con servicios de entrega como Rappi o PedidosYa, para que pueda recibir mis pedidos de ingredientes frescos de manera rápida y conveniente.
-            </td>
-            <td>
-                <strong>Escenario 1:</strong> <br>
-                El usuario puede seleccionar un servicio de entrega al realizar un pedido. <br>
-                <strong>Escenario 2:</strong> <br>
-                NutriSend envía la lista de compras al servicio de entrega seleccionado.
-            </td>
-            <td>EPIC-001</td>
         </tr>
     </tbody>
 </table>
 
 ## 3.3. Impact Mapping.
 
-<img src="../img/Impact map - Open Source.jpg" alt="Colors">
+Impact Mapping es una técnica de planificación estratégica que ayuda a visualizar y planificar cómo un proyecto puede generar un impacto significativo. Permite identificar claramente los resultados deseados, los comportamientos esperados de los usuarios y las acciones necesarias para alcanzar esos objetivos. Al utilizar Impact Mapping, se puede alinear mejor las actividades con los objetivos, tomar decisiones más informadas y maximizar el impacto del proyecto: https://miro.com/welcomeonboard/dEwzZkJyaXFVeWVSNzUwc2FlMUtZRm5UbDA3YzlmaDV0NmV4a2JNR3IzRWQzdGVHNGZuSVJySlRDbTZjNDZGdnwzNDU4NzY0NTIzNDE1MDY4MDA4fDI=?share_link_id=541791359949
+
+<img src="https://github.com/user-attachments/assets/af9912bb-b0c9-439d-8305-97d0ddb25b0d" alt="Colors">
 
 ## 3.4. Product Backlog.
 
@@ -797,285 +653,198 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
     <tbody>
         <tr>
             <td>1</td>
-            <td>US-001</td>
-            <td>Planificación Rápida de Pedidos</td>
-            <td>Como profesional joven, quiero poder planificar mis pedidos de comida en menos de 5 minutos, para que pueda dedicar más tiempo a otras actividades.</td>
+            <td>US001</td>
+            <td>Registro de Usuarios</td>
+            <td>COMO usuario QUIERO observar un apartado de “Regístrate” PARA poder crear una cuenta propia.</td>
             <td>5</td>
         </tr>
         <tr>
             <td>2</td>
-            <td>US-002</td>
-            <td>Acceso a Menús Personalizados</td>
-            <td>Como usuario con un régimen alimenticio estructurado, quiero recibir menús personalizados cada semana, para que se ajusten a mis necesidades nutricionales y de ejercicio.</td>
-            <td>5</td>
+            <td>US002</td>
+            <td>Inserción de datos</td>
+            <td>COMO usuario QUIERO ingresar mis datos principales PARA tener un perfil en la aplicación.</td>
+            <td>3</td>
         </tr>
         <tr>
             <td>3</td>
-            <td>US-003</td>
-            <td>Opciones de Comida Saludables y Fáciles de Pedir</td>
-            <td>Como usuario interesado en la nutrición, quiero acceder a opciones de comida saludables que sean fáciles de pedir, para que pueda diversificar mi alimentación sin complicaciones.</td>
-            <td>3</td>
+            <td>US003</td>
+            <td>Inicio de sesión</td>
+            <td>COMO usuario QUIERO ingresar a la aplicación con mi cuenta registrada PARA usar mi perfil creado.</td>
+            <td>5</td>
         </tr>
         <tr>
             <td>4</td>
-            <td>US-004</td>
-            <td>Acceso a Datos de Actividad Física</td>
-            <td>Como entusiasta del fitness, quiero que la plataforma web de NutriSend me permita ingresar manualmente mis datos de actividad física, para que pueda recibir recomendaciones de comidas basadas en mi actividad.</td>
-            <td>5</td>
+            <td>US004</td>
+            <td>Cierre de sesión</td>
+            <td>COMO usuario QUIERO salir de la aplicación PARA evitar el uso de mi cuenta en las manos de otras personas.</td>
+            <td>2</td>
         </tr>
         <tr>
             <td>5</td>
-            <td>US-005</td>
-            <td>Soporte Nutricional Accesible</td>
-            <td>Como usuario que busca mejorar su salud, quiero tener acceso a un chat en vivo con un nutricionista, para que pueda hacer preguntas sobre mi dieta y recibir asesoramiento personalizado.</td>
-            <td>8</td>
+            <td>US005</td>
+            <td>Editar perfil</td>
+            <td>COMO usuario QUIERO poder editar algún detalle de mi perfil PARA tenerlo actualizado al momento.</td>
+            <td>3</td>
         </tr>
         <tr>
             <td>6</td>
-            <td>US-006</td>
-            <td>Alertas de Comida y Ejercicio</td>
-            <td>Como usuario activo, quiero recibir alertas sobre mis horarios de comida y ejercicio, para que pueda seguir mi rutina de manera efectiva.</td>
+            <td>US006</td>
+            <td>Elección de plan</td>
+            <td>COMO usuario QUIERO tener opción en la elección de planes PARA tener opción de elección.</td>
             <td>3</td>
         </tr>
         <tr>
             <td>7</td>
-            <td>US-007</td>
-            <td>Interfaz Intuitiva y Fácil de Usar</td>
-            <td>Como usuario que valora la tecnología, quiero que la plataforma tenga una interfaz intuitiva, para que pueda navegar y realizar pedidos sin complicaciones.</td>
-            <td>5</td>
+            <td>US007</td>
+            <td>Realizar el pedido</td>
+            <td>COMO usuario QUIERO poder realizar pedidos de comida a través de la aplicación PARA disfrutar de comidas deliciosas sin cocinar.</td>
+            <td>8</td>
         </tr>
         <tr>
             <td>8</td>
-            <td>US-008</td>
-            <td>Guardar Preferencias de Comida</td>
-            <td>Como usuario, quiero poder guardar mis preferencias alimenticias, para que las recomendaciones de NutriSend se ajusten a mis gustos y necesidades.</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>9</td>
-            <td>US-009</td>
-            <td>Recomendaciones Basadas en Historial de Comidas</td>
-            <td>Como usuario, quiero recibir recomendaciones de comidas basadas en mi historial de pedidos, para que pueda descubrir nuevas opciones que me gusten.</td>
+            <td>US008</td>
+            <td>Acceder al catálogo del menú</td>
+            <td>COMO usuario QUIERO tener acceso fácil al catálogo del menú PARA revisar las opciones disponibles.</td>
             <td>5</td>
         </tr>
         <tr>
+            <td>9</td>
+            <td>US009</td>
+            <td>Visualización de información nutricional</td>
+            <td>COMO usuario QUIERO visualizar la cantidad total de calorías al momento de pagar PARA tomar decisiones informadas.</td>
+            <td>3</td>
+        </tr>
+        <tr>
             <td>10</td>
-            <td>US-010</td>
-            <td>Feedback sobre la Calidad de los Alimentos</td>
-            <td>Como usuario, quiero poder dejar comentarios sobre la calidad de los alimentos recibidos, para que NutriSend pueda mejorar sus servicios y productos.</td>
-            <td>2</td>
+            <td>US010</td>
+            <td>Editar Pedido</td>
+            <td>COMO usuario QUIERO tener la opción de editar mis pedidos PARA agregar o eliminar platillos.</td>
+            <td>5</td>
         </tr>
         <tr>
             <td>11</td>
-            <td>US-011</td>
-            <td>Personalización de Porciones</td>
-            <td>Como usuario, quiero poder personalizar las porciones de mis comidas, para que se ajusten a mis necesidades nutricionales y de saciedad.</td>
+            <td>US011</td>
+            <td>Recordatorios de comidas</td>
+            <td>COMO usuario QUIERO recibir recordatorios automáticos sobre mis comidas diarias PARA no olvidar comer en los momentos adecuados.</td>
             <td>3</td>
         </tr>
         <tr>
             <td>12</td>
-            <td>US-012</td>
-            <td>Consejos de Nutrición</td>
-            <td>Como usuario interesado en la salud, quiero recibir consejos de nutrición a través de la aplicación, para que pueda mejorar mis hábitos alimenticios.</td>
-            <td>2</td>
+            <td>US012</td>
+            <td>Planificación automática de comidas</td>
+            <td>COMO usuario QUIERO que NutriSend planifique automáticamente mis comidas para cada semana PARA asegurarme de cumplir con mis objetivos nutricionales.</td>
+            <td>8</td>
         </tr>
         <tr>
             <td>13</td>
-            <td>US-013</td>
-            <td>Comparar Opciones de Pedido</td>
-            <td>Como usuario, quiero poder comparar diferentes opciones de pedido, para que pueda elegir la que mejor se adapte a mis preferencias y necesidades.</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>14</td>
-            <td>US-014</td>
-            <td>Pedidos para Grupos</td>
-            <td>Como organizador de eventos, quiero poder realizar pedidos de comida para grupos, para que pueda asegurarme de que todos tengan opciones adecuadas según sus preferencias dietéticas.</td>
+            <td>US013</td>
+            <td>Repetición de pedidos anteriores</td>
+            <td>COMO usuario QUIERO poder repetir pedidos anteriores con un solo clic PARA ahorrar tiempo en la planificación de mis comidas.</td>
             <td>5</td>
         </tr>
         <tr>
+            <td>14</td>
+            <td>US014</td>
+            <td>Personalización según tipo de actividad física</td>
+            <td>COMO usuario QUIERO que NutriSend me proporcione alimentos adaptados al tipo de deporte que practico PARA que mi dieta se ajuste de manera óptima.</td>
+            <td>8</td>
+        </tr>
+        <tr>
             <td>15</td>
-            <td>US-015</td>
-            <td>Información Nutricional de Comidas</td>
-            <td>Como usuario, quiero que cada comida incluya información nutricional detallada, para que pueda tomar decisiones informadas sobre lo que consumo.</td>
-            <td>3</td>
+            <td>US015</td>
+            <td>Recomendaciones de comidas</td>
+            <td>COMO usuario QUIERO recibir recomendaciones de comidas PARA optimizar mi rendimiento físico.</td>
+            <td>5</td>
         </tr>
         <tr>
             <td>16</td>
-            <td>US-016</td>
-            <td>Integración con Redes Sociales</td>
-            <td>Como usuario, quiero poder compartir mis logros y recomendaciones de comidas en redes sociales a través de la plataforma web, para que pueda inspirar a otros y recibir feedback sobre mis elecciones 
-            alimenticias.</td>
-            <td>2</td>
+            <td>US016</td>
+            <td>Revisión de ingredientes frescos</td>
+            <td>COMO usuario QUIERO revisar que los ingredientes de las comidas sean frescos y de alta calidad PARA asegurar que mis comidas sean saludables.</td>
+            <td>3</td>
         </tr>
         <tr>
             <td>17</td>
-            <td>US-017</td>
-            <td>Registro de Progreso de Salud</td>
-            <td>Como usuario, quiero poder registrar mi progreso de salud en la plataforma web, para que pueda monitorear mis avances y hacer ajustes a mi dieta y rutina de ejercicios.</td>
+            <td>US017</td>
+            <td>Opción de platos bajos en calorías</td>
+            <td>COMO usuario QUIERO acceder a una selección de comidas bajas en calorías PARA mantener una dieta controlada.</td>
             <td>5</td>
         </tr>
         <tr>
             <td>18</td>
-            <td>US-018</td>
-            <td>Notificaciones de Nuevas Opciones de Comida</td>
-            <td>Como usuario, quiero recibir notificaciones sobre nuevas opciones de comida que se agregan a la plataforma web, para que pueda probar opciones frescas y emocionantes.</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>19</td>
-            <td>US-019</td>
-            <td>Opción de Suscripción Mensual</td>
-            <td>Como usuario, quiero tener la opción de suscribirme a un plan mensual de comidas, para que pueda recibir mis alimentos de manera regular y sin complicaciones.</td>
+            <td>US018</td>
+            <td>Recomendaciones basadas en pedidos</td>
+            <td>COMO usuario QUIERO recibir recomendaciones de comidas basadas en mis pedidos PARA encontrar fácilmente opciones que se alineen con mis preferencias.</td>
             <td>5</td>
         </tr>
         <tr>
+            <td>19</td>
+            <td>US019</td>
+            <td>Ajustes rápidos de planes semanales</td>
+            <td>COMO usuario QUIERO ajustar fácilmente mis planes de comida semanales PARA adaptarlos a cambios inesperados en mi agenda.</td>
+            <td>8</td>
+        </tr>
+        <tr>
             <td>20</td>
-            <td>US-020</td>
-            <td>Feedback sobre la Experiencia de Usuario</td>
-            <td>Como usuario, quiero poder dejar comentarios sobre mi experiencia con la plataforma web, para que NutriSend pueda mejorar su servicio y funcionalidad.</td>
+            <td>US020</td>
+            <td>Gestión de suscripciones y renovaciones</td>
+            <td>COMO usuario QUIERO gestionar mi suscripción y renovarla directamente PARA asegurarme de que mi plan de comidas continúe sin interrupciones.</td>
             <td>3</td>
         </tr>
         <tr>
             <td>21</td>
-            <td>US-021</td>
-            <td>Personalización de Dietas Especiales</td>
-            <td>Como usuario con necesidades dietéticas especiales, quiero poder personalizar mi plan de comidas según mis restricciones alimentarias, para que pueda disfrutar de opciones que se adapten a mi 
-            salud.   
-            </td>
-            <td>5</td>
+            <td>US021</td>
+            <td>Recordatorio de Preparación de Comida</td>
+            <td>COMO usuario QUIERO recibir recordatorios PARA preparar mis comidas PARA evitar saltarme las comidas.</td>
+            <td>2</td>
         </tr>
         <tr>
             <td>22</td>
-            <td>US-022</td>
-            <td>Información Nutricional de Comidas</td>
-            <td>Como usuario preocupado por mi salud, quiero que las comidas incluyan información nutricional detallada, para que pueda tomar decisiones informadas sobre mi alimentación.</td>
+            <td>US022</td>
+            <td>Notificación vía Correo o SMS</td>
+            <td>COMO usuario QUIERO recibir alertas y recordatorios a través de correo electrónico o SMS PARA asegurarme de estar pendiente de mis comidas y ejercicios diarios.</td>
             <td>3</td>
         </tr>
         <tr>
             <td>23</td>
-            <td>US-023</td>
-            <td>Menú del Día</td>
-            <td>Como usuario, quiero ver un menú del día que destaque las comidas más populares, para que pueda elegir fácilmente opciones recomendadas.</td>
+            <td>US023</td>
+            <td>Alerta de Ejercicio Programado</td>
+            <td>COMO usuario QUIERO recibir alertas sobre mis entrenamientos con antelación PARA asegurarme de realizar mi actividad física sin interrupciones.</td>
             <td>3</td>
         </tr>
         <tr>
             <td>24</td>
-            <td>US-024</td>
-            <td>Programa de Recompensas por Lealtad</td>
-            <td>Como usuario frecuente, quiero participar en un programa de recompensas, para que pueda obtener descuentos y beneficios por mis compras regulares.</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>25</td>
-            <td>US-025</td>
-            <td>Opción de Entrega Programada</td>
-            <td>Como usuario, quiero poder programar mis entregas de comida con anticipación, para que pueda recibir mis alimentos en el momento más conveniente para mí.</td>
+            <td>US024</td>
+            <td>Ver historial de comidas y nutrientes</td>
+            <td>COMO usuario QUIERO poder ver un historial de mis comidas y nutrientes consumidos PARA evaluar mi progreso a lo largo del tiempo.</td>
             <td>5</td>
         </tr>
         <tr>
+            <td>24</td>
+            <td>US024</td>
+            <td>Interfaz Intuitiva para la Gestión de Comidas</td>
+            <td>Como usuario,  quiero una interfaz intuitiva para ingresar y gestionar mis comidas,para que el proceso sea rápido, sencillo y eficiente.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>25</td>
+            <td>US025</td>
+            <td>Ver historial de comidas y nutrientes</td>
+            <td>Como usuario, quiero poder ver un historial de mis comidas y nutrientes consumidos para evaluar mi progreso a lo largo del tiempo.</td>
+            <td>3</td>
+        </tr>
+        <tr>
             <td>26</td>
-            <td>US-026</td>
-            <td>Integración de Pagos Seguros</td>
-            <td>Como usuario, quiero que la plataforma ofrezca opciones de pago seguras, para que pueda realizar mis transacciones con confianza.</td>
+            <td>US026</td>
+            <td>Acceso a Soporte en Línea y  FAQ</td>
+            <td>Como usuario quiero tener acceso a un soporte en línea o a una sección de Preguntas Frecuentes (FAQ) para resolver cualquier duda o problema que tenga sobre el uso de la plataforma </td>
             <td>3</td>
         </tr>
         <tr>
             <td>27</td>
-            <td>US-027</td>
-            <td>Consejos para la Preparación de Comidas</td>
-            <td>Como usuario que cocina, quiero recibir consejos y trucos para la preparación de comidas, para que pueda mejorar mis habilidades culinarias y hacer la experiencia más agradable.</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>28</td>
-            <td>US-028</td>
-            <td>Compartir Listas de Compras</td>
-            <td>Como usuario, quiero poder compartir mis listas de compras con amigos y familiares, para que puedan ayudarme a comprar los ingredientes necesarios.</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>29</td>
-            <td>US-029</td>
-            <td>Registro de Alérgenos</td>
-            <td>Como usuario con alergias alimentarias, quiero poder registrar mis alérgenos en la plataforma web, para que pueda recibir alertas sobre ingredientes que debo evitar.</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>30</td>
-            <td>US-030</td>
-            <td>Acceso a Comunidad de Usuarios</td>
-            <td>Como usuario, quiero tener acceso a una comunidad de otros usuarios de NutriSend, para que pueda compartir experiencias, recetas y consejos sobre alimentación saludable.</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>31</td>
-            <td>US-031</td>
-            <td>Modo Offline</td>
-            <td>Como usuario, quiero poder acceder a la plataforma web en modo offline, para que pueda consultar mis listas de compras y mi historial de pedidos sin necesidad de conexión a internet.</td>
-            <td>5</td>
-        </tr>
-              <tr>
-            <td>32</td>
-            <td>US-032</td>
-            <td>Integración con Asistentes Virtuales</td>
-            <td>Como usuario, quiero poder interactuar con NutriSend a través de asistentes virtuales como Alexa o Google Assistant, para que pueda realizar pedidos y consultar información por voz.</td>
-            <td>8</td>
-        </tr>
-        <tr>
-            <td>33</td>
-            <td>US-033</td>
-            <td>Comidas Sugeridas por Ingredientes</td>
-            <td>Como usuario, quiero recibir sugerencias de comidas basadas en un ingrediente que elija, para que pueda utilizar lo que tengo en casa.</td>
-            <td>1</td>
-        </tr>        
-        <tr>
-            <td>34</td>
-            <td>US-034</td>
-            <td>Menús Colaborativos</td>
-            <td>Como usuario, quiero poder colaborar con amigos y familiares para crear menús semanales, para que podamos compartir ideas y responsabilidades en la planificación de comidas.</td>
-            <td>5</td>
-        </tr>        
-        <tr>
-            <td>35</td>
-            <td>US-035</td>
-            <td>Comidas Basadas en Macronutrientes</td>
-            <td>Como usuario que sigue una dieta específica, quiero poder buscar comidas en función de su composición de macronutrientes, para que pueda ajustar mi ingesta a mis necesidades.</td>
-            <td>3</td>
-        </tr>    
-        <tr>
-            <td>36</td>
-            <td>US-036</td>
-            <td>Integración con Aplicaciones de Salud</td>
-            <td>Como usuario, quiero que NutriSend se integre con aplicaciones de salud como Apple Health o Google Fit, para que pueda sincronizar mi actividad física y datos de salud.</td>
-            <td>8</td>
-        </tr>   
-        <tr>
-            <td>37</td>
-            <td>US-037</td>
-            <td>Comidas Basadas en Temporada</td>
-            <td>Como usuario, quiero que NutriSend me sugiera comidas con ingredientes de temporada, para que pueda disfrutar de alimentos frescos y de calidad.</td>
-            <td>3</td>
-        </tr>      
-        <tr>
-            <td>38</td>
-            <td>US-038</td>
-            <td>Menús para Eventos Especiales</td>
-            <td>Como usuario, quiero poder crear menús personalizados para eventos especiales, para que pueda ofrecer a mis invitados una experiencia culinaria memorable.</td>
-            <td>5</td>
-        </tr>
-        <tr>
-            <td>39</td>
-            <td>US-039</td>
-            <td>Sugerencias de Comidas para Dietas Específicas</td>
-            <td>Como usuario que sigue una dieta específica, quiero recibir sugerencias de comidas que se alineen con mis necesidades dietéticas, para que pueda disfrutar de opciones que se adapten a mi salud.</td>
-            <td>5</td>
-        </tr>
-        <tr>
-            <td>40</td>
-            <td>US-040</td>
-            <td>Integración con Servicios de Entrega</td>
-            <td>Como usuario, quiero que NutriSend se integre con servicios de entrega como Rappi o PedidosYa, para que pueda recibir mis pedidos de ingredientes frescos de manera rápida y conveniente.</td>
+            <td>US027</td>
+            <td>Ajuste de Tamaño de Porciones en Menús </td>
+            <td>Como usuario, quiero ajustar el tamaño de las porciones en los menús, para poder controlar mejor mi ingesta calórica y nutricional </td>
             <td>5</td>
         </tr>
     </tbody>

@@ -317,6 +317,8 @@ As-is Scenario Mapping: https://miro.com/welcomeonboard/MmJhQlMzbUk5WE1NNkRtRXFl
 
 To-Be Scenario Maps: https://miro.com/app/board/uXjVKlfaPCE=/ 
 
+Impact-Map: https://miro.com/welcomeonboard/dEwzZkJyaXFVeWVSNzUwc2FlMUtZRm5UbDA3YzlmaDV0NmV4a2JNR3IzRWQzdGVHNGZuSVJySlRDbTZjNDZGdnwzNDU4NzY0NTIzNDE1MDY4MDA4fDI=?share_link_id=541791359949
+
 User Flow diagrams lucidchart:
 https://lucid.app/lucidspark/218fc663-d0e7-4abd-ac28-5dcf2880c784/edit?viewport_loc=-1776%2C-1502%2C13846%2C7030%2C0_0&invitationId=inv_d8c0a7b4-5892-4745-bb5d-a3c04d7deb75
 
