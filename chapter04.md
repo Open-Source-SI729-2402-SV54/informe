@@ -390,14 +390,14 @@ El diagrama de flujo de usuario es una ilustración visual de los pasos que un u
 
 ***Vista general del flujo de usuario:*** 
 
-![GeneralUserFlowDiagram](https://github.com/user-attachments/assets/f4ff8208-d0e5-4269-b283-05aa75442529)
+![FlujoGeneral](https://github.com/user-attachments/assets/1b606a1e-43e8-4d1c-9db3-9b241c138941)
 
 ### 4.5. Web Applications Prototyping
 Hemos diseñado un prototipo de website para ofrecer un adelanto de lo que será nuestro sitio web. 
 
 https://www.figma.com/proto/a64BVB1zNy0aycIi3TtTg7/Landing-Page?node-id=10-8&t=5P63FVO0ajcTVU0r-1&scaling=min-zoom&content-scaling=fixed&page-id=6%3A3&starting-point-node-id=10%3A8
 
-![Prototype](https://github.com/user-attachments/assets/bd545ccb-1c0a-4fb4-bf22-5e2ee66409fe)
+![FigmaPrototype](https://github.com/user-attachments/assets/9ee39dbd-eab0-47a3-8247-51e7a8f24b06)
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
