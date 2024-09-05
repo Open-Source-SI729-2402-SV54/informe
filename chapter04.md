@@ -351,7 +351,7 @@ En esta sección se mostrará una representación de la landing page para Deskto
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes   
 
-![webWireframes](https://github.com/user-attachments/assets/5a607390-5f95-45a0-933f-4009207dcb14)
+![FigmaWireframes](https://github.com/user-attachments/assets/7f09160f-6bc5-4cdf-83b3-975cf30ca3c9)
 
 ### 4.4.2. Web Applications Wireflow Diagrams 
 Los diagramas de Wireflow para aplicaciones web son representaciones visuales que muestran los flujos de navegación y la estructura de una aplicación web. Estos diagramas combinan elementos de wireframes y diagramas de flujo para ofrecer una visión general de cómo los usuarios se moverán a través de la aplicación y cómo interactuarán con sus distintos componentes. Los wireflows son útiles para detectar posibles problemas de usabilidad y para diseñar una experiencia de usuario que sea coherente y eficiente.
@@ -369,7 +369,7 @@ Utilizando la paleta de colores y los estilos definidos, nuestro concepto de los
 
 ![mockUp3](https://github.com/user-attachments/assets/06964904-b490-4a22-94c4-dfe5f4dcac6c)
 
-![MockUp4OrderFit](https://github.com/user-attachments/assets/cb46eb39-74a9-4c6c-ba70-3d19093a14fe)
+![AhoraSiLaUltima](https://github.com/user-attachments/assets/2fbf28ee-2cc1-4b30-8050-f9077ebae192)
 
 
 ### 4.4.4. Web Applications User Flow Diagrams
@@ -390,14 +390,14 @@ El diagrama de flujo de usuario es una ilustración visual de los pasos que un u
 
 ***Vista general del flujo de usuario:*** 
 
-![FlujoGeneral](https://github.com/user-attachments/assets/1b606a1e-43e8-4d1c-9db3-9b241c138941)
+![ultimoFlujo](https://github.com/user-attachments/assets/43b93bd0-60d2-4993-a7b7-02bba3f35e69)
 
 ### 4.5. Web Applications Prototyping
 Hemos diseñado un prototipo de website para ofrecer un adelanto de lo que será nuestro sitio web. 
 
 https://www.figma.com/proto/a64BVB1zNy0aycIi3TtTg7/Landing-Page?node-id=10-8&t=5P63FVO0ajcTVU0r-1&scaling=min-zoom&content-scaling=fixed&page-id=6%3A3&starting-point-node-id=10%3A8
 
-![FigmaPrototype](https://github.com/user-attachments/assets/9ee39dbd-eab0-47a3-8247-51e7a8f24b06)
+![UltimoPrototipo](https://github.com/user-attachments/assets/bac79bbc-7df5-425a-9447-9a460e102bd9)
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
