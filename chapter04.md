@@ -336,7 +336,7 @@ En esta sección se mostrará una representación de la landing page para Deskto
 
 <br>
 <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/679575ee-1d81-4d6c-98ed-69d1f8320f98" alt="LandingPage">
+    <img src="https://github.com/user-attachments/assets/d1cf034d-d7b4-4913-878f-961165c32295" alt="LandingPage">
 </div>
 </br>
 
@@ -344,7 +344,7 @@ En esta sección se mostrará una representación de la landing page para Deskto
 
 <br>
 <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/0b28807d-50c8-40a6-9499-b76301436a66" alt="LandingPage">
+    <img src="https://github.com/user-attachments/assets/c1122497-bdc0-4254-b922-ea9d86b8faa9" alt="LandingPage">
 </div>
 </br>
 
