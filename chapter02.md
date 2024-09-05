@@ -122,11 +122,14 @@ Freshly es un servicio de entrega de comidas preparadas que ofrece platos fresco
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+Para que NutriSend se posicione con éxito frente a sus competidores, puede implementar las siguientes estrategias basadas en su análisis de fortalezas, debilidades, oportunidades y amenazas (SWOT):
+
 1. Fortalezas:
 
     * Personalización Avanzada: Seguir perfeccionando la capacidad de personalizar las comidas según necesidades nutricionales específicas. Emplear tecnología de análisis de datos avanzada para proporcionar recomendaciones y ajustes más precisos en los planes de comida.
     * Compromiso con Salud y Rendimiento: Destacar el compromiso con la salud y el rendimiento en la comunicación de la marca. Crear contenido educativo que muestre cómo NutriSend apoya un estilo de vida saludable y ayuda a lograr objetivos de rendimiento.
     * Conveniencia para Clientes con Horarios Ajetreados: Subrayar la conveniencia de las comidas listas para consumir y la facilidad de uso de la plataforma. Implementar un proceso de pedido simplificado y opciones de entrega rápida para atraer a usuarios con horarios ocupados.
+    * Transparencia y seguimiento nutricional: Continuar ofreciendo información detallada sobre nutrientes y mantener su enfoque en la salud y rendimiento físico, podría atraer a consumidores preocupados por su bienestar y rendimiento atlético.
 
 2. Debilidades:
 
@@ -136,11 +139,15 @@ Freshly es un servicio de entrega de comidas preparadas que ofrece platos fresco
 3. Oportunidades:
 
     * Innovación Tecnológica: Invertir en el desarrollo de tecnologías que optimicen la experiencia del usuario y la precisión en la personalización. Incorporar características avanzadas en la plataforma, como algoritmos de recomendación y análisis predictivo.
+    * Expansión a mercados internacionales: Explorar nuevos mercados y adaptarse a dietas locales podría ser una oportunidad clave para NutriSend, siguiendo el ejemplo de Blue Apron. Esto también abriría puertas para el crecimiento, especialmente en regiones donde la demanda de comidas personalizadas aún no está satisfecha.
 
 4. Amenazas:
 
     * Competencia: Distinguir a NutriSend mediante una oferta de personalización única basada en datos precisos. Proporcionar promociones y descuentos exclusivos para atraer nuevos clientes y mantener la lealtad de los existentes.
     * Variaciones en los Precios de los Ingredientes: Administrar de manera eficiente la cadena de suministro para minimizar el impacto de las fluctuaciones en los precios. Establecer acuerdos a largo plazo con proveedores y mantener un inventario adaptable para ajustarse a cambios en los costos.
+    * Innovación en sostenibilidad: Para competir con el compromiso de sostenibilidad de Blue Apron, NutriSend puede incluir prácticas de empaques ecológicos, reducción de desperdicios, y alianzas con organizaciones para apoyar la sostenibilidad alimentaria.
+
+En resumen, NutriSend debe aprovechar su fortaleza en la personalización y salud, al tiempo que diversifica su oferta y mejora su flexibilidad para capturar más mercado.
 
 ## 2.2. Entrevistas
 
