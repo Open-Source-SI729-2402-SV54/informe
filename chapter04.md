@@ -382,8 +382,7 @@ El diagrama de flujo de usuario es una ilustración visual de los pasos que un u
 
 ***Flujo de Plan Premium:*** El usuario del plan premium tiene a su disponibilidad diferentes opciones como "sport", "healthy" y "available" acorde a los objetivos de cada usuario. Además de tener un perfil personalizado que le permita tener notificaciones de sus rutinas y le permita contactar con nutricionistas y chef para ser asesodados en sus planes alimenticios.  
 
-![UserFlowDiagram2](https://github.com/user-attachments/assets/8139db4c-ab0d-43a1-8fcc-c2473c091262)
-
+![FLUJO](https://github.com/user-attachments/assets/9d391036-06ac-43e1-8994-f95c68570dc6)
 
 ***Flujo de plan Free:***  El usuario del plan free cuenta con opciones de comida más limitada que el plan premium en la que puede elegir alimentos básicos y cuenta con un perfil personalizable básico. 
 
