@@ -550,10 +550,12 @@ El diseño de software orientado a objetos será fundamental para nuestro proyec
 
 ### 4.8. Database Design
 
-El diseño de la base de datos desempeñará un papel crucial en nuestro proyecto, ya que ofrecerá la estructura esencial para almacenar y gestionar los datos de forma eficiente y segura. Emplearemos un enfoque meticuloso para modelar las tablas, relaciones y restricciones de la base de datos, alineándonos con los requisitos del sistema y siguiendo las mejores prácticas de diseño. Esto nos permitirá organizar los datos de manera lógica y coherente, facilitando su acceso y manejo en respuesta a las necesidades de los usuarios.
+El diseño de la base de datos desempeñará un papel crucial en nuestro proyecto, ya que ofrecerá la estructura esencial para almacenar y gestionar los datos de forma eficiente y segura. Emplearemos un enfoque meticuloso para modelar las tablas, relaciones y restricciones de la base de datos, alineándonos con los requisitos del sistema y siguiendo las mejores prácticas de diseño. Esto nos permitirá organizar los datos de manera lógica y coherente, facilitando su acceso y manejo en respuesta a las necesidades de los usuarios. 
+
+URL: https://lucid.app/lucidchart/70432eed-3de6-4692-b911-abeeb9d8b2fc/edit?viewport_loc=-1035%2C-384%2C3903%2C2343%2CHWEp-vi-RSFO&invitationId=inv_3b35149f-30bf-4772-81cd-70f8a72eae10
 
 ### 4.8.1. Database Diagram
 
 <div style="text-align: center;">
-    <img src="img/db_diagram.png" alt="Container">
+    <img src="https://github.com/user-attachments/assets/31c510d7-51c7-44e9-81e5-56c369cd2aeb" alt="Container">
 </div>
