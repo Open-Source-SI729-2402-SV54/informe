@@ -369,7 +369,7 @@ Utilizando la paleta de colores y los estilos definidos, nuestro concepto de los
 
 ![mockUp3](https://github.com/user-attachments/assets/06964904-b490-4a22-94c4-dfe5f4dcac6c)
 
-![mockUp4](https://github.com/user-attachments/assets/2993a948-3df5-4785-91d0-4506716b571c)
+![MockUp4OrderFit](https://github.com/user-attachments/assets/cb46eb39-74a9-4c6c-ba70-3d19093a14fe)
 
 
 ### 4.4.4. Web Applications User Flow Diagrams
@@ -382,8 +382,7 @@ El diagrama de flujo de usuario es una ilustración visual de los pasos que un u
 
 ***Flujo de Plan Premium:*** El usuario del plan premium tiene a su disponibilidad diferentes opciones como "sport", "healthy" y "available" acorde a los objetivos de cada usuario. Además de tener un perfil personalizado que le permita tener notificaciones de sus rutinas y le permita contactar con nutricionistas y chef para ser asesodados en sus planes alimenticios.  
 
-![UserFlowDiagram2](https://github.com/user-attachments/assets/8139db4c-ab0d-43a1-8fcc-c2473c091262)
-
+![FLUJO](https://github.com/user-attachments/assets/9d391036-06ac-43e1-8994-f95c68570dc6)
 
 ***Flujo de plan Free:***  El usuario del plan free cuenta con opciones de comida más limitada que el plan premium en la que puede elegir alimentos básicos y cuenta con un perfil personalizable básico. 
 
@@ -391,14 +390,14 @@ El diagrama de flujo de usuario es una ilustración visual de los pasos que un u
 
 ***Vista general del flujo de usuario:*** 
 
-![GeneralUserFlowDiagram](https://github.com/user-attachments/assets/f4ff8208-d0e5-4269-b283-05aa75442529)
+![FlujoGeneral](https://github.com/user-attachments/assets/1b606a1e-43e8-4d1c-9db3-9b241c138941)
 
 ### 4.5. Web Applications Prototyping
 Hemos diseñado un prototipo de website para ofrecer un adelanto de lo que será nuestro sitio web. 
 
 https://www.figma.com/proto/a64BVB1zNy0aycIi3TtTg7/Landing-Page?node-id=10-8&t=5P63FVO0ajcTVU0r-1&scaling=min-zoom&content-scaling=fixed&page-id=6%3A3&starting-point-node-id=10%3A8
 
-![Prototype](https://github.com/user-attachments/assets/bd545ccb-1c0a-4fb4-bf22-5e2ee66409fe)
+![FigmaPrototype](https://github.com/user-attachments/assets/9ee39dbd-eab0-47a3-8247-51e7a8f24b06)
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
