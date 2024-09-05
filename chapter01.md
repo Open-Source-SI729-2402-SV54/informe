@@ -57,8 +57,8 @@ NutriSend ofrece diferentes planes adaptados a las necesidades de sus usuarios:
   <tr>
     <td>Fatima Asmad Padilla</td>
     <td>u202113612</td>
-    <td>----</td>
-    <td>----</td>
+    <td>Ingeniería de Software</td>
+    <td>Soy una persona aplicada y responsable ademas de organizada. Me gusta el programar en phyton y java, ademas tambien de Html</td>
   </tr>
   <tr>
     <td>Jhordi Luis Carranza Pérez</td>
