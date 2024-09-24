@@ -720,108 +720,97 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
 </tr>
 <tr>
     <td>TS-001</td>
-    <td>
-        Obtener Datos de Usuarios
-    </td>
+    <td>Obtener Datos de Usuarios</td>
     <td>
         Como desarrollador backend en NutriSend, quiero obtener la información de los usuarios (Basic Plan y Premium Plan) a través de una API para permitir al equipo de frontend utilizar los datos del usuario en la interfaz.
     </td>
     <td>
-        <strong>Escenario 01:</strong> <br>
-        Dado que tengo autorización en el uso de la API y al endpoint de Usuarios, cuando envío una solicitud GET para la obtención de datos del usuario, entonces el servidor responde con un código de estado 200 OK y recibo la información de los usuarios en un response de formato JSON que contiene al menos un usuario con los siguientes campos: <br>
-        - Id: {ID del usuario} <br>
-        - Email: {Email del usuario} <br>
-        - Password: {Contraseña del usuario} <br>
-        - Type: {Segmento objetivo del usuario} <br>
-        - First name: {Nombre del usuario} <br>
-        - Paternal Surname: {Apellido paterno del usuario} <br>
-        - Maternal Surname: {Apellido materno del usuario} <br>
-
-        <strong>Escenario 02:</strong> <br>
-        Dado que tengo autorización en el uso de la API y al endpoint de Usuarios, cuando intento ingresar datos con parámetros erróneos o inexistentes, entonces se deben mostrar los siguientes campos para la entrada: <br>
-        - **Name:** Enter name <br>
-        - **Surname:** Enter surname <br>
-        - **E-mail:** Enter e-mail <br>
+        <strong>Escenario 01: Obtener Datos de Usuarios Exitosamente</strong><br>
+        Dado que tengo autorización en el uso de la API y al endpoint de Usuarios, cuando envío una solicitud GET para la obtención de datos del usuario, entonces el servidor responde con un código de estado 200 OK y recibo la información de los usuarios en un response de formato JSON que contiene al menos un usuario con los siguientes campos:<br>
+        - Id: {ID del usuario}<br>
+        - Email: {Email del usuario}<br>
+        - Password: {Contraseña del usuario}<br>
+        - Type: {Segmento objetivo del usuario}<br>
+        - First name: {Nombre del usuario}<br>
+        - Paternal Surname: {Apellido paterno del usuario}<br>
+        - Maternal Surname: {Apellido materno del usuario}<br>
+        <strong>Escenario 02: Obtener Datos de Usuarios con Parámetro Erróneo</strong><br>
+        Dado que tengo autorización en el uso de la API y al endpoint de Usuarios, cuando intento ingresar datos con parámetros erróneos o inexistentes, entonces se deben mostrar los siguientes campos para la entrada:<br>
+        - **Name:** Enter name<br>
+        - **Surname:** Enter surname<br>
+        - **E-mail:** Enter e-mail<br>
         - **Password:** Enter password
     </td>
     <td></td>
 </tr>
+
 <tr>
     <td>TS-002</td>
-    <td>
-        Obtener Menú de Catálogo de Deportes
-    </td>
+    <td>Obtener Menú de Catálogo de Deportes</td>
     <td>
         Como desarrollador backend en NutriSend, quiero obtener el menú del catálogo de deportes disponibles a través de una API para permitir al equipo de frontend mostrar esta información en la interfaz.
     </td>
     <td>
-        <strong>Escenario 01:</strong> <br>
-        Dado que tengo autorización en el uso de la API y al endpoint de Menú de Catálogo de Deportes, cuando envío una solicitud GET para la obtención del menú, entonces el servidor responde con un código de estado 200 OK y recibo la información del menú en un response de formato JSON que contiene al menos un deporte con los siguientes campos: <br>
-        - Sport ID: {ID del deporte} <br>
-        - Menu Type: {Tipo de menú (dinner, breakfast, lunch)} <br>
-        - Dish Details: <br>
-          - **ID:** {ID del plato} <br>
-          - **Name:** {Nombre del plato} <br>
-          - **Kcal:** {Calorías del plato} <br>
-          - **Protein:** {Proteína del plato} <br>
-          - **Fat:** {Grasa del plato} <br>
-          - **Photo:** {URL a la foto} <br> 
-          - **Price:** {Precio del plato} <br>
-
-        <strong>Escenario 02:</strong> <br>
+        <strong>Escenario 01: Obtener Menú Exitosamente</strong><br>
+        Dado que tengo autorización en el uso de la API y al endpoint de Menú de Catálogo de Deportes, cuando envío una solicitud GET para la obtención del menú, entonces el servidor responde con un código de estado 200 OK y recibo la información del menú en un response de formato JSON que contiene al menos un deporte con los siguientes campos:<br>
+        - Sport ID: {ID del deporte}<br>
+        - Menu Type: {Tipo de menú (dinner, breakfast, lunch)}<br>
+        - Dish Details:<br>
+          - **ID:** {ID del plato}<br>
+          - **Name:** {Nombre del plato}<br>
+          - **Kcal:** {Calorías del plato}<br>
+          - **Protein:** {Proteína del plato}<br>
+          - **Fat:** {Grasa del plato}<br>
+          - **Photo:** {URL a la foto}<br> 
+          - **Price:** {Precio del plato}<br>
+        <strong>Escenario 02: Obtener Menú con Parámetro Erróneo</strong><br>
         Dado que tengo autorización en el uso de la API y al endpoint de Menú de Catálogo de Deportes, cuando intento obtener el menú con un parámetro erróneo o inexistente, entonces el servidor responde con un código de estado 400 Bad Request y recibo un mensaje de error en el response indicando que el parámetro es incorrecto o no existe.
     </td>
     <td></td>
 </tr>
 <tr>
     <td>TS-003</td>
-    <td>
-        Lista de Pedido
-    </td>
+    <td>Lista de Pedido</td>
     <td>
         Como desarrollador backend en NutriSend, quiero obtener la lista de pedidos de los usuarios a través de una API para permitir al equipo de frontend mostrar esta información en la interfaz.
     </td>
     <td>
-        <strong>Escenario 01:</strong> <br>
-        Dado que tengo autorización en el uso de la API y al endpoint de Lista de Pedido, cuando envío una solicitud GET para obtener la lista de pedidos del usuario, entonces el servidor responde con un código de estado 200 OK y recibo la información de los pedidos en un response de formato JSON que contiene al menos un pedido con los siguientes campos: <br>
-        - Order ID: {ID del pedido} <br>
-        - Sport ID: {ID del deporte} <br>
-        - Menu Type: {Tipo de menú (dinner, breakfast, lunch)} <br>
-        - Dish Details: <br>
-          - **ID:** {ID del plato} <br>
-          - **Name:** {Nombre del plato} <br>
-          - **Kcal:** {Calorías del plato} <br>
-          - **Protein:** {Proteína del plato} <br>
-          - **Fat:** {Grasa del plato} <br>
-          - **Photo:** {URL a la foto} <br> 
-          - **Price:** {Precio del plato} <br>
-
-        <strong>Escenario 02:</strong> <br>
+        <strong>Escenario 01: Obtener Lista de Pedidos Exitosamente</strong><br>
+        Dado que tengo autorización en el uso de la API y al endpoint de Lista de Pedido, cuando envío una solicitud GET para obtener la lista de pedidos del usuario, entonces el servidor responde con un código de estado 200 OK y recibo la información de los pedidos en un response de formato JSON que contiene al menos un pedido con los siguientes campos:<br>
+        - Order ID: {ID del pedido}<br>
+        - Sport ID: {ID del deporte}<br>
+        - Menu Type: {Tipo de menú (dinner, breakfast, lunch)}<br>
+        - Dish Details:<br>
+          - **ID:** {ID del plato}<br>
+          - **Name:** {Nombre del plato}<br>
+          - **Kcal:** {Calorías del plato}<br>
+          - **Protein:** {Proteína del plato}<br>
+          - **Fat:** {Grasa del plato}<br>
+          - **Photo:** {URL a la foto}<br> 
+          - **Price:** {Precio del plato}<br>
+        <strong>Escenario 02: Obtener Lista de Pedidos con Parámetro Erróneo</strong><br>
         Dado que tengo autorización en el uso de la API y al endpoint de Lista de Pedido, cuando intento obtener la lista de pedidos con un parámetro erróneo o inexistente, entonces el servidor responde con un código de estado 400 Bad Request y recibo un mensaje de error en el response indicando que el parámetro es incorrecto o no existe.
     </td>
     <td></td>
 </tr>
-<!-- Task Story 6 -->
+
 <tr>
     <td>TS-004</td>
+    <td>Obtener Historial de Pedidos</td>
     <td>
-        Manejo de Planes
+        Como desarrollador backend en NutriSend, quiero obtener el historial de pedidos realizados por los usuarios a través de una API para permitir al equipo de frontend utilizar los datos de los pedidos en la interfaz.
     </td>
     <td>
-        Como desarrollador backend en NutriSend, quiero gestionar los planes disponibles (Premium y Basic Plan) a través de una API, para permitir al equipo de frontend ofrecer opciones adecuadas a los usuarios según su suscripción.
-    </td>
-    <td>
-        <strong>Escenario 01:</strong> <br>
-        Dado que tengo autorización en el uso de la API y al endpoint de Manejo de Planes, cuando envío una solicitud GET para obtener la información de los planes disponibles, entonces el servidor responde con un código de estado 200 OK y recibo la información de los planes en un response de formato JSON que contiene al menos los siguientes campos: <br>
-        - Plan ID: {ID del plan} <br>
-        - Plan Type: {Tipo de plan (Premium o Basic Plan)} <br>
-        - Features: {Lista de características disponibles para el plan} <br>
-        - Price: {Precio del plan} <br>
-
-        <strong>Escenario 02:</strong> <br>
-        Dado que tengo autorización en el uso de la API y al endpoint de Manejo de Planes, cuando intento acceder a la información con un parámetro erróneo o inexistente, entonces el servidor responde con un código de estado 400 Bad Request y recibo un mensaje de error en el response indicando que el parámetro es incorrecto o no existe.
-    </td>
-    <td></td>
+        <strong>Escenario 01: Obtener Historial Exitosamente</strong><br>
+        Dado que tengo autorización en el uso de la API y al endpoint de Historial de Pedidos, cuando envío una solicitud GET para la obtención del historial, entonces el servidor responde con un código de estado 200 OK y recibo la información en un response JSON que contiene al menos un pedido con los siguientes campos:<br> 
+        - ID: {ID del historial}<br> 
+        - Order ID: {ID del pedido}<br> 
+        - Registration Date: {Fecha registro}<br> 
+        - Status: {Estado (pendiente/completado/cancelado)}<br>
+        <strong>Escenario 02: Obtener Historial con Parámetro Erróneo</strong><br> 
+        Dado que tengo autorización en el uso de la API y al endpoint Historial, cuando intento obtener datos con un parámetro erróneo o inexistente, entonces el servidor responde con un código 400 Bad Request y recibo un mensaje indicando que el parámetro es incorrecto o no existe.
+    </td> 
+    <td></td> 
 </tr>
 
     </tbody>
