@@ -226,6 +226,15 @@ A continuación, se detalla el desarrollo de las actividades relacionadas con la
         - [5.2.1.6. Services Documentation Evidence for Sprint Review](/chapter05.md#5216-services-documentation-evidence-for-sprint-review)
         - [5.2.1.7. Software Deployment Evidence for Sprint Review](/chapter05.md#5217-software-deployment-evidence-for-sprint-review)
         - [5.2.1.8. Team Collaboration Insights during Sprint](/chapter05.md#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](/chapter05.md#521-sprint-2)
+        - [5.2.2.1. Sprint Planning 2](/chapter05.md#5221-sprint-planning-2)
+        - [5.2.2.2. Sprint Backlog 2](/chapter05.md#5222-sprint-backlog-2)
+        - [5.2.2.3. Development Evidence for Sprint Review](/chapter05.md#5223-development-evidence-for-sprint-review)
+        - [5.2.2.4. Testing Suite Evidence for Sprint Review](/chapter05.md#5224-testing-suite-evidence-for-sprint-review)
+        - [5.2.2.5. Execution Evidence for Sprint Review](/chapter05.md#5225-execution-evidence-for-sprint-review)
+        - [5.2.2.6. Services Documentation Evidence for Sprint Review](/chapter05.md#5226-services-documentation-evidence-for-sprint-review)
+        - [5.2.2.7. Software Deployment Evidence for Sprint Review](/chapter05.md#5227-software-deployment-evidence-for-sprint-review)
+        - [5.2.2.8. Team Collaboration Insights during Sprint](/chapter05.md#5228-team-collaboration-insights-during-sprint)
 
 [Conclusiones](#conclusiones)
 
