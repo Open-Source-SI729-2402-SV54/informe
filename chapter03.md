@@ -629,6 +629,201 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             </td>
             <td>EPIC-002</td>
         </tr>
+        <!-- User Story 28 -->
+<tr>
+    <td>US-028</td>
+    <td>
+        Acceso Rápido a la Página de Inicio
+    </td>
+    <td>
+        Como usuario, quiero poder regresar rápidamente a la página de inicio desde cualquier sección, para que pueda volver fácilmente a la información principal de la plataforma.
+    </td>
+    <td>
+        <strong>Escenario 1:</strong> <br>
+        Al seleccionar el enlace "Home" en la navbar, el usuario es redirigido a la página de inicio. <br>
+        <strong>Escenario 2:</strong> <br>
+        Al tocar el logotipo de la plataforma en la navbar, el usuario también es llevado a la página de inicio.
+    </td>
+    <td>EPIC-001</td>
+</tr>
+
+<!-- User Story 29 -->
+<tr>
+    <td>US-029</td>
+    <td>
+        Acceso a Información Acerca de la Plataforma
+    </td>
+    <td>
+        Como usuario, quiero acceder a la sección "About" para conocer más sobre los valores y objetivos de la plataforma NutriSend.
+    </td>
+    <td>
+        <strong>Escenario 1:</strong> <br>
+        Al elegir el enlace "About", se muestra una página con información detallada sobre la plataforma. <br>
+        <strong>Escenario 2:</strong> <br>
+        El usuario puede visualizar un video introductorio sobre el equipo de desarrollo de NutriSend en la sección "About".
+    </td>
+    <td>EPIC-005</td>
+</tr>
+
+<!-- User Story 30 -->
+<tr>
+    <td>US-030</td>
+    <td>
+        Exploración de Paquetes Disponibles
+    </td>
+    <td>
+        Como usuario, quiero acceder a la sección "Package" para ver los diferentes paquetes de servicios disponibles y sus características.
+    </td>
+    <td>
+        <strong>Escenario 1:</strong> <br>
+        Al navegar hacia el enlace "Package", se presenta una lista de todos los paquetes disponibles con descripciones breves. <br>
+        <strong>Escenario 2:</strong> <br>
+        Al seleccionar un paquete específico, el usuario puede ver detalles adicionales, como precios y beneficios incluidos.
+    </td>
+    <td>EPIC-002</td>
+</tr>
+
+<!-- User Story 31 -->
+<tr>
+    <td>US-031</td>
+    <td>
+        Visualización del Menú de Comidas
+    </td>
+    <td>
+        Como usuario, quiero acceder a la sección "Menu" para explorar las opciones de comidas disponibles y sus ingredientes.
+    </td>
+    <td>
+        <strong>Escenario 1:</strong> <br>
+        Al dirigirse al enlace "Menu", se muestra un catálogo completo de comidas saludables con imágenes. <br>
+        <strong>Escenario 2:</strong> <br>
+        El usuario tiene la opción de filtrar las opciones del menú por tipo de plan escogido (FitFood o Lunch) desde esta sección.
+    </td>
+    <td>EPIC-003</td>
+</tr>
+
+<!-- User Story 32 -->
+<tr>
+    <td>US-032</td>
+    <td>
+        Acceso a Soporte y Contacto
+    </td>
+    <td>
+        Como usuario, quiero acceder a la sección "Contact" para obtener ayuda o hacer preguntas sobre mis necesidades nutricionales.
+    </td>
+    <td>
+        <strong>Escenario 1:</strong> <br>
+        Al ingresar a la sección "Contact", se presenta un formulario donde puede enviar sus consultas directamente al equipo de soporte. <br>
+        <strong>Escenario 2:</strong> <br>
+        La sección proporciona información adicional como números de teléfono, horarios de atención y opciones para contactar al equipo a través de redes sociales.
+    </td>
+    <td>EPIC-005</td>
+</tr>
+<tr>
+    <td>TS-001</td>
+    <td>
+        Obtener Datos de Usuarios
+    </td>
+    <td>
+        Como desarrollador backend en NutriSend, quiero obtener la información de los usuarios (Basic Plan y Premium Plan) a través de una API para permitir al equipo de frontend utilizar los datos del usuario en la interfaz.
+    </td>
+    <td>
+        <strong>Escenario 01:</strong> <br>
+        Dado que tengo autorización en el uso de la API y al endpoint de Usuarios, cuando envío una solicitud GET para la obtención de datos del usuario, entonces el servidor responde con un código de estado 200 OK y recibo la información de los usuarios en un response de formato JSON que contiene al menos un usuario con los siguientes campos: <br>
+        - Id: {ID del usuario} <br>
+        - Email: {Email del usuario} <br>
+        - Password: {Contraseña del usuario} <br>
+        - Type: {Segmento objetivo del usuario} <br>
+        - First name: {Nombre del usuario} <br>
+        - Paternal Surname: {Apellido paterno del usuario} <br>
+        - Maternal Surname: {Apellido materno del usuario} <br>
+
+        <strong>Escenario 02:</strong> <br>
+        Dado que tengo autorización en el uso de la API y al endpoint de Usuarios, cuando intento ingresar datos con parámetros erróneos o inexistentes, entonces se deben mostrar los siguientes campos para la entrada: <br>
+        - **Name:** Enter name <br>
+        - **Surname:** Enter surname <br>
+        - **E-mail:** Enter e-mail <br>
+        - **Password:** Enter password
+    </td>
+    <td></td>
+</tr>
+<tr>
+    <td>TS-002</td>
+    <td>
+        Obtener Menú de Catálogo de Deportes
+    </td>
+    <td>
+        Como desarrollador backend en NutriSend, quiero obtener el menú del catálogo de deportes disponibles a través de una API para permitir al equipo de frontend mostrar esta información en la interfaz.
+    </td>
+    <td>
+        <strong>Escenario 01:</strong> <br>
+        Dado que tengo autorización en el uso de la API y al endpoint de Menú de Catálogo de Deportes, cuando envío una solicitud GET para la obtención del menú, entonces el servidor responde con un código de estado 200 OK y recibo la información del menú en un response de formato JSON que contiene al menos un deporte con los siguientes campos: <br>
+        - Sport ID: {ID del deporte} <br>
+        - Menu Type: {Tipo de menú (dinner, breakfast, lunch)} <br>
+        - Dish Details: <br>
+          - **ID:** {ID del plato} <br>
+          - **Name:** {Nombre del plato} <br>
+          - **Kcal:** {Calorías del plato} <br>
+          - **Protein:** {Proteína del plato} <br>
+          - **Fat:** {Grasa del plato} <br>
+          - **Photo:** {URL a la foto} <br> 
+          - **Price:** {Precio del plato} <br>
+
+        <strong>Escenario 02:</strong> <br>
+        Dado que tengo autorización en el uso de la API y al endpoint de Menú de Catálogo de Deportes, cuando intento obtener el menú con un parámetro erróneo o inexistente, entonces el servidor responde con un código de estado 400 Bad Request y recibo un mensaje de error en el response indicando que el parámetro es incorrecto o no existe.
+    </td>
+    <td></td>
+</tr>
+<tr>
+    <td>TS-003</td>
+    <td>
+        Lista de Pedido
+    </td>
+    <td>
+        Como desarrollador backend en NutriSend, quiero obtener la lista de pedidos de los usuarios a través de una API para permitir al equipo de frontend mostrar esta información en la interfaz.
+    </td>
+    <td>
+        <strong>Escenario 01:</strong> <br>
+        Dado que tengo autorización en el uso de la API y al endpoint de Lista de Pedido, cuando envío una solicitud GET para obtener la lista de pedidos del usuario, entonces el servidor responde con un código de estado 200 OK y recibo la información de los pedidos en un response de formato JSON que contiene al menos un pedido con los siguientes campos: <br>
+        - Order ID: {ID del pedido} <br>
+        - Sport ID: {ID del deporte} <br>
+        - Menu Type: {Tipo de menú (dinner, breakfast, lunch)} <br>
+        - Dish Details: <br>
+          - **ID:** {ID del plato} <br>
+          - **Name:** {Nombre del plato} <br>
+          - **Kcal:** {Calorías del plato} <br>
+          - **Protein:** {Proteína del plato} <br>
+          - **Fat:** {Grasa del plato} <br>
+          - **Photo:** {URL a la foto} <br> 
+          - **Price:** {Precio del plato} <br>
+
+        <strong>Escenario 02:</strong> <br>
+        Dado que tengo autorización en el uso de la API y al endpoint de Lista de Pedido, cuando intento obtener la lista de pedidos con un parámetro erróneo o inexistente, entonces el servidor responde con un código de estado 400 Bad Request y recibo un mensaje de error en el response indicando que el parámetro es incorrecto o no existe.
+    </td>
+    <td></td>
+</tr>
+<!-- Task Story 6 -->
+<tr>
+    <td>TS-004</td>
+    <td>
+        Manejo de Planes
+    </td>
+    <td>
+        Como desarrollador backend en NutriSend, quiero gestionar los planes disponibles (Premium y Basic Plan) a través de una API, para permitir al equipo de frontend ofrecer opciones adecuadas a los usuarios según su suscripción.
+    </td>
+    <td>
+        <strong>Escenario 01:</strong> <br>
+        Dado que tengo autorización en el uso de la API y al endpoint de Manejo de Planes, cuando envío una solicitud GET para obtener la información de los planes disponibles, entonces el servidor responde con un código de estado 200 OK y recibo la información de los planes en un response de formato JSON que contiene al menos los siguientes campos: <br>
+        - Plan ID: {ID del plan} <br>
+        - Plan Type: {Tipo de plan (Premium o Basic Plan)} <br>
+        - Features: {Lista de características disponibles para el plan} <br>
+        - Price: {Precio del plan} <br>
+
+        <strong>Escenario 02:</strong> <br>
+        Dado que tengo autorización en el uso de la API y al endpoint de Manejo de Planes, cuando intento acceder a la información con un parámetro erróneo o inexistente, entonces el servidor responde con un código de estado 400 Bad Request y recibo un mensaje de error en el response indicando que el parámetro es incorrecto o no existe.
+    </td>
+    <td></td>
+</tr>
+
     </tbody>
 </table>
 
@@ -847,5 +1042,41 @@ Impact Mapping es una técnica de planificación estratégica que ayuda a visual
             <td>Como usuario, quiero ajustar el tamaño de las porciones en los menús, para poder controlar mejor mi ingesta calórica y nutricional </td>
             <td>5</td>
         </tr>
+        <tr>
+            <td>28</td>
+            <td>US-028</td>
+            <td>Acceso Rápido a la Página de Inicio</td>
+            <td>Como usuario, quiero poder regresar rápidamente a la página de inicio desde cualquier sección, para que pueda volver fácilmente a la información principal de la plataforma.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>29</td>
+            <td>US-029</td>
+            <td>Acceso a Información Acerca de la Plataforma</td>
+            <td>Como usuario, quiero acceder a la sección "About" para conocer más sobre los valores y objetivos de la plataforma NutriSend.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>30</td>
+            <td>US-030</td>
+            <td>Exploración de Paquetes Disponibles</td>
+            <td>Como usuario, quiero acceder a la sección "Package" para ver los diferentes paquetes de servicios disponibles y sus características.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>31</td>
+            <td>US-031</td>
+            <td>Visualización del Menú de Comidas</td>
+            <td>Como usuario, quiero acceder a la sección "Menu" para explorar las opciones de comidas disponibles y sus ingredientes.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>32</td>
+            <td>US-032</td>
+            <td>Acceso a Soporte y Contacto</td>
+            <td>Como usuario, quiero acceder a la sección "Contact" para obtener ayuda o hacer preguntas sobre mis necesidades nutricionales.</td>
+            <td>5</td>
+        </tr>
     </tbody>
+    
 </table>
