@@ -937,7 +937,7 @@ Este sprint marcó importantes avances en la implementación del Front-End del p
 
 El enfoque en la interfaz amigable e intuitiva permitió crear una experiencia de navegación fluida, destacando por su diseño visualmente atractivo y adaptable a diferentes tamaños. Además, se avanzó en la gestión de perfiles de usuarios, elección de planes y visualización de información nutricional. Se resolvieron las tareas pendientes y se realizaron varios ajustes en la estructura del proyecto.
 
-A continuación, se muestran capturas de pantalla que ilustran las vistas principales implementadas durante este sprint, como la página de registro de usuarios, la visualización del catálogo de comidas, etc. También se incluye un enlace a un video demostrativo que explica las principales características y la navegación en la aplicación logradas en este ciclo:
+A continuación, se muestran capturas de pantalla que ilustran las vistas principales implementadas durante este sprint, como la página de registro de usuarios, la visualización del catálogo de comidas, etc. También se incluye un enlace a un video demostrativo que explica las principales características y la navegación en la aplicación logradas en este ciclo: https://nutrisend.vercel.app/home 
 
 - Se muestra el despliegue del menú principal de la aplicación; se muestra el footer o pie de página, además del navbar con sus respectivos hipervínculo:
 
