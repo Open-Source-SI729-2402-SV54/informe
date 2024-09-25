@@ -929,6 +929,8 @@ En esta sección se detallan y presentan los avances en la implementación de lo
 </table>
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
+La sección de la aplicación web ha sido omitida ya que solo se ha desarrollado la Landing Page y la aplicación del front-end. 
+Se proporcionará más información sobre la aplicación en una fase posterior del desarrollo.
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
