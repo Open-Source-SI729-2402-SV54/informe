@@ -840,6 +840,93 @@ En esta sección se detallan y presentan los avances en la implementación de lo
     <td>Added images to the assets folder.</td>
     <td>Sep 21, 2024</td>
 </tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>Luis</td>
+    <td>c7b4282463ba528fa9bc6a14ee2de78d88174932</td>
+    <td>feat(front-end): added images in assets</td>
+    <td>Added images to the assets folder.</td>
+    <td>Sep 21, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>a56fad088d351da7be9d6464f4d16684a036944f</td>
+    <td>feat: update</td>
+    <td>Updated various components and fixed bugs.</td>
+    <td>Sep 24, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>ecaa9403c1d9714f6f9f72af985a09a3a73f3796</td>
+    <td>feat: schedule component created</td>
+    <td>Created the schedule component for the application.</td>
+    <td>Sep 24, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>0f68ad3b421d545c427c0116c95336461b3db01d</td>
+    <td>feat: notifications component complete</td>
+    <td>Completed the notifications component.</td>
+    <td>Sep 24, 2024</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>269e3409fe450492bd5b790575eae1659ae09f1b</td>
+    <td>feat: notifications component added</td>
+    <td>Added the notifications component to the project.</td>
+    <td>Sep 24, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>fcb39c2edc579be2d13d7973727fe65be6745798</td>
+    <td>feat</td>
+    <td>Implemented new features and improvements.</td>
+    <td>Sep 24, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>4b8bba4f53d5f1c82aeaaa4f5d617040d81038d1</td>
+    <td>chore: schedule component created</td>
+    <td>Created the schedule component as part of routine tasks.</td>
+    <td>Sep 24, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>79fd4fbd5501fc633dcd8cbe5df27a5295af4f98</td>
+    <td>feat: click function on plans component</td>
+    <td>Added click functionality to the plans component.</td>
+    <td>Sep 24, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>0985ae0cc28b7d447b1b1125bb7ea3d3db448e34</td>
+    <td>feat: footer added</td>
+    <td>Added a footer to the application.</td>
+    <td>Sep 23, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>ca84894346b347d5915a23c849c7efa93445672c</td>
+    <td>feat: sign up logic fixed and style css of sign in complete</td>
+    <td>Fixed sign-up logic and completed sign-in CSS styling.</td>
+    <td>Sep 23, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>c2b1296489ca378e933b7f3cecaa7a59531e5bf8</td>
+    <td>feat: sign in logic fixed</td>
+    <td>Fixed issues with the sign-in logic.</td>
+    <td>Sep 23, 2024</td>
+</tr>
     </tbody>
 </table>
 
