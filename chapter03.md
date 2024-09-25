@@ -729,9 +729,10 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
 
 ## 3.3. Impact Mapping.
 
-Impact Mapping es una técnica de planificación estratégica que ayuda a visualizar y planificar cómo un proyecto puede generar un impacto significativo. Permite identificar claramente los resultados deseados, los comportamientos esperados de los usuarios y las acciones necesarias para alcanzar esos objetivos. Al utilizar Impact Mapping, se puede alinear mejor las actividades con los objetivos, tomar decisiones más informadas y maximizar el impacto del proyecto: https://miro.com/welcomeonboard/dEwzZkJyaXFVeWVSNzUwc2FlMUtZRm5UbDA3YzlmaDV0NmV4a2JNR3IzRWQzdGVHNGZuSVJySlRDbTZjNDZGdnwzNDU4NzY0NTIzNDE1MDY4MDA4fDI=?share_link_id=541791359949
+Impact Mapping es una técnica de planificación estratégica que ayuda a visualizar y planificar cómo un proyecto puede generar un impacto significativo. Permite identificar claramente los resultados deseados, los comportamientos esperados de los usuarios y las acciones necesarias para alcanzar esos objetivos. Al utilizar Impact Mapping, se puede alinear mejor las actividades con los objetivos, tomar decisiones más informadas y maximizar el impacto del proyecto: 
+https://miro.com/welcomeonboard/dEwzZkJyaXFVeWVSNzUwc2FlMUtZRm5UbDA3YzlmaDV0NmV4a2JNR3IzRWQzdGVHNGZuSVJySlRDbTZjNDZGdnwzMDc0NDU3MzY0MDEyMTc4NDQ4fDI=?share_link_id=269618961302
 
-<img src="https://github.com/user-attachments/assets/af9912bb-b0c9-439d-8305-97d0ddb25b0d" alt="Colors">
+<img src="https://github.com/Open-Source-SI729-2402-SV54/informe/blob/main/img/impact%20mapping.jpg?raw=true">
 
 ## 3.4. Product Backlog.
 
