@@ -393,6 +393,7 @@ Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del
 ### 5.2.2. Sprint 2
 Para este segundo sprint, es crucial seguir clarificando las tareas y mantener el enfoque en nuestro proceso de desarrollo ágil. En esta fase, continuamos expandiendo las características establecidas en el sprint anterior, mejorando el código funcional y avanzando en su desarrollo de manera iterativa.
 #### 5.2.2.1. Sprint Planning 2
+
 <table table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
   <thead>
     <tr>
@@ -448,6 +449,9 @@ Para este segundo sprint, es crucial seguir clarificando las tareas y mantener e
       <th>Sum of Story Points</th>
       <th>25</th>
     </tr>
+     </tbody>
+</table>
+  
 #### 5.2.2.2. Sprint Backlog 2
 
 #### 5.2.2.3. Development Evidence for Sprint Review
