@@ -110,6 +110,8 @@ Para este primer sprint, es importante clarificar las tareas y enfocarnos en nue
 #### 5.2.1.2. Sprint Backlog 1.
 En este primer sprint, nos centramos en implementar las funcionalidades esenciales de la Landing Page, como la estructura general, el diseño visual y la navegación básica. Además, se elaboró un reporte que documenta el ciclo de vida completo de nuestro proyecto de software. Estas características son cruciales para establecer los cimientos de nuestro producto y asegurar una experiencia de usuario consistente y de calidad. A continuación, se presenta el sprint backlog 1 y el tablero de Trello con la distribución de tareas:
 
+
+
 ![Spring1Trello](https://github.com/user-attachments/assets/ed83c86a-c4b0-4827-b7f4-bb3e7441da86)
 
 <table table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
@@ -454,6 +456,8 @@ Para este segundo sprint, es crucial seguir clarificando las tareas y mantener e
   
 #### 5.2.2.2. Sprint Backlog 2
 En este segundo sprint, nos enfocamos en integrar las funcionalidades avanzadas de la Landing Page, consolidando el despliegue del front end y mejorando la interactividad del usuario. Se trabajó en optimizar el rendimiento y en la implementación de elementos dinámicos que enriquecen la experiencia general. Además, se actualizó el reporte que documenta el ciclo de vida completo de nuestro proyecto de software, reflejando los avances y las lecciones aprendidas. Estas características son fundamentales para afianzar la base de nuestro producto y asegurar una experiencia de usuario fluida y atractiva. A continuación, se presenta el sprint backlog 2 y el tablero de Trello con la distribución de tareas:
+
+![image](https://github.com/user-attachments/assets/e11564c1-335a-46a1-a6b4-5286c3424cc7)
 
 <table table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
   <thead>
