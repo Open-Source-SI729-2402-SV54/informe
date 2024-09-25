@@ -355,31 +355,35 @@ NutriSend ofrece diferentes planes adaptados a las necesidades de sus usuarios:
     <td>Soy responsable, dedicada, perfeccionista y tengo liderazgo. Para este proyecto cuento con conocimiento en lenguajes de programacion como html, css, java, python y c++</td>
   </tr>
   <tr>
-    <td>Renzo José Araujo Ingunza</td>
+    <td>Renzo José Araujo Ingunza<br>
+    <img src="https://github.com/user-attachments/assets/1213ab35-b4f7-486e-ad7d-f0217652144e"alt="logo-NutriSend" width="50"/></td></td>
     <td>u202113612</td>
     <td>Ingeniería de Software</td>
     <td>Soy una persona responsable y aplicada. para este proyecto cuento con conocimientos en lenguajes de programación como C + +, Python y java.</td>
   </tr>
   <tr>
-    <td>Fatima Asmad Padilla</td>
+    <td>Fatima Asmad Padilla<img src="https://github.com/user-attachments/assets/c1abfa42-e945-4936-8ac7-93828b200e0c"alt="logo-NutriSend" width="50"/></td></td>
     <td>u202113612</td>
     <td>Ingeniería de Software</td>
     <td>Soy una persona aplicada y responsable ademas de organizada. Me gusta el programar en phyton y java, ademas tambien de Html
 </td>
   </tr>
   <tr>
-    <td>Jhordi Luis Carranza Pérez</td>
+    <td>Jhordi Luis Carranza Pérez<br>
+    <img src="https://github.com/Open-Source-SI729-2402-SV54/informe/blob/main/img/WhatsApp%20Image%202024-09-05%20at%2011.38.01_2f539344.jpg?raw=true"alt="logo-NutriSend" width="50"/></td></td>
     <td>u20191e835</td>
     <td>Ingeniería de Software</td>
     <td>Soy una persona dispuesta a seguir aprendiendo y mejorando constantemente. Mis conocimientos de programación en C++, Python, HTML y sobre todo la lógica de programación serán de vital ayuda para la realización de este proyecto.</td>
-   <td>Luis Alfonso Villegas Jipa</td>
+    </td>
+  </tr> 
+   <tr>
+      <td>Luis Alfonso Villegas Jipa<br>
+      <img src="https://github.com/user-attachments/assets/10fd141f-6f2e-421d-87d4-628ce712eb08"alt="logo-NutriSend" width="50"/></td></td>
     <td>u201717523</td>
     <td>Ingeniería de Software</td>
     <td>Soy una persona creativa que le gusta aprender nuevos horizontes. Tengo conocimientos de programacion en C++, Python, HTML y JS. Asimismo tengo conocimientos en SQl (Visual Management) y NoSQl (MongoDB).
-    </td>
-  </tr>  
+   </tr>
 </table>
-
 
 ## 1.2. Solution Profile
 
@@ -2567,9 +2571,7 @@ Williams, R. (2023). Data security in online food services: Protecting user info
 
 # Anexos
 
-Video-About-Team: 
-
-# Anexos
+Video-About-Team: https://upcedupe-my.sharepoint.com/:f:/g/personal/u202214572_upc_edu_pe/Eh-IeapypipPiV5e8GQpijcBKYZda0AcK2h4jRybiwAYCQ?e=fsuBQK
 
 Despliegue del lading-page (version0.1): https://open-source-si729-2402-sv54.github.io/landing-page/
 

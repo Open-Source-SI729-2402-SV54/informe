@@ -138,8 +138,8 @@ En este primer sprint, nos centramos en implementar las funcionalidades esencial
       <th>US-025</th>
       <th>Tipografía cómoda y agradable estéticamente</th>
       <th>TSK001</th>
-      <th></th>
-      <th></th>
+      <th>Elegir Tipografía</th>
+      <th>Seleccionar y aplicar una tipografía que sea legible y estéticamente agradable.</th>
       <th>0.5</th>
       <th>Camila Leonor Espinoza Vivas</th>
       <th>Done</th>
@@ -148,8 +148,8 @@ En este primer sprint, nos centramos en implementar las funcionalidades esencial
       <th>US-026</th>
       <th>Acceso rápido a la página oficial</th>
       <th>TSK002</th>
-      <th></th>
-      <th></th>
+      <th>Crear Enlace</th>
+      <th>Implementar un enlace visible en el encabezado que redirija a la página oficial.</th>
       <th>1</th>
       <th>Camila Leonor Espinoza Vivas</th>
       <th>Done</th>
@@ -158,8 +158,8 @@ En este primer sprint, nos centramos en implementar las funcionalidades esencial
       <th>US-027</th>
       <th>Accesibilidad de la aplicación en diferentes dispositivos</th>
       <th>TSK003</th>
-      <th></th>
-      <th></th>
+      <th>Pruebas de Responsividad</th>
+      <th>Realizar pruebas en varios dispositivos para asegurar la correcta visualización.</th>
       <th>1</th>
       <th>Camila Leonor Espinoza Vivas</th>
       <th>Done</th>
@@ -168,8 +168,8 @@ En este primer sprint, nos centramos en implementar las funcionalidades esencial
       <th>US-028</th>
       <th>Acceso a Información Acerca de la Plataforma</th>
       <th>TSK004</th>
-      <th></th>
-      <th></th>
+      <th>Desarrollar Sección de About Us</th>
+      <th>Crear una sección informativa que describa el starup de Nutrisend y sus beneficios.</th>
       <th>1</th>
       <th>Camila Leonor Espinoza Vivas</th>
       <th>Done</th>
@@ -178,8 +178,8 @@ En este primer sprint, nos centramos en implementar las funcionalidades esencial
       <th>US-029</th>
       <th>Visualización de imágenes y gráficos relevantes</th>
       <th>TSK005</th>
-      <th></th>
-      <th></th>
+      <th>Incluir Gráficos</th>
+      <th>Agregar imágenes y gráficos que ilustren los servicios ofrecidos.</th>
       <th>2</th>
       <th>Camila Leonor Espinoza Vivas</th>
       <th>Done</th>
@@ -188,8 +188,8 @@ En este primer sprint, nos centramos en implementar las funcionalidades esencial
       <th>US-030</th>
       <th>Exploración de Paquetes Disponibles</th>
       <th>TSK006</th>
-      <th></th>
-      <th></th>
+      <th>Crear Sección de Paquetes</th>
+      <th>Implementar una sección que muestre los diferentes paquetes disponibles.</th>
       <th>3</th>
       <th>Camila Leonor Espinoza Vivas</th>
       <th>Done</th>
@@ -198,8 +198,8 @@ En este primer sprint, nos centramos en implementar las funcionalidades esencial
       <th>US-031</th>
       <th>Visualización del Menú de Comidas</th>
       <th>TSK007</th>
-      <th></th>
-      <th></th>
+      <th>Mostrar Menú</th>
+      <th>Desarrollar una sección donde se muestre el menú de comidas ofrecidas.</th>
       <th>4</th>
       <th>Camila Leonor Espinoza Vivas</th>
       <th>Done</th>
@@ -208,8 +208,8 @@ En este primer sprint, nos centramos en implementar las funcionalidades esencial
       <th>US-032</th>
       <th>Acceso a Soporte y Contacto</th>
       <th>TSK008</th>
-      <th></th>
-      <th></th>
+      <th>Implementar Contacto</th>
+      <th>Agregar una sección de contacto para soporte y consultas de usuarios.</th>
       <th>2</th>
       <th>Camila Leonor Espinoza Vivas</th>
       <th>Done</th>
@@ -218,8 +218,8 @@ En este primer sprint, nos centramos en implementar las funcionalidades esencial
       <th>US-033</th>
       <th>Acceso a Footer</th>
       <th>TSK009</th>
-      <th></th>
-      <th></th>
+      <th>Diseñar Footer</th>
+      <th>Crear el diseño del pie de página con enlaces y datos relevantes.</th>
       <th>2</th>
       <th>Fatima Asmad Padilla</th>
       <th>Done</th>
@@ -228,8 +228,8 @@ En este primer sprint, nos centramos en implementar las funcionalidades esencial
       <th>US-034</th>
       <th>Visualización de los comentarios</th>
       <th>TSK010</th>
-      <th></th>
-      <th></th>
+      <th>Mostrar Comentarios</th>
+      <th>Implementar una sección donde los usuarios puedan ver los comentarios dejados.</th>
       <th>2</th>
       <th>Camila Leonor Espinoza Vivas</th>
       <th>Done</th>
