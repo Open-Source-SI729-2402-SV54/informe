@@ -387,11 +387,11 @@ A continuación, se detalla el desarrollo de las actividades relacionadas con la
       <br>
       Jhordi Luis Carranza Pérez<br>	
       TB1 <br>
-      Finalizó su parte del front end, aunque no alcanzó los objetivos específicos que se habían establecido. A pesar de estas dificultades, su contribución fue clave en la actualización del impact map, lo que permitió al equipo ajustar su estrategia general y visualizar mejor las conexiones entre las metas del proyecto y las tareas individuales. Su participación en este aspecto estratégico fue valiosa para la planificación futura del equipo.
+      Finalizó su parte del front end, aunque no alcanzó los objetivos específicos que se habían establecido. A pesar de estas dificultades, su contribución fue clave en la actualización del impact map y terminando el capitulo 5, lo que permitió al equipo ajustar su estrategia general y visualizar mejor las conexiones entre las metas del proyecto y las tareas individuales. Su participación en este aspecto estratégico fue valiosa para la planificación futura del equipo.
       <br>
       Luis Alfonso Villegas Jipa<br>
       TB1 <br>
-      Completó su parte del front end y user stories, pero no cumplió con los objetivos específicos señalados para su tarea. Aunque se enfrentó a ciertos desafíos para alcanzar las metas definidas, su capacidad para finalizar su trabajo refleja un compromiso con el equipo y una disposición para cumplir con los plazos a pesar de las dificultades.
+      Completó su parte del front end y user stories, pero no cumplió con los objetivos específicos señalados para su tarea. Aunque se enfrentó a ciertos desafíos para alcanzar las metas definidas, su capacidad para finalizar su trabajo terminando el capitulo 5 refleja un compromiso con el equipo y una disposición para cumplir con los plazos a pesar de las dificultades.
       <br>
     </td>
     <td>
