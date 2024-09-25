@@ -481,16 +481,6 @@ En este segundo sprint, nos enfocamos en integrar las funcionalidades avanzadas 
     </tr>
   </thead>
   <tbody>
-    <tr>
-    <th>Id</th>
-    <th>Title</th>
-    <th>Id</th>
-    <th>Title</th>
-    <th>Description</th>
-    <th>Estimation(Hours)</th>
-    <th>Assigned To</th>
-    <th>Status (To-do / InProcess / To-Review/ Done)</th>
-</tr>
 <tr>
     <td>US-001</td>
     <td>Registro de Usuarios</td>
@@ -634,7 +624,224 @@ En este segundo sprint, nos enfocamos en integrar las funcionalidades avanzadas 
 
   </tbody>
 </table>
+
 #### 5.2.2.3. Development Evidence for Sprint Review
+En esta sección se detallan y presentan los avances en la implementación de los componentes de la solución, de acuerdo con el alcance definido para el Sprint: Landing Page, Aplicaciones Web y Servicios Web. En primer lugar, se destacarán los commits más relevantes para el reporte, los cuales reflejan el ciclo de vida del proyecto, así como toda la información que se ha utilizado, se está utilizando y se utilizará en el desarrollo del mismo.
+
+<table>
+    <thead>
+        <tr>
+            <th>Repository</th>
+            <th>Branch</th>
+            <th>Commit id</th>
+            <th>Commit Message</th>
+            <th>Commit Message Body</th>
+            <th>Commited on (Date)</th>
+        </tr>
+    </thead>
+    <tbody>
+  <tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>ac5cba37545a62c4c0b1c06d0429baa06e7880da</td>
+    <td>Initial commit</td>
+    <td>Se creo el index.html, styles.css, main.js y la carpeta img</td>
+    <td>Sep 18, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>72ad4b985feb0f5c1feab6a72be1e09457009cca</td>
+    <td>Initial commit</td>
+    <td>Se creo el proyecto</td>
+    <td>Sep 18, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>960c46b0865cfab89e46965ea2634dfaf2e44f7a</td>
+    <td>feat(front-end): add components</td>
+    <td>Se añadieron componentes para la interfaz</td>
+    <td>Sep 19, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>b1f46fbed8522df5c1b6e669d6b89bb64200de44</td>
+    <td>feat(front-end): add nutrisend</td>
+    <td>Se agregó la funcionalidad nutrisend</td>
+    <td>Sep 19, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>c407084f6a01666208b4a32f0694d26b658df627</td>
+    <td>feat(front-end): add db.json</td>
+    <td>Se agregó el archivo db.json</td>
+    <td>Sep 19, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>a45eb74b49e9788fd277573f5c013fd0b8ce741a</td>
+    <td>feat(front-end): db.json</td>
+    <td>Modificaciones al archivo db.json</td>
+    <td>Sep 19, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>941d3773272cbd36bb2f8c8cd39e294cc83b755f</td>
+    <td>main</td>
+    <td>Se estableció el archivo principal del proyecto</td>
+    <td>Sep 19, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>0bfdcba449df8fc13f77fbff205609d9a718f90c</td>
+    <td>feat(front-end): added my part</td>
+    <td>Se añadió la parte correspondiente de C7leo</td>
+    <td>Sep 22, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>4ace34edfa87b9fa1993e2a61d5f6b6f16c049a6</td>
+    <td>feat(front-end): add</td>
+    <td>Se agregaron nuevos cambios</td>
+    <td>Sep 22, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>043f61529d5775a63eee7c8d23bde347db101065</td>
+    <td>feat(front-end): add part Renzo</td>
+    <td>Se agregó la parte correspondiente de Renzo</td>
+    <td>Sep 23, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>be079d272bcfe1f21db291c7e0344b50ee3b644b</td>
+    <td>feat(front-end): add imagenes</td>
+    <td>Se añadieron imágenes al proyecto</td>
+    <td>Sep 23, 2024</td>
+</tr>
+<tr>
+    <td>FatimaAP05/front-end</td>
+    <td>Fatima</td>
+    <td>ab4d54a60f35007e2186d58f295cffa1927a2e08</td>
+    <td>OrderComponent</td>
+    <td>Se añadió el componente Order</td>
+    <td>Sep 24, 2024</td>
+</tr>
+<tr>
+    <td>FatimaAP05/front-end</td>
+    <td>Fatima</td>
+    <td>43c6f662ffd2eddd761c6bb72c2b691cee846f1a</td>
+    <td>add entity and service</td>
+    <td>Se añadieron entidades y servicios</td>
+    <td>Sep 24, 2024</td>
+</tr>
+<tr>
+    <td>FatimaAP05/front-end</td>
+    <td>Fatima</td>
+    <td>0c4efe889a0f99409a5de1abcd28cfd9d5a1140b</td>
+    <td>add component</td>
+    <td>Se agregó un nuevo componente</td>
+    <td>Sep 24, 2024</td>
+</tr>
+<tr>
+    <td>FatimaAP05/front-end</td>
+    <td>Fatima</td>
+    <td>014d936608ac0f59eaaf7d72bf1a9b1b83322384</td>
+    <td>config component</td>
+    <td>Configuración de un componente</td>
+    <td>Sep 24, 2024</td>
+</tr>
+<tr>
+    <td>FatimaAP05/front-end</td>
+    <td>Fatima</td>
+    <td>8884028a899bff9e0106d8ef421bd5f5508e5a06</td>
+    <td>config html</td>
+    <td>Configuración de HTML</td>
+    <td>Sep 24, 2024</td>
+</tr>
+      <tr>
+    <td>C7leo/front-end</td>
+    <td>Jhordi</td>
+    <td>6dcd76abebc1e31d0e3bd9aca48727298cde72a0</td>
+    <td>feat(menu): Updated project components.</td>
+    <td>Updated various components in the project menu.</td>
+    <td>Sep 21, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>Jhordi</td>
+    <td>baf77f53de621ac85f36412bebc9a008d6efaea9</td>
+    <td>feat(menu): Added project components.</td>
+    <td>Added new components to the project menu.</td>
+    <td>Sep 20, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>Luis</td>
+    <td>60d53cc4f02f1d6d96cf9bc19b4605ee403c5464</td>
+    <td>feat(order): add order services</td>
+    <td>Added services related to order management.</td>
+    <td>Sep 23, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>Luis</td>
+    <td>8ad02d0fd76f5d8ab57540e2aa1f551dbba0a06b</td>
+    <td>feat(order): add order entity</td>
+    <td>Added an entity for managing orders.</td>
+    <td>Sep 23, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>Luis</td>
+    <td>799cf777df5771c2ceb75c1060e0ca111ca5bbc1</td>
+    <td>feat(order): update order component</td>
+    <td>Updated the order component with new features.</td>
+    <td>Sep 23, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>Luis</td>
+    <td>bd0a384b10e212f645056798a38ef268c1253ada</td>
+    <td>feat(schedule): add schedule component</td>
+    <td>Added a component to handle scheduling.</td>
+    <td>Sep 21, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>Luis</td>
+    <td>3ac68c960053391277dced42e484cc0c93d78f97</td>
+    <td>feat(pay): add pay component</td>
+    <td>Added a component to manage payments.</td>
+    <td>Sep 21, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>Luis</td>
+    <td>0f7a10d2170c679b0f40e576eb895b9034e1a3a1</td>
+    <td>feat(order): update order component</td>
+    <td>Made updates to the order component.</td>
+    <td>Sep 21, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>Luis</td>
+    <td>c7b4282463ba528fa9bc6a14ee2de78d88174932</td>
+    <td>feat(front-end): added images in assets</td>
+    <td>Added images to the assets folder.</td>
+    <td>Sep 21, 2024</td>
+</tr>
+    </tbody>
+</table>
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
