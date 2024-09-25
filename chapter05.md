@@ -453,7 +453,7 @@ Para este segundo sprint, es crucial seguir clarificando las tareas y mantener e
 </table>
   
 #### 5.2.2.2. Sprint Backlog 2
-
+En este segundo sprint, nos enfocamos en integrar las funcionalidades avanzadas de la Landing Page, consolidando el despliegue del front end y mejorando la interactividad del usuario. Se trabajó en optimizar el rendimiento y en la implementación de elementos dinámicos que enriquecen la experiencia general. Además, se actualizó el reporte que documenta el ciclo de vida completo de nuestro proyecto de software, reflejando los avances y las lecciones aprendidas. Estas características son fundamentales para afianzar la base de nuestro producto y asegurar una experiencia de usuario fluida y atractiva. A continuación, se presenta el sprint backlog 2 y el tablero de Trello con la distribución de tareas:
 #### 5.2.2.3. Development Evidence for Sprint Review
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
