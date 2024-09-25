@@ -385,16 +385,83 @@ Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del
 
 ![image](https://github.com/user-attachments/assets/6fdbaca7-6ba4-4c6a-8fc8-47db4b7c6065)
 
-###5.2.2. Sprint 2
-####5.2.2.1. Sprint Planning 2
-####5.2.2.2. Sprint Backlog 2
-####5.2.2.3. Development Evidence for Sprint Review
-####5.2.2.4. Testing Suite Evidence for Sprint Review
-####5.2.2.5. Execution Evidence for Sprint Review
-####5.2.2.6. Services Documentation Evidence for Sprint Review
-####5.2.2.7. Software Deployment Evidence for Sprint Review
-####5.2.2.8. Team Collaboration Insights during Sprint
-
 ![image](https://github.com/user-attachments/assets/27e7125e-b971-48ca-9138-b35479ddc5c6)
 
 ![image](https://github.com/user-attachments/assets/1878c86d-23fd-4b8c-96f7-78f6f90baba2)
+
+
+### 5.2.2. Sprint 2
+Para este segundo sprint, es crucial seguir clarificando las tareas y mantener el enfoque en nuestro proceso de desarrollo ágil. En esta fase, continuamos expandiendo las características establecidas en el sprint anterior, mejorando el código funcional y avanzando en su desarrollo de manera iterativa.
+#### 5.2.2.1. Sprint Planning 2
+
+<table table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
+  <thead>
+    <tr>
+      <th>Sprint #</th>
+      <th>Sprint 2 </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="2">Sprint Planning Background</th>
+    </tr>
+        </tr>
+    <tr>
+      <th>Date</th>
+      <th>11 - 09 - 2024</th>
+    </tr>
+    <tr>
+      <th>Time</th>
+      <th>18:02</th>
+    </tr>
+    <tr>
+      <th>Location</th>
+      <th>Meet Google(Reunión Virtual)</th>
+    </tr>
+    <tr>
+      <th>Prepared By</th>
+      <th>Espinoza Vivas, Camila Leonor</th>
+    </tr>
+    <tr>
+      <th>Attendees (to planning meeting)</th>
+      <th>Camila Leonor Espinoza Vivas, Renzo José Araujo Ingunza	, Fatima Asmad Padilla, Jhordi Luis Carranza Pérez, Luis Alfonso Villegas Jipa</th>
+    </tr>
+    <tr>
+      <th> Sprint 2 – 1 Review Summary </th>
+      <th>Se cumplió en gran medida con los objetivos del sprint 2, como la culminación del capítulo 5, el desarrollo del student outcome y el despliegue del front-end. Sin embargo, es importante señalar que hubo percances que provocaron una extensión en el tiempo estimado para finalizar las tareas. </th>
+    </tr>
+    <tr>
+      <th>Sprint 2 – 1 Retrospective Summary</th>
+      <th>En el sprint 2, se definieron claramente las tareas asignadas a cada miembro del equipo. No obstante, la eficiencia no fue la esperada debido a la falta de medición de los tiempos de entrega de cada tarea, lo que generó una ligera demora en la finalización del trabajo inicialmente prevista. A pesar de esto, se logró resolver el inconveniente y se entregó el proyecto dentro del plazo establecido. </th>
+    </tr>
+    <tr>
+      <th colspan="2">Sprint Goal & User Stories</th>
+    </tr>
+    <tr>
+      <th>Sprint 1 Goal</th>
+      <th>Para este segundo sprint, es fundamental alcanzar los siguientes objetivos: finalizar el desarrollo del capítulo 6, completar el Student Outcome y asegurar el correcto despliegue del front end. La métrica de cumplimiento se evaluará observando la evolución de nuestro 'Board de Trello'. Al concluir este sprint, todas las tareas deben estar ubicadas en la columna 'Terminado' del lado derecho de la herramienta.</th>
+    </tr>
+    <tr>
+      <th>Sprint 1 Velocity</th>
+      <th>Para este sprint se han elegido 5 User Stories que tienen 5 Story points cada uno.</th>
+    </tr>
+    <tr>
+      <th>Sum of Story Points</th>
+      <th>25</th>
+    </tr>
+     </tbody>
+</table>
+  
+#### 5.2.2.2. Sprint Backlog 2
+
+#### 5.2.2.3. Development Evidence for Sprint Review
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
