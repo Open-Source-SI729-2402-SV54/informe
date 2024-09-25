@@ -486,7 +486,7 @@ En este segundo sprint, nos enfocamos en integrar las funcionalidades avanzadas 
     <td>Crear cuenta</td>
     <td>Como usuario deseo observar un apartado para poder crear una cuenta propia.</td>
     <td>3</td>
-    <td></td>
+    <td>Jhordi</td>
     <td>Done</td>
 </tr>
 <tr>
@@ -496,7 +496,7 @@ En este segundo sprint, nos enfocamos en integrar las funcionalidades avanzadas 
     <td>Ingresar datos de perfil</td>
     <td>Como usuario deseo ingresar mis datos principales para tener un perfil en la aplicación.</td>
     <td>3</td>
-    <td></td>
+    <td>Renzo</td>
     <td>Done</td>
 </tr>
 <tr>
@@ -506,7 +506,7 @@ En este segundo sprint, nos enfocamos en integrar las funcionalidades avanzadas 
     <td>Acceder a cuenta</td>
     <td>Como usuario deseo ingresar a la aplicación con mi cuenta registrada para usar mi perfil creado.</td>
     <td>2</td>
-    <td></td>
+    <td>Renzo</td>
     <td>Done</td>
 </tr>
 <tr>
@@ -516,7 +516,7 @@ En este segundo sprint, nos enfocamos en integrar las funcionalidades avanzadas 
     <td>Salir de la aplicación</td>
     <td>Como usuario deseo salir de la aplicación para evitar el uso de mi cuenta en las manos de otras personas.</td>
     <td>1</td>
-    <td></td>
+    <td>Camila</td>
     <td>To-do</td>
 </tr>
 <tr>
@@ -526,8 +526,8 @@ En este segundo sprint, nos enfocamos en integrar las funcionalidades avanzadas 
     <td>Modificar detalles del perfil</td>
     <td>Como usuario deseo poder editar algún detalle de mi perfil para tenerlo actualizado al momento.</td>
     <td>5</td>
-    <td></td>
-    <td>To-do</td>
+    <td>Camila</td>
+    <td>InProcess</td>
 </tr>
 <tr>
     <td>US-006</td>
@@ -536,7 +536,7 @@ En este segundo sprint, nos enfocamos en integrar las funcionalidades avanzadas 
     <td>Seleccionar plan</td>
     <td>Como usuario deseo tener opción en la elección de planes para tener opción de elección.</td>
     <td>2</td>
-    <td></td>
+    <td>Jhordi</td>
     <td>Done</td>
 </tr>
 <tr>
@@ -546,7 +546,7 @@ En este segundo sprint, nos enfocamos en integrar las funcionalidades avanzadas 
     <td>Navegar menú</td>
     <td>Como usuario deseo tener la capacidad de acceder fácilmente al catálogo del menú a través de la aplicación.</td>
     <td>3</td>
-    <td></td>
+    <td>Camila</td>
     <td>Done</td>
 </tr>
 <tr>
@@ -556,8 +556,8 @@ En este segundo sprint, nos enfocamos en integrar las funcionalidades avanzadas 
     <td>Mostrar calorías al pagar</td>
     <td>Como usuario deseo visualizar la cantidad total de calorías al momento de pagar.</td>
     <td>2</td>
-    <td></td>
-    <td>To-Review</td>
+    <td>Camila</td>
+    <td>Done</td>
 </tr>
 <tr>
     <td>US-010</td>
@@ -566,8 +566,8 @@ En este segundo sprint, nos enfocamos en integrar las funcionalidades avanzadas 
     <td>Modificar pedidos</td>
     <td>Como usuario deseo tener la posibilidad de editar mis pedidos para agregar o eliminar algún platillo.</td>
     <td>5</td>
-    <td></td>
-    <td>To-Review</td>
+    <td>Luis</td>
+    <td>InProcess</td>
 </tr>
 <tr>
     <td>US-024</td>
@@ -576,8 +576,8 @@ En este segundo sprint, nos enfocamos en integrar las funcionalidades avanzadas 
     <td>Diseño amigable</td>
     <td>Como usuario deseo una interfaz intuitiva para ingresar y gestionar mis comidas.</td>
     <td>5</td>
-    <td></td>
-    <td>To-do</td>
+    <td>Renzo</td>
+    <td>Done</td>
 </tr>
 <tr>
     <td>US-025</td>
@@ -586,7 +586,7 @@ En este segundo sprint, nos enfocamos en integrar las funcionalidades avanzadas 
     <td>Mejorar legibilidad</td>
     <td>Como visitante deseo que la tipografía en la landing page sea legible y estéticamente agradable.</td>
     <td>1</td>
-    <td></td>
+    <td>Camila</td>
     <td>Done</td>
 </tr>
 <tr>
@@ -596,7 +596,7 @@ En este segundo sprint, nos enfocamos en integrar las funcionalidades avanzadas 
     <td>Adaptación a dispositivos</td>
     <td>Como visitante deseo que la aplicación se adapte a diferentes dispositivos.</td>
     <td>3</td>
-    <td></td>
+    <td>Camila</td>
     <td>Done</td>
 </tr>
 <tr>
@@ -606,7 +606,7 @@ En este segundo sprint, nos enfocamos en integrar las funcionalidades avanzadas 
     <td>Incluir gráficos atractivos</td>
     <td>Como visitante deseo que las imágenes y gráficos en la landing page sean de alta calidad y relevantes.</td>
     <td>1</td>
-    <td></td>
+    <td>Fatima</td>
     <td>Done</td>
 </tr>
 <tr>
@@ -616,7 +616,7 @@ En este segundo sprint, nos enfocamos en integrar las funcionalidades avanzadas 
     <td>Mostrar opciones de comida</td>
     <td>Como visitante deseo visualizar los platos que ofrece NutriSend.</td>
     <td>3</td>
-    <td></td>
+    <td>Camila, Fatima y Renzo</td>
     <td>Done</td>
 </tr>
 
