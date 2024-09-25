@@ -224,6 +224,16 @@ En este primer sprint, nos centramos en implementar las funcionalidades esencial
       <th>Fatima Asmad Padilla</th>
       <th>Done</th>
     </tr>
+    <tr>
+      <th>US-034</th>
+      <th>Visualización de los comentarios</th>
+      <th>TSK010</th>
+      <th></th>
+      <th></th>
+      <th>2</th>
+      <th>Camila Leonor Espinoza Vivas</th>
+      <th>Done</th>
+    </tr>
   </tbody>
 </table>
 
