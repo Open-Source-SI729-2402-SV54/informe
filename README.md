@@ -184,7 +184,7 @@ El enlace que sigue dirige al repositorio público de nuestra organización en G
 
 A continuación, se detalla el desarrollo de las actividades relacionadas con la elaboración del informe, incluyendo capturas de los análisis de colaboración y los commits en GitHub. Para la entrega de la TB1, se presenta un análisis de colaboración que muestra el número de contribuciones realizadas en el repositorio del informe.
 
-![evidancia](https://github.com/user-attachments/assets/4f3fd172-629b-4691-80f6-8b07ecd978e2)
+![Captura](https://github.com/user-attachments/assets/36af6261-76b7-44bd-a118-fd6a31b24481)
 
 
 # Contenido 
