@@ -110,8 +110,6 @@ Para este primer sprint, es importante clarificar las tareas y enfocarnos en nue
 #### 5.2.1.2. Sprint Backlog 1.
 En este primer sprint, nos centramos en implementar las funcionalidades esenciales de la Landing Page, como la estructura general, el diseño visual y la navegación básica. Además, se elaboró un reporte que documenta el ciclo de vida completo de nuestro proyecto de software. Estas características son cruciales para establecer los cimientos de nuestro producto y asegurar una experiencia de usuario consistente y de calidad. A continuación, se presenta el sprint backlog 1 y el tablero de Trello con la distribución de tareas:
 
-
-
 ![Spring1Trello](https://github.com/user-attachments/assets/ed83c86a-c4b0-4827-b7f4-bb3e7441da86)
 
 <table table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
@@ -241,7 +239,7 @@ En este primer sprint, nos centramos en implementar las funcionalidades esencial
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
-En esta sección se detallan y presentan los avances en la implementación de los componentes de la solución, de acuerdo con el alcance definido para el Sprint: Landing Page, Aplicaciones Web y Servicios Web. En primer lugar, se destacarán los commits más relevantes para el reporte, los cuales reflejan el ciclo de vida del proyecto, así como toda la información que se ha utilizado, se está utilizando y se utilizará en el desarrollo del mismo.
+En esta sección se detallan y presentan los avances en la implementación de los componentes de la solución, de acuerdo con el alcance definido para el Sprint: Landing Page, Aplicaciones Web y Servicios Web. En primer lugar, se destacarán los commits más relevantes para el reporte, los cuales reflejan el ciclo de vida del proyecto, así como toda la información que se ha utilizado, se está utilizando y se utilizará en el desarrollo del mismo. En el siguiente enlace se encontrar el video about the prodcut: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/EeabX430di9Hv8bQ-23lnNcB8Zch1Qb7uMfcqhBl8S7HNQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=VgIZzf
 
 <table>
     <thead>
@@ -457,13 +455,13 @@ Para este segundo sprint, es crucial seguir clarificando las tareas y mantener e
 #### 5.2.2.2. Sprint Backlog 2
 En este segundo sprint, nos enfocamos en integrar las funcionalidades avanzadas de la Landing Page, consolidando el despliegue del front end y mejorando la interactividad del usuario. Se trabajó en optimizar el rendimiento y en la implementación de elementos dinámicos que enriquecen la experiencia general. Además, se actualizó el reporte que documenta el ciclo de vida completo de nuestro proyecto de software, reflejando los avances y las lecciones aprendidas. Estas características son fundamentales para afianzar la base de nuestro producto y asegurar una experiencia de usuario fluida y atractiva. A continuación, se presenta el sprint backlog 2 y el tablero de Trello con la distribución de tareas:
 
-![image](https://github.com/user-attachments/assets/e11564c1-335a-46a1-a6b4-5286c3424cc7)
+![image](https://github.com/user-attachments/assets/3c132c7e-e0ba-4697-936c-83efa22d6b72)
 
 <table table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
   <thead>
     <tr>
       <th>Sprint #</th>
-      <th colspan="7">Sprint 1</th>
+      <th colspan="7">Sprint 2</th>
     </tr>
     <tr>
       <th colspan="2">User Story</th>
@@ -481,116 +479,505 @@ En este segundo sprint, nos enfocamos en integrar las funcionalidades avanzadas 
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <th>US-025</th>
-      <th>Tipografía cómoda y agradable estéticamente</th>
-      <th>TSK001</th>
-      <th>Elegir Tipografía</th>
-      <th>Seleccionar y aplicar una tipografía que sea legible y estéticamente agradable.</th>
-      <th>0.5</th>
-      <th>Camila Leonor Espinoza Vivas</th>
-      <th>Done</th>
-    </tr>
-    <tr>
-      <th>US-026</th>
-      <th>Acceso rápido a la página oficial</th>
-      <th>TSK002</th>
-      <th>Crear Enlace</th>
-      <th>Implementar un enlace visible en el encabezado que redirija a la página oficial.</th>
-      <th>1</th>
-      <th>Camila Leonor Espinoza Vivas</th>
-      <th>Done</th>
-    </tr>
-    <tr>
-      <th>US-027</th>
-      <th>Accesibilidad de la aplicación en diferentes dispositivos</th>
-      <th>TSK003</th>
-      <th>Pruebas de Responsividad</th>
-      <th>Realizar pruebas en varios dispositivos para asegurar la correcta visualización.</th>
-      <th>1</th>
-      <th>Camila Leonor Espinoza Vivas</th>
-      <th>Done</th>
-    </tr>
-    <tr>
-      <th>US-028</th>
-      <th>Acceso a Información Acerca de la Plataforma</th>
-      <th>TSK004</th>
-      <th>Desarrollar Sección de About Us</th>
-      <th>Crear una sección informativa que describa el starup de Nutrisend y sus beneficios.</th>
-      <th>1</th>
-      <th>Camila Leonor Espinoza Vivas</th>
-      <th>Done</th>
-    </tr>
-    <tr>
-      <th>US-029</th>
-      <th>Visualización de imágenes y gráficos relevantes</th>
-      <th>TSK005</th>
-      <th>Incluir Gráficos</th>
-      <th>Agregar imágenes y gráficos que ilustren los servicios ofrecidos.</th>
-      <th>2</th>
-      <th>Camila Leonor Espinoza Vivas</th>
-      <th>Done</th>
-    </tr>
-    <tr>
-      <th>US-030</th>
-      <th>Exploración de Paquetes Disponibles</th>
-      <th>TSK006</th>
-      <th>Crear Sección de Paquetes</th>
-      <th>Implementar una sección que muestre los diferentes paquetes disponibles.</th>
-      <th>3</th>
-      <th>Camila Leonor Espinoza Vivas</th>
-      <th>Done</th>
-    </tr>
-    <tr>
-      <th>US-031</th>
-      <th>Visualización del Menú de Comidas</th>
-      <th>TSK007</th>
-      <th>Mostrar Menú</th>
-      <th>Desarrollar una sección donde se muestre el menú de comidas ofrecidas.</th>
-      <th>4</th>
-      <th>Camila Leonor Espinoza Vivas</th>
-      <th>Done</th>
-    </tr>
-    <tr>
-      <th>US-032</th>
-      <th>Acceso a Soporte y Contacto</th>
-      <th>TSK008</th>
-      <th>Implementar Contacto</th>
-      <th>Agregar una sección de contacto para soporte y consultas de usuarios.</th>
-      <th>2</th>
-      <th>Camila Leonor Espinoza Vivas</th>
-      <th>Done</th>
-    </tr>
-    <tr>
-      <th>US-033</th>
-      <th>Acceso a Footer</th>
-      <th>TSK009</th>
-      <th>Diseñar Footer</th>
-      <th>Crear el diseño del pie de página con enlaces y datos relevantes.</th>
-      <th>2</th>
-      <th>Fatima Asmad Padilla</th>
-      <th>Done</th>
-    </tr>
-    <tr>
-      <th>US-034</th>
-      <th>Visualización de los comentarios</th>
-      <th>TSK010</th>
-      <th>Mostrar Comentarios</th>
-      <th>Implementar una sección donde los usuarios puedan ver los comentarios dejados.</th>
-      <th>2</th>
-      <th>Camila Leonor Espinoza Vivas</th>
-      <th>Done</th>
-    </tr>
+<tr>
+    <td>US-001</td>
+    <td>Registro de Usuarios</td>
+    <td>TSK001</td>
+    <td>Crear cuenta</td>
+    <td>Como usuario deseo observar un apartado para poder crear una cuenta propia.</td>
+    <td>3</td>
+    <td>Jhordi</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>US-002</td>
+    <td>Inserción</td>
+    <td>TSK002</td>
+    <td>Ingresar datos de perfil</td>
+    <td>Como usuario deseo ingresar mis datos principales para tener un perfil en la aplicación.</td>
+    <td>3</td>
+    <td>Renzo</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>US-003</td>
+    <td>Inicio de sesión</td>
+    <td>TSK003</td>
+    <td>Acceder a cuenta</td>
+    <td>Como usuario deseo ingresar a la aplicación con mi cuenta registrada para usar mi perfil creado.</td>
+    <td>2</td>
+    <td>Renzo</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>US-004</td>
+    <td>Cierre de sesión</td>
+    <td>TSK004</td>
+    <td>Salir de la aplicación</td>
+    <td>Como usuario deseo salir de la aplicación para evitar el uso de mi cuenta en las manos de otras personas.</td>
+    <td>1</td>
+    <td>Camila</td>
+    <td>To-do</td>
+</tr>
+<tr>
+    <td>US-005</td>
+    <td>Editar perfil</td>
+    <td>TSK005</td>
+    <td>Modificar detalles del perfil</td>
+    <td>Como usuario deseo poder editar algún detalle de mi perfil para tenerlo actualizado al momento.</td>
+    <td>5</td>
+    <td>Camila</td>
+    <td>InProcess</td>
+</tr>
+<tr>
+    <td>US-006</td>
+    <td>Elección de plan</td>
+    <td>TSK006</td>
+    <td>Seleccionar plan</td>
+    <td>Como usuario deseo tener opción en la elección de planes para tener opción de elección.</td>
+    <td>2</td>
+    <td>Jhordi</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>US-008</td>
+    <td>Acceso al catálogo</td>
+    <td>TSK007</td>
+    <td>Navegar menú</td>
+    <td>Como usuario deseo tener la capacidad de acceder fácilmente al catálogo del menú a través de la aplicación.</td>
+    <td>3</td>
+    <td>Camila</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>US-009</td>
+    <td>Visualización de información nutricional</td>
+    <td>TSK008</td>
+    <td>Mostrar calorías al pagar</td>
+    <td>Como usuario deseo visualizar la cantidad total de calorías al momento de pagar.</td>
+    <td>2</td>
+    <td>Camila</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>US-010</td>
+    <td>Editar Pedido</td>
+    <td>TSK009</td>
+    <td>Modificar pedidos</td>
+    <td>Como usuario deseo tener la posibilidad de editar mis pedidos para agregar o eliminar algún platillo.</td>
+    <td>5</td>
+    <td>Luis</td>
+    <td>InProcess</td>
+</tr>
+<tr>
+    <td>US-024</td>
+    <td>Interfaz Intuitiva para la Gestión de Comidas</td>
+    <td>TSK010</td>
+    <td>Diseño amigable</td>
+    <td>Como usuario deseo una interfaz intuitiva para ingresar y gestionar mis comidas.</td>
+    <td>5</td>
+    <td>Renzo</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>US-025</td>
+    <td>Tipografía cómoda y agradable estéticamente</td>
+    <td>TSK011</td>
+    <td>Mejorar legibilidad</td>
+    <td>Como visitante deseo que la tipografía en la landing page sea legible y estéticamente agradable.</td>
+    <td>1</td>
+    <td>Camila</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>US-027</td>
+    <td>Accesibilidad de la aplicación en diferentes dispositivos</td>
+    <td>TSK012</td>
+    <td>Adaptación a dispositivos</td>
+    <td>Como visitante deseo que la aplicación se adapte a diferentes dispositivos.</td>
+    <td>3</td>
+    <td>Camila</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>US-029</td>
+    <td>Visualización de imágenes y gráficos relevantes</td>
+    <td>TSK013</td>
+    <td>Incluir gráficos atractivos</td>
+    <td>Como visitante deseo que las imágenes y gráficos en la landing page sean de alta calidad y relevantes.</td>
+    <td>1</td>
+    <td>Fatima</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>US-031</td>
+    <td>Visualización del Menú de Comidas</td>
+    <td>TSK014</td>
+    <td>Mostrar opciones de comida</td>
+    <td>Como visitante deseo visualizar los platos que ofrece NutriSend.</td>
+    <td>3</td>
+    <td>Camila, Fatima y Renzo</td>
+    <td>Done</td>
+</tr>
+
   </tbody>
 </table>
+
 #### 5.2.2.3. Development Evidence for Sprint Review
+En esta sección se detallan y presentan los avances en la implementación de los componentes de la solución, de acuerdo con el alcance definido para el Sprint: Landing Page, Aplicaciones Web y Servicios Web. En primer lugar, se destacarán los commits más relevantes para el reporte, los cuales reflejan el ciclo de vida del proyecto, así como toda la información que se ha utilizado, se está utilizando y se utilizará en el desarrollo del mismo.
+
+<table>
+    <thead>
+        <tr>
+            <th>Repository</th>
+            <th>Branch</th>
+            <th>Commit id</th>
+            <th>Commit Message</th>
+            <th>Commit Message Body</th>
+            <th>Commited on (Date)</th>
+        </tr>
+    </thead>
+    <tbody>
+  <tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>ac5cba37545a62c4c0b1c06d0429baa06e7880da</td>
+    <td>Initial commit</td>
+    <td>Se creo el index.html, styles.css, main.js y la carpeta img</td>
+    <td>Sep 18, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>72ad4b985feb0f5c1feab6a72be1e09457009cca</td>
+    <td>Initial commit</td>
+    <td>Se creo el proyecto</td>
+    <td>Sep 18, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>960c46b0865cfab89e46965ea2634dfaf2e44f7a</td>
+    <td>feat(front-end): add components</td>
+    <td>Se añadieron componentes para la interfaz</td>
+    <td>Sep 19, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>b1f46fbed8522df5c1b6e669d6b89bb64200de44</td>
+    <td>feat(front-end): add nutrisend</td>
+    <td>Se agregó la funcionalidad nutrisend</td>
+    <td>Sep 19, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>c407084f6a01666208b4a32f0694d26b658df627</td>
+    <td>feat(front-end): add db.json</td>
+    <td>Se agregó el archivo db.json</td>
+    <td>Sep 19, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>a45eb74b49e9788fd277573f5c013fd0b8ce741a</td>
+    <td>feat(front-end): db.json</td>
+    <td>Modificaciones al archivo db.json</td>
+    <td>Sep 19, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>941d3773272cbd36bb2f8c8cd39e294cc83b755f</td>
+    <td>main</td>
+    <td>Se estableció el archivo principal del proyecto</td>
+    <td>Sep 19, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>0bfdcba449df8fc13f77fbff205609d9a718f90c</td>
+    <td>feat(front-end): added my part</td>
+    <td>Se añadió la parte correspondiente de C7leo</td>
+    <td>Sep 22, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>4ace34edfa87b9fa1993e2a61d5f6b6f16c049a6</td>
+    <td>feat(front-end): add</td>
+    <td>Se agregaron nuevos cambios</td>
+    <td>Sep 22, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>043f61529d5775a63eee7c8d23bde347db101065</td>
+    <td>feat(front-end): add part Renzo</td>
+    <td>Se agregó la parte correspondiente de Renzo</td>
+    <td>Sep 23, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>be079d272bcfe1f21db291c7e0344b50ee3b644b</td>
+    <td>feat(front-end): add imagenes</td>
+    <td>Se añadieron imágenes al proyecto</td>
+    <td>Sep 23, 2024</td>
+</tr>
+<tr>
+    <td>FatimaAP05/front-end</td>
+    <td>Fatima</td>
+    <td>ab4d54a60f35007e2186d58f295cffa1927a2e08</td>
+    <td>OrderComponent</td>
+    <td>Se añadió el componente Order</td>
+    <td>Sep 24, 2024</td>
+</tr>
+<tr>
+    <td>FatimaAP05/front-end</td>
+    <td>Fatima</td>
+    <td>43c6f662ffd2eddd761c6bb72c2b691cee846f1a</td>
+    <td>add entity and service</td>
+    <td>Se añadieron entidades y servicios</td>
+    <td>Sep 24, 2024</td>
+</tr>
+<tr>
+    <td>FatimaAP05/front-end</td>
+    <td>Fatima</td>
+    <td>0c4efe889a0f99409a5de1abcd28cfd9d5a1140b</td>
+    <td>add component</td>
+    <td>Se agregó un nuevo componente</td>
+    <td>Sep 24, 2024</td>
+</tr>
+<tr>
+    <td>FatimaAP05/front-end</td>
+    <td>Fatima</td>
+    <td>014d936608ac0f59eaaf7d72bf1a9b1b83322384</td>
+    <td>config component</td>
+    <td>Configuración de un componente</td>
+    <td>Sep 24, 2024</td>
+</tr>
+<tr>
+    <td>FatimaAP05/front-end</td>
+    <td>Fatima</td>
+    <td>8884028a899bff9e0106d8ef421bd5f5508e5a06</td>
+    <td>config html</td>
+    <td>Configuración de HTML</td>
+    <td>Sep 24, 2024</td>
+</tr>
+      <tr>
+    <td>C7leo/front-end</td>
+    <td>Jhordi</td>
+    <td>6dcd76abebc1e31d0e3bd9aca48727298cde72a0</td>
+    <td>feat(menu): Updated project components.</td>
+    <td>Updated various components in the project menu.</td>
+    <td>Sep 21, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>Jhordi</td>
+    <td>baf77f53de621ac85f36412bebc9a008d6efaea9</td>
+    <td>feat(menu): Added project components.</td>
+    <td>Added new components to the project menu.</td>
+    <td>Sep 20, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>Luis</td>
+    <td>60d53cc4f02f1d6d96cf9bc19b4605ee403c5464</td>
+    <td>feat(order): add order services</td>
+    <td>Added services related to order management.</td>
+    <td>Sep 23, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>Luis</td>
+    <td>8ad02d0fd76f5d8ab57540e2aa1f551dbba0a06b</td>
+    <td>feat(order): add order entity</td>
+    <td>Added an entity for managing orders.</td>
+    <td>Sep 23, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>Luis</td>
+    <td>799cf777df5771c2ceb75c1060e0ca111ca5bbc1</td>
+    <td>feat(order): update order component</td>
+    <td>Updated the order component with new features.</td>
+    <td>Sep 23, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>Luis</td>
+    <td>bd0a384b10e212f645056798a38ef268c1253ada</td>
+    <td>feat(schedule): add schedule component</td>
+    <td>Added a component to handle scheduling.</td>
+    <td>Sep 21, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>Luis</td>
+    <td>3ac68c960053391277dced42e484cc0c93d78f97</td>
+    <td>feat(pay): add pay component</td>
+    <td>Added a component to manage payments.</td>
+    <td>Sep 21, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>Luis</td>
+    <td>0f7a10d2170c679b0f40e576eb895b9034e1a3a1</td>
+    <td>feat(order): update order component</td>
+    <td>Made updates to the order component.</td>
+    <td>Sep 21, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>Luis</td>
+    <td>c7b4282463ba528fa9bc6a14ee2de78d88174932</td>
+    <td>feat(front-end): added images in assets</td>
+    <td>Added images to the assets folder.</td>
+    <td>Sep 21, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>Luis</td>
+    <td>c7b4282463ba528fa9bc6a14ee2de78d88174932</td>
+    <td>feat(front-end): added images in assets</td>
+    <td>Added images to the assets folder.</td>
+    <td>Sep 21, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>a56fad088d351da7be9d6464f4d16684a036944f</td>
+    <td>feat: update</td>
+    <td>Updated various components and fixed bugs.</td>
+    <td>Sep 24, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>ecaa9403c1d9714f6f9f72af985a09a3a73f3796</td>
+    <td>feat: schedule component created</td>
+    <td>Created the schedule component for the application.</td>
+    <td>Sep 24, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>0f68ad3b421d545c427c0116c95336461b3db01d</td>
+    <td>feat: notifications component complete</td>
+    <td>Completed the notifications component.</td>
+    <td>Sep 24, 2024</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>269e3409fe450492bd5b790575eae1659ae09f1b</td>
+    <td>feat: notifications component added</td>
+    <td>Added the notifications component to the project.</td>
+    <td>Sep 24, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>fcb39c2edc579be2d13d7973727fe65be6745798</td>
+    <td>feat</td>
+    <td>Implemented new features and improvements.</td>
+    <td>Sep 24, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>4b8bba4f53d5f1c82aeaaa4f5d617040d81038d1</td>
+    <td>chore: schedule component created</td>
+    <td>Created the schedule component as part of routine tasks.</td>
+    <td>Sep 24, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>79fd4fbd5501fc633dcd8cbe5df27a5295af4f98</td>
+    <td>feat: click function on plans component</td>
+    <td>Added click functionality to the plans component.</td>
+    <td>Sep 24, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>0985ae0cc28b7d447b1b1125bb7ea3d3db448e34</td>
+    <td>feat: footer added</td>
+    <td>Added a footer to the application.</td>
+    <td>Sep 23, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>ca84894346b347d5915a23c849c7efa93445672c</td>
+    <td>feat: sign up logic fixed and style css of sign in complete</td>
+    <td>Fixed sign-up logic and completed sign-in CSS styling.</td>
+    <td>Sep 23, 2024</td>
+</tr>
+<tr>
+    <td>C7leo/front-end</td>
+    <td>master</td>
+    <td>c2b1296489ca378e933b7f3cecaa7a59531e5bf8</td>
+    <td>feat: sign in logic fixed</td>
+    <td>Fixed issues with the sign-in logic.</td>
+    <td>Sep 23, 2024</td>
+</tr>
+    </tbody>
+</table>
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
+La sección de la aplicación web ha sido omitida ya que solo se ha desarrollado la Landing Page y la aplicación del front-end. 
+Se proporcionará más información sobre la aplicación en una fase posterior del desarrollo.
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
+Este sprint marcó importantes avances en la implementación del Front-End del proyecto desarrollado en Angular CLI utilizando WebStorm. Logramos consolidar varias funcionalidades claves, como el sistema de registro e inicio de sesión de usuarios, el despliegue completo de la Landing Page con mejoras en la interactividad, y la optimización del rendimiento. Estas mejoras no solo optimizan la experiencia del usuario, sino que también refuerzan la base técnica de la aplicación.
+
+El enfoque en la interfaz amigable e intuitiva permitió crear una experiencia de navegación fluida, destacando por su diseño visualmente atractivo y adaptable a diferentes tamaños. Además, se avanzó en la gestión de perfiles de usuarios, elección de planes y visualización de información nutricional. Se resolvieron las tareas pendientes y se realizaron varios ajustes en la estructura del proyecto.
+
+A continuación, se muestran capturas de pantalla que ilustran las vistas principales implementadas durante este sprint, como la página de registro de usuarios, la visualización del catálogo de comidas, etc. También se incluye un enlace a un video demostrativo que explica las principales características y la navegación en la aplicación logradas en este ciclo:
+
+- Se muestra el despliegue del menú principal de la aplicación; se muestra el footer o pie de página, además del navbar con sus respectivos hipervínculo:
+
+![image](https://github.com/Open-Source-SI729-2402-SV54/informe/blob/main/img/home.png?raw=true)
+
+- Se muestra el Sign Up donde el usuario puede registrarse adecuadamente:
+
+![image](https://github.com/Open-Source-SI729-2402-SV54/informe/blob/main/img/registro.png?raw=true)
+
+- Pantalla que muestra el inicio de sesión para el usuario:
+
+![image](https://github.com/Open-Source-SI729-2402-SV54/informe/blob/main/img/inicioSesi%C3%B3n.png?raw=true)
+
+- Pantalla de planes:
+
+![image](https://github.com/Open-Source-SI729-2402-SV54/informe/blob/main/img/planes.png?raw=true)
+
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
+Durante el desarrollo en la implementacion del Front End se ha utilizado visual-code y  github ademas utilizando los guias de estilos que habiamos propuesto.
+
+Luego de ello, usamos el WebStorm para su elaboracion en Html, CSS y JavaScript.
+
+A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo
+
+![image](https://github.com/user-attachments/assets/ede947b0-3f5e-450e-81b0-bc13520a7721)
+
+Asimismo, se muestra en una represetacion visual sobre el trafico de los "Git clones" y "Visitors" registrados en cada accion realizada al cabo de la elaboracion en el repositorio.
+
+Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del desarrollo.
+
+![image](https://github.com/user-attachments/assets/31cb9bbb-99eb-472d-9776-cec6961a0cd5)
+
+
+
+
+
+
+
