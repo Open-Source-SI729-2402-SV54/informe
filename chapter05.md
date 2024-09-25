@@ -457,13 +457,13 @@ Para este segundo sprint, es crucial seguir clarificando las tareas y mantener e
 #### 5.2.2.2. Sprint Backlog 2
 En este segundo sprint, nos enfocamos en integrar las funcionalidades avanzadas de la Landing Page, consolidando el despliegue del front end y mejorando la interactividad del usuario. Se trabajó en optimizar el rendimiento y en la implementación de elementos dinámicos que enriquecen la experiencia general. Además, se actualizó el reporte que documenta el ciclo de vida completo de nuestro proyecto de software, reflejando los avances y las lecciones aprendidas. Estas características son fundamentales para afianzar la base de nuestro producto y asegurar una experiencia de usuario fluida y atractiva. A continuación, se presenta el sprint backlog 2 y el tablero de Trello con la distribución de tareas:
 
-![image](https://github.com/user-attachments/assets/e11564c1-335a-46a1-a6b4-5286c3424cc7)
+![image](https://github.com/user-attachments/assets/3c132c7e-e0ba-4697-936c-83efa22d6b72)
 
 <table table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
   <thead>
     <tr>
       <th>Sprint #</th>
-      <th colspan="7">Sprint 1</th>
+      <th colspan="7">Sprint 2</th>
     </tr>
     <tr>
       <th colspan="2">User Story</th>
@@ -482,105 +482,156 @@ En este segundo sprint, nos enfocamos en integrar las funcionalidades avanzadas 
   </thead>
   <tbody>
     <tr>
-      <th>US-025</th>
-      <th>Tipografía cómoda y agradable estéticamente</th>
-      <th>TSK001</th>
-      <th>Elegir Tipografía</th>
-      <th>Seleccionar y aplicar una tipografía que sea legible y estéticamente agradable.</th>
-      <th>0.5</th>
-      <th>Camila Leonor Espinoza Vivas</th>
-      <th>Done</th>
-    </tr>
-    <tr>
-      <th>US-026</th>
-      <th>Acceso rápido a la página oficial</th>
-      <th>TSK002</th>
-      <th>Crear Enlace</th>
-      <th>Implementar un enlace visible en el encabezado que redirija a la página oficial.</th>
-      <th>1</th>
-      <th>Camila Leonor Espinoza Vivas</th>
-      <th>Done</th>
-    </tr>
-    <tr>
-      <th>US-027</th>
-      <th>Accesibilidad de la aplicación en diferentes dispositivos</th>
-      <th>TSK003</th>
-      <th>Pruebas de Responsividad</th>
-      <th>Realizar pruebas en varios dispositivos para asegurar la correcta visualización.</th>
-      <th>1</th>
-      <th>Camila Leonor Espinoza Vivas</th>
-      <th>Done</th>
-    </tr>
-    <tr>
-      <th>US-028</th>
-      <th>Acceso a Información Acerca de la Plataforma</th>
-      <th>TSK004</th>
-      <th>Desarrollar Sección de About Us</th>
-      <th>Crear una sección informativa que describa el starup de Nutrisend y sus beneficios.</th>
-      <th>1</th>
-      <th>Camila Leonor Espinoza Vivas</th>
-      <th>Done</th>
-    </tr>
-    <tr>
-      <th>US-029</th>
-      <th>Visualización de imágenes y gráficos relevantes</th>
-      <th>TSK005</th>
-      <th>Incluir Gráficos</th>
-      <th>Agregar imágenes y gráficos que ilustren los servicios ofrecidos.</th>
-      <th>2</th>
-      <th>Camila Leonor Espinoza Vivas</th>
-      <th>Done</th>
-    </tr>
-    <tr>
-      <th>US-030</th>
-      <th>Exploración de Paquetes Disponibles</th>
-      <th>TSK006</th>
-      <th>Crear Sección de Paquetes</th>
-      <th>Implementar una sección que muestre los diferentes paquetes disponibles.</th>
-      <th>3</th>
-      <th>Camila Leonor Espinoza Vivas</th>
-      <th>Done</th>
-    </tr>
-    <tr>
-      <th>US-031</th>
-      <th>Visualización del Menú de Comidas</th>
-      <th>TSK007</th>
-      <th>Mostrar Menú</th>
-      <th>Desarrollar una sección donde se muestre el menú de comidas ofrecidas.</th>
-      <th>4</th>
-      <th>Camila Leonor Espinoza Vivas</th>
-      <th>Done</th>
-    </tr>
-    <tr>
-      <th>US-032</th>
-      <th>Acceso a Soporte y Contacto</th>
-      <th>TSK008</th>
-      <th>Implementar Contacto</th>
-      <th>Agregar una sección de contacto para soporte y consultas de usuarios.</th>
-      <th>2</th>
-      <th>Camila Leonor Espinoza Vivas</th>
-      <th>Done</th>
-    </tr>
-    <tr>
-      <th>US-033</th>
-      <th>Acceso a Footer</th>
-      <th>TSK009</th>
-      <th>Diseñar Footer</th>
-      <th>Crear el diseño del pie de página con enlaces y datos relevantes.</th>
-      <th>2</th>
-      <th>Fatima Asmad Padilla</th>
-      <th>Done</th>
-    </tr>
-    <tr>
-      <th>US-034</th>
-      <th>Visualización de los comentarios</th>
-      <th>TSK010</th>
-      <th>Mostrar Comentarios</th>
-      <th>Implementar una sección donde los usuarios puedan ver los comentarios dejados.</th>
-      <th>2</th>
-      <th>Camila Leonor Espinoza Vivas</th>
-      <th>Done</th>
-    </tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation(Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / InProcess / To-Review/ Done)</th>
+</tr>
+<tr>
+    <td>US-001</td>
+    <td>Registro de Usuarios</td>
+    <td>TSK001</td>
+    <td>Crear cuenta</td>
+    <td>Como usuario deseo observar un apartado para poder crear una cuenta propia.</td>
+    <td>3</td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>US-002</td>
+    <td>Inserción</td>
+    <td>TSK002</td>
+    <td>Ingresar datos de perfil</td>
+    <td>Como usuario deseo ingresar mis datos principales para tener un perfil en la aplicación.</td>
+    <td>3</td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>US-003</td>
+    <td>Inicio de sesión</td>
+    <td>TSK003</td>
+    <td>Acceder a cuenta</td>
+    <td>Como usuario deseo ingresar a la aplicación con mi cuenta registrada para usar mi perfil creado.</td>
+    <td>2</td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>US-004</td>
+    <td>Cierre de sesión</td>
+    <td>TSK004</td>
+    <td>Salir de la aplicación</td>
+    <td>Como usuario deseo salir de la aplicación para evitar el uso de mi cuenta en las manos de otras personas.</td>
+    <td>1</td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>US-005</td>
+    <td>Editar perfil</td>
+    <td>TSK005</td>
+    <td>Modificar detalles del perfil</td>
+    <td>Como usuario deseo poder editar algún detalle de mi perfil para tenerlo actualizado al momento.</td>
+    <td>5</td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>US-006</td>
+    <td>Elección de plan</td>
+    <td>TSK006</td>
+    <td>Seleccionar plan</td>
+    <td>Como usuario deseo tener opción en la elección de planes para tener opción de elección.</td>
+    <td>2</td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>US-008</td>
+    <td>Acceso al catálogo</td>
+    <td>TSK007</td>
+    <td>Navegar menú</td>
+    <td>Como usuario deseo tener la capacidad de acceder fácilmente al catálogo del menú a través de la aplicación.</td>
+    <td>3</td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>US-009</td>
+    <td>Visualización de información nutricional</td>
+    <td>TSK008</td>
+    <td>Mostrar calorías al pagar</td>
+    <td>Como usuario deseo visualizar la cantidad total de calorías al momento de pagar.</td>
+    <td>2</td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>US-010</td>
+    <td>Editar Pedido</td>
+    <td>TSK009</td>
+    <td>Modificar pedidos</td>
+    <td>Como usuario deseo tener la posibilidad de editar mis pedidos para agregar o eliminar algún platillo.</td>
+    <td>5</td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>US-024</td>
+    <td>Interfaz Intuitiva para la Gestión de Comidas</td>
+    <td>TSK010</td>
+    <td>Diseño amigable</td>
+    <td>Como usuario deseo una interfaz intuitiva para ingresar y gestionar mis comidas.</td>
+    <td>5</td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>US-025</td>
+    <td>Tipografía cómoda y agradable estéticamente</td>
+    <td>TSK011</td>
+    <td>Mejorar legibilidad</td>
+    <td>Como visitante deseo que la tipografía en la landing page sea legible y estéticamente agradable.</td>
+    <td>1</td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>US-027</td>
+    <td>Accesibilidad de la aplicación en diferentes dispositivos</td>
+    <td>TSK012</td>
+    <td>Adaptación a dispositivos</td>
+    <td>Como visitante deseo que la aplicación se adapte a diferentes dispositivos.</td>
+    <td>3</td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>US-029</td>
+    <td>Visualización de imágenes y gráficos relevantes</td>
+    <td>TSK013</td>
+    <td>Incluir gráficos atractivos</td>
+    <td>Como visitante deseo que las imágenes y gráficos en la landing page sean de alta calidad y relevantes.</td>
+    <td>1</td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>US-031</td>
+    <td>Visualización del Menú de Comidas</td>
+    <td>TSK014</td>
+    <td>Mostrar opciones de comida</td>
+    <td>Como visitante deseo visualizar los platos que ofrece NutriSend.</td>
+    <td>3</td>
+    <td></td>
+    <td></td>
+</tr>
+
   </tbody>
 </table>
 #### 5.2.2.3. Development Evidence for Sprint Review
