@@ -155,6 +155,8 @@ Para los usuarios con un plan alimenticio estructurado que desean tener un contr
 
 #### 1.2.2.4. Lean UX Canvas
 
+Hemos creado el Lean UX Canvas para establecer y alinear la visión de la plataforma web en desarrollo. Este lienzo nos ha facilitado la identificación precisa de nuestros usuarios, así como de sus problemas y necesidades, y las soluciones que ofrece nuestra plataforma. Al enfocar nuestra atención en la experiencia del usuario, hemos formulado hipótesis que orientan nuestro proceso de diseño y validación. Puedes acceder a él a través del siguiente enlace: https://miro.com/welcomeonboard/MHRNNVpKQ0Zac2tpR0hBSHNMMlZ6R0ZBMVlUN0VlQmtvc1VCQXdZNGNlSkpYUXQxWjdLeXpnaDdjeDNOdUdxU3wzMDc0NDU3MzY0MDEyMTc4NDQ4fDI=?share_link_id=773468427523 
+
 <img src="img/Canvass.jpg" alt="LEAN UX CANVAS">
 
 ## 1.3. Segmentos objetivo
