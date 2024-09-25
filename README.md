@@ -406,6 +406,8 @@ A continuación, se detalla el desarrollo de las actividades relacionadas con la
 
 # Conclusiones
 
+TB1
+
 - Las recientes actualizaciones han permitido una optimización considerable en la interfaz de usuario y en la experiencia general de navegación. Se ha rediseñado la plataforma para que sea más intuitiva y fácil de usar, reduciendo el tiempo necesario para que los usuarios encuentren y utilicen las funciones principales. La disposición de los elementos y la simplificación de los procesos de navegación han contribuido a una interacción más fluida y agradable con la aplicación, lo que en última instancia mejora la satisfacción del usuario.
 
 - NutriSend ha ampliado sus capacidades con la incorporación de varias nuevas funcionalidades. Entre estas se encuentran recomendaciones personalizadas de comidas, recordatorios automáticos para ingestas y opciones avanzadas de planificación que se ajustan a las necesidades dietéticas individuales. Estas mejoras no solo enriquecen la oferta de servicios, sino que también permiten a los usuarios adaptar el uso de la plataforma a sus preferencias específicas y objetivos de salud, aumentando así su utilidad y valor.
@@ -413,6 +415,18 @@ A continuación, se detalla el desarrollo de las actividades relacionadas con la
 - La plataforma ha evolucionado para ofrecer un nivel de personalización más detallado y preciso. Ahora, NutriSend puede ajustar las recomendaciones de comidas basadas en el nivel de actividad física del usuario, sus preferencias dietéticas y sus objetivos de salud. Este grado de personalización asegura que los planes de comida se alineen más estrechamente con las necesidades individuales, facilitando una gestión más efectiva de la salud y el bienestar personal.
 
 - La incorporación de funciones de automatización ha permitido que la planificación de comidas y la gestión de suscripciones se realicen de manera más eficiente. La automatización reduce la necesidad de intervención manual, lo que a su vez disminuye el riesgo de errores y simplifica el proceso para los usuarios. Este enfoque automatizado no solo mejora la precisión, sino que también facilita una administración más sencilla y efectiva de las preferencias dietéticas y las compras de alimentos.
+
+TP
+
+- El equipo demostró un fuerte espíritu de colaboración, con miembros que apoyaron a sus compañeros y fomentaron un ambiente de trabajo en equipo, lo que facilitó el avance del proyecto.
+
+- Camila y Renzo desempeñaron roles fundamentales al encargarse de la revisión, retroalimentación y despliegue del front end, asegurando que el proyecto se mantuviera alineado con los estándares establecidos.
+
+- La actualización del product backlog y del impact map refleja un compromiso con la mejora continua, permitiendo al equipo ajustar su estrategia y mantener una visión clara del progreso del proyecto.
+
+- La comunicación constante entre los miembros del equipo fue clave para superar obstáculos, lo que subraya la importancia de mantener un diálogo abierto para el éxito en proyectos colaborativos.
+
+Video About-the-Team: 
 
 # Bibliografía
 
@@ -434,7 +448,7 @@ Williams, R. (2023). Data security in online food services: Protecting user info
 
 # Anexos
 
-Video-About-Team: 
+Video-About-Product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/EeabX430di9Hv8bQ-23lnNcB8Zch1Qb7uMfcqhBl8S7HNQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=VgIZzf
 
 Despliegue del lading-page (version0.1): https://open-source-si729-2402-sv54.github.io/landing-page/
 
@@ -462,3 +476,5 @@ https://lucid.app/lucidchart/70432eed-3de6-4692-b911-abeeb9d8b2fc/edit?viewport_
 
 Spring 1 Trello: 
 https://trello.com/b/OwgxqazN
+
+Spring 2 Trello: 
