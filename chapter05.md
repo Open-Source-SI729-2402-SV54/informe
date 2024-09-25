@@ -960,6 +960,28 @@ A continuación, se muestran capturas de pantalla que ilustran las vistas princi
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
+Utilizamos el servicio de Hosting de Github para el despliegue de la aplicación web. A continuación se mostrarán los pasos para lograr el despliegue
+
+**Para el despliegue nos solicita ingresar el enlace de nuestro proyecto con el siguiente enlace: https://github.com/C7leo/front-end-master.git**
+
+![fontend_2.jpeg](img%2Ffontend_2.jpeg)
+
+**Ingresamos el nombre de nuestro repositorio Nutrisend**
+
+![fontend_3.jpeg](img%2Ffontend_3.jpeg)
+
+**Verificamos el contenido de nuestro repositorio front-end-master**
+
+![fontend_4.jpeg](img%2Ffontend_4.jpeg)
+
+**Realizamos el deploy respectivo para el despliegue de nuestra aplicacion web**
+
+![fontend_5.jpeg](img%2Ffontend_5.jpeg)
+
+**Finalmente obtenemos el link de nuestro proyecto de nuestra aplicacion web desplegada con el servicio de hosting de Github: https://nutrisend.vercel.app/home**
+
+![fontend_6.jpeg](img%2Ffontend_6.jpeg)
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 Durante el desarrollo en la implementacion del Front End se ha utilizado visual-code y  github ademas utilizando los guias de estilos que habiamos propuesto.
 
