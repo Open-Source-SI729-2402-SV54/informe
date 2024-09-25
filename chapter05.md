@@ -939,3 +939,23 @@ En esta sección se detallan y presentan los avances en la implementación de lo
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
+Durante el desarrollo en la implementacion del Front End se ha utilizado visual-code y  github ademas utilizando los guias de estilos que habiamos propuesto.
+
+Luego de ello, usamos el WebStorm para su elaboracion en Html, CSS y JavaScript.
+
+A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo
+
+![image](https://github.com/user-attachments/assets/ede947b0-3f5e-450e-81b0-bc13520a7721)
+
+Asimismo, se muestra en una represetacion visual sobre el trafico de los "Git clones" y "Visitors" registrados en cada accion realizada al cabo de la elaboracion en el repositorio.
+
+Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del desarrollo.
+
+![image](https://github.com/user-attachments/assets/31cb9bbb-99eb-472d-9776-cec6961a0cd5)
+
+
+
+
+
+
+
