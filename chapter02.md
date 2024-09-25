@@ -205,7 +205,7 @@ Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera d
 
 ### 2.2.2. Registro de entrevistas
 
-UTL: https://upcedupe-my.sharepoint.com/:f:/g/personal/u202214572_upc_edu_pe/ElawDs9zQEJHhXKO8Nss1VABmeiAiI5D3Loz-nYIZ8GhTQ?e=WgihGA
+UTL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/EWTpTXUte3NBvNnz3c7eg4ABJ5v-2HJL7eQnT1UP_m8yWw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=QB4A9S 
 
 #### Entrevistas para el Segmento Objetivo 1:
 ##### a) Valentino Montoro 
