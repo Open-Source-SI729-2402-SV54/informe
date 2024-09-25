@@ -125,6 +125,56 @@
       - Realizó el capitulo 5<br>
     </td>
   </tr>
+  <tr>
+    <td>TP</td>
+    <td>26/09/2024</td>
+    <td>Camila Leonor Espinoza Vivas</td>
+    <td>
+      - Realizo la retroalimentacion<br>
+      - Completo su parte del front<br>
+      - Realizó los User Stories <br>
+      - Mejoro el sprint 1<br>
+    </td>
+  </tr>
+  <tr>
+    <td>TB1</td>
+    <td>26/09/2024</td>
+    <td>Renzo José Araujo Ingunza</td>
+    <td>
+      - Completo su parte del front<br>
+      - Unio las partes de sus compañeros del front end <br>
+      - Desplego el front end. <br>
+    </td>
+  </tr>
+  <tr>
+    <td>TB1</td>
+    <td>6/09/2024</td>
+    <td>Fatima Asmad Padilla</td>
+    <td>
+      - Completo su parte del front<br>
+      - Realizó el product backlog <br>
+      - Realizó el sprint 2 <br>
+    </td>
+  </tr>
+  <tr>
+    <td>TB1</td>
+    <td>6/09/2024</td>
+    <td>Jhordi Luis Carranza Pérez</td>
+    <td>
+      - Completo su parte del front<br>
+      - Realizó el impact map <br>
+    </td>
+  </tr>
+  <tr>
+    <td>TB1</td>
+    <td>6/09/2024</td>
+    <td>Luis Alfonso Villegas Jipa</td>
+    <td>
+      - Completo su parte del front<br>
+      - Realizó user stories <br>
+    </td>
+  </tr>
+  <tr>
 </table>
 
 
@@ -134,9 +184,7 @@ El enlace que sigue dirige al repositorio público de nuestra organización en G
 
 A continuación, se detalla el desarrollo de las actividades relacionadas con la elaboración del informe, incluyendo capturas de los análisis de colaboración y los commits en GitHub. Para la entrega de la TB1, se presenta un análisis de colaboración que muestra el número de contribuciones realizadas en el repositorio del informe.
 
-<div style="text-align: center;">
-    <img src="img/evidencia.PNG" alt="UPC Logo">
-</div>
+![evidancia](https://github.com/user-attachments/assets/4f3fd172-629b-4691-80f6-8b07ecd978e2)
 
 
 # Contenido 
@@ -256,7 +304,6 @@ A continuación, se detalla el desarrollo de las actividades relacionadas con la
       Camila Leonor Espinoza Vivas <br>
       TB1 <br>
       Creo los repositorios asi como la division y la supervision de las tareas. Analizando que todo se cumpla segun la rubrica del trabajo. Estuvo pendiente de toda entrega y realizo la retroalimentacion de los avances de sus compañeros. <br>
-      <br>
       Renzo José Araujo Ingunza<br>
       TB1 <br>
       Avanzó los elementos asignados a través de las reuniones grupales que fueron realizadas de manera diaria y semanal, por lo que pudo avanzar de la manera esperada. Ayudo en la coordinacion del grupo. 
@@ -273,16 +320,39 @@ A continuación, se detalla el desarrollo de las actividades relacionadas con la
       TB1 <br>
       Avanzó los elementos asignados a través de las reuniones grupales que fueron realizadas de manera diaria y semanal, pero no logro con el objetivo de su tarea.
       <br>
+      <br>
+      Camila Leonor Espinoza Vivas <br>
+      TP <br>
+      Creo el repositorio del front end, creando la plantilla para que todos avanzaran su parte respectivamente y supervisando su avance. Corrigiendo los errores de la tb1<br>
+      Renzo José Araujo Ingunza<br>
+      TP <br>
+      Cupmplio con los elementos asignados a través de las reuniones grupales que fueron realizadas de manera diaria y semanal, por lo que pudo avanzar de la manera esperada. Asi como ayudo en la union de todos las partes del front end
+      <br>
+      Fatima Asmad Padilla<br>
+      TP <br>	
+      Cupmplio con los elementos asignados a través de las reuniones grupales que fueron realizadas de manera diaria y semanal, pero de forma tardia aun asi pudo avanzar de la manera esperada.
+      <br>
+      Jhordi Luis Carranza Pérez<br>	
+      TP <br>
+      Avanzó los elementos asignados a través de las reuniones grupales que fueron realizadas de manera diaria y semanal.  
+      <br>
+      Luis Alfonso Villegas Jipa<br>
+      TP <br>
+      Avanzó los elementos asignados a través de las reuniones grupales que fueron realizadas de manera diaria y semanal, pero no cumplio con los objetivos aun asi entrego en el plazo permitido. 
+      <br>
     </td>
     <td>
     TB1 <br>
     El equipo mostró un enfoque comprometido y coordinado en la realización de las tareas asignadas, utilizando reuniones diarias y semanales para avanzar en el proyecto. La supervisión constante y la retroalimentación permitieron a los miembros ajustar su trabajo de acuerdo con las expectativas y la rúbrica del proyecto. Sin embargo, la falta de cumplimiento de ciertos objetivos individuales y la ausencia de algunos miembros afectaron el progreso en momentos puntuales. A pesar de estos desafíos, el equipo logró mantener una comunicación clara y avanzar en las tareas, destacando la capacidad de colaboración en la mayoría de los integrantes.
+    <br></br>
+    TP1 <br>
+    El equipo demostró un enfoque comprometido y colaborativo en la realización de las tareas asignadas, participando activamente en reuniones diarias y semanales para asegurar el progreso del proyecto. La creación del repositorio por parte de Camila y el apoyo en la integración del front end por parte de Renzo fueron fundamentales para el avance. Sin embargo, algunos miembros, enfrentaron dificultades en el cumplimiento de plazos y objetivos, lo que afectó temporalmente el progreso general. A pesar de estos inconvenientes, la comunicación fluida y la supervisión constante permitieron al equipo ajustar su trabajo y avanzar en la dirección correcta, resaltando la capacidad de colaboración y el compromiso de la mayoría de los integrantes.
     </td>
   </tr>
   <tr>
     <td>Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
     <td>
-    Camila Leonor Espinoza Vivas <br>
+      Camila Leonor Espinoza Vivas <br>
       TB1 <br>
       Llevo a cabo el análisis y la retroalimentación de todos los capítulos, además del despliegue y diseño de la landing page. Desarrollo guías de estilo, estructuré la arquitectura de la información, y optimicé etiquetas SEO. Diseño la interfaz de usuario para la landing page con wireframes y mockups, y trabajo en la arquitectura de software basada en el dominio, incluyendo diagramas de contexto, contenedores y componentes. También realizo el diseño orientado a objetos y la creación de un diagrama de base de datos para una mejor comunicación técnica entre los equipos.
       <br>
@@ -302,10 +372,34 @@ A continuación, se detalla el desarrollo de las actividades relacionadas con la
       TB1 <br>
       Contribuyo al desarrollo del capítulo 1, donde redacto y estructuro el contenido para asegurar una comunicación clara. También elaboro las user stories y el product backlog, adaptando el lenguaje y la información para audiencias técnicas y no técnicas, facilitando la comprensión del proyecto en distintos niveles.
       <br>
+      <br>
+      Camila Leonor Espinoza Vivas <br>
+      TP <br>
+      Jugó un papel crucial en la revisión y retroalimentación de todos los capítulos del proyecto, asegurando que cada uno cumpliera con los estándares y expectativas establecidos. También fue responsable de la corrección de la landing page y de los user stories, añadiendo más user stories que enriquecieron el backlog del proyecto. Además de completar su parte del front end, apoyó activamente a sus compañeros, ayudando a resolver dudas y fomentando un ambiente colaborativo dentro del equipo.
+      <br>
+      Renzo José Araujo Ingunza<br>
+      TP <br>
+      se encargó del despliegue del front end, una tarea esencial que permitió que la plataforma estuviera disponible para su revisión y pruebas. Su participación también fue clave en la integración de todas las partes del front end, asegurando que el producto final funcionara de manera cohesiva. Apoyó a sus compañeros aclarando dudas sobre aspectos de programación, demostrando un fuerte compromiso con el éxito del equipo y el proyecto.
+      <br>
+      Fatima Asmad Padilla<br>
+      TB1 <br> 
+      Completó su parte del front end, aunque no dentro del tiempo estimado inicialmente. A pesar de esto, mostró iniciativa al actualizar el product backlog, lo cual ayudó a mantener una visión clara de las tareas pendientes y los avances. Aunque no abordó completamente la incorporación de nuevas user stories, su participación en el sprint 2 demuestra su disposición a colaborar en etapas críticas del proyecto.
+      <br>
+      Jhordi Luis Carranza Pérez<br>	
+      TB1 <br>
+      Finalizó su parte del front end, aunque no alcanzó los objetivos específicos que se habían establecido. A pesar de estas dificultades, su contribución fue clave en la actualización del impact map, lo que permitió al equipo ajustar su estrategia general y visualizar mejor las conexiones entre las metas del proyecto y las tareas individuales. Su participación en este aspecto estratégico fue valiosa para la planificación futura del equipo.
+      <br>
+      Luis Alfonso Villegas Jipa<br>
+      TB1 <br>
+      Completó su parte del front end y user stories, pero no cumplió con los objetivos específicos señalados para su tarea. Aunque se enfrentó a ciertos desafíos para alcanzar las metas definidas, su capacidad para finalizar su trabajo refleja un compromiso con el equipo y una disposición para cumplir con los plazos a pesar de las dificultades.
+      <br>
     </td>
     <td>
     TB1<br>
     El equipo demostró una destacada capacidad para comunicar por escrito con efectividad a diferentes rangos de audiencia. Camila Leonor Espinoza Vivas, Renzo José Araujo Ingunza, Fatima Asmad Padilla, Jhordi Luis Carranza Pérez y Luis Alfonso Villegas Jipa realizaron contribuciones significativas en áreas clave como el diseño de la interfaz, la arquitectura de la información, la investigación del dominio y la redacción de documentación técnica. La elaboración de guías de estilo, la creación de wireframes, y el diseño de prototipos reflejan un enfoque meticuloso en la comunicación visual y técnica. La investigación sobre competidores y el análisis del dominio aportaron una comprensión valiosa para adaptar el proyecto a las necesidades del mercado. La capacidad del equipo para estructurar y presentar información técnica de manera clara y efectiva fue fundamental para el avance del proyecto y para asegurar la alineación con los objetivos del negocio.
+    <br>
+    TP<br>
+    El equipo mostró un alto nivel de colaboración y compromiso. Camila y Renzo lideraron tareas clave como la revisión, retroalimentación y despliegue del front end, además de apoyar a sus compañeros en la resolución de dudas. Aunque los demás enfrentaron dificultades para cumplir ciertos objetivos, completaron sus tareas y contribuyeron a aspectos importantes como el product backlog, el impact map. La comunicación efectiva permitió superar los desafíos y avanzar en el proyecto de manera sólida.
     </td>
   </tr>
 </table>
