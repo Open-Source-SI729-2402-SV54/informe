@@ -135,63 +135,93 @@ En este primer sprint, nos centramos en implementar las funcionalidades esencial
   </thead>
   <tbody>
     <tr>
-      <th></th>
-      <th></th>
+      <th>US-025</th>
+      <th>Tipografía cómoda y agradable estéticamente</th>
       <th>TSK001</th>
-      <th>Remote environment creation for Report and Landing Page</th>
-      <th>Organization, repositories and branch creation in GitHub</th>
+      <th></th>
+      <th></th>
       <th>0.5</th>
       <th>Camila Leonor Espinoza Vivas</th>
       <th>Done</th>
     </tr>
     <tr>
-      <th></th>
-      <th></th>
+      <th>US-026</th>
+      <th>Acceso rápido a la página oficial</th>
       <th>TSK002</th>
-      <th>Conclude Chapter01</th>
-      <th>Finish all section and add the respective information in chapter01</th>
-      <th>3</th>
-      <th>All team members</th>
+      <th></th>
+      <th></th>
+      <th>1</th>
+      <th>Camila Leonor Espinoza Vivas</th>
       <th>Done</th>
     </tr>
     <tr>
-      <th></th>
-      <th></th>
+      <th>US-027</th>
+      <th>Accesibilidad de la aplicación en diferentes dispositivos</th>
       <th>TSK003</th>
-      <th>Conclude Chapter02</th>
-      <th>Finish all section and add the respective information in chapter02</th>
-      <th>6</th>
-      <th>Fatima Asmad Padilla</th>
+      <th></th>
+      <th></th>
+      <th>1</th>
+      <th>Camila Leonor Espinoza Vivas</th>
       <th>Done</th>
     </tr>
     <tr>
-      <th></th>
-      <th></th>
+      <th>US-028</th>
+      <th>Acceso a Información Acerca de la Plataforma</th>
       <th>TSK004</th>
-      <th>Conclude Chapter03</th>
-      <th>Finish all section and add the respective information in chapter03</th>
-      <th>12</th>
-      <th>Jhordi Luis Carranza Pérez / Luis Alfonso Villegas Jipa</th>
+      <th></th>
+      <th></th>
+      <th>1</th>
+      <th>Camila Leonor Espinoza Vivas</th>
       <th>Done</th>
     </tr>
     <tr>
-      <th></th>
-      <th></th>
+      <th>US-029</th>
+      <th>Visualización de imágenes y gráficos relevantes</th>
       <th>TSK005</th>
-      <th>Conclude Chapter04</th>
-      <th>Finish all section and add the respective information in chapter04</th>
-      <th>26</th>
-      <th>Renzo José Araujo Ingunza / Camila Leonor Espinoza Vivas</th>
+      <th></th>
+      <th></th>
+      <th>2</th>
+      <th>Camila Leonor Espinoza Vivas</th>
       <th>Done</th>
     </tr>
     <tr>
-      <th></th>
-      <th></th>
+      <th>US-030</th>
+      <th>Exploración de Paquetes Disponibles</th>
       <th>TSK006</th>
-      <th>conclude Chapter05</th>
-      <th>Finish all section and add the respective information in chapter05</th>
-      <th>5</th>
-      <th>all team members</th>
+      <th></th>
+      <th></th>
+      <th>3</th>
+      <th>Camila Leonor Espinoza Vivas</th>
+      <th>Done</th>
+    </tr>
+    <tr>
+      <th>US-031</th>
+      <th>Visualización del Menú de Comidas</th>
+      <th>TSK007</th>
+      <th></th>
+      <th></th>
+      <th>4</th>
+      <th>Camila Leonor Espinoza Vivas</th>
+      <th>Done</th>
+    </tr>
+    <tr>
+      <th>US-032</th>
+      <th>Acceso a Soporte y Contacto</th>
+      <th>TSK008</th>
+      <th></th>
+      <th></th>
+      <th>2</th>
+      <th>Camila Leonor Espinoza Vivas</th>
+      <th>Done</th>
+    </tr>
+    <tr>
+      <th>US-033</th>
+      <th>Acceso a Footer</th>
+      <th>TSK009</th>
+      <th></th>
+      <th></th>
+      <th>2</th>
+      <th>Fatima Asmad Padilla</th>
       <th>Done</th>
     </tr>
   </tbody>
@@ -201,25 +231,6 @@ En este primer sprint, nos centramos en implementar las funcionalidades esencial
 
 En esta sección se detallan y presentan los avances en la implementación de los componentes de la solución, de acuerdo con el alcance definido para el Sprint: Landing Page, Aplicaciones Web y Servicios Web. En primer lugar, se destacarán los commits más relevantes para el reporte, los cuales reflejan el ciclo de vida del proyecto, así como toda la información que se ha utilizado, se está utilizando y se utilizará en el desarrollo del mismo.
 
-Camila Leonor Espinoza Vivas
-
-![commit1](https://github.com/user-attachments/assets/604d056c-1bf4-4940-b88f-283a4c8d1d88)
-
-Renzo José Araujo Ingunza
-
-![commit2](https://github.com/user-attachments/assets/b756140f-e4f2-417f-9d6e-2bf453fb55a4)
-
-Luis Alfonso Villegas Jipa
-
-![45678](https://github.com/user-attachments/assets/f104aaa7-9cf6-451a-b0fa-cd47521fcd55)
-
-Jhordi Luis Carranza Pérez
-
-![2345678](https://github.com/user-attachments/assets/17ee9e9c-f63b-45f3-88b9-c2c911c49e1e)
-
-Fatima Asmad Padilla
-
-![45456789](https://github.com/user-attachments/assets/39243b85-5d16-4dfa-8765-7252a35e2a18)
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
