@@ -353,17 +353,12 @@ una etapa posterior del desarrollo
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
 En esta entrega, el equipo de desarrolladores de NutriSend ha completado con éxito la implementación y el lanzamiento de la página de la Landing Page.
-Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto. Despliegue del lading-page (version0.1): https://open-source-si729-2402-sv54.github.io/landing-page/
+Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto. Despliegue del lading-page: https://open-source-si729-2402-sv54.github.io/landing-page/
 
 Repositorio del landing-page: https://github.com/Open-Source-SI729-2402-SV54/landing-page.git
 
-![4367](https://github.com/user-attachments/assets/6571cefb-6bf2-48c4-86e7-00bf0ee3d2a4)
+![lp](https://github.com/user-attachments/assets/3a628449-6b64-43c9-b081-8fcf952e79ae)
 
-![456789](https://github.com/user-attachments/assets/3a1b3b2e-9d6f-433a-bf04-d31255be508b)
-
-![345645789](https://github.com/user-attachments/assets/bf16429b-d401-4a6e-ab5f-b315f2126d41)
-![546789](https://github.com/user-attachments/assets/118762f1-414e-49f4-a474-eec66028c49f)
-![3r43354565654](https://github.com/user-attachments/assets/871fe8d2-319a-41a6-a7fc-e693d7ff523c)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
