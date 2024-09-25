@@ -933,6 +933,28 @@ La sección de la aplicación web ha sido omitida ya que solo se ha desarrollado
 Se proporcionará más información sobre la aplicación en una fase posterior del desarrollo.
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
+Este sprint marcó importantes avances en la implementación del Front-End del proyecto desarrollado en Angular CLI utilizando WebStorm. Logramos consolidar varias funcionalidades claves, como el sistema de registro e inicio de sesión de usuarios, el despliegue completo de la Landing Page con mejoras en la interactividad, y la optimización del rendimiento. Estas mejoras no solo optimizan la experiencia del usuario, sino que también refuerzan la base técnica de la aplicación.
+
+El enfoque en la interfaz amigable e intuitiva permitió crear una experiencia de navegación fluida, destacando por su diseño visualmente atractivo y adaptable a diferentes tamaños. Además, se avanzó en la gestión de perfiles de usuarios, elección de planes y visualización de información nutricional. Se resolvieron las tareas pendientes y se realizaron varios ajustes en la estructura del proyecto.
+
+A continuación, se muestran capturas de pantalla que ilustran las vistas principales implementadas durante este sprint, como la página de registro de usuarios, la visualización del catálogo de comidas, etc. También se incluye un enlace a un video demostrativo que explica las principales características y la navegación en la aplicación logradas en este ciclo:
+
+- Se muestra el despliegue del menú principal de la aplicación; se muestra el footer o pie de página, además del navbar con sus respectivos hipervínculo:
+
+![image](https://github.com/Open-Source-SI729-2402-SV54/informe/blob/main/img/home.png?raw=true)
+
+- Se muestra el Sign Up donde el usuario puede registrarse adecuadamente:
+
+![image](https://github.com/Open-Source-SI729-2402-SV54/informe/blob/main/img/registro.png?raw=true)
+
+- Pantalla que muestra el inicio de sesión para el usuario:
+
+![image](https://github.com/Open-Source-SI729-2402-SV54/informe/blob/main/img/inicioSesi%C3%B3n.png?raw=true)
+
+- Pantalla de planes:
+
+![image](https://github.com/Open-Source-SI729-2402-SV54/informe/blob/main/img/planes.png?raw=true)
+
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
