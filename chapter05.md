@@ -241,6 +241,109 @@ En este primer sprint, nos centramos en implementar las funcionalidades esencial
 
 En esta sección se detallan y presentan los avances en la implementación de los componentes de la solución, de acuerdo con el alcance definido para el Sprint: Landing Page, Aplicaciones Web y Servicios Web. En primer lugar, se destacarán los commits más relevantes para el reporte, los cuales reflejan el ciclo de vida del proyecto, así como toda la información que se ha utilizado, se está utilizando y se utilizará en el desarrollo del mismo.
 
+<table>
+    <thead>
+        <tr>
+            <th>Repository</th>
+            <th>Branch</th>
+            <th>Commit id</th>
+            <th>Commit Message</th>
+            <th>Commit Message Body</th>
+            <th>Commited on (Date)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>C7leo/landing-page</td>
+            <td>main</td>
+            <td>3f158f80daed9eb83c33fa0c91455bb01a642c2b</td>
+            <td>Initial commit</td>
+            <td>Se creo el index.html, styles.css, main.js y la carpeta img</td>
+            <td>Sep 2, 2024</td>
+        </tr>
+        <tr>
+            <td>C7leo/landing-page</td>
+            <td>main</td>
+            <td>bdb6f4d143c5032b11a74f10eae149cfd095053a</td>
+            <td>main</td>
+            <td>Se agrego en index.html, styles.css, main.js y la carpeta img</td>
+            <td>Sep 2, 2024</td>
+        </tr>
+        <tr>
+            <td>C7leo/landing-page</td>
+            <td>main</td>
+            <td>c5111f3e4247321b595dca798e95d2f737dde3bc</td>
+            <td>main</td>
+            <td>Se agrego en index.html, styles.css, main.js y la carpeta img</td>
+            <td>Sep 4, 2024</td>
+        </tr>
+        <tr>
+            <td>C7leo/landing-page</td>
+            <td>main</td>
+            <td>d979f8388557248691a96df0f6ad89aa5e1e8209</td>
+            <td>index.html</td>
+            <td>Se agrego en index.html, styles.css, main.js y la carpeta img</td>
+            <td>Sep 4, 2024</td>
+        </tr>
+        <tr>
+            <td>FatimaAP05/landing-page</td>
+            <td>main/Fatima</td>
+            <td>934d675c13eb2020abb3cc949eb8774796d9dff6</td>
+            <td>Config del footer</td>
+            <td>Se configuro el footer</td>
+            <td>Sep 4, 2024</td>
+        </tr>
+        <tr>
+            <td>FatimaAP05/landing-page</td>
+            <td>main/Fatima</td>
+            <td>1b56ca791a25a55666d338cd87aebd107c49ec86</td>
+            <td>coment client 1</td>
+            <td>Se arreglo el comentario de cliente 1</td>
+            <td>Sep 4, 2024</td>
+        </tr>
+        <tr>
+            <td>FatimaAP05/landing-page</td>
+            <td>main/Fatima</td>
+            <td>a938f51065ea987614b07719e03746824e2940e6</td>
+            <td>coment client 2</td>
+            <td>Se arreglo el comentario de cliente 2</td>
+            <td>Sep 4, 2024</td>
+        </tr>
+        <tr>
+            <td>FatimaAP05/landing-page</td>
+            <td>main/Fatima</td>
+            <td>c999e1ac3a5f405cde8fdb7b4efadbc86f388597</td>
+            <td></td>
+            <td>Se arreglo el css de footer</td>
+            <td>Sep 4, 2024</td>
+        </tr>
+        <tr>
+            <td>FatimaAP05/landing-page</td>
+            <td>main/Fatima</td>
+            <td>1cb4c21fd561230fb286774c29a9b979bd801737</td>
+            <td>main</td>
+            <td>Se agrego imágenes en la carpeta img</td>
+            <td>Sep 4, 2024</td>
+        </tr>
+        <tr>
+            <td>FatimaAP05/landing-page</td>
+            <td>main/Fatima</td>
+            <td>11c723ae31f0cc07f65b4ca8febd9849f99f4812</td>
+            <td>css</td>
+            <td>Se arreglo el css</td>
+            <td>Sep 4, 2024</td>
+        </tr>
+        <tr>
+            <td>FatimaAP05/landing-page</td>
+            <td>main/Fatima</td>
+            <td>fdf5f0783fd4bc11bc6f849290a2480c3061cd9c</td>
+            <td>css</td>
+            <td>Se arreglo el css</td>
+            <td>Sep 4, 2024</td>
+        </tr>
+    </tbody>
+</table>
+
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
