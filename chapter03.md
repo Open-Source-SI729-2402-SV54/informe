@@ -905,310 +905,243 @@ https://miro.com/welcomeonboard/dEwzZkJyaXFVeWVSNzUwc2FlMUtZRm5UbDA3YzlmaDV0NmV4
         </tr>
     </thead>
     <tbody>
-        <!--Product Backlog-->
-<!--User Story 01-->
-<tr>
-    <td>1</td>
-    <td>US-001</td>
-    <td>Registro de Usuarios</td>
-    <td>Como usuario deseo observar un apartado para poder crear una cuenta propia.</td>
-    <td>3</td>
-</tr>
-
-<!--User Story 02-->
-<tr>
-    <td>2</td>
-    <td>US-002</td>
-    <td>Inserción</td>
-    <td>Como usuario deseo ingresar mis datos principales para tener un perfil en la aplicación.</td>
-    <td>3</td>
-</tr>
-
-<!--User Story 03-->
-<tr>
-    <td>3</td>
-    <td>US-003</td>
-    <td>Inicio de sesión</td>
-    <td>Como usuario deseo ingresar a la aplicación con mi cuenta registrada para usar mi perfil creado.</td>
-    <td>2</td>
-</tr>
-
-<!--User Story 04-->
-<tr>
-    <td>4</td>
-    <td>US-004</td>
-    <td>Cierre de sesión</td>
-    <td>Como usuario deseo salir de la aplicación para evitar el uso de mi cuenta en las manos de otras personas.</td>
-    <td>1</td>
-</tr>
-
-<!--User Story 05-->
-<tr>
-    <td>5</td>
-    <td>US-005</td>
-    <td>Editar perfil</td>
-    <td>Como usuario deseo poder editar algún detalle de mi perfil para tenerlo actualizado al momento.</td>
-    <td>5</td>
-</tr>
-
-<!--User Story 06-->
-<tr>
-    <td>6</td>
-    <td>US-006</td>
-    <td>Elección de plan</td>
-    <td>Como usuario deseo tener opción en la elección de planes para tener opción de elección.</td>
-    <td>2</td>
-</tr>
-
-<!--User Story 07-->
-<tr>
-    <td>7</td>
-    <td>US-007</td>
-    <td>Realizar el pedido</td>
-    <td>Como usuario deseo poder realizar pedidos de comida a través de la aplicación para poder disfrutar de comidas deliciosas y nutritivas sin tener que cocinar.</td>
-    <td>5</td>
-</tr>
-
-<!--User Story 08-->
-<tr>
-    <td>8</td>
-    <td>US-008</td>
-    <td>Acceso al catálogo</td>
-    <td>Como usuario deseo tener la capacidad de acceder fácilmente al catálogo del menú a través de la aplicación para poder revisar las diferentes opciones disponibles.</td>
-    <td>3</td>
-</tr>
-
-<!--User Story 09-->
-<tr>
-    <td>9</td>
-    <td>US-009</td>
-    <td>Visualización de información nutricional</td>
-    <td>Como usuario deseo visualizar la cantidad total de calorías al momento de pagar para tomar decisiones informadas sobre mis elecciones alimenticias.</td>
-    <td>2</td>
-</tr>
-
-<!--User Story 10-->
-<tr>
-    <td>10</td>
-    <td>US-010</td>
-    <td>Editar Pedido</td>
-    <td>Como usuario deseo tener la posibilidad de editar mis pedidos para tener la opción de agregar o eliminar algún platillo que desee.</td>
-    <td>5</td>
-</tr>
-
-<!--User Story 11-->
-<tr>
-    <td>11</td>
-    <td>US-011</td>
-    <td>Recordatorios de comidas</td>
-    <td>Como usuario deseo recibir recordatorios automáticos sobre mis comidas diarias para no olvidar comer en los momentos adecuados.</td>
-    <td>2</td>
-</tr>
-
-<!--User Story 12-->
-<tr>
-    <td>12</td>
-    <td>US-012</td>
-    <td>Planificación automática de comidas según el horario</td>
-    <td>Como usuario deseo que NutriSend planifique automáticamente mis comidas para cada semana para no tener que planificarlas manualmente y asegurarme de cumplir con mis objetivos nutricionales sin perder tiempo.</td>
-    <td>8</td>
-</tr>
-
-<!--User Story 13-->
-<tr>
-    <td>13</td>
-    <td>US-013</td>
-    <td>Repetición de pedidos anteriores</td>
-    <td>Como usuario deseo poder repetir pedidos anteriores con un solo clic para ahorrar tiempo en la planificación de mis comidas.</td>
-    <td>3</td>
-</tr>
-
-<!--User Story 14-->
-<tr>
-    <td>14</td>
-    <td>US-014</td>
-    <td>Personalización según tipo de actividad física</td>
-    <td>Como usuario deseo que NutriSend me proporcione alimentos adaptados al tipo de deporte que practico para que mi dieta se ajuste de manera óptima a mis entrenamientos y mejore mi rendimiento físico.</td>
-    <td>5</td>
-</tr>
-
-<!--User Story 15-->
-<tr>
-    <td>15</td>
-    <td>US-015</td>
-    <td>Recomendaciones de comidas</td>
-    <td>Como usuario deseo recibir recomendaciones de comidas para optimizar mi rendimiento físico.</td>
-    <td>3</td>
-</tr>
-<!--User Story 16-->
-<tr>
-    <td>16</td>
-    <td>US-016</td>
-    <td>Revisión de ingredientes frescos</td>
-    <td>Como usuario deseo revisar que los ingredientes de las comidas sean frescos y de alta calidad para asegurar que mis comidas sean saludables y nutritivas.</td>
-    <td>5</td>
-</tr>
-
-<!--User Story 17-->
-<tr>
-    <td>17</td>
-    <td>US-017</td>
-    <td>Opción de platos bajos en calorías</td>
-    <td>Como usuario deseo acceder a una selección de comidas bajas en calorías para poder mantener una dieta controlada sin complicaciones.</td>
-    <td>3</td>
-</tr>
-
-<!--User Story 18-->
-<tr>
-    <td>18</td>
-    <td>US-018</td>
-    <td>Recomendaciones basadas en pedidos</td>
-    <td>Como usuario deseo recibir recomendaciones de comidas basadas en mis pedidos para encontrar fácilmente opciones que se alineen con mis preferencias.</td>
-    <td>3</td>
-</tr>
-
-<!--User Story 19-->
-<tr>
-    <td>19</td>
-    <td>US-019</td>
-    <td>Ajustes rápidos de planes semanales</td>
-    <td>Como usuario deseo poder ajustar fácilmente mis planes de comida semanales desde mi perfil para adaptarlos a cambios inesperados en mi agenda.</td>
-    <td>3</td>
-</tr>
-
-<!--User Story 20-->
-<tr>
-    <td>20</td>
-    <td>US-020</td>
-    <td>Gestión de suscripciones y renovaciones</td>
-    <td>Como usuario deseo poder gestionar mi suscripción y renovarla directamente desde la plataforma para asegurarme de que mi plan de comidas continúe sin interrupciones.</td>
-    <td>3</td>
-</tr>
-
-<!--User Story 21-->
-<tr>
-    <td>21</td>
-    <td>US-021</td>
-    <td>Recordatorio de Preparación de Comida</td>
-    <td>Como usuario deseo recibir recordatorios para preparar mis comidas para evitar saltarme las comidas o hacer elecciones no saludables.</td>
-    <td>2</td>
-</tr>
-
-<!--User Story 22-->
-<tr>
-    <td>22</td>
-    <td>US-022</td>
-    <td>Notificación vía Correo o SMS</td>
-    <td>Como usuario deseo poder recibir alertas y recordatorios a través de correo electrónico o SMS para asegurarme de estar pendiente de mis comidas y ejercicios diarios.</td>
-    <td>2</td>
-</tr>
-
-<!--User Story 23-->
-<tr>
-    <td>23</td>
-    <td>US-023</td>
-    <td>Alerta de Ejercicio Programado</td>
-    <td>Como usuario deseo recibir alertas sobre mis entrenamientos con suficiente antelación para asegurarme de realizar mi actividad física sin interrupciones ni olvidar mis sesiones.</td>
-    <td>2</td>
-</tr>
-
-<!--User Story 24-->
-<tr>
-    <td>24</td>
-    <td>US-024</td>
-    <td>Interfaz Intuitiva para la Gestión de Comidas</td>
-    <td>Como usuario deseo una interfaz intuitiva para ingresar y gestionar mis comidas para que el proceso sea rápido, sencillo y eficiente.</td>
-    <td>5</td>
-</tr>
-
-<!--User Story 25-->
-<tr>
-    <td>25</td>
-    <td>US-025</td>
-    <td>Tipografía cómoda y agradable estéticamente</td>
-    <td>Como visitante deseo que la tipografía en la landing page sea legible y estéticamente agradable para facilitar la lectura y la navegación.</td>
-    <td>1</td>
-</tr>
-<!--User Story 26-->
-<tr>
-    <td>26</td>
-    <td>US-026</td>
-    <td>Acceso rápido a la página oficial</td>
-    <td>Como visitante deseo poder visualizar el landing page en cualquier navegador web para asegurarme de que puedo acceder a la información sin ningún problema.</td>
-    <td>1</td>
-</tr>
-
-<!--User Story 27-->
-<tr>
-    <td>27</td>
-    <td>US-027</td>
-    <td>Accesibilidad de la aplicación en diferentes dispositivos</td>
-    <td>Como visitante deseo que la aplicación se adapte a diferentes dispositivos para que pueda acceder a la plataforma desde cualquier lugar y en cualquier momento.</td>
-    <td>3</td>
-</tr>
-
-<!--User Story 28-->
-<tr>
-    <td>28</td>
-    <td>US-028</td>
-    <td>Acceso a Información Acerca de la Plataforma</td>
-    <td>Como visitante deseo saber sobre el propósito de la aplicación para entender qué beneficios y funcionalidades ofrece y decidir si es adecuada para mis necesidades.</td>
-    <td>2</td>
-</tr>
-
-<!--User Story 29-->
-<tr>
-    <td>29</td>
-    <td>US-029</td>
-    <td>Visualización de imágenes y gráficos relevantes</td>
-    <td>Como visitante deseo que las imágenes y gráficos en la landing page sean de alta calidad y relevantes para captar mi interés.</td>
-    <td>1</td>
-</tr>
-
-<!--User Story 30-->
-<tr>
-    <td>30</td>
-    <td>US-030</td>
-    <td>Exploración de Paquetes Disponibles</td>
-    <td>Como visitante deseo visualizar la información de los paquetes disponibles para elegir un plan que se ajuste a mis necesidades.</td>
-    <td>2</td>
-</tr>
-
-<!--User Story 31-->
-<tr>
-    <td>31</td>
-    <td>US-031</td>
-    <td>Visualización del Menú de Comidas</td>
-    <td>Como visitante deseo visualizar los platos que ofrece NutriSend para explorar las opciones de comidas disponibles y sus nutrientes.</td>
-    <td>3</td>
-</tr>
-
-<!--User Story 32-->
-<tr>
-    <td>32</td>
-    <td>US-032</td>
-    <td>Acceso a Soporte y Contacto</td>
-    <td>Como visitante deseo contactar al soporte de ayuda para resolver mis necesidades.</td>
-    <td>2</td>
-</tr>
-
-<!--User Story 33-->
-<tr>
-    <td>33</td>
-    <td>US-033</td>
-    <td>Acceso a Footer</td>
-    <td>Como visitante deseo visualizar el footer para acceder fácilmente a enlaces importantes.</td>
-    <td>1</td>
-</tr>
-
-<!--User Story 34-->
-<tr>
-    <td>34</td>
-    <td>US-034</td>
-    <td>Visualización de los comentarios</td>
-    <td>Como visitante deseo conocer la opinión de sus clientes para saber si NutriSend es confiable.</td>
-    <td>2</td>
-</tr>
+        <tr>
+            <td>1</td>
+            <td>US-001</td>
+            <td>Registro de Usuarios</td>
+            <td>Como usuario deseo observar un apartado para poder crear una cuenta propia.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>US-002</td>
+            <td>Inserción</td>
+            <td>Como usuario deseo ingresar mis datos principales para tener un perfil en la aplicación.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>US-003</td>
+            <td>Inicio de sesión</td>
+            <td>Como usuario deseo ingresar a la aplicación con mi cuenta registrada para usar mi perfil creado.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>US-004</td>
+            <td>Cierre de sesión</td>
+            <td>Como usuario deseo salir de la aplicación para evitar el uso de mi cuenta en las manos de otras personas.</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>US-005</td>
+            <td>Editar perfil</td>
+            <td>Como usuario deseo poder editar algún detalle de mi perfil para tenerlo actualizado al momento.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>US-006</td>
+            <td>Elección de plan</td>
+            <td>Como usuario deseo tener opción en la elección de planes para tener opción de elección.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>US-007</td>
+            <td>Realizar el pedido</td>
+            <td>Como usuario deseo poder realizar pedidos de comida a través de la aplicación para poder disfrutar de comidas deliciosas y nutritivas sin tener que cocinar.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>US-008</td>
+            <td>Acceso al catálogo</td>
+            <td>Como usuario deseo tener la capacidad de acceder fácilmente al catálogo del menú a través de la aplicación para poder revisar las diferentes opciones disponibles.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>US-009</td>
+            <td>Visualización de información nutricional</td>
+            <td>Como usuario deseo visualizar la cantidad total de calorías al momento de pagar para tomar decisiones informadas sobre mis elecciones alimenticias.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>US-010</td>
+            <td>Editar Pedido</td>
+            <td>Como usuario deseo tener la posibilidad de editar mis pedidos para tener la opción de agregar o eliminar algún platillo que desee.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>US-011</td>
+            <td>Recordatorios de comidas</td>
+            <td>Como usuario deseo recibir recordatorios automáticos sobre mis comidas diarias para no olvidar comer en los momentos adecuados.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>US-012</td>
+            <td>Planificación automática de comidas según el horario</td>
+            <td>Como usuario deseo que NutriSend planifique automáticamente mis comidas para cada semana para no tener que planificarlas manualmente y asegurarme de cumplir con mis objetivos nutricionales sin perder tiempo.</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>US-013</td>
+            <td>Repetición de pedidos anteriores</td>
+            <td>Como usuario deseo poder repetir pedidos anteriores con un solo clic para ahorrar tiempo en la planificación de mis comidas.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>US-014</td>
+            <td>Personalización según tipo de actividad física</td>
+            <td>Como usuario deseo que NutriSend me proporcione alimentos adaptados al tipo de deporte que practico para que mi dieta se ajuste de manera óptima a mis entrenamientos y mejore mi rendimiento físico.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>US-015</td>
+            <td>Recomendaciones de comidas</td>
+            <td>Como usuario deseo recibir recomendaciones de comidas para optimizar mi rendimiento físico.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>US-016</td>
+            <td>Revisión de ingredientes frescos</td>
+            <td>Como usuario deseo revisar que los ingredientes de las comidas sean frescos y de alta calidad para asegurar que mis comidas sean saludables y nutritivas.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>US-017</td>
+            <td>Opción de platos bajos en calorías</td>
+            <td>Como usuario deseo acceder a una selección de comidas bajas en calorías para poder mantener una dieta controlada sin complicaciones.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>18</td>
+            <td>US-018</td>
+            <td>Recomendaciones basadas en pedidos</td>
+            <td>Como usuario deseo recibir recomendaciones de comidas basadas en mis pedidos para encontrar fácilmente opciones que se alineen con mis preferencias.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>19</td>
+            <td>US-019</td>
+            <td>Ajustes rápidos de planes semanales</td>
+            <td>Como usuario deseo poder ajustar fácilmente mis planes de comida semanales desde mi perfil para adaptarlos a cambios inesperados en mi agenda.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td>US-020</td>
+            <td>Gestión de suscripciones y renovaciones</td>
+            <td>Como usuario deseo poder gestionar mi suscripción y renovarla directamente desde la plataforma para asegurarme de que mi plan de comidas continúe sin interrupciones.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>21</td>
+            <td>US-021</td>
+            <td>Recordatorio de Preparación de Comida</td>
+            <td>Como usuario deseo recibir recordatorios para preparar mis comidas para evitar saltarme las comidas o hacer elecciones no saludables.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>22</td>
+            <td>US-022</td>
+            <td>Notificación vía Correo o SMS</td>
+            <td>Como usuario deseo poder recibir alertas y recordatorios a través de correo electrónico o SMS para asegurarme de estar pendiente de mis comidas y ejercicios diarios.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>23</td>
+            <td>US-023</td>
+            <td>Alerta de Ejercicio Programado</td>
+            <td>Como usuario deseo recibir alertas sobre mis entrenamientos con suficiente antelación para asegurarme de realizar mi actividad física sin interrupciones ni olvidar mis sesiones.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>24</td>
+            <td>US-024</td>
+            <td>Interfaz Intuitiva para la Gestión de Comidas</td>
+            <td>Como usuario deseo una interfaz intuitiva para ingresar y gestionar mis comidas para que el proceso sea rápido, sencillo y eficiente.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>25</td>
+            <td>US-025</td>
+            <td>Tipografía cómoda y agradable estéticamente</td>
+            <td>Como visitante deseo que la tipografía en la landing page sea legible y estéticamente agradable para facilitar la lectura y la navegación.</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>26</td>
+            <td>US-026</td>
+            <td>Acceso rápido a la página oficial</td>
+            <td>Como visitante deseo poder visualizar el landing page en cualquier navegador web para asegurarme de que puedo acceder a la información sin ningún problema.</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>27</td>
+            <td>US-027</td>
+            <td>Accesibilidad de la aplicación en diferentes dispositivos</td>
+            <td>Como visitante deseo que la aplicación se adapte a diferentes dispositivos para que pueda acceder a la plataforma desde cualquier lugar y en cualquier momento.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>28</td>
+            <td>US-028</td>
+            <td>Acceso a Información Acerca de la Plataforma</td>
+            <td>Como visitante deseo saber sobre el propósito de la aplicación para entender qué beneficios y funcionalidades ofrece y decidir si es adecuada para mis necesidades.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>29</td>
+            <td>US-029</td>
+            <td>Visualización de imágenes y gráficos relevantes</td>
+            <td>Como visitante deseo que las imágenes y gráficos en la landing page sean de alta calidad y relevantes para captar mi interés.</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>30</td>
+            <td>US-030</td>
+            <td>Exploración de Paquetes Disponibles</td>
+            <td>Como visitante deseo visualizar la información de los paquetes disponibles para elegir un plan que se ajuste a mis necesidades.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>31</td>
+            <td>US-031</td>
+            <td>Visualización del Menú de Comidas</td>
+            <td>Como visitante deseo visualizar los platos que ofrece NutriSend para explorar las opciones de comidas disponibles y sus nutrientes.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>32</td>
+            <td>US-032</td>
+            <td>Acceso a Soporte y Contacto</td>
+            <td>Como visitante deseo contactar al soporte de ayuda para resolver mis necesidades.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>33</td>
+            <td>US-033</td>
+            <td>Acceso a Footer</td>
+            <td>Como visitante deseo visualizar el footer para acceder fácilmente a enlaces importantes.</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>34</td>
+            <td>US-034</td>
+            <td>Visualización de los comentarios</td>
+            <td>Como visitante deseo conocer la opinión de sus clientes para saber si NutriSend es confiable.</td>
+            <td>2</td>
+        </tr>
     </tbody>
-    
 </table>
