@@ -479,147 +479,146 @@ En este segundo sprint, nos enfocamos en integrar las funcionalidades avanzadas 
     </tr>
   </thead>
   <tbody>
-<tr>
-    <td>US-001</td>
-    <td>Registro de Usuarios</td>
-    <td>TSK001</td>
-    <td>Crear cuenta</td>
-    <td>Como usuario deseo observar un apartado para poder crear una cuenta propia.</td>
-    <td>3</td>
-    <td>Jhordi</td>
-    <td>Done</td>
-</tr>
-<tr>
-    <td>US-002</td>
-    <td>Inserción</td>
-    <td>TSK002</td>
-    <td>Ingresar datos de perfil</td>
-    <td>Como usuario deseo ingresar mis datos principales para tener un perfil en la aplicación.</td>
-    <td>3</td>
-    <td>Renzo</td>
-    <td>Done</td>
-</tr>
-<tr>
-    <td>US-003</td>
-    <td>Inicio de sesión</td>
-    <td>TSK003</td>
-    <td>Acceder a cuenta</td>
-    <td>Como usuario deseo ingresar a la aplicación con mi cuenta registrada para usar mi perfil creado.</td>
-    <td>2</td>
-    <td>Renzo</td>
-    <td>Done</td>
-</tr>
-<tr>
-    <td>US-004</td>
-    <td>Cierre de sesión</td>
-    <td>TSK004</td>
-    <td>Salir de la aplicación</td>
-    <td>Como usuario deseo salir de la aplicación para evitar el uso de mi cuenta en las manos de otras personas.</td>
-    <td>1</td>
-    <td>Camila</td>
-    <td>To-do</td>
-</tr>
-<tr>
-    <td>US-005</td>
-    <td>Editar perfil</td>
-    <td>TSK005</td>
-    <td>Modificar detalles del perfil</td>
-    <td>Como usuario deseo poder editar algún detalle de mi perfil para tenerlo actualizado al momento.</td>
-    <td>5</td>
-    <td>Camila</td>
-    <td>InProcess</td>
-</tr>
-<tr>
-    <td>US-006</td>
-    <td>Elección de plan</td>
-    <td>TSK006</td>
-    <td>Seleccionar plan</td>
-    <td>Como usuario deseo tener opción en la elección de planes para tener opción de elección.</td>
-    <td>2</td>
-    <td>Jhordi</td>
-    <td>Done</td>
-</tr>
-<tr>
-    <td>US-008</td>
-    <td>Acceso al catálogo</td>
-    <td>TSK007</td>
-    <td>Navegar menú</td>
-    <td>Como usuario deseo tener la capacidad de acceder fácilmente al catálogo del menú a través de la aplicación.</td>
-    <td>3</td>
-    <td>Camila</td>
-    <td>Done</td>
-</tr>
-<tr>
-    <td>US-009</td>
-    <td>Visualización de información nutricional</td>
-    <td>TSK008</td>
-    <td>Mostrar calorías al pagar</td>
-    <td>Como usuario deseo visualizar la cantidad total de calorías al momento de pagar.</td>
-    <td>2</td>
-    <td>Camila</td>
-    <td>Done</td>
-</tr>
-<tr>
-    <td>US-010</td>
-    <td>Editar Pedido</td>
-    <td>TSK009</td>
-    <td>Modificar pedidos</td>
-    <td>Como usuario deseo tener la posibilidad de editar mis pedidos para agregar o eliminar algún platillo.</td>
-    <td>5</td>
-    <td>Luis</td>
-    <td>InProcess</td>
-</tr>
-<tr>
-    <td>US-024</td>
-    <td>Interfaz Intuitiva para la Gestión de Comidas</td>
-    <td>TSK010</td>
-    <td>Diseño amigable</td>
-    <td>Como usuario deseo una interfaz intuitiva para ingresar y gestionar mis comidas.</td>
-    <td>5</td>
-    <td>Renzo</td>
-    <td>Done</td>
-</tr>
-<tr>
-    <td>US-025</td>
-    <td>Tipografía cómoda y agradable estéticamente</td>
-    <td>TSK011</td>
-    <td>Mejorar legibilidad</td>
-    <td>Como visitante deseo que la tipografía en la landing page sea legible y estéticamente agradable.</td>
-    <td>1</td>
-    <td>Camila</td>
-    <td>Done</td>
-</tr>
-<tr>
-    <td>US-027</td>
-    <td>Accesibilidad de la aplicación en diferentes dispositivos</td>
-    <td>TSK012</td>
-    <td>Adaptación a dispositivos</td>
-    <td>Como visitante deseo que la aplicación se adapte a diferentes dispositivos.</td>
-    <td>3</td>
-    <td>Camila</td>
-    <td>Done</td>
-</tr>
-<tr>
-    <td>US-029</td>
-    <td>Visualización de imágenes y gráficos relevantes</td>
-    <td>TSK013</td>
-    <td>Incluir gráficos atractivos</td>
-    <td>Como visitante deseo que las imágenes y gráficos en la landing page sean de alta calidad y relevantes.</td>
-    <td>1</td>
-    <td>Fatima</td>
-    <td>Done</td>
-</tr>
-<tr>
-    <td>US-031</td>
-    <td>Visualización del Menú de Comidas</td>
-    <td>TSK014</td>
-    <td>Mostrar opciones de comida</td>
-    <td>Como visitante deseo visualizar los platos que ofrece NutriSend.</td>
-    <td>3</td>
-    <td>Camila, Fatima y Renzo</td>
-    <td>Done</td>
-</tr>
-
+    <tr>
+        <td>US-001</td>
+        <td>Registro de Usuarios</td>
+        <td>TSK001</td>
+        <td>Crear cuenta</td>
+        <td>Como usuario deseo observar un apartado para poder crear una cuenta propia.</td>
+        <td>3</td>
+        <td>Jhordi</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US-002</td>
+        <td>Inserción</td>
+        <td>TSK002</td>
+        <td>Ingresar datos de perfil</td>
+        <td>Como usuario deseo ingresar mis datos principales para tener un perfil en la aplicación.</td>
+        <td>3</td>
+        <td>Renzo</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US-003</td>
+        <td>Inicio de sesión</td>
+        <td>TSK003</td>
+        <td>Acceder a cuenta</td>
+        <td>Como usuario deseo ingresar a la aplicación con mi cuenta registrada para usar mi perfil creado.</td>
+        <td>2</td>
+        <td>Renzo</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US-004</td>
+        <td>Cierre de sesión</td>
+        <td>TSK004</td>
+        <td>Salir de la aplicación</td>
+        <td>Como usuario deseo salir de la aplicación para evitar el uso de mi cuenta en las manos de otras personas.</td>
+        <td>1</td>
+        <td>Camila</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US-005</td>
+        <td>Editar perfil</td>
+        <td>TSK005</td>
+        <td>Modificar detalles del perfil</td>
+        <td>Como usuario deseo poder editar algún detalle de mi perfil para tenerlo actualizado al momento.</td>
+        <td>5</td>
+        <td>Camila</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US-006</td>
+        <td>Elección de plan</td>
+        <td>TSK006</td>
+        <td>Seleccionar plan</td>
+        <td>Como usuario deseo tener opción en la elección de planes para tener opción de elección.</td>
+        <td>2</td>
+        <td>Jhordi</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US-008</td>
+        <td>Acceso al catálogo</td>
+        <td>TSK007</td>
+        <td>Navegar menú</td>
+        <td>Como usuario deseo tener la capacidad de acceder fácilmente al catálogo del menú a través de la aplicación.</td>
+        <td>3</td>
+        <td>Camila</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US-009</td>
+        <td>Visualización de información nutricional</td>
+        <td>TSK008</td>
+        <td>Mostrar calorías al pagar</td>
+        <td>Como usuario deseo visualizar la cantidad total de calorías al momento de pagar.</td>
+        <td>2</td>
+        <td>Camila</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US-010</td>
+        <td>Editar Pedido</td>
+        <td>TSK009</td>
+        <td>Modificar pedidos</td>
+        <td>Como usuario deseo tener la posibilidad de editar mis pedidos para agregar o eliminar algún platillo.</td>
+        <td>5</td>
+        <td>Luis</td>
+        <td>InProcess</td>
+    </tr>
+    <tr>
+        <td>US-024</td>
+        <td>Interfaz Intuitiva para la Gestión de Comidas</td>
+        <td>TSK010</td>
+        <td>Diseño amigable</td>
+        <td>Como usuario deseo una interfaz intuitiva para ingresar y gestionar mis comidas.</td>
+        <td>5</td>
+        <td>Renzo</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US-025</td>
+        <td>Tipografía cómoda y agradable estéticamente</td>
+        <td>TSK011</td>
+        <td>Mejorar legibilidad</td>
+        <td>Como visitante deseo que la tipografía en la landing page sea legible y estéticamente agradable.</td>
+        <td>1</td>
+        <td>Camila</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US-027</td>
+        <td>Accesibilidad de la aplicación en diferentes dispositivos</td>
+        <td>TSK012</td>
+        <td>Adaptación a dispositivos</td>
+        <td>Como visitante deseo que la aplicación se adapte a diferentes dispositivos.</td>
+        <td>3</td>
+        <td>Camila</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US-029</td>
+        <td>Visualización de imágenes y gráficos relevantes</td>
+        <td>TSK013</td>
+        <td>Incluir gráficos atractivos</td>
+        <td>Como visitante deseo que las imágenes y gráficos en la landing page sean de alta calidad y relevantes.</td>
+        <td>1</td>
+        <td>Fatima</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US-031</td>
+        <td>Visualización del Menú de Comidas</td>
+        <td>TSK014</td>
+        <td>Mostrar opciones de comida</td>
+        <td>Como visitante deseo visualizar los platos que ofrece NutriSend.</td>
+        <td>3</td>
+        <td>Camila, Fatima y Renzo</td>
+        <td>Done</td>
+    </tr>
   </tbody>
 </table>
 
@@ -638,293 +637,293 @@ En esta sección se detallan y presentan los avances en la implementación de lo
         </tr>
     </thead>
     <tbody>
-  <tr>
-    <td>C7leo/front-end</td>
-    <td>master</td>
-    <td>ac5cba37545a62c4c0b1c06d0429baa06e7880da</td>
-    <td>Initial commit</td>
-    <td>Se creo el index.html, styles.css, main.js y la carpeta img</td>
-    <td>Sep 18, 2024</td>
-</tr>
-<tr>
-    <td>C7leo/front-end</td>
-    <td>master</td>
-    <td>72ad4b985feb0f5c1feab6a72be1e09457009cca</td>
-    <td>Initial commit</td>
-    <td>Se creo el proyecto</td>
-    <td>Sep 18, 2024</td>
-</tr>
-<tr>
-    <td>C7leo/front-end</td>
-    <td>master</td>
-    <td>960c46b0865cfab89e46965ea2634dfaf2e44f7a</td>
-    <td>feat(front-end): add components</td>
-    <td>Se añadieron componentes para la interfaz</td>
-    <td>Sep 19, 2024</td>
-</tr>
-<tr>
-    <td>C7leo/front-end</td>
-    <td>master</td>
-    <td>b1f46fbed8522df5c1b6e669d6b89bb64200de44</td>
-    <td>feat(front-end): add nutrisend</td>
-    <td>Se agregó la funcionalidad nutrisend</td>
-    <td>Sep 19, 2024</td>
-</tr>
-<tr>
-    <td>C7leo/front-end</td>
-    <td>master</td>
-    <td>c407084f6a01666208b4a32f0694d26b658df627</td>
-    <td>feat(front-end): add db.json</td>
-    <td>Se agregó el archivo db.json</td>
-    <td>Sep 19, 2024</td>
-</tr>
-<tr>
-    <td>C7leo/front-end</td>
-    <td>master</td>
-    <td>a45eb74b49e9788fd277573f5c013fd0b8ce741a</td>
-    <td>feat(front-end): db.json</td>
-    <td>Modificaciones al archivo db.json</td>
-    <td>Sep 19, 2024</td>
-</tr>
-<tr>
-    <td>C7leo/front-end</td>
-    <td>master</td>
-    <td>941d3773272cbd36bb2f8c8cd39e294cc83b755f</td>
-    <td>main</td>
-    <td>Se estableció el archivo principal del proyecto</td>
-    <td>Sep 19, 2024</td>
-</tr>
-<tr>
-    <td>C7leo/front-end</td>
-    <td>master</td>
-    <td>0bfdcba449df8fc13f77fbff205609d9a718f90c</td>
-    <td>feat(front-end): added my part</td>
-    <td>Se añadió la parte correspondiente de C7leo</td>
-    <td>Sep 22, 2024</td>
-</tr>
-<tr>
-    <td>C7leo/front-end</td>
-    <td>master</td>
-    <td>4ace34edfa87b9fa1993e2a61d5f6b6f16c049a6</td>
-    <td>feat(front-end): add</td>
-    <td>Se agregaron nuevos cambios</td>
-    <td>Sep 22, 2024</td>
-</tr>
-<tr>
-    <td>C7leo/front-end</td>
-    <td>master</td>
-    <td>043f61529d5775a63eee7c8d23bde347db101065</td>
-    <td>feat(front-end): add part Renzo</td>
-    <td>Se agregó la parte correspondiente de Renzo</td>
-    <td>Sep 23, 2024</td>
-</tr>
-<tr>
-    <td>C7leo/front-end</td>
-    <td>master</td>
-    <td>be079d272bcfe1f21db291c7e0344b50ee3b644b</td>
-    <td>feat(front-end): add imagenes</td>
-    <td>Se añadieron imágenes al proyecto</td>
-    <td>Sep 23, 2024</td>
-</tr>
-<tr>
-    <td>FatimaAP05/front-end</td>
-    <td>Fatima</td>
-    <td>ab4d54a60f35007e2186d58f295cffa1927a2e08</td>
-    <td>OrderComponent</td>
-    <td>Se añadió el componente Order</td>
-    <td>Sep 24, 2024</td>
-</tr>
-<tr>
-    <td>FatimaAP05/front-end</td>
-    <td>Fatima</td>
-    <td>43c6f662ffd2eddd761c6bb72c2b691cee846f1a</td>
-    <td>add entity and service</td>
-    <td>Se añadieron entidades y servicios</td>
-    <td>Sep 24, 2024</td>
-</tr>
-<tr>
-    <td>FatimaAP05/front-end</td>
-    <td>Fatima</td>
-    <td>0c4efe889a0f99409a5de1abcd28cfd9d5a1140b</td>
-    <td>add component</td>
-    <td>Se agregó un nuevo componente</td>
-    <td>Sep 24, 2024</td>
-</tr>
-<tr>
-    <td>FatimaAP05/front-end</td>
-    <td>Fatima</td>
-    <td>014d936608ac0f59eaaf7d72bf1a9b1b83322384</td>
-    <td>config component</td>
-    <td>Configuración de un componente</td>
-    <td>Sep 24, 2024</td>
-</tr>
-<tr>
-    <td>FatimaAP05/front-end</td>
-    <td>Fatima</td>
-    <td>8884028a899bff9e0106d8ef421bd5f5508e5a06</td>
-    <td>config html</td>
-    <td>Configuración de HTML</td>
-    <td>Sep 24, 2024</td>
-</tr>
       <tr>
-    <td>C7leo/front-end</td>
-    <td>Jhordi</td>
-    <td>6dcd76abebc1e31d0e3bd9aca48727298cde72a0</td>
-    <td>feat(menu): Updated project components.</td>
-    <td>Updated various components in the project menu.</td>
-    <td>Sep 21, 2024</td>
-</tr>
-<tr>
-    <td>C7leo/front-end</td>
-    <td>Jhordi</td>
-    <td>baf77f53de621ac85f36412bebc9a008d6efaea9</td>
-    <td>feat(menu): Added project components.</td>
-    <td>Added new components to the project menu.</td>
-    <td>Sep 20, 2024</td>
-</tr>
-<tr>
-    <td>C7leo/front-end</td>
-    <td>Luis</td>
-    <td>60d53cc4f02f1d6d96cf9bc19b4605ee403c5464</td>
-    <td>feat(order): add order services</td>
-    <td>Added services related to order management.</td>
-    <td>Sep 23, 2024</td>
-</tr>
-<tr>
-    <td>C7leo/front-end</td>
-    <td>Luis</td>
-    <td>8ad02d0fd76f5d8ab57540e2aa1f551dbba0a06b</td>
-    <td>feat(order): add order entity</td>
-    <td>Added an entity for managing orders.</td>
-    <td>Sep 23, 2024</td>
-</tr>
-<tr>
-    <td>C7leo/front-end</td>
-    <td>Luis</td>
-    <td>799cf777df5771c2ceb75c1060e0ca111ca5bbc1</td>
-    <td>feat(order): update order component</td>
-    <td>Updated the order component with new features.</td>
-    <td>Sep 23, 2024</td>
-</tr>
-<tr>
-    <td>C7leo/front-end</td>
-    <td>Luis</td>
-    <td>bd0a384b10e212f645056798a38ef268c1253ada</td>
-    <td>feat(schedule): add schedule component</td>
-    <td>Added a component to handle scheduling.</td>
-    <td>Sep 21, 2024</td>
-</tr>
-<tr>
-    <td>C7leo/front-end</td>
-    <td>Luis</td>
-    <td>3ac68c960053391277dced42e484cc0c93d78f97</td>
-    <td>feat(pay): add pay component</td>
-    <td>Added a component to manage payments.</td>
-    <td>Sep 21, 2024</td>
-</tr>
-<tr>
-    <td>C7leo/front-end</td>
-    <td>Luis</td>
-    <td>0f7a10d2170c679b0f40e576eb895b9034e1a3a1</td>
-    <td>feat(order): update order component</td>
-    <td>Made updates to the order component.</td>
-    <td>Sep 21, 2024</td>
-</tr>
-<tr>
-    <td>C7leo/front-end</td>
-    <td>Luis</td>
-    <td>c7b4282463ba528fa9bc6a14ee2de78d88174932</td>
-    <td>feat(front-end): added images in assets</td>
-    <td>Added images to the assets folder.</td>
-    <td>Sep 21, 2024</td>
-</tr>
-<tr>
-    <td>C7leo/front-end</td>
-    <td>Luis</td>
-    <td>c7b4282463ba528fa9bc6a14ee2de78d88174932</td>
-    <td>feat(front-end): added images in assets</td>
-    <td>Added images to the assets folder.</td>
-    <td>Sep 21, 2024</td>
-</tr>
-<tr>
-    <td>C7leo/front-end</td>
-    <td>master</td>
-    <td>a56fad088d351da7be9d6464f4d16684a036944f</td>
-    <td>feat: update</td>
-    <td>Updated various components and fixed bugs.</td>
-    <td>Sep 24, 2024</td>
-</tr>
-<tr>
-    <td>C7leo/front-end</td>
-    <td>master</td>
-    <td>ecaa9403c1d9714f6f9f72af985a09a3a73f3796</td>
-    <td>feat: schedule component created</td>
-    <td>Created the schedule component for the application.</td>
-    <td>Sep 24, 2024</td>
-</tr>
-<tr>
-    <td>C7leo/front-end</td>
-    <td>master</td>
-    <td>0f68ad3b421d545c427c0116c95336461b3db01d</td>
-    <td>feat: notifications component complete</td>
-    <td>Completed the notifications component.</td>
-    <td>Sep 24, 2024</tr>
-<tr>
-    <td>C7leo/front-end</td>
-    <td>master</td>
-    <td>269e3409fe450492bd5b790575eae1659ae09f1b</td>
-    <td>feat: notifications component added</td>
-    <td>Added the notifications component to the project.</td>
-    <td>Sep 24, 2024</td>
-</tr>
-<tr>
-    <td>C7leo/front-end</td>
-    <td>master</td>
-    <td>fcb39c2edc579be2d13d7973727fe65be6745798</td>
-    <td>feat</td>
-    <td>Implemented new features and improvements.</td>
-    <td>Sep 24, 2024</td>
-</tr>
-<tr>
-    <td>C7leo/front-end</td>
-    <td>master</td>
-    <td>4b8bba4f53d5f1c82aeaaa4f5d617040d81038d1</td>
-    <td>chore: schedule component created</td>
-    <td>Created the schedule component as part of routine tasks.</td>
-    <td>Sep 24, 2024</td>
-</tr>
-<tr>
-    <td>C7leo/front-end</td>
-    <td>master</td>
-    <td>79fd4fbd5501fc633dcd8cbe5df27a5295af4f98</td>
-    <td>feat: click function on plans component</td>
-    <td>Added click functionality to the plans component.</td>
-    <td>Sep 24, 2024</td>
-</tr>
-<tr>
-    <td>C7leo/front-end</td>
-    <td>master</td>
-    <td>0985ae0cc28b7d447b1b1125bb7ea3d3db448e34</td>
-    <td>feat: footer added</td>
-    <td>Added a footer to the application.</td>
-    <td>Sep 23, 2024</td>
-</tr>
-<tr>
-    <td>C7leo/front-end</td>
-    <td>master</td>
-    <td>ca84894346b347d5915a23c849c7efa93445672c</td>
-    <td>feat: sign up logic fixed and style css of sign in complete</td>
-    <td>Fixed sign-up logic and completed sign-in CSS styling.</td>
-    <td>Sep 23, 2024</td>
-</tr>
-<tr>
-    <td>C7leo/front-end</td>
-    <td>master</td>
-    <td>c2b1296489ca378e933b7f3cecaa7a59531e5bf8</td>
-    <td>feat: sign in logic fixed</td>
-    <td>Fixed issues with the sign-in logic.</td>
-    <td>Sep 23, 2024</td>
-</tr>
+        <td>C7leo/front-end</td>
+        <td>master</td>
+        <td>ac5cba37545a62c4c0b1c06d0429baa06e7880da</td>
+        <td>Initial commit</td>
+        <td>Se creo el index.html, styles.css, main.js y la carpeta img</td>
+        <td>Sep 18, 2024</td>
+      </tr>
+      <tr>
+          <td>C7leo/front-end</td>
+          <td>master</td>
+          <td>72ad4b985feb0f5c1feab6a72be1e09457009cca</td>
+          <td>Initial commit</td>
+          <td>Se creo el proyecto</td>
+          <td>Sep 18, 2024</td>
+      </tr>
+      <tr>
+          <td>C7leo/front-end</td>
+          <td>master</td>
+          <td>960c46b0865cfab89e46965ea2634dfaf2e44f7a</td>
+          <td>feat(front-end): add components</td>
+          <td>Se añadieron componentes para la interfaz</td>
+          <td>Sep 19, 2024</td>
+      </tr>
+      <tr>
+          <td>C7leo/front-end</td>
+          <td>master</td>
+          <td>b1f46fbed8522df5c1b6e669d6b89bb64200de44</td>
+          <td>feat(front-end): add nutrisend</td>
+          <td>Se agregó la funcionalidad nutrisend</td>
+          <td>Sep 19, 2024</td>
+      </tr>
+      <tr>
+          <td>C7leo/front-end</td>
+          <td>master</td>
+          <td>c407084f6a01666208b4a32f0694d26b658df627</td>
+          <td>feat(front-end): add db.json</td>
+          <td>Se agregó el archivo db.json</td>
+          <td>Sep 19, 2024</td>
+      </tr>
+      <tr>
+          <td>C7leo/front-end</td>
+          <td>master</td>
+          <td>a45eb74b49e9788fd277573f5c013fd0b8ce741a</td>
+          <td>feat(front-end): db.json</td>
+          <td>Modificaciones al archivo db.json</td>
+          <td>Sep 19, 2024</td>
+      </tr>
+      <tr>
+          <td>C7leo/front-end</td>
+          <td>master</td>
+          <td>941d3773272cbd36bb2f8c8cd39e294cc83b755f</td>
+          <td>main</td>
+          <td>Se estableció el archivo principal del proyecto</td>
+          <td>Sep 19, 2024</td>
+      </tr>
+      <tr>
+          <td>C7leo/front-end</td>
+          <td>master</td>
+          <td>0bfdcba449df8fc13f77fbff205609d9a718f90c</td>
+          <td>feat(front-end): added my part</td>
+          <td>Se añadió la parte correspondiente de C7leo</td>
+          <td>Sep 22, 2024</td>
+      </tr>
+      <tr>
+          <td>C7leo/front-end</td>
+          <td>master</td>
+          <td>4ace34edfa87b9fa1993e2a61d5f6b6f16c049a6</td>
+          <td>feat(front-end): add</td>
+          <td>Se agregaron nuevos cambios</td>
+          <td>Sep 22, 2024</td>
+      </tr>
+      <tr>
+          <td>C7leo/front-end</td>
+          <td>master</td>
+          <td>043f61529d5775a63eee7c8d23bde347db101065</td>
+          <td>feat(front-end): add part Renzo</td>
+          <td>Se agregó la parte correspondiente de Renzo</td>
+          <td>Sep 23, 2024</td>
+      </tr>
+      <tr>
+          <td>C7leo/front-end</td>
+          <td>master</td>
+          <td>be079d272bcfe1f21db291c7e0344b50ee3b644b</td>
+          <td>feat(front-end): add imagenes</td>
+          <td>Se añadieron imágenes al proyecto</td>
+          <td>Sep 23, 2024</td>
+      </tr>
+      <tr>
+          <td>FatimaAP05/front-end</td>
+          <td>Fatima</td>
+          <td>ab4d54a60f35007e2186d58f295cffa1927a2e08</td>
+          <td>OrderComponent</td>
+          <td>Se añadió el componente Order</td>
+          <td>Sep 24, 2024</td>
+      </tr>
+      <tr>
+          <td>FatimaAP05/front-end</td>
+          <td>Fatima</td>
+          <td>43c6f662ffd2eddd761c6bb72c2b691cee846f1a</td>
+          <td>add entity and service</td>
+          <td>Se añadieron entidades y servicios</td>
+          <td>Sep 24, 2024</td>
+      </tr>
+      <tr>
+          <td>FatimaAP05/front-end</td>
+          <td>Fatima</td>
+          <td>0c4efe889a0f99409a5de1abcd28cfd9d5a1140b</td>
+          <td>add component</td>
+          <td>Se agregó un nuevo componente</td>
+          <td>Sep 24, 2024</td>
+      </tr>
+      <tr>
+          <td>FatimaAP05/front-end</td>
+          <td>Fatima</td>
+          <td>014d936608ac0f59eaaf7d72bf1a9b1b83322384</td>
+          <td>config component</td>
+          <td>Configuración de un componente</td>
+          <td>Sep 24, 2024</td>
+      </tr>
+      <tr>
+          <td>FatimaAP05/front-end</td>
+          <td>Fatima</td>
+          <td>8884028a899bff9e0106d8ef421bd5f5508e5a06</td>
+          <td>config html</td>
+          <td>Configuración de HTML</td>
+          <td>Sep 24, 2024</td>
+      </tr>
+            <tr>
+          <td>C7leo/front-end</td>
+          <td>Jhordi</td>
+          <td>6dcd76abebc1e31d0e3bd9aca48727298cde72a0</td>
+          <td>feat(menu): Updated project components.</td>
+          <td>Updated various components in the project menu.</td>
+          <td>Sep 21, 2024</td>
+      </tr>
+      <tr>
+          <td>C7leo/front-end</td>
+          <td>Jhordi</td>
+          <td>baf77f53de621ac85f36412bebc9a008d6efaea9</td>
+          <td>feat(menu): Added project components.</td>
+          <td>Added new components to the project menu.</td>
+          <td>Sep 20, 2024</td>
+      </tr>
+      <tr>
+          <td>C7leo/front-end</td>
+          <td>Luis</td>
+          <td>60d53cc4f02f1d6d96cf9bc19b4605ee403c5464</td>
+          <td>feat(order): add order services</td>
+          <td>Added services related to order management.</td>
+          <td>Sep 23, 2024</td>
+      </tr>
+      <tr>
+          <td>C7leo/front-end</td>
+          <td>Luis</td>
+          <td>8ad02d0fd76f5d8ab57540e2aa1f551dbba0a06b</td>
+          <td>feat(order): add order entity</td>
+          <td>Added an entity for managing orders.</td>
+          <td>Sep 23, 2024</td>
+      </tr>
+      <tr>
+          <td>C7leo/front-end</td>
+          <td>Luis</td>
+          <td>799cf777df5771c2ceb75c1060e0ca111ca5bbc1</td>
+          <td>feat(order): update order component</td>
+          <td>Updated the order component with new features.</td>
+          <td>Sep 23, 2024</td>
+      </tr>
+      <tr>
+          <td>C7leo/front-end</td>
+          <td>Luis</td>
+          <td>bd0a384b10e212f645056798a38ef268c1253ada</td>
+          <td>feat(schedule): add schedule component</td>
+          <td>Added a component to handle scheduling.</td>
+          <td>Sep 21, 2024</td>
+      </tr>
+      <tr>
+          <td>C7leo/front-end</td>
+          <td>Luis</td>
+          <td>3ac68c960053391277dced42e484cc0c93d78f97</td>
+          <td>feat(pay): add pay component</td>
+          <td>Added a component to manage payments.</td>
+          <td>Sep 21, 2024</td>
+      </tr>
+      <tr>
+          <td>C7leo/front-end</td>
+          <td>Luis</td>
+          <td>0f7a10d2170c679b0f40e576eb895b9034e1a3a1</td>
+          <td>feat(order): update order component</td>
+          <td>Made updates to the order component.</td>
+          <td>Sep 21, 2024</td>
+      </tr>
+      <tr>
+          <td>C7leo/front-end</td>
+          <td>Luis</td>
+          <td>c7b4282463ba528fa9bc6a14ee2de78d88174932</td>
+          <td>feat(front-end): added images in assets</td>
+          <td>Added images to the assets folder.</td>
+          <td>Sep 21, 2024</td>
+      </tr>
+      <tr>
+          <td>C7leo/front-end</td>
+          <td>Luis</td>
+          <td>c7b4282463ba528fa9bc6a14ee2de78d88174932</td>
+          <td>feat(front-end): added images in assets</td>
+          <td>Added images to the assets folder.</td>
+          <td>Sep 21, 2024</td>
+      </tr>
+      <tr>
+          <td>C7leo/front-end</td>
+          <td>master</td>
+          <td>a56fad088d351da7be9d6464f4d16684a036944f</td>
+          <td>feat: update</td>
+          <td>Updated various components and fixed bugs.</td>
+          <td>Sep 24, 2024</td>
+      </tr>
+      <tr>
+          <td>C7leo/front-end</td>
+          <td>master</td>
+          <td>ecaa9403c1d9714f6f9f72af985a09a3a73f3796</td>
+          <td>feat: schedule component created</td>
+          <td>Created the schedule component for the application.</td>
+          <td>Sep 24, 2024</td>
+      </tr>
+      <tr>
+          <td>C7leo/front-end</td>
+          <td>master</td>
+          <td>0f68ad3b421d545c427c0116c95336461b3db01d</td>
+          <td>feat: notifications component complete</td>
+          <td>Completed the notifications component.</td>
+          <td>Sep 24, 2024</tr>
+      <tr>
+          <td>C7leo/front-end</td>
+          <td>master</td>
+          <td>269e3409fe450492bd5b790575eae1659ae09f1b</td>
+          <td>feat: notifications component added</td>
+          <td>Added the notifications component to the project.</td>
+          <td>Sep 24, 2024</td>
+      </tr>
+      <tr>
+          <td>C7leo/front-end</td>
+          <td>master</td>
+          <td>fcb39c2edc579be2d13d7973727fe65be6745798</td>
+          <td>feat</td>
+          <td>Implemented new features and improvements.</td>
+          <td>Sep 24, 2024</td>
+      </tr>
+      <tr>
+          <td>C7leo/front-end</td>
+          <td>master</td>
+          <td>4b8bba4f53d5f1c82aeaaa4f5d617040d81038d1</td>
+          <td>chore: schedule component created</td>
+          <td>Created the schedule component as part of routine tasks.</td>
+          <td>Sep 24, 2024</td>
+      </tr>
+      <tr>
+          <td>C7leo/front-end</td>
+          <td>master</td>
+          <td>79fd4fbd5501fc633dcd8cbe5df27a5295af4f98</td>
+          <td>feat: click function on plans component</td>
+          <td>Added click functionality to the plans component.</td>
+          <td>Sep 24, 2024</td>
+      </tr>
+      <tr>
+          <td>C7leo/front-end</td>
+          <td>master</td>
+          <td>0985ae0cc28b7d447b1b1125bb7ea3d3db448e34</td>
+          <td>feat: footer added</td>
+          <td>Added a footer to the application.</td>
+          <td>Sep 23, 2024</td>
+      </tr>
+      <tr>
+          <td>C7leo/front-end</td>
+          <td>master</td>
+          <td>ca84894346b347d5915a23c849c7efa93445672c</td>
+          <td>feat: sign up logic fixed and style css of sign in complete</td>
+          <td>Fixed sign-up logic and completed sign-in CSS styling.</td>
+          <td>Sep 23, 2024</td>
+      </tr>
+      <tr>
+          <td>C7leo/front-end</td>
+          <td>master</td>
+          <td>c2b1296489ca378e933b7f3cecaa7a59531e5bf8</td>
+          <td>feat: sign in logic fixed</td>
+          <td>Fixed issues with the sign-in logic.</td>
+          <td>Sep 23, 2024</td>
+      </tr>
     </tbody>
 </table>
 
@@ -999,7 +998,162 @@ Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del
 
 
 
+### 5.2.3. Sprint 3
+#### 5.2.3.1.Sprint Planning 3.
+
+<table table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
+  <thead>
+    <tr>
+      <th>Sprint #</th>
+      <th>Sprint 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="2">Sprint Planning Background</th>
+    </tr>
+        </tr>
+    <tr>
+      <th>Date</th>
+      <th>29 - 10 - 2024</th>
+    </tr>
+    <tr>
+      <th>Time</th>
+      <th>18:02</th>
+    </tr>
+    <tr>
+      <th>Location</th>
+      <th>Meet Google(Reunión Virtual)</th>
+    </tr>
+    <tr>
+      <th>Prepared By</th>
+      <th>Espinoza Vivas, Camila Leonor</th>
+    </tr>
+    <tr>
+      <th>Attendees (to planning meeting)</th>
+      <th>Camila Leonor Espinoza Vivas, Renzo José Araujo Ingunza	, Fatima Asmad Padilla, Jhordi Luis Carranza Pérez, Luis Alfonso Villegas Jipa</th>
+    </tr>
+    <tr>
+      <th> Sprint 3 – 1 Review Summary </th>
+      <th>Texto</th>
+    </tr>
+    <tr>
+      <th>Sprint 3 - 1 Retrospective Summary</th>
+      <th>Texto </th>
+    </tr>
+    <tr>
+      <th colspan="2">Sprint Goal & User Stories</th>
+    </tr>
+    <tr>
+      <th>Sprint 3 Goal</th>
+      <th>Texto</th>
+    </tr>
+    <tr>
+      <th>Sprint 3 Velocity</th>
+      <th>Texto</th>
+    </tr>
+    <tr>
+      <th>Sum of Story Points</th>
+      <th</th>
+    </tr>
+     </tbody>
+</table>
+
+#### 5.2.3.2.Sprint Backlog 3.
+
+<table table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
+  <thead>
+    <tr>
+      <th>Sprint #</th>
+      <th colspan="7">Sprint 2</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">Work - Item / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation(Hours)</th>
+      <th>Assigned To</th>
+      <th>Status (To-do / InProcess / To-Review/ Done)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.3.3.Development Evidence for Sprint Review.
+
+<table table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+
+<table table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+  </tbody>
+</table>
 
 
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+### 5.3.2. Registro de Entrevistas.
+### 5.3.3. Evaluaciones según heurísticas.
 
 
