@@ -1143,5 +1143,103 @@ https://miro.com/welcomeonboard/dEwzZkJyaXFVeWVSNzUwc2FlMUtZRm5UbDA3YzlmaDV0NmV4
             <td>Como visitante deseo conocer la opinión de sus clientes para saber si NutriSend es confiable.</td>
             <td>2</td>
         </tr>
+        <tr>
+            <td>35</td>
+            <td>TS01</td>
+            <td>Añadir usuario a través de un RESTful API</td>
+            <td>Como desarrollador, quiero añadir un usuario a través de un RESTful API, para que el usuario pueda acceder a sus funcionalidades personalizadas en NutriSend.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>36</td>
+            <td>TS02</td>
+            <td>Eliminar usuario de un RESTful API</td>
+            <td>Como desarrollador, quiero eliminar un usuario a través de un RESTful API, para que los datos del usuario se puedan gestionar adecuadamente en NutriSend.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>37</td>
+            <td>TS03</td>
+            <td>Inicio de sesión a través de un RESTful API</td>
+            <td>Como desarrollador, quiero permitir el inicio de sesión a través de un RESTful API, para que los usuarios puedan acceder a sus cuentas y funcionalidades personalizadas en NutriSend.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>38</td>
+            <td>TS04</td>
+            <td>Listar todos los usuarios a través de un RESTful API</td>
+            <td>Como desarrollador, quiero permitir listar todos los usuarios a través de un RESTful API, para que se puedan gestionar los usuarios de NutriSend de manera eficiente.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>39</td>
+            <td>TS05</td>
+            <td>Gestionar la lista de productos a través de un RESTful API</td>
+            <td>Como desarrollador, quiero permitir la gestión de productos a través de un RESTful API, para que los usuarios puedan ver los productos disponibles en NutriSend.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>40</td>
+            <td>TS06</td>
+            <td>Gestión de pedidos a través de un RESTful API</td>
+            <td>Como desarrollador, quiero gestionar los pedidos de los usuarios a través de un RESTful API, para que los usuarios puedan realizar sus pedidos en NutriSend.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>41</td>
+            <td>TS07</td>
+            <td>Enviar notificaciones a los usuarios a través de un RESTful API</td>
+            <td>Como desarrollador, quiero permitir el envío de notificaciones a los usuarios a través de un RESTful API, para que los usuarios reciban una alerta de sus horas de comida.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>42</td>
+            <td>TS08</td>
+            <td>Crear un horario de comidas para un usuario a través de un RESTful API</td>
+            <td>Como desarrollador, quiero permitir la creación de un horario de comidas para un usuario a través de un RESTful API, para que los usuarios puedan programar sus horas de comida semanalmente.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>43</td>
+            <td>TS09</td>
+            <td>Actualizar el horario de comidas de un usuario a través de un RESTful API</td>
+            <td>Como desarrollador, quiero permitir la actualización del horario de comidas de un usuario a través de un RESTful API, para que los usuarios puedan modificar su programación de comidas.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>44</td>
+            <td>TS10</td>
+            <td>Eliminar el horario de comidas de un usuario a través de un RESTful API</td>
+            <td>Como desarrollador, quiero permitir la eliminación del horario de comidas de un usuario a través de un RESTful API, para que los usuarios puedan eliminar su programación de comidas.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>45</td>
+            <td>TS11</td>
+            <td>Gestionar tipos de comidas a través de un RESTful API</td>
+            <td>Como desarrollador, quiero gestionar los tipos de comidas a través de un RESTful API, para que los usuarios puedan acceder a los diferentes tipos de comidas disponibles.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>46</td>
+            <td>TS12</td>
+            <td>Gestionar categorías de comidas a través de un RESTful API</td>
+            <td>Como desarrollador, quiero gestionar las categorías de comidas a través de un RESTful API, para que los usuarios puedan acceder a las diferentes categorías de comidas disponibles.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>47</td>
+            <td>TS13</td>
+            <td>Gestionar el historial de pedidos a través de un RESTful API</td>
+            <td>Como desarrollador, quiero permitir que los usuarios gestionen sus pedidos a través de un RESTful API, para que puedan visualizar y administrar su historial de pedidos en NutriSend.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>48</td>
+            <td>TS14</td>
+            <td>Gestionar preferencias de usuario a través de un RESTful API</td>
+            <td>Como desarrollador, quiero permitir que los usuarios gestionen sus preferencias a través de un RESTful API, para que puedan personalizar su experiencia en NutriSend.</td>
+            <td>3</td>
+        </tr>
     </tbody>
 </table>
