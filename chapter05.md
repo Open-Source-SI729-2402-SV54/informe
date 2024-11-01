@@ -1035,37 +1035,37 @@ Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del
     </tr>
     <tr>
       <th> Sprint 3 – 1 Review Summary </th>
-      <th>Texto</th>
+      <th>Se espera avanzar significativamente en la implementación de las user stories TS01 a TS014, optimizando la funcionalidad del sistema y mejorando la experiencia del usuario.</th>
     </tr>
     <tr>
       <th>Sprint 3 - 1 Retrospective Summary</th>
-      <th>Texto </th>
+      <th>El equipo ha trabajado en la comunicación y la colaboración, aprendiendo de las lecciones de los sprints anteriores para mejorar la eficiencia y cumplir con los objetivos establecidos. </th>
     </tr>
     <tr>
       <th colspan="2">Sprint Goal & User Stories</th>
     </tr>
     <tr>
       <th>Sprint 3 Goal</th>
-      <th>Texto</th>
+      <th>Nos centramos en desarrollar las funcionalidades de backend para las historias de usuario TS01 a TS014. Creemos que esto ofrece una API robusta y eficiente para nuestra aplicación. Esto se confirmará cuando los servicios de backend estén completamente implementados y probados con éxito.</th>
     </tr>
     <tr>
       <th>Sprint 3 Velocity</th>
-      <th>Texto</th>
+      <th>Para este sprint se han seleccionado las user stories TS01 a TS014, que suman un total de 40 Story Points.</th>
     </tr>
     <tr>
       <th>Sum of Story Points</th>
-      <th</th>
+      <th>40</th>
     </tr>
      </tbody>
 </table>
 
 #### 5.2.3.2.Sprint Backlog 3.
 
-<table table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
+<table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
   <thead>
     <tr>
       <th>Sprint #</th>
-      <th colspan="7">Sprint 2</th>
+      <th colspan="7">Sprint 3</th>
     </tr>
     <tr>
       <th colspan="2">User Story</th>
@@ -1084,14 +1084,564 @@ Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del
   </thead>
   <tbody>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+      <td>TS01</td>
+      <td>Añadir usuario a través de un RESTful API</td>
+      <td>TSK001</td>
+      <td>Desarrollar la capa “domain”</td>
+      <td>Implementar la lógica de negocio para el manejo de usuarios.</td>
+      <td>4h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS01</td>
+      <td>Añadir usuario a través de un RESTful API</td>
+      <td>TSK002</td>
+      <td>Desarrollar la capa “internal”</td>
+      <td>Implementar la lógica interna para la gestión de usuarios.</td>
+      <td>4h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS01</td>
+      <td>Añadir usuario a través de un RESTful API</td>
+      <td>TSK003</td>
+      <td>Desarrollar la capa jpa</td>
+      <td>Configurar y implementar la capa JPA para persistencia.</td>
+      <td>4h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS01</td>
+      <td>Añadir usuario a través de un RESTful API</td>
+      <td>TSK004</td>
+      <td>Desarrollar la capa rest</td>
+      <td>Crear endpoints REST para la adición de usuarios.</td>
+      <td>4h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS02</td>
+      <td>Eliminar usuario de un RESTful API</td>
+      <td>TSK005</td>
+      <td>Desarrollar la capa "domain"</td>
+      <td>Implementar la lógica de negocio para eliminar usuarios.</td>
+      <td>3h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS02</td>
+      <td>Eliminar usuario de un RESTful API</td>
+      <td>TSK006</td>
+      <td>Desarrollar la capa “internal”</td>
+      <td>Implementar lógica interna para gestionar la eliminación de usuarios.</td>
+      <td>3h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS02</td>
+      <td>Eliminar usuario de un RESTful API</td>
+      <td>TSK007</td>
+      <td>Desarrollar la capa jpa</td>
+      <td>Configurar JPA para la eliminación de registros de usuario.</td>
+      <td>3h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS02</td>
+      <td>Eliminar usuario de un RESTful API</td>
+      <td>TSK008</td>
+      <td>Desarrollar la capa rest</td>
+      <td>Crear endpoints REST para eliminar usuarios.</td>
+      <td>3h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS03</td>
+      <td>Inicio de sesión a través de un RESTful API</td>
+      <td>TSK009</td>
+      <td>Desarrollar la capa “domain”</td>
+      <td>Implementar la lógica para el inicio de sesión de usuarios.</td>
+      <td>4h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS03</td>
+      <td>Inicio de sesión a través de un RESTful API</td>
+      <td>TSK010</td>
+      <td>Desarrollar la capa “internal”</td>
+      <td>Implementar la lógica interna para gestionar el inicio de sesión.</td>
+      <td>4h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS03</td>
+      <td>Inicio de sesión a través de un RESTful API</td>
+      <td>TSK011</td>
+      <td>Desarrollar la capa jpa</td>
+      <td>Configurar JPA para gestionar la autenticación de usuarios.</td>
+      <td>4h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS03</td>
+      <td>Inicio de sesión a través de un RESTful API</td>
+      <td>TSK012</td>
+      <td>Desarrollar la capa rest</td>
+      <td>Crear endpoints REST para el inicio de sesión.</td>
+      <td>4h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS04</td>
+      <td>Listar todos los usuarios a través de un RESTful API</td>
+      <td>TSK013</td>
+      <td>Desarrollar la capa “domain”</td>
+      <td>Implementar la lógica para listar usuarios existentes.</td>
+      <td>3h</td>
+      <td>Fatima</td>
+      <td>InProcess </td>
+    </tr>
+    <tr>
+      <td>TS04</td>
+      <td>Listar todos los usuarios a través de un RESTful API</td>
+      <td>TSK014</td>
+      <td>Desarrollar la capa “internal”</td>
+      <td>Implementar lógica interna para la gestión de la lista de usuarios.</td>
+      <td>3h</td>
+      <td>Fatima</td>
+      <td>InProcess </td>
+    </tr>
+    <tr>
+      <td>TS04</td>
+      <td>Listar todos los usuarios a través de un RESTful API</td>
+      <td>TSK015</td>
+      <td>Desarrollar la capa jpa</td>
+      <td>Configurar JPA para la recuperación de usuarios.</td>
+      <td>3h</td>
+      <td>Fatima</td>
+      <td>InProcess </td>
+    </tr>
+    <tr>
+      <td>TS04</td>
+      <td>Listar todos los usuarios a través de un RESTful API</td>
+      <td>TSK016</td>
+      <td>Desarrollar la capa rest</td>
+      <td>Crear endpoints REST para listar usuarios.</td>
+      <td>3h</td>
+      <td>Fatima</td>
+      <td>InProcess </td>
+    </tr>
+    <tr>
+      <td>TS05</td>
+      <td>Gestionar la lista de productos a través de un RESTful API</td>
+      <td>TSK017</td>
+      <td>Desarrollar la capa “domain”</td>
+      <td>Implementar la lógica para gestionar productos.</td>
+      <td>5h</td>
+      <td>Camila</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS05</td>
+      <td>Gestionar la lista de productos a través de un RESTful API</td>
+      <td>TSK018</td>
+      <td>Desarrollar la capa “internal”</td>
+      <td>Implementar la lógica interna para la gestión de productos.</td>
+      <td>5h</td>
+      <td>Camila</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS05</td>
+      <td>Gestionar la lista de productos a través de un RESTful API</td>
+      <td>TSK019</td>
+      <td>Desarrollar la capa jpa</td>
+      <td>Configurar JPA para la persistencia de productos.</td>
+      <td>5h</td>
+      <td>Camila</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS05</td>
+      <td>Gestionar la lista de productos a través de un RESTful API</td>
+      <td>TSK020</td>
+      <td>Desarrollar la capa rest</td>
+      <td>Crear endpoints REST para la gestión de productos.</td>
+      <td>5h</td>
+      <td>Camila</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS06</td>
+      <td>Gestión de pedidos a través de un RESTful API</td>
+      <td>TSK021</td>
+      <td>Desarrollar la capa “domain”</td>
+      <td>Implementar la lógica para gestionar pedidos.</td>
+      <td>4h</td>
+      <td>Luis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS06</td>
+      <td>Gestión de pedidos a través de un RESTful API</td>
+      <td>TSK022</td>
+      <td>Desarrollar la capa “internal”</td>
+      <td>Implementar lógica interna para la gestión de pedidos.</td>
+      <td>4h</td>
+      <td>Luis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS06</td>
+      <td>Gestión de pedidos a través de un RESTful API</td>
+      <td>TSK023</td>
+      <td>Desarrollar la capa jpa</td>
+      <td>Configurar JPA para la persistencia de pedidos.</td>
+      <td>4h</td>
+      <td>Luis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS06</td>
+      <td>Gestión de pedidos a través de un RESTful API</td>
+      <td>TSK024</td>
+      <td>Desarrollar la capa rest</td>
+      <td>Crear endpoints REST para la gestión de pedidos.</td>
+      <td>4h</td>
+      <td>Luis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS07</td>
+      <td>Enviar notificaciones a los usuarios a través de un RESTful API</td>
+      <td>TSK025</td>
+      <td>Desarrollar la capa “domain”</td>
+      <td>Implementar la lógica para enviar notificaciones a usuarios.</td>
+      <td>3h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS07</td>
+      <td>Enviar notificaciones a los usuarios a través de un RESTful API</td>
+      <td>TSK026</td>
+      <td>Desarrollar la capa “internal”</td>
+      <td>Implementar lógica interna para la gestión de notificaciones.</td>
+      <td>3h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS07</td>
+      <td>Enviar notificaciones a los usuarios a través de un RESTful API</td>
+      <td>TSK027</td>
+      <td>Desarrollar la capa jpa</td>
+      <td>Configurar JPA para la persistencia de notificaciones.</td>
+      <td>3h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS07</td>
+      <td>Enviar notificaciones a los usuarios a través de un RESTful API</td>
+      <td>TSK028</td>
+      <td>Desarrollar la capa rest</td>
+      <td>Crear endpoints REST para enviar notificaciones.</td>
+      <td>3h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS08</td>
+      <td>Crear un horario de comidas para un usuario a través de un RESTful API</td>
+      <td>TSK029</td>
+      <td>Desarrollar la capa “domain”</td>
+      <td>Implementar la lógica para crear horarios de comidas.</td>
+      <td>4h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS08</td>
+      <td>Crear un horario de comidas para un usuario a través de un RESTful API</td>
+      <td>TSK030</td>
+      <td>Desarrollar la capa “internal”</td>
+      <td>Implementar lógica interna para gestionar horarios de comidas.</td>
+      <td>4h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS08</td>
+      <td>Crear un horario de comidas para un usuario a través de un RESTful API</td>
+      <td>TSK031</td>
+      <td>Desarrollar la capa jpa</td>
+      <td>Configurar JPA para la persistencia de horarios de comidas.</td>
+      <td>4h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS08</td>
+      <td>Crear un horario de comidas para un usuario a través de un RESTful API</td>
+      <td>TSK032</td>
+      <td>Desarrollar la capa rest</td>
+      <td>Crear endpoints REST para crear horarios de comidas.</td>
+      <td>4h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS09</td>
+      <td>Actualizar el horario de comidas de un usuario a través de un RESTful API</td>
+      <td>TSK033</td>
+      <td>Desarrollar la capa “domain”</td>
+      <td>Implementar la lógica para actualizar horarios de comidas.</td>
+      <td>3h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS09</td>
+      <td>Actualizar el horario de comidas de un usuario a través de un RESTful API</td>
+      <td>TSK034</td>
+      <td>Desarrollar la capa “internal”</td>
+      <td>Implementar lógica interna para gestionar la actualización de horarios de comidas.</td>
+      <td>3h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS09</td>
+      <td>Actualizar el horario de comidas de un usuario a través de un RESTful API</td>
+      <td>TSK035</td>
+      <td>Desarrollar la capa jpa</td>
+      <td>Configurar JPA para actualizar la persistencia de horarios de comidas.</td>
+      <td>3h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS09</td>
+      <td>Actualizar el horario de comidas de un usuario a través de un RESTful API</td>
+      <td>TSK036</td>
+      <td>Desarrollar la capa rest</td>
+      <td>Crear endpoints REST para actualizar horarios de comidas.</td>
+      <td>3h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS10</td>
+      <td>Eliminar el horario de comidas de un usuario a través de un RESTful API</td>
+      <td>TSK037</td>
+      <td>Desarrollar la capa “domain”</td>
+      <td>Implementar la lógica para eliminar horarios de comidas.</td>
+      <td>3h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS10</td>
+      <td>Eliminar el horario de comidas de un usuario a través de un RESTful API</td>
+      <td>TSK038</td>
+      <td>Desarrollar la capa “internal”</td>
+      <td>Implementar lógica interna para gestionar la eliminación de horarios de comidas.</td>
+      <td>3h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS10</td>
+      <td>Eliminar el horario de comidas de un usuario a través de un RESTful API</td>
+      <td>TSK039</td>
+      <td>Desarrollar la capa jpa</td>
+      <td>Configurar JPA para la eliminación de la persistencia de horarios de comidas.</td>
+      <td>3h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS10</td>
+      <td>Eliminar el horario de comidas de un usuario a través de un RESTful API</td>
+      <td>TSK040</td>
+      <td>Desarrollar la capa rest</td>
+      <td>Crear endpoints REST para eliminar horarios de comidas.</td>
+      <td>3h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS11</td>
+      <td>Gestionar tipos de comidas a través de un RESTful API</td>
+      <td>TSK041</td>
+      <td>Desarrollar la capa “domain”</td>
+      <td>Implementar la lógica para gestionar tipos de comidas.</td>
+      <td>4h</td>
+      <td>Camila</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS11</td>
+      <td>Gestionar tipos de comidas a través de un RESTful API</td>
+      <td>TSK042</td>
+      <td>Desarrollar la capa “internal”</td>
+      <td>Implementar lógica interna para gestionar tipos de comidas.</td>
+      <td>4h</td>
+      <td>Camila</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS11</td>
+      <td>Gestionar tipos de comidas a través de un RESTful API</td>
+      <td>TSK043</td>
+      <td>Desarrollar la capa jpa</td>
+      <td>Configurar JPA para la persistencia de tipos de comidas.</td>
+      <td>4h</td>
+      <td>Camila</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS11</td>
+      <td>Gestionar tipos de comidas a través de un RESTful API</td>
+      <td>TSK044</td>
+      <td>Desarrollar la capa rest</td>
+      <td>Crear endpoints REST para gestionar tipos de comidas.</td>
+      <td>4h</td>
+      <td>Camila</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS12</td>
+      <td>Gestionar categorías de comidas a través de un RESTful API</td>
+      <td>TSK045</td>
+      <td>Desarrollar la capa “domain”</td>
+      <td>Implementar la lógica para gestionar categorías de comidas.</td>
+      <td>4h</td>
+      <td>Camila</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS12</td>
+      <td>Gestionar categorías de comidas a través de un RESTful API</td>
+      <td>TSK046</td>
+      <td>Desarrollar la capa “internal”</td>
+      <td>Implementar lógica interna para gestionar categorías de comidas.</td>
+      <td>4h</td>
+      <td>Camila</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS12</td>
+      <td>Gestionar categorías de comidas a través de un RESTful API</td>
+      <td>TSK047</td>
+      <td>Desarrollar la capa jpa</td>
+      <td>Configurar JPA para la persistencia de categorías de comidas.</td>
+      <td>4h</td>
+      <td>Camila</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS12</td>
+      <td>Gestionar categorías de comidas a través de un RESTful API</td>
+      <td>TSK048</td>
+      <td>Desarrollar la capa rest</td>
+      <td>Crear endpoints REST para gestionar categorías de comidas.</td>
+      <td>4h</td>
+      <td>Camila</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS13</td>
+      <td>Gestionar el historial de pedidos a través de un RESTful API</td>
+      <td>TSK049</td>
+      <td>Desarrollar la capa “domain”</td>
+      <td>Implementar la lógica para gestionar el historial de pedidos.</td>
+      <td>3h</td>
+      <td>Luis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS13</td>
+      <td>Gestionar el historial de pedidos a través de un RESTful API</td>
+      <td>TSK050</td>
+      <td>Desarrollar la capa “internal”</td>
+      <td>Implementar lógica interna para gestionar el historial de pedidos.</td>
+      <td>3h</td>
+      <td>Luis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS13</td>
+      <td>Gestionar el historial de pedidos a través de un RESTful API</td>
+      <td>TSK051</td>
+      <td>Desarrollar la capa jpa</td>
+      <td>Configurar JPA para la persistencia del historial de pedidos.</td>
+      <td>3h</td>
+      <td>Luis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS13</td>
+      <td>Gestionar el historial de pedidos a través de un RESTful API</td>
+      <td>TSK052</td>
+      <td>Desarrollar la capa rest</td>
+      <td>Crear endpoints REST para gestionar el historial de pedidos.</td>
+      <td>3h</td>
+      <td>Luis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS14</td>
+      <td>Gestionar preferencias de usuario a través de un RESTful API</td>
+      <td>TSK053</td>
+      <td>Desarrollar la capa “domain”</td>
+      <td>Implementar la lógica para gestionar preferencias de usuario.</td>
+      <td>3h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS14</td>
+      <td>Gestionar preferencias de usuario a través de un RESTful API</td>
+      <td>TSK054</td>
+      <td>Desarrollar la capa “internal”</td>
+      <td>Implementar lógica interna para gestionar preferencias de usuario.</td>
+      <td>3h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS14</td>
+      <td>Gestionar preferencias de usuario a través de un RESTful API</td>
+      <td>TSK055</td>
+      <td>Desarrollar la capa jpa</td>
+      <td>Configurar JPA para la persistencia de preferencias de usuario.</td>
+      <td>3h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS14</td>
+      <td>Gestionar preferencias de usuario a través de un RESTful API</td>
+      <td>TSK056</td>
+      <td>Desarrollar la capa rest</td>
+      <td>Crear endpoints REST para gestionar preferencias de usuario.</td>
+      <td>3h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
     </tr>
   </tbody>
 </table>
@@ -1111,12 +1661,332 @@ Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del
   </thead>
   <tbody>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>LuisVJ19/nutrisend-platform</td>
+        <td>luis</td>
+        <td>19bd91c4035e7ac65ef6f76c56c3860bdc99bca9</td>
+        <td>feat(order): Add OrderCommandService, implement OrderCommandServiceImpl</td>
+        <td>--</td>
+        <td>Oct 30, 2024</td>
+    </tr>
+    <tr>
+        <td>LuisVJ19/nutrisend-platform</td>
+        <td>luis</td>
+        <td>1415d2ac6fb6e062316effb78a0a23ee517c5518c</td>
+        <td>feat(order): added files Order class and OrderItem class</td>
+        <td>--</td>
+        <td>Oct 30, 2024</td>
+    </tr>
+    <tr>
+        <td>LuisVJ19/nutrisend-platform</td>
+        <td>luis</td>
+        <td>319bd992603ec1f307136c736ea147e60eb0d5a3</td>
+        <td>feat(order): added queries GetAllOrdersQuery and GetOrderByIdQuery</td>
+        <td>--</td>
+        <td>Oct 30, 2024</td>
+    </tr>
+    <tr>
+        <td>LuisVJ19/nutrisend-platform</td>
+        <td>luis</td>
+        <td>8df75ed01fe0078f37835a968c4dcaffe6ca4a82</td>
+        <td>feat(order): added infrastructure OrderRepository</td>
+        <td>--</td>
+        <td>Oct 30, 2024</td>
+    </tr>
+    <tr>
+        <td>LuisVJ19/nutrisend-platform</td>
+        <td>luis</td>
+        <td>8df75ed01fe0078f37835a968c4dcaffe6ca4a82</td>
+        <td>feat(order): added inferfaces OrderController</td>
+        <td>--</td>
+        <td>Oct 30, 2024</td>
+    </tr>
+    <tr>
+        <td>LuisVJ19/nutrisend-platform</td>
+        <td>luis</td>
+        <td>8df75ed01fe0078f37835a968c4dcaffe6ca4a82</td>
+        <td>feat(order): added inferfaces resources CreateOrderResource and Order… </td>
+        <td>--</td>
+        <td>Oct 30, 2024</td>
+    </tr>
+    <tr>
+        <td>LuisVJ19/nutrisend-platform</td>
+        <td>luis</td>
+        <td>78a9863fc315eb4b6772bbf33cab1735281c8ddb</td>
+        <td>feat(order): added command CreateOrderCommand, Create OrderItemComman… </td>
+        <td>--</td>
+        <td>Oct 30, 2024</td>
+    </tr>
+    <tr>
+        <td>LuisVJ19/nutrisend-platform</td>
+        <td>luis</td>
+        <td>19a2e996431224ffa2cff72280fc40f06a31c11b</td>
+        <td>feat(order): added internal OrderQueryServicelmpl.</td>
+        <td>--</td>
+        <td>Oct 30, 2024</td>
+    </tr>
+    <tr>
+        <td>LuisVJ19/nutrisend-platform</td>
+        <td>luis</td>
+        <td>62a0f3d6b19698896701c1faefa1d6439ccc2365</td>
+        <td>feat(order): added resources OrderItemResource and CreateOrderItemRes…</td>
+        <td>--</td>
+        <td>Oct 30, 2024</td>
+    </tr>
+    <tr>
+        <td>LuisVJ19/nutrisend-platform</td>
+        <td>luis</td>
+        <td>bc66ceb71933b1595e1eb8951676b650cda95878</td>
+        <td>feat(order): added OrderController</td>
+        <td>--</td>
+        <td>Oct 30, 2024</td>
+    </tr>
+    <tr>
+        <td>LuisVJ19/nutrisend-platform</td>
+        <td>luis</td>
+        <td>083c14aa767246551e3d12236d0f31940d72a70a</td>
+        <td>feat(user): implement command and query services for user</td>
+        <td>--</td>
+        <td>Oct 30, 2024</td>
+    </tr>
+    <tr>
+        <td>LuisVJ19/nutrisend-platform</td>
+        <td>luis</td>
+        <td>10ec33903ab7363bb169d1ec1dd05724cd10a890</td>
+        <td>feat(user): Create and added aggregates and services for user.</td>
+        <td>--</td>
+        <td>Oct 30, 2024</td>
+    </tr>
+    <tr>
+        <td>LuisVJ19/nutrisend-platform</td>
+        <td>luis</td>
+        <td>1294951b4781a2e37946ed4e261442a703ee2dd6</td>
+        <td>feat(user): Create and added infrastructure</td>
+        <td>--</td>
+        <td>Oct 30, 2024</td>
+    </tr>
+    <tr>
+        <td>LuisVJ19/nutrisend-platform</td>
+        <td>luis</td>
+        <td>7bf2cc030ce528e2cc1dc741fd3733fe2af43314</td>
+        <td>feat(user): Create and added resources and transform</td>
+        <td>--</td>
+        <td>Oct 30, 2024</td>
+    </tr>
+     <tr>
+        <td>LuisVJ19/nutrisend-platform</td>
+        <td>luis</td>
+        <td>cc5b58bbb4742ffb7be3ba6f1f319a929f359175</td>
+        <td>feat(user): Create and added services</td>
+        <td>--</td>
+        <td>Oct 30, 2024</td>
+    </tr>
+     <tr>
+        <td>LuisVJ19/nutrisend-platform</td>
+        <td>luis</td>
+        <td>cc5b58bbb4742ffb7be3ba6f1f319a929f359175</td>
+        <td>feat(user): Create and added services</td>
+        <td>--</td>
+        <td>Oct 30, 2024</td>
+    </tr>
+    <tr>
+        <td>C7le0/nutrisend-platform</td>
+        <td>camila</td>
+        <td>d9c8af90cc300bd77e51b557f0c78df71262c4b4</td>
+        <td>feat(commands): add records</td>
+        <td>--</td>
+        <td>Oct 31, 2024</td>
+    </tr>
+    <tr>
+        <td>C7le0/nutrisend-platform</td>
+        <td>camila</td>
+        <td>d9c8af90cc300bd77e51b557f0c78df71262c4b4</td>
+        <td>feat(commands): add records</td>
+        <td>--</td>
+        <td>Oct 31, 2024</td>
+    </tr>
+    <tr>
+        <td>C7le0/nutrisend-platform</td>
+        <td>camila</td>
+        <td>b0344a1067c8105a473b5b9a08ef5a9783dd636b</td>
+        <td>feat(queries): add records get by id</td>
+        <td>--</td>
+        <td>Oct 31, 2024</td>
+    </tr>
+    <tr>
+        <td>C7le0/nutrisend-platform</td>
+        <td>camila</td>
+        <td>63c2aed989b53f75276be423b324bf4fde7eb8ab</td>
+        <td>feat(services): add interface command and interface query</td>
+        <td>--</td>
+        <td>Oct 31, 2024</td>
+    </tr>
+    <tr>
+        <td>C7le0/nutrisend-platform</td>
+        <td>camila</td>
+        <td>63c2aed989b53f75276be423b324bf4fde7eb8ab</td>
+        <td>feat(internal): add class command service and query service</td>
+        <td>--</td>
+        <td>Oct 31, 2024</td>
+    </tr>
+    <tr>
+        <td>C7le0/nutrisend-platform</td>
+        <td>camila</td>
+        <td>4fd0a6141831d07fd8f5531bc808da8b78911ba5</td>
+        <td>feat(repository): add interface repository</td>
+        <td>--</td>
+        <td>Oct 31, 2024</td>
+    </tr>
+    <tr>
+        <td>C7le0/nutrisend-platform</td>
+        <td>camila</td>
+        <td>a2b452846061a70bb236400ce7fa65bcbb83c0cb</td>
+        <td>feat(aggregate): add category and type</td>
+        <td>--</td>
+        <td>Oct 31, 2024</td>
+    </tr>
+    <tr>
+        <td>C7le0/nutrisend-platform</td>
+        <td>camila</td>
+        <td>a2b452846061a70bb236400ce7fa65bcbb83c0cb</td>
+        <td>feat(aggregate): add category and type</td>
+        <td>--</td>
+        <td>Oct 31, 2024</td>
+    </tr>
+    <tr>
+        <td>C7le0/nutrisend-platform</td>
+        <td>camila</td>
+        <td>54b63aabdb7a37335c2d2a1812ca5b3947f82980</td>
+        <td>feat(commands): update</td>
+        <td>--</td>
+        <td>Oct 31, 2024</td>
+    </tr>
+    <tr>
+        <td>C7le0/nutrisend-platform</td>
+        <td>camila</td>
+        <td>c32a2c6dbda1bf63f08ac7f8b3484e7e09fdfe27</td>
+        <td>feat(internal): update</td>
+        <td>--</td>
+        <td>Oct 31, 2024</td>
+    </tr>
+    <tr>
+        <td>C7le0/nutrisend-platform</td>
+        <td>camila</td>
+        <td>b6f104d063ae3ee7f2ac9158963bdaece6b7816c</td>
+        <td>feat(repository): add repository Category and Type</td>
+        <td>--</td>
+        <td>Oct 31, 2024</td>
+    </tr>
+     <tr>
+        <td>C7le0/nutrisend-platform</td>
+        <td>camila</td>
+        <td>509298190b3b3e535e2043e9ccd64ff572606380</td>
+        <td>feat(resources): add records resources</td>
+        <td>--</td>
+        <td>Oct 31, 2024</td>
+    </tr>
+    <tr>
+        <td>C7le0/nutrisend-platform</td>
+        <td>camila</td>
+        <td>ac2cfda50acdafd2be4e956cd359c05ebd2f551e</td>
+        <td>feat(meals): update</td>
+        <td>--</td>
+        <td>Oct 31, 2024</td>
+    </tr>
+    <tr>
+        <td>C7le0/nutrisend-platform</td>
+        <td>camila</td>
+        <td>f20ed10173ad3761616091d52e832f2abf273a1c</td>
+        <td>feat(meals): add meal controller</td>
+        <td>--</td>
+        <td>Oct 31, 2024</td>
+    </tr>
+    <tr>
+        <td>C7le0/nutrisend-platform</td>
+        <td>camila</td>
+        <td>324dfa3cfb761b085f793a9903e593d99f2fbf7c</td>
+        <td>feat(service): add category and type meal query service</td>
+        <td>--</td>
+        <td>Oct 31, 2024</td>
+    </tr>
+    <tr>
+        <td>C7le0/nutrisend-platform</td>
+        <td>camila</td>
+        <td>f4a015afe52f1b8a4e139a588426b2b814268bfe</td>
+        <td>feat(internal): add category and type meal query service impl</td>
+        <td>--</td>
+        <td>Oct 31, 2024</td>
+    </tr>
+    <tr>
+        <td>C7le0/nutrisend-platform</td>
+        <td>camila</td>
+        <td>0bde3e2fe35651455f2deddbfa405bb63d57f239</td>
+        <td>feat(query): add category and type meal query</td>
+        <td>--</td>
+        <td>Oct 31, 2024</td>
+    </tr>
+     <tr>
+        <td>C7le0/nutrisend-platform</td>
+        <td>camila</td>
+        <td>fa5a777ee88d4742177936ef0b0f8b70143d1470</td>
+        <td>feat(transform): add category and type meal resource entity assembler</td>
+        <td>--</td>
+        <td>Oct 31, 2024</td>
+    </tr>
+     <tr>
+        <td>C7le0/nutrisend-platform</td>
+        <td>camila</td>
+        <td>baa682e4dd2594582473a9e82114ab9d8232532a</td>
+        <td>feat(controller): add category and type meal get</td>
+        <td>--</td>
+        <td>Oct 31, 2024</td>
+    </tr>
+    <tr>
+        <td>C7le0/nutrisend-platform</td>
+        <td>camila</td>
+        <td>4bcaa0f860e350b59aed6ce709b29c2fefd99b33</td>
+        <td>feat(controller): add category and type meal post</td>
+        <td>--</td>
+        <td>Oct 31, 2024</td>
+    </tr>    
+    <tr>
+        <td>C7le0/nutrisend-platform</td>
+        <td>camila</td>
+        <td>5837b9a8ddbf4a5364a0e65d5b86acc41c5271bb</td>
+        <td>feat(commands): add delete and update commands for category and type</td>
+        <td>--</td>
+        <td>Oct 31, 2024</td>
+    </tr>
+    <tr>
+        <td>C7le0/nutrisend-platform</td>
+        <td>camila</td>
+        <td>794c5af932d981d18150bb36983adf9be647aab0</td>
+        <td>feat(service): add interfaces category and type</td>
+        <td>--</td>
+        <td>Oct 31, 2024</td>
+    </tr>
+    <tr>
+        <td>C7le0/nutrisend-platform</td>
+        <td>camila</td>
+        <td>bae821b31e7339817746d6587eeb2787b7bca004</td>
+        <td>feat(transform): add category and type command from resource assembler</td>
+        <td>--</td>
+        <td>Oct 31, 2024</td>
+    </tr>
+    <tr>
+        <td>C7le0/nutrisend-platform</td>
+        <td>camila</td>
+        <td>46fc210866fd9869ceaa6ac685a9a0c94417b063</td>
+        <td>feat(internal): add category and type command service impl</td>
+        <td>--</td>
+        <td>Oct 31, 2024</td>
+    </tr>
+    <tr>
+        <td>C7le0/nutrisend-platform</td>
+        <td>camila</td>
+        <td>3e73918dad904021db4cf998277279f22a167383</td>
+        <td>feat(controller): update</td>
+        <td>--</td>
+        <td>Oct 31, 2024</td>
     </tr>
   </tbody>
 </table>
