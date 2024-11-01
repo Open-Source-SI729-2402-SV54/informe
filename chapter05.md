@@ -2433,8 +2433,6 @@ Los siguientes commits reflejan el avance en la documentación de los servicios 
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review
 
-
-
 #### 5.2.3.8.Team Collaboration Insights during Sprint
 
 Durante este sprint, el equipo de desarrollo ha colaborado de manera efectiva en la implementación del backend utilizando herramientas como IntelliJ IDEA y GitHub para la gestión de versiones. A lo largo del proceso, seguimos las guías de estilos establecidas previamente para asegurar la consistencia en el código y facilitar la colaboración entre los miembros del equipo.
