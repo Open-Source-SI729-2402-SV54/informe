@@ -239,7 +239,7 @@ En este primer sprint, nos centramos en implementar las funcionalidades esencial
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
-En esta sección se detallan y presentan los avances en la implementación de los componentes de la solución, de acuerdo con el alcance definido para el Sprint: Landing Page, Aplicaciones Web y Servicios Web. En primer lugar, se destacarán los commits más relevantes para el reporte, los cuales reflejan el ciclo de vida del proyecto, así como toda la información que se ha utilizado, se está utilizando y se utilizará en el desarrollo del mismo. En el siguiente enlace se encontrar el video about the prodcut: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/EeabX430di9Hv8bQ-23lnNcB8Zch1Qb7uMfcqhBl8S7HNQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=VgIZzf
+En esta sección se detallan y presentan los avances en la implementación de los componentes de la solución, de acuerdo con el alcance definido para el Sprint: Landing Page, Aplicaciones Web y Servicios Web. En primer lugar, se destacarán los commits más relevantes para el reporte, los cuales reflejan el ciclo de vida del proyecto, así como toda la información que se ha utilizado, se está utilizando y se utilizará en el desarrollo del mismo. En el siguiente enlace se encontrar el video about the product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/EeabX430di9Hv8bQ-23lnNcB8Zch1Qb7uMfcqhBl8S7HNQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=VgIZzf
 
 <table>
     <thead>
@@ -623,7 +623,7 @@ En este segundo sprint, nos enfocamos en integrar las funcionalidades avanzadas 
 </table>
 
 #### 5.2.2.3. Development Evidence for Sprint Review
-En esta sección se detallan y presentan los avances en la implementación de los componentes de la solución, de acuerdo con el alcance definido para el Sprint: Landing Page, Aplicaciones Web y Servicios Web. En primer lugar, se destacarán los commits más relevantes para el reporte, los cuales reflejan el ciclo de vida del proyecto, así como toda la información que se ha utilizado, se está utilizando y se utilizará en el desarrollo del mismo.
+En esta sección se detallan y presentan los avances en la implementación de los componentes de la solución, de acuerdo con el alcance definido para el Sprint: Landing Page, Aplicaciones Web y Servicios Web. En primer lugar, se destacarán los commits más relevantes para el reporte, los cuales reflejan el ciclo de vida del proyecto, así como toda la información que se ha utilizado, se está utilizando y se utilizará en el desarrollo del mismo. En el siguiente enlace se encontrar el video about the product:
 
 <table>
     <thead>
@@ -1064,7 +1064,9 @@ Para este tercer sprint, el objetivo principal será desarrollar la capa backend
 
 #### 5.2.3.2.Sprint Backlog 3
 
-En este tercer sprint, el enfoque principal es el desarrollo del backend de NutriSend, con la implementación de las principales funcionalidades que permitirán la gestión de usuarios, pedidos, horarios y preferencias mediante una API RESTful. Este sprint se centra en construir una estructura sólida para la lógica de negocio, optimizando la interacción entre el frontend y backend. Además, se revisarán y documentarán los servicios implementados, asegurando que el ciclo de vida del proyecto esté bien reflejado en los reportes y cumpla con los requisitos técnicos y de usuario. A continuación, se presenta el sprint backlog 3 y el tablero de Trello con la asignación de tareas:
+En este tercer sprint, el enfoque principal es el desarrollo del backend de NutriSend, con la implementación de las principales funcionalidades que permitirán la gestión de usuarios, pedidos, horarios y preferencias mediante una API RESTful. Este sprint se centra en construir una estructura sólida para la lógica de negocio, optimizando la interacción entre el frontend y backend. Además, se revisarán y documentarán los servicios implementados, asegurando que el ciclo de vida del proyecto esté bien reflejado en los reportes y cumpla con los requisitos técnicos y de usuario. A continuación, se presenta el sprint backlog 3 y el tablero de Trello con la asignación de tareas: https://trello.com/invite/b/672512a1979b384bf1006015/ATTIbe8ef605aa3f26bd40bb76cbc2e4b157520B003D/sprint-3-nutrisend 
+
+![image](https://github.com/user-attachments/assets/24f4f6a2-b408-4c8f-b6b8-e5478734cf73)
 
 <table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
   <thead>
@@ -2116,7 +2118,9 @@ A continuación, se muestran capturas de pantalla que ilustran las vistas princi
 
 En este Sprint, el equipo ha completado la documentación de los endpoints de NutriSend relacionados con la gestión de usuarios, pedidos, horarios de comidas, comidas, tipos de comidas y categorías de comidas, utilizando OpenAPI para una documentación estructurada y accesible. Esta documentación permite una visualización clara de los métodos disponibles en cada servicio, las acciones soportadas y los formatos de respuesta, brindando una guía integral tanto para el desarrollo como para la integración con otros sistemas. La documentación se encuentra en el entorno local para pruebas, con miras a su despliegue completo en sprints posteriores.
 
-Repositorio de Web Services:
+Repositorio de Web Services: http://localhost:8080/swagger-ui/index.html
+
+![image](https://github.com/user-attachments/assets/6f2f0ac2-3aea-4c01-a5b6-d40f01fbf411)
 
 **Tabla de Endpoints Documentados**
 
@@ -2388,6 +2392,10 @@ Repositorio de Web Services:
   </tbody>
 </table>
 
+**Users**
+
+![image](https://github.com/user-attachments/assets/44837291-96bf-4bf8-aee0-838fe819b9b4)
+
 - /api/v1/users
 
 **Documentación en OpenAPI para el Endpoint POST /users**
@@ -2406,6 +2414,10 @@ La captura muestra la documentación del endpoint para la creación de un usuari
 ![image](https://github.com/user-attachments/assets/3ed19c35-ff2a-4450-84b4-8c95ef4c06f4)
 
 La documentación proporciona detalles del endpoint GET /users, que devuelve la lista de users. La respuesta de ejemplo muestra un array de objetos, cada uno representando un user con su respectivo id, name, surname, email, password, plan.
+
+**Orders**
+
+![image](https://github.com/user-attachments/assets/e1db429a-e2c6-4529-a202-301ffd10d4b2)
 
 - /api/v1/orders
 
@@ -2433,6 +2445,11 @@ La documentación proporciona detalles del endpoint GET /orders, que devuelve la
 ![image](https://github.com/user-attachments/assets/591c9a7c-15fb-405f-b8a0-6b451530a560)
 
 La documentación proporciona detalles del endpoint GET /orders{id}, que devuelve el id del order solicitado. La respuesta de ejemplo muestra el pedido con su respectivo orderId, userId, items y total.
+
+**Meals**
+
+![image](https://github.com/user-attachments/assets/4b2f0bf6-4716-482d-99fa-a62073ac420c)
+
 
 - /api/v1/meals
 
@@ -2462,6 +2479,10 @@ La documentación proporciona detalles del endpoint GET /meals, que devuelve la 
 
 La documentación proporciona detalles del endpoint GET /meals{id}, que devuelve el id de la comida solicitado. La respuesta de ejemplo muestra la comida con su respectivo typeID, categoryID, id, name, calories, protein, carbohydrates, fats, price y img.
 
+**Type Meals**
+
+![image](https://github.com/user-attachments/assets/f21c45a9-8265-4977-ac12-6e9e607068cc)
+
 - /api/v1/type-meals
 
 **Documentación en OpenAPI para el Endpoint POST /type-meals**
@@ -2483,6 +2504,10 @@ La documentación proporciona detalles del endpoint GET /type-meals, que devuelv
 ![image](https://github.com/user-attachments/assets/8a25ddec-6c39-40b9-abc7-b75380fc5bc5)
 
 La documentación proporciona detalles del endpoint GET /type-meals{id}, que devuelve el id del tipo de comida solicitado. La respuesta de ejemplo muestra el tipo de comida con su respectivo id y name
+
+**Category Meals**
+
+![image](https://github.com/user-attachments/assets/84412b21-c2c1-4dab-b05f-f155e76f84de)
 
 - /api/v1/category
 

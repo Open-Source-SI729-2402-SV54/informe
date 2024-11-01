@@ -505,3 +505,5 @@ Spring 1 Trello:
 https://trello.com/b/OwgxqazN
 
 Spring 2 Trello: https://trello.com/invite/b/66d7a6d3f74f34d8d49ed99d/ATTI969f71c137d5b5526abf7dfc030d8a6039C6F076/spring-1-nutrisend 
+
+Sprint 3 Trello: https://trello.com/invite/b/672512a1979b384bf1006015/ATTIbe8ef605aa3f26bd40bb76cbc2e4b157520B003D/sprint-3-nutrisend
