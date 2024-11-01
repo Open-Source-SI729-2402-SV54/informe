@@ -295,7 +295,7 @@ A continuación, se detalla el desarrollo de las actividades relacionadas con la
         - [5.2.2.6. Services Documentation Evidence for Sprint Review](/chapter05.md#5226-services-documentation-evidence-for-sprint-review)
         - [5.2.2.7. Software Deployment Evidence for Sprint Review](/chapter05.md#5227-software-deployment-evidence-for-sprint-review)
         - [5.2.2.8. Team Collaboration Insights during Sprint](/chapter05.md#5228-team-collaboration-insights-during-sprint)
-      - [5.2.3. Sprint 2](/chapter05.md#523-sprint-3)
+      - [5.2.3. Sprint 3](/chapter05.md#523-sprint-3)
         - [5.2.3.1. Sprint Planning 3](/chapter05.md#5231-sprint-planning-2)
         - [5.2.3.2. Sprint Backlog 3](/chapter05.md#5232-sprint-backlog-3)
         - [5.2.3.3. Development Evidence for Sprint Review](/chapter05.md#5233-development-evidence-for-sprint-review)
@@ -304,6 +304,10 @@ A continuación, se detalla el desarrollo de las actividades relacionadas con la
         - [5.2.3.6. Services Documentation Evidence for Sprint Review](/chapter05.md#5236-services-documentation-evidence-for-sprint-review)
         - [5.2.3.7. Software Deployment Evidence for Sprint Review](/chapter05.md#5237-software-deployment-evidence-for-sprint-review)
         - [5.2.3.8. Team Collaboration Insights during Sprint](/chapter05.md#5238-team-collaboration-insights-during-sprint)
+    - [5.3. Validation Interviews](/chapter05.md#53-validation-interviews)
+      - [5.3.1. Diseño de Entrevistas](/chapter05.md#531-diseño-de-entrevistas)
+      - [5.3.2. Registro de Entrevistas](/chapter05.md#532-registro-de-entrevistas)
+      - [5.3.3. Evaluaciones según heurísticas](/chapter05.md#533-evaluaciones-según-heurísticas)
 
 [Conclusiones](#conclusiones)
 
