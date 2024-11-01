@@ -137,7 +137,7 @@
     </td>
   </tr>
   <tr>
-    <td>TB1</td>
+    <td>TP</td>
     <td>26/09/2024</td>
     <td>Renzo José Araujo Ingunza</td>
     <td>
@@ -147,7 +147,7 @@
     </td>
   </tr>
   <tr>
-    <td>TB1</td>
+    <td>TP</td>
     <td>6/09/2024</td>
     <td>Fatima Asmad Padilla</td>
     <td>
@@ -157,7 +157,7 @@
     </td>
   </tr>
   <tr>
-    <td>TB1</td>
+    <td>TP</td>
     <td>6/09/2024</td>
     <td>Jhordi Luis Carranza Pérez</td>
     <td>
@@ -166,14 +166,34 @@
     </td>
   </tr>
   <tr>
-    <td>TB1</td>
-    <td>6/09/2024</td>
-    <td>Luis Alfonso Villegas Jipa</td>
+    <td>TB2</td>
+    <td>31/10/2024</td>
+    <td>Camila Leonor Espinoza Vivas</td>
     <td>
-      - Completo su parte del front<br>
-      - Realizó user stories <br>
+      - Realizo su parte del bakcend<br>
+      - Avanzo el sprint 3 <br>
+      - Agrego los TS en el capitulo 3 <br>
     </td>
   </tr>
+  <tr>
+    <td>TB2</td>
+    <td>26/09/2024</td>
+    <td>Renzo José Araujo Ingunza</td>
+    <td>
+      - Realizo su parte del bakcend<br>
+      - Avanzo el sprint 3 <br>
+    </td>
+  </tr>
+  <tr>
+    <td>TB2</td>
+    <td>31/10/2024</td>
+    <td>Luis Alfonso Villegas Jipa</td>
+    <td>
+      - Realizo su parte del bakcend<br>
+      - Avanzo el sprint 3 <br>
+    </td>
+  </tr>
+
   <tr>
 </table>
 
@@ -283,6 +303,15 @@ A continuación, se detalla el desarrollo de las actividades relacionadas con la
         - [5.2.2.6. Services Documentation Evidence for Sprint Review](/chapter05.md#5226-services-documentation-evidence-for-sprint-review)
         - [5.2.2.7. Software Deployment Evidence for Sprint Review](/chapter05.md#5227-software-deployment-evidence-for-sprint-review)
         - [5.2.2.8. Team Collaboration Insights during Sprint](/chapter05.md#5228-team-collaboration-insights-during-sprint)
+      - [5.2.3. Sprint 2](/chapter05.md#523-sprint-3)
+        - [5.2.3.1. Sprint Planning 3](/chapter05.md#5231-sprint-planning-2)
+        - [5.2.3.2. Sprint Backlog 3](/chapter05.md#5232-sprint-backlog-3)
+        - [5.2.3.3. Development Evidence for Sprint Review](/chapter05.md#5233-development-evidence-for-sprint-review)
+        - [5.2.3.4. Testing Suite Evidence for Sprint Review](/chapter05.md#5234-testing-suite-evidence-for-sprint-review)
+        - [5.2.3.5. Execution Evidence for Sprint Review](/chapter05.md#5235-execution-evidence-for-sprint-review)
+        - [5.2.3.6. Services Documentation Evidence for Sprint Review](/chapter05.md#5236-services-documentation-evidence-for-sprint-review)
+        - [5.2.3.7. Software Deployment Evidence for Sprint Review](/chapter05.md#5237-software-deployment-evidence-for-sprint-review)
+        - [5.2.3.8. Team Collaboration Insights during Sprint](/chapter05.md#5238-team-collaboration-insights-during-sprint)
 
 [Conclusiones](#conclusiones)
 
