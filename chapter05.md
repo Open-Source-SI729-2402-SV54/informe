@@ -2207,19 +2207,38 @@ Repositorio de Web Services:
   }</td>
     </tr>
     <tr>
-      <td>/meals-schedule</td>
+      <td>/schedule</td>
       <td>POST</td>
-      <td>/meals-schedule</td>
+      <td>/schedule</td>
       <td>JSON Body: userId, meals, time</td>
-      <td>POST /meals-schedule</td>
-      <td></td>
+      <td>POST /schedule</td>
+      <td>{
+  "userId": 0,
+  "days": {
+    "additionalProp1": {
+      "additionalProp1": 0,
+      "additionalProp2": 0,
+      "additionalProp3": 0
+    },
+    "additionalProp2": {
+      "additionalProp1": 0,
+      "additionalProp2": 0,
+      "additionalProp3": 0
+    },
+    "additionalProp3": {
+      "additionalProp1": 0,
+      "additionalProp2": 0,
+      "additionalProp3": 0
+    }
+  }
+}</td>
     </tr>
     <tr>
-      <td>/meals-schedule</td>
+      <td>/schedule</td>
       <td>GET</td>
-      <td>/meals-schedule</td>
+      <td>/schedule</td>
       <td>N/A</td>
-      <td>GET /meals-schedule</td>
+      <td>GET /schedule</td>
       <td></td>
     </tr>
     <tr>
