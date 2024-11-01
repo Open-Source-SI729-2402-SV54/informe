@@ -1002,7 +1002,7 @@ Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del
 
 Para este tercer sprint, el objetivo principal será desarrollar la capa backend de NutriSend, asegurando una base robusta y escalable para las funcionalidades planificadas. En esta fase, implementaremos los servicios necesarios para la gestión de usuarios, horarios de comidas, pedidos, y preferencias a través de una API RESTful. Al igual que en los sprints anteriores, mantendremos el enfoque en el desarrollo ágil, garantizando iteraciones que fortalezcan la calidad del código y permitan futuras expansiones. La priorización de tareas y la claridad en los requerimientos serán claves para avanzar de manera efectiva hacia un backend funcional y bien estructurado.
 
-#### 5.2.3.1.Sprint Planning 3.
+#### 5.2.3.1.Sprint Planning 3
 
 <table table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
   <thead>
@@ -1062,7 +1062,7 @@ Para este tercer sprint, el objetivo principal será desarrollar la capa backend
      </tbody>
 </table>
 
-#### 5.2.3.2.Sprint Backlog 3.
+#### 5.2.3.2.Sprint Backlog 3
 
 En este tercer sprint, el enfoque principal es el desarrollo del backend de NutriSend, con la implementación de las principales funcionalidades que permitirán la gestión de usuarios, pedidos, horarios y preferencias mediante una API RESTful. Este sprint se centra en construir una estructura sólida para la lógica de negocio, optimizando la interacción entre el frontend y backend. Además, se revisarán y documentarán los servicios implementados, asegurando que el ciclo de vida del proyecto esté bien reflejado en los reportes y cumpla con los requisitos técnicos y de usuario. A continuación, se presenta el sprint backlog 3 y el tablero de Trello con la asignación de tareas:
 
@@ -1651,7 +1651,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
   </tbody>
 </table>
 
-#### 5.2.3.3.Development Evidence for Sprint Review.
+#### 5.2.3.3.Development Evidence for Sprint Review
 
 <table table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
   <thead>
@@ -1996,7 +1996,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
   </tbody>
 </table>
 
-#### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+#### 5.2.3.4.Testing Suite Evidence for Sprint Review
 
 <table table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
   <thead>
@@ -2021,7 +2021,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
   </tbody>
 </table>
 
-#### 5.2.3.5.Execution Evidence for Sprint Review.
+#### 5.2.3.5.Execution Evidence for Sprint Review
 
 Para el Sprint 3, el equipo de desarrolladores de NutriSend ha completado con éxito la implementación y despliegue del backend que gestiona las principales funcionalidades de la aplicación, incluyendo la gestión de usuarios, pedidos, notificaciones y horarios de comidas. Se ha verificado el funcionamiento adecuado de los servicios RESTful y la interacción con la base de datos, asegurando que los datos se gestionan de manera segura y eficiente. 
 
@@ -2054,7 +2054,7 @@ A continuación, se muestran capturas de pantalla que ilustran las vistas princi
 - Obtener Categoria de Comidas (GET /category)
 - Obtener Id de Categoria de Comidas (GET /category{id})
 
-#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review
 
 En este Sprint, el equipo ha completado la documentación de los endpoints de NutriSend relacionados con la gestión de usuarios, pedidos, horarios de comidas, comidas, tipos de comidas y categorías de comidas, utilizando OpenAPI para una documentación estructurada y accesible. Esta documentación permite una visualización clara de los métodos disponibles en cada servicio, las acciones soportadas y los formatos de respuesta, brindando una guía integral tanto para el desarrollo como para la integración con otros sistemas. La documentación se encuentra en el entorno local para pruebas, con miras a su despliegue completo en sprints posteriores.
 
@@ -2429,11 +2429,11 @@ Los siguientes commits reflejan el avance en la documentación de los servicios 
 
 * CommitID:  3e73918dad904021db4cf998277279f22a167383 - feat(controller): update - /type-meals - /category - /meals
 
-#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review
 
 
 
-#### 5.2.3.8.Team Collaboration Insights during Sprint.
+#### 5.2.3.8.Team Collaboration Insights during Sprint
 
 Durante este sprint, el equipo de desarrollo ha colaborado de manera efectiva en la implementación del backend utilizando herramientas como IntelliJ IDEA y GitHub para la gestión de versiones. A lo largo del proceso, seguimos las guías de estilos establecidas previamente para asegurar la consistencia en el código y facilitar la colaboración entre los miembros del equipo.
 
@@ -2445,11 +2445,11 @@ A continuación, presentaremos los diagramas de flujo que representan los commit
 
 
 
-## 5.3. Validation Interviews.
+## 5.3. Validation Interviews
 
 En esta sección, el equipo registra y explica las actividades de entrevistas de validación realizadas durante el proyecto. Se llevaron a cabo entrevistas de validación en las que usuarios representativos de los segmentos objetivo interactuaron tanto con la landing page como con la plataforma web de NutriSend. El objetivo de estas entrevistas fue obtener retroalimentación directa de los usuarios, identificando áreas de mejora y validando la usabilidad de las funcionalidades implementadas. A continuación, se detallan los elementos específicos de cada sección.
 
-### 5.3.1. Diseño de Entrevistas.
+### 5.3.1. Diseño de Entrevistas
 
 En esta sección, se definen los elementos a incluir en las sesiones de validación, teniendo en cuenta los distintos segmentos objetivo. Cada entrevista incluirá la evaluación de la landing page y de las aplicaciones, y se especificarán los flujos de usuario (user flows) que se evaluarán. Estos flujos están diseñados para reflejar las interacciones más relevantes y representativas que los usuarios tendrían al utilizar nuestras plataformas. Los elementos a considerar son:
 
@@ -2483,11 +2483,13 @@ Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera d
 * En qué medida sientes que NutriSend apoya tus objetivos de salud y bienestar?
 * En una escala del 1 al 10, ¿qué tan probable es que recomiendes NutriSend a otros que siguen un régimen alimenticio estructurado?
 
-### 5.3.2. Registro de Entrevistas.
+### 5.3.2. Registro de Entrevistas
 
 Para cada segmento, se llevarán a cabo de 3 a 5 entrevistas. A continuación se detalla la información que se recopilará para cada una de las entrevistas:
 
+**Segmento 1**
 
+**Segmento 2**
 
-### 5.3.3. Evaluaciones según heurísticas.
+### 5.3.3. Evaluaciones según heurísticas
 
