@@ -2487,9 +2487,178 @@ Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera d
 
 Para cada segmento, se llevarán a cabo de 3 a 5 entrevistas. A continuación se detalla la información que se recopilará para cada una de las entrevistas:
 
-**Segmento 1**
-
 **Segmento 2**
+
+**Entrevistador:** Luis Alfonso Villegas Jipa
+
+**Entrevistado:**
+
+**Nombre y Apellido:** Giovanni Torres.
+**Edad:** 25 años.
+**Distrito** Distrito Pachia - T acna
+**Screenshot de Video:** 
+
+![Entrevista_giovanni.png](img%2FEntrevista_giovanni.png)
+
+**URL del Video:** https://drive.google.com/file/d/1YFLqWDbwPpoaaLXgYNamPZSAM6bRaaf1/view
+
+**¿Cuál es tu nombre, edad y ocupación actual?**
+
+* Mi nombre es Giovanni Torres, tengo 25 años y mi ocupacion actual es practicante de Ingenieria Civil 
+
+**¿Cuál es tu estado civil y tienes alguna responsabilidad familiar que influya en cómo planificas tu dieta y ejercicio?**
+
+* Mi estado civil es soltero, vivo con mi familia en estos momentos y anteriormente practicaba el deporte de atletismo en mi colegio y siempre me ha gustado mantenerme en forma
+Ultimamente he vuelto a retomar a mi rutina de ejercicio. Ya que, acabo de culminar mi carrera y anteriormente no he podido hacer ejercicio.
+
+**¿Cómo calificarías la claridad de la información sobre los planes de nutrición en la landing page de NutriSend?**
+
+Tiene buena claridad de informacion sobre los planes ya que estoy mas interesado por el plan Premium por mi rutina de ejercicios que ya estoy retomando.
+
+**¿Te parece que la plataforma aborda adecuadamente tus necesidades dietéticas específicas?**
+
+* Si en especial en la seccion del deporte de futbol ya que es otro deporte que mas realizo con mis compañeros de trabajo y amigos cada fin de semana
+
+**¿Pudiste encontrar fácilmente información sobre los planes de comidas que se ajustan a tus requerimientos nutricionales?**
+
+* Si, pero me gustaria que se podria añadir mas contexto en los planes de deportes, saludable y disponibilidad 
+
+**¿Qué tan fácil fue para ti personalizar tu pedido para cumplir con tus objetivos de salud y fitness?**
+
+Facil, me gusto que pueda visualizar los platillos que estoy comprando y ver mi carrito de compras para luego dar con el pago. Tambien, me gusto que podria añadir un nuevo pedido porque aveces me gustaria personalizar mi pedido.
+Lo que faltaria añadir es tener una pestaña de mi historial de pedido para tenerlo encuenta.
+
+**¿Experimentaste alguna dificultad para navegar en la aplicación? Si es así, ¿qué aspectos consideras que deberían mejorarse?**
+
+Si, al tener acceso a los planes no tengo una forma de volver a la misma seccion y escoger otro tipo plan como natacion o volver a la pestaña de deportes a escoger otros platillo.
+Tambien, se deberia mejorar la interfaz de acceso ya que la imagen y el recuadro de "Sing in" como en "Sing up" esta descuadrado. Lo mismo en notificaciones ya que una vez que ingreso no puedo retroceder nuevamente a la pestaña anterior,
+me gustaria que tambien este en la barra de navegacion en forma de campanita para tener facil de acceso a las notificaciones.
+
+**¿Hay alguna funcionalidad que desearías que estuviera presente en la plataforma para facilitar tu experiencia?**
+
+Si, me gustaria que añadieran las opciones en la barra de tareas porque no tengo una forma de como volver en las distintas pestañas. Ya que, me fuerza salir y volver a ingresar paara poder navegar en distintas secciones.
+
+
+**En qué medida sientes que NutriSend apoya tus objetivos de salud y bienestar?**
+
+Siento que me da un buen beneficio de desarrollo deportivo ya que me apoya en mis objetivos de estar saludable.
+
+**En una escala del 1 al 10, ¿qué tan probable es que recomiendes NutriSend a otros que siguen un régimen alimenticio estructurado?**
+
+Lo doy un 8 porque tienen la base de ayuda para los usuarios que manejan un regimen alimentario estrcuturado. Asimismo, me ha gustado que su proyecto ha ido mejorando desde la propuesta que me indicaban y de visualizarlo ha hecho que me halla agradado, pero si se da las correcion que les nombre pues mi calificacion seria un 10.
+
+
 
 ### 5.3.3. Evaluaciones según heurísticas
 
+**UX Heuristics & Principles Evaluation**
+
+**Usability – Inclusive Design – Information Architecture**
+
+CARRERA : Ingeniería de Software
+
+CURSO : Desarrollo de Aplicaciones Open Source
+
+SECCIÓN : SV54
+
+PROFESOR : Hugo Allan Mori Paiva
+
+AUDITOR : NAXUS
+
+CLIENTE(S) : Grupo 1
+
+SITE o APP A EVALUAR: Nutrisend
+
+TAREAS A EVALUAR:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+* Web Application
+  * i. Diseño responsive para toda la aplicación
+  * ii. Seleccion de un proyecto
+  * iii. Accesibilidad a las funcionalidad propuestas
+  * iv. Acceso a los planes establecidos
+  * v. Diseño de los botones sign-in y sign-up
+
+### ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel | Descripción                                                                                                                                                                                     |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                   |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.                                 |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                               |
+
+#### TABLA DE RESUMEN - Web Application
+
+| # | Problema                                                        | Escala de severidad | Heurística/Principio violada(o)                 |
+|---|-----------------------------------------------------------------|---------------------|-------------------------------------------------|
+| 1 | Diseño no es responsive para toda la aplicación                 | 3                   | Inclusive Design: Adaptabilidad y Flexibilidad  |
+| 2 | Falta de mayor contenido en los planes                          | 1                   | Usibility: Flexibilidad y eficiencia de uso       |
+| 3 | No se puede volver a navegar en distinto planes                 | 4                   | Usability: Control y libertad del usuario       |
+| 4 | Botones no dinamicos para el sign-in y sign-up en la vista home | 1                   | Inclusive Design: Estética y diseño minimalista |
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+**PROBLEMA #1:** Diseño no es responsive para toda la aplicación
+
+**Severidad:** 3
+
+**Heurística violada:** Inclusive Design: Adaptabilidad y Flexibilidad
+
+**Problema:**
+La aplicacion web no es responsive en todas sus pages. Solo el toolbar y sidebar son responsive para todas las pages.
+Esto no permite que los usuarios utilicen correctamente la aplicacion y les evita acceder a secciones claves de la plataforma. Esta problematica
+tiene un nivel de severidad 3, ya que impide el uso de la aplicacion en todo su potencial.
+
+![Interfaz.png](img%2FInterfaz.png)
+
+**Recomendación:**
+Para solucionar el problema se deben agregar atributos responsive a la aplicacion mediante CSS.
+
+*PROBLEMA #2:** Falta de mayor contenido en los planes
+
+**Severidad:** 1
+
+**Heurística violada:** Usibility: Flexibilidad y eficiencia de uso
+
+**Problema:**
+La aplicacion web no brinda mayor informacion detallad. Solo se muestra una breve descripcion en "Planes".
+Esto no permite que los usuarios puedan informarse mejor y generar dudas de adquerir dicho plan. Esta problematica  tiene un nivel de severidad 1, ya que puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia.
+
+![orden_p.png](img%2Forden_p.png)
+
+**Recomendación:**
+Para solucionar el problema se deben agregar atributos a la aplicacion en el HTML.
+
+**PROBLEMA #3:** No se puede volver a navegar en distinto planes
+
+**Severidad:** 4
+
+**Heurística violada:** Usability: Control y libertad del usuario
+
+**Problema:**
+La aplicacion web no les permite a los usuarios acceder a la seccion nuevamente de "Planes".
+Esto no permite que los usuarios utilicen correctamente la aplicacion y les evita acceder a secciones claves de la plataforma. Esta problematica
+tiene un nivel de severidad 4, ya que impide el uso de la aplicacion en todo su potencial.
+
+![boton.png](img%2Fboton.png)
+
+**Recomendación:**
+Para solucionar el problema se debe agregar un boton que permita acceder a los planes que tiene el usuario.
+
+**PROBLEMA #4:** Botones no dinamicos para el sign-in y sign-up en la vista home
+
+**Severidad:** 1
+
+**Heurística violada:** Inclusive Design: Estética y diseño minimalista
+
+**Problema:**
+Los botones de "Ingresar" y "Registrarse" no son dinamicos en la seccion "Home". Sin embargo, los botones en otras secciones si lo son.
+Esto rompe con el diseño de la aplicacion y el estilo de la misma. Esta problematica
+tiene un nivel de severidad 1, ya que no impide el uso de la aplicacion en todo su potencial, pero quiebra el diseño coherente de la misma.
+
+![singup.png](img%2Fsingup.png)
+
+**Recomendación:**
+Para solucionar el problema se deben agregar atributos que simulen interaccion con los botones en CSS.
