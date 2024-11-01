@@ -2513,15 +2513,20 @@ La documentación proporciona detalles del endpoint GET /category{id}, que devue
 ![GET-schedule-controller](https://github.com/user-attachments/assets/14a505f6-aa36-4dbb-a0f1-0d692aa37cf5)
 
 ![GET-schedule-controller-2](https://github.com/user-attachments/assets/b8a452bd-0ce4-4176-96eb-836d0e8b070f)
+
 La documentación proporciona detalles del endpoint GET /schedule{userId}, que devuelve el id de la categoria solicitado. La respuesta de ejemplo muestra la categoria con su respectivo id y name
 
 **Documentación en OpenAPI para el Endpoint POST /schedule{userId}**
 
 ![POST-schedule-controller](https://github.com/user-attachments/assets/30f42600-62bb-42f8-94be-cfa1e4d6e92f)
 
+La documentación proporciona detalles del endpoint GET /schedule{userId}, que devuelve el id del horario solicitado.
+
 **Documentación en OpenAPI para el Endpoint DELETE /schedule{userId}**
 
 ![DELETE-schedule-controller](https://github.com/user-attachments/assets/87b19361-856f-4756-b45f-4452a2cd611a)
+
+a documentación proporciona detalles del endpoint GET /schedule{userId}, que elimina el id de la schedule solicitado.
 
 **Commits de Documentación de Web Services**
 
