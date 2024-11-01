@@ -361,6 +361,18 @@ A continuación, se detalla el desarrollo de las actividades relacionadas con la
       TP <br>
       Avanzó los elementos asignados a través de las reuniones grupales que fueron realizadas de manera diaria y semanal, pero no cumplio con los objetivos aun asi entrego en el plazo permitido. 
       <br>
+      Camila Leonor Espinoza Vivas <br>
+      TB2 <br>
+      Completó su parte del backend y avanzó en las tareas TS05, TS11 y TS12, pero se enfrentó a ciertos desafíos para alcanzar los objetivos específicos. A pesar de esto, su compromiso se refleja en la finalización del sprint 3 y la realización de su entrevista, donde demostró su capacidad para comunicar sus aportes al equipo.
+      <br>
+      Renzo José Araujo Ingunza<br>
+      TB2 <br>
+      Desarrolló su parte del backend y avanzó en las tareas TS08, TS09 y TS10. Aunque se encontró con algunos obstáculos, su capacidad para ayudar a completar el sprint 3 refleja su compromiso con el equipo. En su entrevista, se comunicó claramente sobre sus contribuciones y desafíos, lo que mejoró la cohesión del grupo.
+      <br>
+      Luis Alfonso Villegas Jipa<br>
+      TB2 <br>
+      Completó su parte del backend y se encargó de las tareas TS06 y TS13, aunque no cumplió con todos los objetivos específicos establecidos. Su ayuda para terminar el sprint 3 demuestra su disposición para colaborar con el equipo y su compromiso con los plazos, así como su efectiva comunicación durante su entrevista.
+      <br>
     </td>
     <td>
     TB1 <br>
@@ -368,7 +380,9 @@ A continuación, se detalla el desarrollo de las actividades relacionadas con la
     <br></br>
     TP1 <br>
     El equipo demostró un enfoque comprometido y colaborativo en la realización de las tareas asignadas, participando activamente en reuniones diarias y semanales para asegurar el progreso del proyecto. La creación del repositorio por parte de Camila y el apoyo en la integración del front end por parte de Renzo fueron fundamentales para el avance. Sin embargo, algunos miembros, enfrentaron dificultades en el cumplimiento de plazos y objetivos, lo que afectó temporalmente el progreso general. A pesar de estos inconvenientes, la comunicación fluida y la supervisión constante permitieron al equipo ajustar su trabajo y avanzar en la dirección correcta, resaltando la capacidad de colaboración y el compromiso de la mayoría de los integrantes.
-    </td>
+    </td></br>
+    TB2 <br>
+    El desarrollo del proyecto se vio significativamente afectado por la ausencia de dos miembros del equipo, Fátima y Jhordi, quienes decidieron retirarse en el último minuto. Esta situación obligó a los integrantes activos a reestructurar las tareas y a colaborar de manera más intensa para cumplir con los objetivos establecidos. A pesar de los desafíos que enfrentaron, como la redistribución de responsabilidades y la necesidad de comunicarse de manera más efectiva, el equipo demostró un fuerte compromiso y adaptabilidad. La capacidad de cada miembro para asumir nuevas tareas y trabajar juntos en la finalización del sprint 3 resalta la resiliencia del grupo ante la adversidad. Aunque la falta de participación de algunos compañeros generó dificultades, el equipo logró avanzar gracias a su colaboración y dedicación, lo que permitió cumplir con los plazos y alcanzar los hitos establecidos en el proyecto.
   </tr>
   <tr>
     <td>Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
@@ -403,17 +417,36 @@ A continuación, se detalla el desarrollo de las actividades relacionadas con la
       se encargó del despliegue del front end, una tarea esencial que permitió que la plataforma estuviera disponible para su revisión y pruebas. Su participación también fue clave en la integración de todas las partes del front end, asegurando que el producto final funcionara de manera cohesiva. Apoyó a sus compañeros aclarando dudas sobre aspectos de programación, demostrando un fuerte compromiso con el éxito del equipo y el proyecto.
       <br>
       Fatima Asmad Padilla<br>
-      TB1 <br> 
+      TP <br> 
       Completó su parte del front end, aunque no dentro del tiempo estimado inicialmente. A pesar de esto, mostró iniciativa al actualizar el product backlog, lo cual ayudó a mantener una visión clara de las tareas pendientes y los avances. Aunque no abordó completamente la incorporación de nuevas user stories, su participación en el sprint 2 demuestra su disposición a colaborar en etapas críticas del proyecto.
       <br>
       Jhordi Luis Carranza Pérez<br>	
-      TB1 <br>
+      TP <br>
       Finalizó su parte del front end, aunque no alcanzó los objetivos específicos que se habían establecido. A pesar de estas dificultades, su contribución fue clave en la actualización del impact map y terminando el capitulo 5, lo que permitió al equipo ajustar su estrategia general y visualizar mejor las conexiones entre las metas del proyecto y las tareas individuales. Su participación en este aspecto estratégico fue valiosa para la planificación futura del equipo.
       <br>
       Luis Alfonso Villegas Jipa<br>
-      TB1 <br>
+      TP <br>
       Completó su parte del front end y user stories, pero no cumplió con los objetivos específicos señalados para su tarea. Aunque se enfrentó a ciertos desafíos para alcanzar las metas definidas, su capacidad para finalizar su trabajo terminando el capitulo 5 refleja un compromiso con el equipo y una disposición para cumplir con los plazos a pesar de las dificultades.
       <br>
+      Camila Leonor Espinoza Vivas <br>
+      TB2 <br>
+      Asumió un papel fundamental en la comunicación escrita del equipo. Elaboró informes detallados sobre el progreso del backend, asegurando que toda la documentación estuviera actualizada y fuera accesible para todos. Además, preparó y presentó sus hallazgos de manera efectiva durante su entrevista, utilizando un lenguaje claro y conciso que facilitó la comprensión de sus contribuciones. Su capacidad para sintetizar información compleja y comunicarla a diferentes audiencias fue crucial para mantener la cohesión del equipo y el avance del proyecto.
+      <br>
+      Renzo José Araujo Ingunza<br>
+      TB2 <br>
+      Compiló y organizó la documentación de las tareas que completó, presentando la información de manera clara y estructurada. En su entrevista, utilizó un estilo de comunicación apropiado para diversos públicos, lo que facilitó la discusión sobre su contribución al proyecto y mejoró la colaboración en el equipo.
+      <br>
+      Luis Alfonso Villegas Jipa<br>
+      TB2 <br>
+      Redactó documentación técnica detallada sobre su parte del backend, lo que ayudó a los demás miembros del equipo a entender sus avances. También comunicó efectivamente sus resultados en la entrevista, asegurando que la información fuera comprensible para diferentes audiencias, desde técnicos hasta no técnicos.
+      <br>
+      Jhordi Luis Carranza Pérez<br>	
+      TB2 <br>
+      La falta de participación de Jhordi limitó su capacidad para contribuir a la comunicación escrita. Aunque se esperaba que proporcionara actualizaciones sobre su trabajo, su ausencia afectó la cohesión del equipo.
+      <br>
+      Fatima Asmad Padilla<br>
+      TP <br>
+      Al igual que Jhordi, su ausencia afectó la comunicación escrita dentro del grupo. Se anticipaba que Fátima colaboraría en la documentación y las discusiones escritas sobre el avance del proyecto, pero su retiro a último minuto dejó un vacío en la comunicación del equipo.
     </td>
     <td>
     TB1<br>
@@ -421,6 +454,11 @@ A continuación, se detalla el desarrollo de las actividades relacionadas con la
     <br>
     TP<br>
     El equipo mostró un alto nivel de colaboración y compromiso. Camila y Renzo lideraron tareas clave como la revisión, retroalimentación y despliegue del front end, además de apoyar a sus compañeros en la resolución de dudas. Aunque los demás enfrentaron dificultades para cumplir ciertos objetivos, completaron sus tareas y contribuyeron a aspectos importantes como el product backlog, el impact map. La comunicación efectiva permitió superar los desafíos y avanzar en el proyecto de manera sólida.
+    </td>
+    <br>
+    TB2<br>
+    La comunicación escrita en el equipo fue un factor crítico para el progreso del proyecto, especialmente en un contexto marcado por la ausencia de dos compañeros, Fátima y Jhordi. Camila se destacó como la principal comunicadora, asumiendo la responsabilidad de elaborar informes detallados y actualizados que facilitaron la comprensión del avance del backend por parte de todos los miembros del equipo. Su habilidad para presentar información técnica de manera accesible y clara permitió que el equipo se mantuviera alineado y en camino hacia el cumplimiento de los objetivos. 
+    Por otro lado, Luis y Renzo también contribuyeron a la documentación y comunicaron sus avances de manera efectiva, aunque la falta de participación de Jhordi y Fátima creó un desafío adicional. En general, la capacidad del equipo para adaptarse a estas ausencias y fortalecer su comunicación escrita refleja un compromiso compartido hacia la transparencia y la colaboración. A pesar de las dificultades, el equipo demostró una notable capacidad para manejar la comunicación escrita, lo que fue fundamental para mantener el rumbo del proyecto y cumplir con los plazos establecidos.
     </td>
   </tr>
 </table>
@@ -482,6 +520,12 @@ Despliegue del lading-page (version0.1): https://open-source-si729-2402-sv54.git
 Repositorio del informe: https://github.com/Open-Source-SI729-2402-SV54/informe.git
 
 Repositorio del landing-page: https://github.com/Open-Source-SI729-2402-SV54/landing-page.git
+
+Repositoria del front-end: https://github.com/Open-Source-SI729-2402-SV54/front-end.git
+
+Repositorio del front-end desplegado: https://github.com/C7leo/front-end-master.git
+
+Repositorio del backend: https://github.com/Open-Source-SI729-2402-SV54/nutrisend-platform.git
 
 As-is Scenario Mapping: https://miro.com/welcomeonboard/MmJhQlMzbUk5WE1NNkRtRXFlMWVqOG9KTDNrYVgwQzFZdHBzTjBGT0prdVc2elVrQnVmZHBaZEdCSERyNjBWQXwzNDU4NzY0NTUxNjIyOTUwNzc1fDI=?share_link_id=127293495699 
 
