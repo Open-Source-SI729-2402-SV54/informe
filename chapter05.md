@@ -2641,6 +2641,8 @@ Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera d
 
 **Entrevistador**: Renzo José Araujo Ingunza 
 
+**Entrevistado:**
+
 + Nombre y Apellido: Lian
 * Edad: 20 años 
 + Video:
@@ -2677,9 +2679,9 @@ En su mayoría, cumplen mis expectativas, aunque creo que una mayor variedad de 
 10. En una escala del 1 al 10, ¿qué tan probable es que uses NutriSend en el futuro para tus necesidades alimenticias?
 Diría un 7, porque me interesa el concepto, pero me gustaría ver algunos ajustes en la personalización y accesibilidad.
 
-
-
 **Entrevistador**:Luis Alfonso Villegas Jipa
+
+**Entrevistado:**
 
 + Nombre y Apellido:  Aldo Cafferata
 * Edad: 25 años 
@@ -2852,6 +2854,46 @@ Siento que me da un buen beneficio de desarrollo deportivo ya que me apoya en mi
 9. En una escala del 1 al 10, ¿qué tan probable es que recomiendes NutriSend a otros que siguen un régimen alimenticio estructurado?
 
 Lo doy un 8 porque tienen la base de ayuda para los usuarios que manejan un regimen alimentario estrcuturado. Asimismo, me ha gustado que su proyecto ha ido mejorando desde la propuesta que me indicaban y de visualizarlo ha hecho que me halla agradado, pero si se da las correcion que les nombre pues mi calificacion seria un 10.
+
+**Entrevistador**: Renzo José Araujo Ingunza 
+
+**Entrevistado:**
+
++ Nombre y Apellido: Lian
+* Edad: 20 años 
++ Video:
+
+![image](https://github.com/user-attachments/assets/4ce38dd8-61e6-4de1-a213-5e5c10757668)
+
+1. ¿Cuál es tu nombre, edad y ocupación actual?
+Mi nombre es [nombre del entrevistado], tengo 25 años y soy [ocupación del entrevistado].
+
+2. ¿Cuál es tu estado civil? ¿Tienes alguna responsabilidad familiar que influya en cómo planificas tu dieta y ejercicios?
+Soy divorciado y actualmente no tengo ninguna responsabilidad familiar que afecte la manera en que planifico mi dieta y ejercicio.
+
+3. ¿Cómo calificarías la claridad de la información sobre los planes de nutrición en la landing page de NutriSend?
+La verdad, me pareció bastante clara. Es similar a otras páginas en cuanto a organización y facilidad de lectura.
+
+4. ¿Te parece que la plataforma aborda adecuadamente tus necesidades dietéticas específicas?
+Sí, creo que hay una buena variedad en las opciones, lo cual permite que pueda ajustarse a las necesidades de cada persona.
+
+5. ¿Pudiste encontrar fácilmente información sobre los planes de comidas que se ajustan a tus requerimientos nutricionales?
+Sí, la información sobre macronutrientes, como proteínas, estaba bastante visible y fácil de ubicar.
+
+6. ¿Qué tan fácil fue para ti personalizar tu pedido para cumplir con tus objetivos de salud y fitness?
+Fue bastante fácil. La variedad del menú me permitió seleccionar diferentes platillos que se ajustaban a mis preferencias y necesidades nutricionales.
+
+7. ¿Experimentaste alguna dificultad para navegar en la aplicación? Si es así, ¿qué aspectos consideras que deberían mejorarse?
+No mencioné ninguna dificultad importante. Sin embargo, creo que una opción de envío rápido sería útil, especialmente si necesito la comida con mayor urgencia.
+
+8. ¿Hay alguna funcionalidad que desearías que estuviera presente en la plataforma para facilitar tu experiencia?
+Sí, como mencioné, una opción de envío rápido sería bastante beneficiosa en caso de necesidad urgente.
+
+9. ¿En qué medida sientes que NutriSend apoya tus objetivos de salud y bienestar?
+Siento que NutriSend apoya bastante mis objetivos, ya que me brinda un acceso conveniente para tener control sobre la información nutricional de los alimentos que consumo. Esto me permite rastrear mejor mi plan nutricional.
+
+10. En una escala del 1 al 10, ¿qué tan probable es que recomiendes NutriSend a otros que siguen un régimen alimenticio estructurado?
+Le daría una puntuación de 8.5 o 9, dependiendo de cuánto necesiten una guía nutricional.
 
 ### 5.3.3. Evaluaciones según heurísticas
 
