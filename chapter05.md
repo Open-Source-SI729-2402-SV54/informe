@@ -2239,7 +2239,26 @@ Repositorio de Web Services:
       <td>/schedule</td>
       <td>N/A</td>
       <td>GET /schedule</td>
-      <td></td>
+      <td>{
+  "userId": 0,
+  "days": {
+    "additionalProp1": {
+      "additionalProp1": 0,
+      "additionalProp2": 0,
+      "additionalProp3": 0
+    },
+    "additionalProp2": {
+      "additionalProp1": 0,
+      "additionalProp2": 0,
+      "additionalProp3": 0
+    },
+    "additionalProp3": {
+      "additionalProp1": 0,
+      "additionalProp2": 0,
+      "additionalProp3": 0
+    }
+  }
+}</td>
     </tr>
     <tr>
       <td>/meals</td>
