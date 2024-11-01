@@ -2574,7 +2574,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 
 * Web Application
   * i. Diseño responsive para toda la aplicación
-  * ii. Seleccion de un proyecto
+  * ii. Seleccion de un plan premium
   * iii. Accesibilidad a las funcionalidad propuestas
   * iv. Acceso a los planes establecidos
   * v. Diseño de los botones sign-in y sign-up
