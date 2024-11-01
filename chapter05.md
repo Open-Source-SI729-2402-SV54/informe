@@ -959,7 +959,7 @@ A continuación, se muestran capturas de pantalla que ilustran las vistas princi
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-Utilizamos el servicio de Hosting de Github para el despliegue de la aplicación web. A continuación se mostrarán los pasos para lograr el despliegue
+Utilizamos el servicio de vercel para el despliegue de la aplicación web. A continuación se mostrarán los pasos para lograr el despliegue
 
 **Para el despliegue nos solicita ingresar el enlace de nuestro proyecto con el siguiente enlace: https://github.com/C7leo/front-end-master.git**
 
@@ -999,6 +999,9 @@ Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del
 
 
 ### 5.2.3. Sprint 3
+
+Para este tercer sprint, el objetivo principal será desarrollar la capa backend de NutriSend, asegurando una base robusta y escalable para las funcionalidades planificadas. En esta fase, implementaremos los servicios necesarios para la gestión de usuarios, horarios de comidas, pedidos, y preferencias a través de una API RESTful. Al igual que en los sprints anteriores, mantendremos el enfoque en el desarrollo ágil, garantizando iteraciones que fortalezcan la calidad del código y permitan futuras expansiones. La priorización de tareas y la claridad en los requerimientos serán claves para avanzar de manera efectiva hacia un backend funcional y bien estructurado.
+
 #### 5.2.3.1.Sprint Planning 3.
 
 <table table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
@@ -1031,7 +1034,7 @@ Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del
     </tr>
     <tr>
       <th>Attendees (to planning meeting)</th>
-      <th>Camila Leonor Espinoza Vivas, Renzo José Araujo Ingunza	, Fatima Asmad Padilla, Jhordi Luis Carranza Pérez, Luis Alfonso Villegas Jipa</th>
+      <th>Camila Leonor Espinoza Vivas, Renzo José Araujo Ingunza, Luis Alfonso Villegas Jipa</th>
     </tr>
     <tr>
       <th> Sprint 3 – 1 Review Summary </th>
@@ -1060,6 +1063,8 @@ Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del
 </table>
 
 #### 5.2.3.2.Sprint Backlog 3.
+
+En este tercer sprint, el enfoque principal es el desarrollo del backend de NutriSend, con la implementación de las principales funcionalidades que permitirán la gestión de usuarios, pedidos, horarios y preferencias mediante una API RESTful. Este sprint se centra en construir una estructura sólida para la lógica de negocio, optimizando la interacción entre el frontend y backend. Además, se revisarán y documentarán los servicios implementados, asegurando que el ciclo de vida del proyecto esté bien reflejado en los reportes y cumpla con los requisitos técnicos y de usuario. A continuación, se presenta el sprint backlog 3 y el tablero de Trello con la asignación de tareas:
 
 <table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
   <thead>
@@ -1210,8 +1215,8 @@ Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del
       <td>Desarrollar la capa “domain”</td>
       <td>Implementar la lógica para listar usuarios existentes.</td>
       <td>3h</td>
-      <td>Fatima</td>
-      <td>InProcess </td>
+      <td>Luis</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS04</td>
@@ -1220,8 +1225,8 @@ Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del
       <td>Desarrollar la capa “internal”</td>
       <td>Implementar lógica interna para la gestión de la lista de usuarios.</td>
       <td>3h</td>
-      <td>Fatima</td>
-      <td>InProcess </td>
+      <td>Luis</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS04</td>
@@ -1230,8 +1235,8 @@ Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del
       <td>Desarrollar la capa jpa</td>
       <td>Configurar JPA para la recuperación de usuarios.</td>
       <td>3h</td>
-      <td>Fatima</td>
-      <td>InProcess </td>
+      <td>Luis</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS04</td>
@@ -1240,8 +1245,8 @@ Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del
       <td>Desarrollar la capa rest</td>
       <td>Crear endpoints REST para listar usuarios.</td>
       <td>3h</td>
-      <td>Fatima</td>
-      <td>InProcess </td>
+      <td>Luis</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS05</td>
@@ -1330,7 +1335,7 @@ Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del
       <td>Desarrollar la capa “domain”</td>
       <td>Implementar la lógica para enviar notificaciones a usuarios.</td>
       <td>3h</td>
-      <td>Renzo</td>
+      <td>Camila</td>
       <td>To-do</td>
     </tr>
     <tr>
@@ -1340,7 +1345,7 @@ Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del
       <td>Desarrollar la capa “internal”</td>
       <td>Implementar lógica interna para la gestión de notificaciones.</td>
       <td>3h</td>
-      <td>Renzo</td>
+      <td>Camila</td>
       <td>To-do</td>
     </tr>
     <tr>
@@ -1350,7 +1355,7 @@ Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del
       <td>Desarrollar la capa jpa</td>
       <td>Configurar JPA para la persistencia de notificaciones.</td>
       <td>3h</td>
-      <td>Renzo</td>
+      <td>Camila</td>
       <td>To-do</td>
     </tr>
     <tr>
@@ -1360,7 +1365,7 @@ Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del
       <td>Desarrollar la capa rest</td>
       <td>Crear endpoints REST para enviar notificaciones.</td>
       <td>3h</td>
-      <td>Renzo</td>
+      <td>Camila</td>
       <td>To-do</td>
     </tr>
     <tr>
@@ -1411,7 +1416,7 @@ Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del
       <td>Implementar la lógica para actualizar horarios de comidas.</td>
       <td>3h</td>
       <td>Renzo</td>
-      <td>To-do</td>
+      <td>In Process</td>
     </tr>
     <tr>
       <td>TS09</td>
@@ -1421,7 +1426,7 @@ Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del
       <td>Implementar lógica interna para gestionar la actualización de horarios de comidas.</td>
       <td>3h</td>
       <td>Renzo</td>
-      <td>To-do</td>
+      <td>In Process</td>
     </tr>
     <tr>
       <td>TS09</td>
@@ -1431,7 +1436,7 @@ Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del
       <td>Configurar JPA para actualizar la persistencia de horarios de comidas.</td>
       <td>3h</td>
       <td>Renzo</td>
-      <td>To-do</td>
+      <td>In Process</td>
     </tr>
     <tr>
       <td>TS09</td>
@@ -1441,7 +1446,7 @@ Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del
       <td>Crear endpoints REST para actualizar horarios de comidas.</td>
       <td>3h</td>
       <td>Renzo</td>
-      <td>To-do</td>
+      <td>In Process</td>
     </tr>
     <tr>
       <td>TS10</td>
@@ -1451,7 +1456,7 @@ Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del
       <td>Implementar la lógica para eliminar horarios de comidas.</td>
       <td>3h</td>
       <td>Renzo</td>
-      <td>To-do</td>
+      <td>In Process</td>
     </tr>
     <tr>
       <td>TS10</td>
@@ -1461,7 +1466,7 @@ Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del
       <td>Implementar lógica interna para gestionar la eliminación de horarios de comidas.</td>
       <td>3h</td>
       <td>Renzo</td>
-      <td>To-do</td>
+      <td>In Process</td>
     </tr>
     <tr>
       <td>TS10</td>
@@ -1471,7 +1476,7 @@ Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del
       <td>Configurar JPA para la eliminación de la persistencia de horarios de comidas.</td>
       <td>3h</td>
       <td>Renzo</td>
-      <td>To-do</td>
+      <td>In Process</td>
     </tr>
     <tr>
       <td>TS10</td>
@@ -1481,7 +1486,7 @@ Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del
       <td>Crear endpoints REST para eliminar horarios de comidas.</td>
       <td>3h</td>
       <td>Renzo</td>
-      <td>To-do</td>
+      <td>In Process</td>
     </tr>
     <tr>
       <td>TS11</td>
@@ -2016,14 +2021,473 @@ Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del
   </tbody>
 </table>
 
-
 #### 5.2.3.5.Execution Evidence for Sprint Review.
-#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
-#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
-#### 5.2.3.8.Team Collaboration Insights during Sprint.
-## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
-### 5.3.2. Registro de Entrevistas.
-### 5.3.3. Evaluaciones según heurísticas.
 
+Para el Sprint 3, el equipo de desarrolladores de NutriSend ha completado con éxito la implementación y despliegue del backend que gestiona las principales funcionalidades de la aplicación, incluyendo la gestión de usuarios, pedidos, notificaciones y horarios de comidas. Se ha verificado el funcionamiento adecuado de los servicios RESTful y la interacción con la base de datos, asegurando que los datos se gestionan de manera segura y eficiente. 
+
+Repositorio de código: https://github.com/Open-Source-SI729-2402-SV54/nutrisend-platform.git 
+
+
+A continuación, se muestran capturas de pantalla que ilustran las vistas principales implementadas durante este sprint: 
+
+- Gestión de Usuarios (POST /users)
+- Obtener Usuario (GET /users)
+- Obtener Id del Usuario (GET /users{id})
+
+- Gestión de Pedidos (POST /orders)
+- Obtener Peridido (GET /orders)
+- Obtener Id del Peridido (GET /orders{id})
+
+- Creación de Horario de Comidas (POST /meals-schedule)
+- Obtener Horario de Comidas (GET /meals-schedule)
+
+- Gestion de Comidas (POST /meals)
+- Obtener Comidas (GET /meals)
+- Obtener Id de Comidas (GET /meals{id})
+
+- Gestion de Tipos de Comidas (POST /type-meals)
+- Obtener Tipos de Comidas (GET /type-meals)
+- Obtener Id de Tipos de Comidas (GET /type-meals{id})
+
+
+- Gestion de Categoria de Comidas (POST /category)
+- Obtener Categoria de Comidas (GET /category)
+- Obtener Id de Categoria de Comidas (GET /category{id})
+
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+En este Sprint, el equipo ha completado la documentación de los endpoints de NutriSend relacionados con la gestión de usuarios, pedidos, horarios de comidas, comidas, tipos de comidas y categorías de comidas, utilizando OpenAPI para una documentación estructurada y accesible. Esta documentación permite una visualización clara de los métodos disponibles en cada servicio, las acciones soportadas y los formatos de respuesta, brindando una guía integral tanto para el desarrollo como para la integración con otros sistemas. La documentación se encuentra en el entorno local para pruebas, con miras a su despliegue completo en sprints posteriores.
+
+Repositorio de Web Services:
+
+**Tabla de Endpoints Documentados**
+
+<table>
+  <thead>
+    <tr>
+      <th>Endpoint</th>
+      <th>Acción HTTP</th>
+      <th>Sintaxis de Llamada</th>
+      <th>Parámetros</th>
+      <th>Ejemplo de Llamada</th>
+      <th>Ejemplo de Response</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/users</td>
+      <td>POST</td>
+      <td>/users</td>
+      <td>JSON Body: name, surname, email</td>
+      <td>POST /users</td>
+      <td>{ "id": 1, "name": "John", "surname": "Doe", "email": "johndoe@example.com" }</td>
+    </tr>
+    <tr>
+      <td>/users</td>
+      <td>GET</td>
+      <td>/users</td>
+      <td>N/A</td>
+      <td>GET /users</td>
+      <td>[{ "id": 1, "name": "John", "surname": "Doe", "email": "johndoe@example.com" }]</td>
+    </tr>
+    <tr>
+      <td>/orders</td>
+      <td>POST</td>
+      <td>/orders</td>
+      <td>JSON Body: userId, items, total</td>
+      <td>POST /orders</td>
+      <td>{
+  "id": 0,
+  "userId": "string",
+  "items": [
+    {
+      "name": "string",
+      "price": 0,
+      "category": "string",
+      "quantity": 0
+    }
+  ],
+  "total": 0
+}</td>
+    </tr>
+    <tr>
+      <td>/orders</td>
+      <td>GET</td>
+      <td>/orders</td>
+      <td>N/A</td>
+      <td>GET /orders</td>
+      <td>[{
+    "id": 0,
+    "userId": "string",
+    "items": [
+      {
+        "name": "string",
+        "price": 0,
+        "category": "string",
+        "quantity": 0
+      }
+    ],
+    "total": 0
+  }]</td>
+    </tr>
+    <tr>
+      <td>/orders/{id}</td>
+      <td>GET</td>
+      <td>/orders/{id}</td>
+      <td>Path: id</td>
+      <td>GET /orders/101</td>
+      <td>{
+    "id": 0,
+    "userId": "string",
+    "items": [
+      {
+        "name": "string",
+        "price": 0,
+        "category": "string",
+        "quantity": 0
+      }
+    ],
+    "total": 0
+  }</td>
+    </tr>
+    <tr>
+      <td>/meals-schedule</td>
+      <td>POST</td>
+      <td>/meals-schedule</td>
+      <td>JSON Body: userId, meals, time</td>
+      <td>POST /meals-schedule</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>/meals-schedule</td>
+      <td>GET</td>
+      <td>/meals-schedule</td>
+      <td>N/A</td>
+      <td>GET /meals-schedule</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>/meals</td>
+      <td>POST</td>
+      <td>/meals</td>
+      <td>JSON Body: name, categoryId</td>
+      <td>POST /meals</td>
+      <td>{
+    "typeID": "string",
+    "categoryID": "string",
+    "id": 0,
+    "name": "string",
+    "calories": 0,
+    "protein": 0,
+    "carbohydrates": 0,
+    "fats": 0,
+    "price": 0,
+    "img": "string"
+  }</td>
+    </tr>
+    <tr>
+      <td>/meals</td>
+      <td>GET</td>
+      <td>/meals</td>
+      <td>N/A</td>
+      <td>GET /meals</td>
+      <td>[{
+    "typeID": "string",
+    "categoryID": "string",
+    "id": 0,
+    "name": "string",
+    "calories": 0,
+    "protein": 0,
+    "carbohydrates": 0,
+    "fats": 0,
+    "price": 0,
+    "img": "string"
+  }]</td>
+    </tr>
+    <tr>
+      <td>/meals/{id}</td>
+      <td>GET</td>
+      <td>/meals/{id}</td>
+      <td>Path: id</td>
+      <td>GET /meals/301</td>
+      <td>{
+    "typeID": "string",
+    "categoryID": "string",
+    "id": 0,
+    "name": "string",
+    "calories": 0,
+    "protein": 0,
+    "carbohydrates": 0,
+    "fats": 0,
+    "price": 0,
+    "img": "string"
+  }</td>
+    </tr>
+    <tr>
+      <td>/type-meals</td>
+      <td>POST</td>
+      <td>/type-meals</td>
+      <td>JSON Body: typeName</td>
+      <td>POST /type-meals</td>
+      <td>{
+    "id": "string",
+    "name": "string"
+  }</td>
+    </tr>
+    <tr>
+      <td>/type-meals</td>
+      <td>GET</td>
+      <td>/type-meals</td>
+      <td>N/A</td>
+      <td>GET /type-meals</td>
+      <td>[{
+    "id": "string",
+    "name": "string"
+  }]</td>
+    </tr>
+    <tr>
+      <td>/type-meals/{id}</td>
+      <td>GET</td>
+      <td>/type-meals/{id}</td>
+      <td>Path: id</td>
+      <td>GET /type-meals/401</td>
+      <td>{
+    "id": "string",
+    "name": "string"
+  }</td>
+    </tr>
+    <tr>
+      <td>/category</td>
+      <td>POST</td>
+      <td>/category</td>
+      <td>JSON Body: categoryName</td>
+      <td>POST /category</td>
+      <td>{
+    "id": "string",
+    "name": "string"
+  }</td>
+    </tr>
+    <tr>
+      <td>/category</td>
+      <td>GET</td>
+      <td>/category</td>
+      <td>N/A</td>
+      <td>GET /category</td>
+      <td>[{
+    "id": "string",
+    "name": "string"
+  }]</td>
+    </tr>
+    <tr>
+      <td>/category/{id}</td>
+      <td>GET</td>
+      <td>/category/{id}</td>
+      <td>Path: id</td>
+      <td>GET /category/501</td>
+      <td>{
+    "id": "string",
+    "name": "string"
+  }</td>
+    </tr>
+  </tbody>
+</table>
+
+- /api/v1/users
+
+**Documentación en OpenAPI para el Endpoint POST /users**
+
+![image](https://github.com/user-attachments/assets/e0c9a45e-5a32-49d8-9da3-c882fd89ed20)
+
+![image](https://github.com/user-attachments/assets/5bfb50e0-ea8a-46b8-aea9-589f874cb276)
+
+La captura muestra la documentación del endpoint para la creación de un usuario con el método POST. Incluye la especificación de los campos requeridos en el cuerpo de la solicitud (name, surname, email) y un ejemplo de respuesta exitosa con un objeto JSON que representa el usuario creado
+
+
+**Documentación en OpenAPI para el Endpoint GET /users**
+
+![image](https://github.com/user-attachments/assets/48cc60fa-c1a6-4906-963e-a2d64f794ef9)
+
+![image](https://github.com/user-attachments/assets/3ed19c35-ff2a-4450-84b4-8c95ef4c06f4)
+
+La documentación proporciona detalles del endpoint GET /users, que devuelve la lista de users. La respuesta de ejemplo muestra un array de objetos, cada uno representando un user con su respectivo id, name, surname, email, password, plan.
+
+- /api/v1/orders
+
+**Documentación en OpenAPI para el Endpoint POST /orders**
+
+![image](https://github.com/user-attachments/assets/0855f14d-ecb6-4658-8f47-e7eb06e01921)
+
+![image](https://github.com/user-attachments/assets/59ef6545-5337-487a-9d8b-f42a3249130a)
+
+La captura muestra la documentación del endpoint para la creación de un pedido con el método POST. Incluye la especificación de los campos requeridos en el cuerpo de la solicitud y un ejemplo de respuesta exitosa con un objeto JSON que representa el usuario creado
+
+
+**Documentación en OpenAPI para el Endpoint GET /orders**
+
+![image](https://github.com/user-attachments/assets/d85733fc-7091-48f5-83d0-b095e8f69eac)
+
+![image](https://github.com/user-attachments/assets/f6a24e8c-49fd-4f14-a8ef-020f5bbb0cb4)
+
+
+La documentación proporciona detalles del endpoint GET /orders, que devuelve la lista de pedidos. La respuesta de ejemplo muestra un array de objetos, cada uno representando un pedido con su respectivo orderId, userId, items y total.
+
+**Documentación en OpenAPI para el Endpoint GET /orders{id}**
+
+![image](https://github.com/user-attachments/assets/5462db3d-5486-42f4-ba29-b275536888b4)
+![image](https://github.com/user-attachments/assets/591c9a7c-15fb-405f-b8a0-6b451530a560)
+
+La documentación proporciona detalles del endpoint GET /orders{id}, que devuelve el id del order solicitado. La respuesta de ejemplo muestra el pedido con su respectivo orderId, userId, items y total.
+
+- /api/v1/meals
+
+**Documentación en OpenAPI para el Endpoint POST /meals**
+
+![image](https://github.com/user-attachments/assets/fbbeb2c4-8516-4d8f-ad74-ec5bd0173ff0)
+
+![image](https://github.com/user-attachments/assets/3d1e85f1-c540-482e-bad4-056613c45e9b)
+
+
+La captura muestra la documentación del endpoint para la creación de una comida con el método POST. Incluye la especificación de los campos requeridos en el cuerpo de la solicitud y un ejemplo de respuesta exitosa con un objeto JSON que representa el usuario creado
+
+**Documentación en OpenAPI para el Endpoint GET /meals**
+
+![image](https://github.com/user-attachments/assets/4c2a5ffe-5f1c-4255-866a-034d064b224c)
+
+![image](https://github.com/user-attachments/assets/d5ec1912-6717-4985-872b-8bd3ab207129)
+
+La documentación proporciona detalles del endpoint GET /meals, que devuelve la lista de comidas. La respuesta de ejemplo muestra un array de objetos, cada uno representando un pedido con su respectivo typeID, categoryID, id, name, calories, protein, carbohydrates, fats, price y img.
+
+**Documentación en OpenAPI para el Endpoint GET /meals{id}**
+
+![image](https://github.com/user-attachments/assets/f13e3751-f2de-4f6a-bd1f-01b505a3f1b8)
+
+![image](https://github.com/user-attachments/assets/a864dfb3-cbad-4e7e-a4a2-19d937355e12)
+
+
+La documentación proporciona detalles del endpoint GET /meals{id}, que devuelve el id de la comida solicitado. La respuesta de ejemplo muestra la comida con su respectivo typeID, categoryID, id, name, calories, protein, carbohydrates, fats, price y img.
+
+- /api/v1/type-meals
+
+**Documentación en OpenAPI para el Endpoint POST /type-meals**
+
+![image](https://github.com/user-attachments/assets/b8079969-6656-4432-8983-ad419369b78e)
+
+![image](https://github.com/user-attachments/assets/ee38d2b1-bb5f-4637-a91d-eba87564ff50)
+
+La captura muestra la documentación del endpoint para la creación de un tipo de comida con el método POST. Incluye la especificación de los campos requeridos en el cuerpo de la solicitud y un ejemplo de respuesta exitosa con un objeto JSON que representa el usuario creado
+
+**Documentación en OpenAPI para el Endpoint GET /type-meals**
+
+![image](https://github.com/user-attachments/assets/f5370791-954f-45ed-ba6b-7a39104a094e)
+
+La documentación proporciona detalles del endpoint GET /type-meals, que devuelve la lista de comidas. La respuesta de ejemplo muestra un array de objetos, cada uno representando un pedido con su respectivo id y name
+
+**Documentación en OpenAPI para el Endpoint GET /type-meals{id}**
+
+![image](https://github.com/user-attachments/assets/8a25ddec-6c39-40b9-abc7-b75380fc5bc5)
+
+La documentación proporciona detalles del endpoint GET /type-meals{id}, que devuelve el id del tipo de comida solicitado. La respuesta de ejemplo muestra el tipo de comida con su respectivo id y name
+
+- /api/v1/category
+
+**Documentación en OpenAPI para el Endpoint POST /category**
+
+![image](https://github.com/user-attachments/assets/7e54b168-ca5f-43d6-8acc-78f2e1826f2d)
+
+![image](https://github.com/user-attachments/assets/8a52bb6d-c507-4c96-a1a3-06eb7113f898)
+
+La captura muestra la documentación del endpoint para la creación de una category con el método POST. Incluye la especificación de los campos requeridos en el cuerpo de la solicitud y un ejemplo de respuesta exitosa con un objeto JSON que representa el usuario creado
+
+**Documentación en OpenAPI para el Endpoint GET /category**
+
+![image](https://github.com/user-attachments/assets/c0ffdb13-f7dd-4b43-959a-6f680ae2719d)
+
+![image](https://github.com/user-attachments/assets/0708800c-0f72-4f90-8117-816e18df2c88)
+
+La documentación proporciona detalles del endpoint GET /category, que devuelve la lista de comidas. La respuesta de ejemplo muestra un array de objetos, cada uno representando un pedido con su respectivo id y name
+
+**Documentación en OpenAPI para el Endpoint GET /category{id}**
+
+![image](https://github.com/user-attachments/assets/bff77634-9585-4dcc-aac1-c59b4f3613e3)
+
+La documentación proporciona detalles del endpoint GET /category{id}, que devuelve el id de la categoria solicitado. La respuesta de ejemplo muestra la categoria con su respectivo id y name
+
+**Commits de Documentación de Web Services**
+
+Los siguientes commits reflejan el avance en la documentación de los servicios para este sprint:
+
+* CommitID: 93c4f81d6911bc45acc1b154385d8a7bd64d1a04 - feat(order): added inferfaces OrderController - /orders
+
+* CommitID: bc66ceb71933b1595e1eb8951676b650cda95878 - feat(order): added OrderController - /ordes
+
+* CommitID:  f20ed10173ad3761616091d52e832f2abf273a1c - feat(meals): add meal controller - /meals
+
+
+* CommitID:  baa682e4dd2594582473a9e82114ab9d8232532a - feat(controller): add category and type meal get - /type-meals - /category
+
+* CommitID:  4bcaa0f860e350b59aed6ce709b29c2fefd99b33 - feat(controller): add category and type meal post - /type-meals - /category
+
+* CommitID:  3e73918dad904021db4cf998277279f22a167383 - feat(controller): update - /type-meals - /category - /meals
+
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+
+
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+
+Durante este sprint, el equipo de desarrollo ha colaborado de manera efectiva en la implementación del backend utilizando herramientas como IntelliJ IDEA y GitHub para la gestión de versiones. A lo largo del proceso, seguimos las guías de estilos establecidas previamente para asegurar la consistencia en el código y facilitar la colaboración entre los miembros del equipo.
+
+El desarrollo de los Web Services se llevó a cabo mediante el uso de RESTful APIs, lo que nos permitió manejar de manera eficiente las funcionalidades requeridas, como la gestión de usuarios, pedidos y horarios de comidas. Además, se implementaron pruebas unitarias e integradas para garantizar la calidad del código y el correcto funcionamiento de los endpoints.
+
+El equipo mantuvo una comunicación constante a través de herramientas de gestión de proyectos, lo que facilitó la asignación de tareas y el seguimiento del progreso. Utilizamos métodos ágiles para adaptarnos rápidamente a los cambios y asegurar que se cumplieran los objetivos del sprint.
+
+A continuación, presentaremos los diagramas de flujo que representan los commits realizados por cada miembro del equipo, reflejando la colaboración y el esfuerzo colectivo durante el desarrollo de este sprint.
+
+
+
+## 5.3. Validation Interviews.
+
+En esta sección, el equipo registra y explica las actividades de entrevistas de validación realizadas durante el proyecto. Se llevaron a cabo entrevistas de validación en las que usuarios representativos de los segmentos objetivo interactuaron tanto con la landing page como con la plataforma web de NutriSend. El objetivo de estas entrevistas fue obtener retroalimentación directa de los usuarios, identificando áreas de mejora y validando la usabilidad de las funcionalidades implementadas. A continuación, se detallan los elementos específicos de cada sección.
+
+### 5.3.1. Diseño de Entrevistas.
+
+En esta sección, se definen los elementos a incluir en las sesiones de validación, teniendo en cuenta los distintos segmentos objetivo. Cada entrevista incluirá la evaluación de la landing page y de las aplicaciones, y se especificarán los flujos de usuario (user flows) que se evaluarán. Estos flujos están diseñados para reflejar las interacciones más relevantes y representativas que los usuarios tendrían al utilizar nuestras plataformas. Los elementos a considerar son:
+
+**Segmento 1: Personas con Tiempo Limitado para Cocinar**
+
+Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera de .... estudio en la universidad peruana de ciencias aplicadas. A continuación le hare unas preguntas.
+
+* ¿Cuál es tu nombre, edad y ocupación actual?
+* ¿Cuál es tu estado civil y tienes alguna responsabilidad familiar que influya en cómo planificas tu dieta y ejercicio?
+* ¿Qué te pareció la landing page de NutriSend cuando la visitaste por primera vez?
+* ¿La información sobre los servicios ofrecidos es clara y fácil de encontrar?
+* ¿Te resultó fácil realizar un pedido de comida a través de la plataforma?
+* ¿Qué tan conveniente te pareció el proceso de selección de alimentos?
+* ¿Tuviste algún problema al registrarte o iniciar sesión? Si es así, ¿puedes describirlo?
+* ¿Cómo calificarías la navegación por las diferentes secciones de la aplicación?
+* ¿En qué medida satisfacen tus necesidades las opciones de comida ofrecidas?
+* En una escala del 1 al 10, ¿qué tan probable es que uses NutriSend en el futuro para tus necesidades alimenticias?
+
+**Segmento 2: Personas que Siguen un Régimen Alimenticio Estructurado con Ejercicios**
+
+Hola buen....(días/tarde/noches) soy (nombre del entrevistador) de la carrera de .... estudio en la universidad peruana de ciencias aplicadas. A continuación le hare unas preguntas.
+
+* ¿Cuál es tu nombre, edad y ocupación actual?
+* ¿Cuál es tu estado civil y tienes alguna responsabilidad familiar que influya en cómo planificas tu dieta y ejercicio?
+* ¿Cómo calificarías la claridad de la información sobre los planes de nutrición en la landing page de NutriSend?
+* ¿Te parece que la plataforma aborda adecuadamente tus necesidades dietéticas específicas?
+* ¿Pudiste encontrar fácilmente información sobre los planes de comidas que se ajustan a tus requerimientos nutricionales?
+* ¿Qué tan fácil fue para ti personalizar tu pedido para cumplir con tus objetivos de salud y fitness?
+* ¿Experimentaste alguna dificultad para navegar en la aplicación? Si es así, ¿qué aspectos consideras que deberían mejorarse?
+* ¿Hay alguna funcionalidad que desearías que estuviera presente en la plataforma para facilitar tu experiencia?
+* En qué medida sientes que NutriSend apoya tus objetivos de salud y bienestar?
+* En una escala del 1 al 10, ¿qué tan probable es que recomiendes NutriSend a otros que siguen un régimen alimenticio estructurado?
+
+### 5.3.2. Registro de Entrevistas.
+
+Para cada segmento, se llevarán a cabo de 3 a 5 entrevistas. A continuación se detalla la información que se recopilará para cada una de las entrevistas:
+
+
+
+### 5.3.3. Evaluaciones según heurísticas.
 
