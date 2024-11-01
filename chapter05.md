@@ -2538,6 +2538,11 @@ Los siguientes commits reflejan el avance en la documentación de los servicios 
 
 * CommitID:  3e73918dad904021db4cf998277279f22a167383 - feat(controller): update - /type-meals - /category - /meals
 
+* CommitID: 1aa48920ee16fbbf68c0de354670422df90bd4dd  - feat: Schedule Services -/schedule
+
+* CommitID: 036f6636dd67e857b4b7bd1834b997ec15177c85  - feat: ScheduleController -/schedule
+
+
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review
 
 
