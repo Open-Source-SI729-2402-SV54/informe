@@ -32,14 +32,6 @@
     <td>u202113612</td>
   </tr>
   <tr>
-    <td>Fatima Asmad Padilla</td>
-    <td>u202113612</td>
-  </tr>
-   <tr>
-    <td>Jhordi Luis Carranza Pérez</td>
-    <td>u20191e835</td>
-  </tr>
-  <tr>
     <td>Luis Alfonso Villegas Jipa</td>
     <td>u201717523</td>
   </tr>
@@ -455,7 +447,13 @@ TP
 
 - La comunicación constante entre los miembros del equipo fue clave para superar obstáculos, lo que subraya la importancia de mantener un diálogo abierto para el éxito en proyectos colaborativos.
 
-Video About-the-Team: 
+TB2
+
+- El equipo de desarrollo de NutriSend logró avances importantes, a pesar de contar con la participación de tres de los cinco miembros previstos. Este ajuste en la disponibilidad del equipo requirió una reestructuración de las tareas y una colaboración más intensa entre los integrantes activos para cumplir con los objetivos. A pesar de los desafíos, el equipo logró completar la documentación de los endpoints y llevar a cabo actividades de validación importantes. Estos avances proporcionan una base sólida para la continuidad del desarrollo en los próximos sprints y refuerzan la adaptabilidad y colaboración del equipo ante cambios inesperados.
+
+- El Sprint 3 presentó tanto avances importantes en el desarrollo del backend de NutriSend como retos que desafiaron al equipo. A pesar de contar con solo tres de los cinco integrantes, el equipo trabajó de manera enfocada y logró cumplir con varios de los objetivos propuestos. Se implementaron los endpoints más críticos (gestión de usuarios, comidas, pedidos y horarios de comidas) y se documentaron adecuadamente utilizando OpenAPI. Esta documentación permitirá que futuras iteraciones se realicen con una mayor claridad y facilita el mantenimiento.
+
+# Video About-the-Team: 
 
 # Bibliografía
 
@@ -506,4 +504,4 @@ https://lucid.app/lucidchart/70432eed-3de6-4692-b911-abeeb9d8b2fc/edit?viewport_
 Spring 1 Trello: 
 https://trello.com/b/OwgxqazN
 
-Spring 2 Trello: 
+Spring 2 Trello: https://trello.com/invite/b/66d7a6d3f74f34d8d49ed99d/ATTI969f71c137d5b5526abf7dfc030d8a6039C6F076/spring-1-nutrisend 

@@ -2038,8 +2038,10 @@ A continuación, se muestran capturas de pantalla que ilustran las vistas princi
 - Obtener Peridido (GET /orders)
 - Obtener Id del Peridido (GET /orders{id})
 
-- Creación de Horario de Comidas (POST /meals-schedule)
-- Obtener Horario de Comidas (GET /meals-schedule)
+- Creación de Horario de Comidas (POST /schedule)
+- Obtener Horario de Comidas (GET /schedule)
+- Obtener Horario de Comidas (PUT /schedule)
+- Obtener Horario de Comidas (DELETE /schedule)
 
 - Gestion de Comidas (POST /meals)
 - Obtener Comidas (GET /meals)
@@ -2443,7 +2445,15 @@ El equipo mantuvo una comunicación constante a través de herramientas de gesti
 
 A continuación, presentaremos los diagramas de flujo que representan los commits realizados por cada miembro del equipo, reflejando la colaboración y el esfuerzo colectivo durante el desarrollo de este sprint.
 
+![image](https://github.com/user-attachments/assets/e607ca46-48f4-45ed-98cf-4bfeff483e4f)
 
+![image](https://github.com/user-attachments/assets/7c7e9d7e-bfb1-48d6-8eac-75c481d5ffec)
+
+Asimismo, se muestra en una represetacion visual sobre el trafico de los "Git clones" y "Visitors" registrados en cada accion realizada al cabo de la elaboracion en el repositorio.
+
+Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del desarrollo.
+
+![image](https://github.com/user-attachments/assets/03940798-e389-4101-aa33-e2387379f0bd)
 
 ## 5.3. Validation Interviews
 
@@ -2492,4 +2502,193 @@ Para cada segmento, se llevarán a cabo de 3 a 5 entrevistas. A continuación se
 **Segmento 2**
 
 ### 5.3.3. Evaluaciones según heurísticas
+
+
+UX Heuristics & Principles Evaluation
+Usability – Inclusive Design – Information Architecture
+CARRERA : Ingeniería de Software
+CURSO : Desarrollo de Aplicaciones Open Source
+SECCIÓN : SV54
+PROFESORES : Todos
+AUDITOR : NAXUS
+CLIENTE(S) : Camila Leonor Espinoza Vivas, Renzo José Araujo Ingunza y Luis Alfonso Villegas Jipa
+
+**SITE o APP A EVALUAR:**
+
+NutriSend
+
+**TAREAS A EVALUAR:**
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
++ Registro de un usuario nuevo
++ Inicio de sesion de un usuario
++ Edicion del perfil 
++ Seleccion de un plan de suscripcion 
++ Gestion de catalogo de comida para plan free y premuim
++ Gestion de tipos de comida
++ Gestion de categorias de comida
++ Creación de un horario de un usuario
++ Gestión de pagos de comidas
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
++ Gestion de preferencias de comida del usuario 
++ Notificaciones
+
+
+**ESCALA DE SEVERIDAD:**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+<table>
+        <thead>
+            <tr>
+                <th>Nivel</th>
+                <th>Descripción</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release.</td>   
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>   
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>   
+            </tr>
+        </tbody>
+</table>
+
+
+**TABLA RESUMEN** 
+
+<table>
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Problema</th>
+                <th>Escala de severidad</th>
+                <th>Heurística/Principio violada(o)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>La opción de recuperación de contraseña no envía correos electrónicos de manera oportuna, causando fricción para los usuarios que intentan restablecer su acceso.</td>
+                <td>3</td>
+                <td>Arquitectura de información, consistencia y normas</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>La opción de recuperación de contraseña no envía correos electrónicos de manera oportuna, causando fricción para los usuarios que intentan restablecer su acceso.</td>
+                <td>3</td>
+                <td>Visibilidad del estado del sistema, ayudar a los usuarios a reconocer y corregir errores</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>La aplicación no envía notificaciones de recordatorios para las comidas, lo cual afecta la experiencia del usuario que depende de recordatorios automáticos.</td>
+                <td>3</td>
+                <td>Visibilidad del estado del sistema, recordatorios proactivos</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>No es posible editar la tabla de horarios una vez creada, limitando la flexibilidad para usuarios que necesitan ajustes.</td>
+                <td>3</td>
+                <td>Flexibilidad y eficiencia en el uso</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>	El método de pago aún no está implementado en el flujo de order-free, pero sí en order-premium, causando inconsistencias en la experiencia de usuario.</td>
+                <td>3</td>
+                <td>	Consistencia y estándares</td>
+            </tr>
+             <tr>
+                <td>5</td>
+                <td>No hay retroalimentación visual inmediata al seleccionar un plan de suscripción, lo que genera dudas sobre si la selección fue exitosa.</td>
+                <td>2</td>
+                <td>Visibilidad del estado del sistema</td>
+            </tr>
+        </tbody>
+</table>
+
+
+**DESCRIPCIÓN DE PROBLEMAS**
+
+**PROBLEMA #1: La opción de recuperación de contraseña no envía correos electrónicos de manera oportuna**
+
+Severidad: 3
+
+Heurística violada: Visibilidad del estado del sistema, ayudar a los usuarios a reconocer y corregir errores
+
+Problema:
+Los usuarios que olvidan su contraseña y desean recuperarla encuentran un retraso considerable en el envío del correo de recuperación, lo que afecta su experiencia. Esta falta de respuesta rápida provoca incertidumbre en el usuario, quien no tiene claro si la solicitud fue procesada correctamente o si debe repetirla.
+
+![image](https://github.com/user-attachments/assets/8a9b82e2-5a12-4fdf-9739-1a3ac301760a)
+
+Recomendación:
+Mejorar el tiempo de envío del correo y mostrar un mensaje de confirmación inmediatamente después de solicitar la recuperación. Adicionalmente, incluir un aviso del tiempo estimado de espera y una opción para reenviar el correo si no llega en un tiempo razonable.
+
+**PROBLEMA #2: La aplicación no envía notificaciones de recordatorios para las comidas**
+
+Severidad: 3
+
+Heurística violada: Visibilidad del estado del sistema, recordatorios proactivos
+
+Problema:
+Los usuarios que dependen de recordatorios automáticos para gestionar sus horarios de comidas no reciben notificaciones, lo cual reduce la efectividad de la aplicación en el seguimiento de sus planes de alimentación. La falta de esta función crucial afecta la experiencia y el compromiso del usuario con su planificación de comidas.
+
+![image](https://github.com/user-attachments/assets/dade36f9-2d6f-4c44-a50a-efdcc331f27d)
+
+Recomendación:
+Implementar un sistema de notificaciones de recordatorio, configurables por el usuario en cuanto a horario y frecuencia, para brindar recordatorios de comidas y optimizar su experiencia de uso.
+
+**PROBLEMA #3: No es posible editar la tabla de horarios una vez creada**
+
+Severidad: 3
+
+Heurística violada: Flexibilidad y eficiencia en el uso
+
+Problema:
+Los usuarios que necesitan hacer ajustes a su horario de comidas no cuentan con una opción para editar la tabla una vez que ha sido creada. Esta restricción limita la flexibilidad de uso y puede llevar a la frustración, especialmente si las necesidades del usuario cambian con frecuencia.
+
+![image](https://github.com/user-attachments/assets/a76f9cab-d6b5-4d8e-b2f5-edb256c54bc1)
+
+Recomendación:
+Agregar una función de edición para la tabla de horarios que permita ajustar los tiempos o eliminar comidas de forma fácil y rápida, otorgando mayor control al usuario sobre su planificación.
+
+**PROBLEMA #4: El método de pago aún no está implementado en el flujo de order-free, pero sí en order-premium**
+
+Severidad: 3
+
+Heurística violada: Consistencia y estándares
+
+Problema:
+El flujo de pago implementado solo para los usuarios Premium genera inconsistencias en la experiencia de usuario, especialmente para aquellos que desean actualizarse al plan de pago desde el plan Free. Esta falta de uniformidad afecta la coherencia de la aplicación y puede resultar confusa.
+
+![image](https://github.com/user-attachments/assets/867cae46-59fd-460a-ad10-a26802f9f68e)
+
+Recomendación:
+Asegurarse de que el flujo de pago esté habilitado para ambos planes o de que haya una clara notificación para los usuarios Free sobre el acceso a opciones de pago solo en el plan Premium, manteniendo así la coherencia en la navegación.
+
+**PROBLEMA #5: No hay retroalimentación visual inmediata al seleccionar un plan de suscripción**
+
+Severidad: 2
+
+Heurística violada: Visibilidad del estado del sistema
+
+Problema:
+Cuando un usuario selecciona un plan de suscripción, no recibe ninguna confirmación visual que indique que la selección fue exitosa. Esto genera dudas en el usuario, quien puede intentar seleccionar el plan varias veces o pensar que la acción no se registró correctamente.
+
+![image](https://github.com/user-attachments/assets/9b7d73cb-6ef1-42e2-a7d9-ae1e8f3c7673)
+
+Recomendación:
+Incorporar un mensaje de confirmación inmediato o una indicación visual, como el cambio de color en el botón o un icono de selección, que muestre de manera clara y rápida que el plan ha sido seleccionado con éxito.
+
 
