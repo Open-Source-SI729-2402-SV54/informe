@@ -1166,7 +1166,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
       <td>Crear endpoints REST para eliminar usuarios.</td>
       <td>3h</td>
       <td>Renzo</td>
-      <td>To-do</td>
+      <td>to-do</td>
     </tr>
     <tr>
       <td>TS03</td>
@@ -1376,7 +1376,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
       <td>Implementar la lógica para crear horarios de comidas.</td>
       <td>4h</td>
       <td>Renzo</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS08</td>
@@ -1386,7 +1386,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
       <td>Implementar lógica interna para gestionar horarios de comidas.</td>
       <td>4h</td>
       <td>Renzo</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS08</td>
@@ -1396,7 +1396,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
       <td>Configurar JPA para la persistencia de horarios de comidas.</td>
       <td>4h</td>
       <td>Renzo</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS08</td>
@@ -1406,7 +1406,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
       <td>Crear endpoints REST para crear horarios de comidas.</td>
       <td>4h</td>
       <td>Renzo</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS09</td>
@@ -1416,7 +1416,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
       <td>Implementar la lógica para actualizar horarios de comidas.</td>
       <td>3h</td>
       <td>Renzo</td>
-      <td>In Process</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS09</td>
@@ -1426,7 +1426,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
       <td>Implementar lógica interna para gestionar la actualización de horarios de comidas.</td>
       <td>3h</td>
       <td>Renzo</td>
-      <td>In Process</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS09</td>
@@ -1436,7 +1436,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
       <td>Configurar JPA para actualizar la persistencia de horarios de comidas.</td>
       <td>3h</td>
       <td>Renzo</td>
-      <td>In Process</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS09</td>
@@ -1446,7 +1446,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
       <td>Crear endpoints REST para actualizar horarios de comidas.</td>
       <td>3h</td>
       <td>Renzo</td>
-      <td>In Process</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS10</td>
@@ -1456,7 +1456,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
       <td>Implementar la lógica para eliminar horarios de comidas.</td>
       <td>3h</td>
       <td>Renzo</td>
-      <td>In Process</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS10</td>
@@ -1466,7 +1466,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
       <td>Implementar lógica interna para gestionar la eliminación de horarios de comidas.</td>
       <td>3h</td>
       <td>Renzo</td>
-      <td>In Process</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS10</td>
@@ -1476,7 +1476,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
       <td>Configurar JPA para la eliminación de la persistencia de horarios de comidas.</td>
       <td>3h</td>
       <td>Renzo</td>
-      <td>In Process</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS10</td>
@@ -1486,7 +1486,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
       <td>Crear endpoints REST para eliminar horarios de comidas.</td>
       <td>3h</td>
       <td>Renzo</td>
-      <td>In Process</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS11</td>
