@@ -1166,7 +1166,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
       <td>Crear endpoints REST para eliminar usuarios.</td>
       <td>3h</td>
       <td>Renzo</td>
-      <td>To-do</td>
+      <td>to-do</td>
     </tr>
     <tr>
       <td>TS03</td>
@@ -1376,7 +1376,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
       <td>Implementar la lógica para crear horarios de comidas.</td>
       <td>4h</td>
       <td>Renzo</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS08</td>
@@ -1386,7 +1386,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
       <td>Implementar lógica interna para gestionar horarios de comidas.</td>
       <td>4h</td>
       <td>Renzo</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS08</td>
@@ -1396,7 +1396,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
       <td>Configurar JPA para la persistencia de horarios de comidas.</td>
       <td>4h</td>
       <td>Renzo</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS08</td>
@@ -1406,7 +1406,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
       <td>Crear endpoints REST para crear horarios de comidas.</td>
       <td>4h</td>
       <td>Renzo</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS09</td>
@@ -1416,7 +1416,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
       <td>Implementar la lógica para actualizar horarios de comidas.</td>
       <td>3h</td>
       <td>Renzo</td>
-      <td>In Process</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS09</td>
@@ -1426,7 +1426,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
       <td>Implementar lógica interna para gestionar la actualización de horarios de comidas.</td>
       <td>3h</td>
       <td>Renzo</td>
-      <td>In Process</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS09</td>
@@ -1436,7 +1436,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
       <td>Configurar JPA para actualizar la persistencia de horarios de comidas.</td>
       <td>3h</td>
       <td>Renzo</td>
-      <td>In Process</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS09</td>
@@ -1446,7 +1446,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
       <td>Crear endpoints REST para actualizar horarios de comidas.</td>
       <td>3h</td>
       <td>Renzo</td>
-      <td>In Process</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS10</td>
@@ -1456,7 +1456,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
       <td>Implementar la lógica para eliminar horarios de comidas.</td>
       <td>3h</td>
       <td>Renzo</td>
-      <td>In Process</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS10</td>
@@ -1466,7 +1466,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
       <td>Implementar lógica interna para gestionar la eliminación de horarios de comidas.</td>
       <td>3h</td>
       <td>Renzo</td>
-      <td>In Process</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS10</td>
@@ -1476,7 +1476,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
       <td>Configurar JPA para la eliminación de la persistencia de horarios de comidas.</td>
       <td>3h</td>
       <td>Renzo</td>
-      <td>In Process</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS10</td>
@@ -1486,7 +1486,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
       <td>Crear endpoints REST para eliminar horarios de comidas.</td>
       <td>3h</td>
       <td>Renzo</td>
-      <td>In Process</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS11</td>
@@ -1993,6 +1993,62 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
         <td>--</td>
         <td>Oct 31, 2024</td>
     </tr>
+    <tr>
+      <td>RnAraujo/nutrisend-platform</td>
+        <td>Renzo</td>
+        <td>a3f24e6ab85678ba5af8c8d71eff24c2c2b1c68d</td>
+        <td>chore: initial commit, schedule class created</td>
+        <td>--</td>
+        <td>Nov 1, 2024</td>
+    </tr>
+    <tr>
+      <td>RnAraujo/nutrisend-platform</td>
+        <td>Renzo</td>
+        <td>f4e3e6a1af8d51df363455837541d9dd6f440c56</td>
+        <td>feat: commands and queries are created</td>
+        <td>--</td>
+        <td>Nov 1, 2024</td>
+    </tr>
+    <tr>
+      <td>RnAraujo/nutrisend-platform</td>
+        <td>Renzo</td>
+        <td>9cd4360cc8f3355d19c5ceeeaae8ad0cf4de6893</td>
+        <td>feat: Schedule repository are created</td>
+        <td>--</td>
+        <td>Nov 1, 2024</td>
+    </tr>
+    <tr>
+      <td>RnAraujo/nutrisend-platform</td>
+        <td>Renzo</td>
+        <td>1aa48920ee16fbbf68c0de354670422df90bd4dd</td>
+        <td>feat: Schedule Services and service impl are created</td>
+        <td>--</td>
+        <td>Nov 1, 2024</td>
+    </tr>
+    <tr>
+      <td>RnAraujo/nutrisend-platform</td>
+        <td>Renzo</td>
+        <td>036f6636dd67e857b4b7bd1834b997ec15177c85</td>
+        <td>feat: ScheduleResource and ScheduleTransformer are created, UpdateSch</td>
+        <td>--</td>
+        <td>Nov 1, 2024</td>
+    </tr>
+    <tr>
+      <td>RnAraujo/nutrisend-platform</td>
+        <td>Renzo</td>
+        <td>140000b2b293c938e0b4d263c1ec757a0d81b4fd</td>
+        <td>feat: ScheduleService update</td>
+        <td>--</td>
+        <td>Nov 1, 2024</td>
+    </tr>
+    <tr>
+      <td>RnAraujo/nutrisend-platform</td>
+        <td>Renzo</td>
+        <td>c623e2cb3708e1868791b7fc7d0f5f85694e6e25</td>
+        <td>feat: finish</td>
+        <td>--</td>
+        <td>Nov 1, 2024</td>
+    </tr>
   </tbody>
 </table>
 
@@ -2153,20 +2209,58 @@ Repositorio de Web Services:
   }</td>
     </tr>
     <tr>
-      <td>/meals-schedule</td>
+      <td>/schedule</td>
       <td>POST</td>
-      <td>/meals-schedule</td>
+      <td>/schedule</td>
       <td>JSON Body: userId, meals, time</td>
-      <td>POST /meals-schedule</td>
-      <td></td>
+      <td>POST /schedule</td>
+      <td>{
+  "userId": 0,
+  "days": {
+    "additionalProp1": {
+      "additionalProp1": 0,
+      "additionalProp2": 0,
+      "additionalProp3": 0
+    },
+    "additionalProp2": {
+      "additionalProp1": 0,
+      "additionalProp2": 0,
+      "additionalProp3": 0
+    },
+    "additionalProp3": {
+      "additionalProp1": 0,
+      "additionalProp2": 0,
+      "additionalProp3": 0
+    }
+  }
+}</td>
     </tr>
     <tr>
-      <td>/meals-schedule</td>
+      <td>/schedule</td>
       <td>GET</td>
-      <td>/meals-schedule</td>
+      <td>/schedule</td>
       <td>N/A</td>
-      <td>GET /meals-schedule</td>
-      <td></td>
+      <td>GET /schedule</td>
+      <td>{
+  "userId": 0,
+  "days": {
+    "additionalProp1": {
+      "additionalProp1": 0,
+      "additionalProp2": 0,
+      "additionalProp3": 0
+    },
+    "additionalProp2": {
+      "additionalProp1": 0,
+      "additionalProp2": 0,
+      "additionalProp3": 0
+    },
+    "additionalProp3": {
+      "additionalProp1": 0,
+      "additionalProp2": 0,
+      "additionalProp3": 0
+    }
+  }
+}</td>
     </tr>
     <tr>
       <td>/meals</td>
@@ -2414,6 +2508,21 @@ La documentación proporciona detalles del endpoint GET /category, que devuelve 
 
 La documentación proporciona detalles del endpoint GET /category{id}, que devuelve el id de la categoria solicitado. La respuesta de ejemplo muestra la categoria con su respectivo id y name
 
+**Documentación en OpenAPI para el Endpoint GET /schedule{userId}**
+
+![GET-schedule-controller](https://github.com/user-attachments/assets/14a505f6-aa36-4dbb-a0f1-0d692aa37cf5)
+
+![GET-schedule-controller-2](https://github.com/user-attachments/assets/b8a452bd-0ce4-4176-96eb-836d0e8b070f)
+La documentación proporciona detalles del endpoint GET /schedule{userId}, que devuelve el id de la categoria solicitado. La respuesta de ejemplo muestra la categoria con su respectivo id y name
+
+**Documentación en OpenAPI para el Endpoint POST /schedule{userId}**
+
+![POST-schedule-controller](https://github.com/user-attachments/assets/30f42600-62bb-42f8-94be-cfa1e4d6e92f)
+
+**Documentación en OpenAPI para el Endpoint DELETE /schedule{userId}**
+
+![DELETE-schedule-controller](https://github.com/user-attachments/assets/87b19361-856f-4756-b45f-4452a2cd611a)
+
 **Commits de Documentación de Web Services**
 
 Los siguientes commits reflejan el avance en la documentación de los servicios para este sprint:
@@ -2430,6 +2539,11 @@ Los siguientes commits reflejan el avance en la documentación de los servicios 
 * CommitID:  4bcaa0f860e350b59aed6ce709b29c2fefd99b33 - feat(controller): add category and type meal post - /type-meals - /category
 
 * CommitID:  3e73918dad904021db4cf998277279f22a167383 - feat(controller): update - /type-meals - /category - /meals
+
+* CommitID: 1aa48920ee16fbbf68c0de354670422df90bd4dd  - feat: Schedule Services -/schedule
+
+* CommitID: 036f6636dd67e857b4b7bd1834b997ec15177c85  - feat: ScheduleController -/schedule
+
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review
 
