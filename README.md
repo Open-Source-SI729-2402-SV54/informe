@@ -196,7 +196,33 @@ El enlace que sigue dirige al repositorio público de nuestra organización en G
 
 A continuación, se detalla el desarrollo de las actividades relacionadas con la elaboración del informe, incluyendo capturas de los análisis de colaboración y los commits en GitHub. Para la entrega de la TB1, se presenta un análisis de colaboración que muestra el número de contribuciones realizadas en el repositorio del informe.
 
-![Captura](https://github.com/user-attachments/assets/36af6261-76b7-44bd-a118-fd6a31b24481)
+![image](https://github.com/user-attachments/assets/9bf3ee45-6b81-48ff-8a3a-441f5468db01)
+
+
+**TB1**
+
+En la TB1 se trabajaron los capítulos 1 a 5, enfocándose en el desarrollo de la idea y su consolidación. Se identificó la necesidad de mejorar la planificación alimentaria personalizada y se definió una propuesta de valor basada en un modelo freemium, destacando la automatización y personalización de menús mediante algoritmos. Se realizó un análisis de mercado y competencia, se delineó el diseño inicial de la plataforma y se desplego el Landing page.
+
+![image](https://github.com/user-attachments/assets/89f779af-24eb-4a82-95a3-e4bc2aca011c)
+
+
+**TP**
+
+En la TP, se llevó a cabo el despliegue de la plataforma web, se corrigieron y perfeccionaron los user stories, y se afinaron funcionalidades según los objetivos establecidos.
+
+![image](https://github.com/user-attachments/assets/3787af8c-ef97-4b46-84a6-6b7bc7d4aa46)
+
+
+**TB2**
+
+En la TB2, el objetivo era el despliegue del backend, pero no se logró concretar. Durante esta etapa, dos integrantes del equipo se retiraron, lo que afectó la dinámica y carga de trabajo. A pesar de ello, se añadieron nuevas user stories que ampliaron y detallaron las funcionalidades previstas, sentando las bases para los próximos desarrollos.
+
+![image](https://github.com/user-attachments/assets/7d28e888-edb9-4d58-b97e-c4a1b9944ef0)
+
+**TF**
+
+En la TF, se realizaron los arreglos pendientes, se completó el despliegue del backend y se logró la conexión con el frontend, integrando todas las funcionalidades para ofrecer una plataforma funcional y lista para el usuario final.
+
 
 
 # Contenido 
