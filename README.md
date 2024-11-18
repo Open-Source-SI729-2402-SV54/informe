@@ -350,7 +350,8 @@ En la TF, se realizaron los arreglos pendientes, se completó el despliegue del 
     <th>Conclusiones</th>
   </tr>
   <tr>
-    <td>Comunica oralmente con efectividad a diferentes rangos de audiencia</td>
+    <td>Comunica oralmente con efectividad a diferentes rangos de audiencia
+    </td>
     <td>
       Camila Leonor Espinoza Vivas <br>
       TB1 <br>
@@ -410,9 +411,10 @@ En la TF, se realizaron los arreglos pendientes, se completó el despliegue del 
     <br></br>
     TP1 <br>
     El equipo demostró un enfoque comprometido y colaborativo en la realización de las tareas asignadas, participando activamente en reuniones diarias y semanales para asegurar el progreso del proyecto. La creación del repositorio por parte de Camila y el apoyo en la integración del front end por parte de Renzo fueron fundamentales para el avance. Sin embargo, algunos miembros, enfrentaron dificultades en el cumplimiento de plazos y objetivos, lo que afectó temporalmente el progreso general. A pesar de estos inconvenientes, la comunicación fluida y la supervisión constante permitieron al equipo ajustar su trabajo y avanzar en la dirección correcta, resaltando la capacidad de colaboración y el compromiso de la mayoría de los integrantes.
-    </td></br>
+    <br></br>
     TB2 <br>
     El desarrollo del proyecto se vio significativamente afectado por la ausencia de dos miembros del equipo, Fátima y Jhordi, quienes decidieron retirarse en el último minuto. Esta situación obligó a los integrantes activos a reestructurar las tareas y a colaborar de manera más intensa para cumplir con los objetivos establecidos. A pesar de los desafíos que enfrentaron, como la redistribución de responsabilidades y la necesidad de comunicarse de manera más efectiva, el equipo demostró un fuerte compromiso y adaptabilidad. La capacidad de cada miembro para asumir nuevas tareas y trabajar juntos en la finalización del sprint 3 resalta la resiliencia del grupo ante la adversidad. Aunque la falta de participación de algunos compañeros generó dificultades, el equipo logró avanzar gracias a su colaboración y dedicación, lo que permitió cumplir con los plazos y alcanzar los hitos establecidos en el proyecto.
+    </td> 
   </tr>
   <tr>
     <td>Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
@@ -484,7 +486,6 @@ En la TF, se realizaron los arreglos pendientes, se completó el despliegue del 
     <br>
     TP<br>
     El equipo mostró un alto nivel de colaboración y compromiso. Camila y Renzo lideraron tareas clave como la revisión, retroalimentación y despliegue del front end, además de apoyar a sus compañeros en la resolución de dudas. Aunque los demás enfrentaron dificultades para cumplir ciertos objetivos, completaron sus tareas y contribuyeron a aspectos importantes como el product backlog, el impact map. La comunicación efectiva permitió superar los desafíos y avanzar en el proyecto de manera sólida.
-    </td>
     <br>
     TB2<br>
     La comunicación escrita en el equipo fue un factor crítico para el progreso del proyecto, especialmente en un contexto marcado por la ausencia de dos compañeros, Fátima y Jhordi. Camila se destacó como la principal comunicadora, asumiendo la responsabilidad de elaborar informes detallados y actualizados que facilitaron la comprensión del avance del backend por parte de todos los miembros del equipo. Su habilidad para presentar información técnica de manera accesible y clara permitió que el equipo se mantuviera alineado y en camino hacia el cumplimiento de los objetivos. 
@@ -555,7 +556,11 @@ Repositoria del front-end: https://github.com/Open-Source-SI729-2402-SV54/front-
 
 Repositorio del front-end desplegado: https://github.com/C7leo/front-end-master.git
 
+Despligue del front-end: front-end-master-rouge.vercel.app
+
 Repositorio del backend: https://github.com/Open-Source-SI729-2402-SV54/nutrisend-platform.git
+
+Despliegue del backend: 
 
 As-is Scenario Mapping: https://miro.com/welcomeonboard/MmJhQlMzbUk5WE1NNkRtRXFlMWVqOG9KTDNrYVgwQzFZdHBzTjBGT0prdVc2elVrQnVmZHBaZEdCSERyNjBWQXwzNDU4NzY0NTUxNjIyOTUwNzc1fDI=?share_link_id=127293495699 
 

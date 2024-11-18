@@ -392,6 +392,8 @@ Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del
 
 ### 5.2.2. Sprint 2
 Para este segundo sprint, es crucial seguir clarificando las tareas y mantener el enfoque en nuestro proceso de desarrollo ágil. En esta fase, continuamos expandiendo las características establecidas en el sprint anterior, mejorando el código funcional y avanzando en su desarrollo de manera iterativa.
+
+
 #### 5.2.2.1. Sprint Planning 2
 
 <table table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
@@ -623,7 +625,7 @@ En este segundo sprint, nos enfocamos en integrar las funcionalidades avanzadas 
 </table>
 
 #### 5.2.2.3. Development Evidence for Sprint Review
-En esta sección se detallan y presentan los avances en la implementación de los componentes de la solución, de acuerdo con el alcance definido para el Sprint: Landing Page, Aplicaciones Web y Servicios Web. En primer lugar, se destacarán los commits más relevantes para el reporte, los cuales reflejan el ciclo de vida del proyecto, así como toda la información que se ha utilizado, se está utilizando y se utilizará en el desarrollo del mismo. En el siguiente enlace se encontrar el video about the product:
+En esta sección se detallan y presentan los avances en la implementación de los componentes de la solución, de acuerdo con el alcance definido para el Sprint: Landing Page, Aplicaciones Web y Servicios Web. En primer lugar, se destacarán los commits más relevantes para el reporte, los cuales reflejan el ciclo de vida del proyecto, así como toda la información que se ha utilizado, se está utilizando y se utilizará en el desarrollo del mismo. 
 
 <table>
     <thead>
@@ -1218,7 +1220,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
       <td>Implementar la lógica para listar usuarios existentes.</td>
       <td>3h</td>
       <td>Luis</td>
-      <td>Done</td>
+      <td>To-Review</td>
     </tr>
     <tr>
       <td>TS04</td>
@@ -1228,7 +1230,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
       <td>Implementar lógica interna para la gestión de la lista de usuarios.</td>
       <td>3h</td>
       <td>Luis</td>
-      <td>Done</td>
+      <td>To-Review</td>
     </tr>
     <tr>
       <td>TS04</td>
@@ -1238,7 +1240,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
       <td>Configurar JPA para la recuperación de usuarios.</td>
       <td>3h</td>
       <td>Luis</td>
-      <td>Done</td>
+      <td>To-Review</td>
     </tr>
     <tr>
       <td>TS04</td>
@@ -1248,7 +1250,7 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
       <td>Crear endpoints REST para listar usuarios.</td>
       <td>3h</td>
       <td>Luis</td>
-      <td>Done</td>
+      <td>To-Review</td>
     </tr>
     <tr>
       <td>TS05</td>
@@ -1654,6 +1656,8 @@ En este tercer sprint, el enfoque principal es el desarrollo del backend de Nutr
 </table>
 
 #### 5.2.3.3.Development Evidence for Sprint Review
+
+En esta sección se detallan y presentan los avances en la implementación de los componentes de la solución, de acuerdo con el alcance definido para el Sprint: Landing Page, Aplicaciones Web y Servicios Web. En primer lugar, se destacarán los commits más relevantes para el reporte, los cuales reflejan el ciclo de vida del proyecto, así como toda la información que se ha utilizado, se está utilizando y se utilizará en el desarrollo del mismo. 
 
 <table table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
   <thead>
@@ -2601,9 +2605,295 @@ Todo ello, demuestra el avance y el compromiso del equipo durante el periodo del
 
 En esta sección, el equipo registra y explica las actividades de entrevistas de validación realizadas durante el proyecto. Se llevaron a cabo entrevistas de validación en las que usuarios representativos de los segmentos objetivo interactuaron tanto con la landing page como con la plataforma web de NutriSend. El objetivo de estas entrevistas fue obtener retroalimentación directa de los usuarios, identificando áreas de mejora y validando la usabilidad de las funcionalidades implementadas. A continuación, se detallan los elementos específicos de cada sección.
 
+### 5.2.4. Sprint 4
+
+El objetivo principal de este cuarto sprint es completar el backend de NutriSend, asegurando una infraestructura sólida y escalable para las funcionalidades planeadas. Durante esta fase, finalizaremos los servicios necesarios para la gestión de usuarios, horarios de comidas, pedidos y preferencias a través de una API RESTful. Al igual que en los sprints previos, nos mantendremos enfocados en el desarrollo ágil, promoviendo iteraciones que refuercen la calidad del código y faciliten futuras ampliaciones. La priorización de tareas y la claridad en los requisitos serán fundamentales para avanzar de manera eficiente hacia un backend funcional y bien estructurado.
+
+#### 5.2.4.1.Sprint Planning 4.
+
+<table table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
+  <thead>
+    <tr>
+      <th>Sprint #</th>
+      <th>Sprint 4</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="2">Sprint Planning Background</th>
+    </tr>
+        </tr>
+    <tr>
+      <th>Date</th>
+      <th>13 - 11 - 2024</th>
+    </tr>
+    <tr>
+      <th>Time</th>
+      <th>19:02</th>
+    </tr>
+    <tr>
+      <th>Location</th>
+      <th>Discord (Reunión Virtual)</th>
+    </tr>
+    <tr>
+      <th>Prepared By</th>
+      <th>Espinoza Vivas, Camila Leonor</th>
+    </tr>
+    <tr>
+      <th>Attendees (to planning meeting)</th>
+      <th>Camila Leonor Espinoza Vivas, Renzo José Araujo Ingunza, Luis Alfonso Villegas Jipa</th>
+    </tr>
+    <tr>
+      <th> Sprint 4 – 1 Review Summary </th>
+      <th>Se espera avanzar significativamente en la implementación de las user stories TS01 a TS014, optimizando la funcionalidad del sistema y mejorando la experiencia del usuario.</th>
+    </tr>
+    <tr>
+      <th>Sprint 4 - 1 Retrospective Summary</th>
+      <th>El equipo ha trabajado en la comunicación y la colaboración, aprendiendo de las lecciones de los sprints anteriores para mejorar la eficiencia y cumplir con los objetivos establecidos. </th>
+    </tr>
+    <tr>
+      <th colspan="2">Sprint Goal & User Stories</th>
+    </tr>
+    <tr>
+      <th>Sprint 3 Goal</th>
+      <th>Nos centramos en desarrollar las funcionalidades de backend para las historias de usuario TS01 a TS014. Creemos que esto ofrece una API robusta y eficiente para nuestra aplicación. Esto se confirmará cuando los servicios de backend estén completamente implementados y probados con éxito.</th>
+    </tr>
+    <tr>
+      <th>Sprint 3 Velocity</th>
+      <th>Para este sprint se han seleccionado las user stories TS01 a TS014, que suman un total de 40 Story Points.</th>
+    </tr>
+    <tr>
+      <th>Sum of Story Points</th>
+      <th>40</th>
+    </tr>
+     </tbody>
+</table>
+
+#### 5.2.4.2.Sprint Backlog 4.
+
+
+<table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
+  <thead>
+    <tr>
+      <th>Sprint #</th>
+      <th colspan="7">Sprint 3</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">Work - Item / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation(Hours)</th>
+      <th>Assigned To</th>
+      <th>Status (To-do / InProcess / To-Review/ Done)</th>
+    </tr>
+  </thead>
+  <body>
+    <tr>
+      <td>TS02</td>
+      <td>Eliminar usuario de un RESTful API</td>
+      <td>TSK005</td>
+      <td>Desarrollar la capa "domain"</td>
+      <td>Implementar la lógica de negocio para eliminar usuarios.</td>
+      <td>3h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS02</td>
+      <td>Eliminar usuario de un RESTful API</td>
+      <td>TSK006</td>
+      <td>Desarrollar la capa “internal”</td>
+      <td>Implementar lógica interna para gestionar la eliminación de usuarios.</td>
+      <td>3h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS02</td>
+      <td>Eliminar usuario de un RESTful API</td>
+      <td>TSK007</td>
+      <td>Desarrollar la capa jpa</td>
+      <td>Configurar JPA para la eliminación de registros de usuario.</td>
+      <td>3h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS02</td>
+      <td>Eliminar usuario de un RESTful API</td>
+      <td>TSK008</td>
+      <td>Desarrollar la capa rest</td>
+      <td>Crear endpoints REST para eliminar usuarios.</td>
+      <td>3h</td>
+      <td>Renzo</td>
+      <td>to-do</td>
+    </tr>
+    <tr>
+      <td>TS03</td>
+      <td>Inicio de sesión a través de un RESTful API</td>
+      <td>TSK009</td>
+      <td>Desarrollar la capa “domain”</td>
+      <td>Implementar la lógica para el inicio de sesión de usuarios.</td>
+      <td>4h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS03</td>
+      <td>Inicio de sesión a través de un RESTful API</td>
+      <td>TSK010</td>
+      <td>Desarrollar la capa “internal”</td>
+      <td>Implementar la lógica interna para gestionar el inicio de sesión.</td>
+      <td>4h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS03</td>
+      <td>Inicio de sesión a través de un RESTful API</td>
+      <td>TSK011</td>
+      <td>Desarrollar la capa jpa</td>
+      <td>Configurar JPA para gestionar la autenticación de usuarios.</td>
+      <td>4h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS03</td>
+      <td>Inicio de sesión a través de un RESTful API</td>
+      <td>TSK012</td>
+      <td>Desarrollar la capa rest</td>
+      <td>Crear endpoints REST para el inicio de sesión.</td>
+      <td>4h</td>
+      <td>Renzo</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS07</td>
+      <td>Enviar notificaciones a los usuarios a través de un RESTful API</td>
+      <td>TSK025</td>
+      <td>Desarrollar la capa “domain”</td>
+      <td>Implementar la lógica para enviar notificaciones a usuarios.</td>
+      <td>3h</td>
+      <td>Camila</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS07</td>
+      <td>Enviar notificaciones a los usuarios a través de un RESTful API</td>
+      <td>TSK026</td>
+      <td>Desarrollar la capa “internal”</td>
+      <td>Implementar lógica interna para la gestión de notificaciones.</td>
+      <td>3h</td>
+      <td>Camila</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS07</td>
+      <td>Enviar notificaciones a los usuarios a través de un RESTful API</td>
+      <td>TSK027</td>
+      <td>Desarrollar la capa jpa</td>
+      <td>Configurar JPA para la persistencia de notificaciones.</td>
+      <td>3h</td>
+      <td>Camila</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS07</td>
+      <td>Enviar notificaciones a los usuarios a través de un RESTful API</td>
+      <td>TSK028</td>
+      <td>Desarrollar la capa rest</td>
+      <td>Crear endpoints REST para enviar notificaciones.</td>
+      <td>3h</td>
+      <td>Camila</td>
+      <td>To-do</td>
+    </tr>
+     <tr>
+      <td>TS14</td>
+      <td>Gestionar preferencias de usuario a través de un RESTful API</td>
+      <td>TSK053</td>
+      <td>Desarrollar la capa “domain”</td>
+      <td>Implementar la lógica para gestionar preferencias de usuario.</td>
+      <td>3h</td>
+      <td>Luis</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS14</td>
+      <td>Gestionar preferencias de usuario a través de un RESTful API</td>
+      <td>TSK054</td>
+      <td>Desarrollar la capa “internal”</td>
+      <td>Implementar lógica interna para gestionar preferencias de usuario.</td>
+      <td>3h</td>
+      <td>Luis</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS14</td>
+      <td>Gestionar preferencias de usuario a través de un RESTful API</td>
+      <td>TSK055</td>
+      <td>Desarrollar la capa jpa</td>
+      <td>Configurar JPA para la persistencia de preferencias de usuario.</td>
+      <td>3h</td>
+      <td>Luis</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TS14</td>
+      <td>Gestionar preferencias de usuario a través de un RESTful API</td>
+      <td>TSK056</td>
+      <td>Desarrollar la capa rest</td>
+      <td>Crear endpoints REST para gestionar preferencias de usuario.</td>
+      <td>3h</td>
+      <td>Luis</td>
+      <td>To-do</td>
+    </tr>
+  </body>
+</table>
+
+#### 5.2.4.3.Development Evidence for Sprint Review.
+
+En esta sección se detallan y presentan los avances en la implementación de los componentes de la solución, de acuerdo con el alcance definido para el Sprint: Landing Page, Aplicaciones Web y Servicios Web. En primer lugar, se destacarán los commits más relevantes para el reporte, los cuales reflejan el ciclo de vida del proyecto, así como toda la información que se ha utilizado, se está utilizando y se utilizará en el desarrollo del mismo. 
+
+<table table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>LuisVJ19/nutrisend-platform</td>
+      <td>luis</td>
+      <td>19bd91c4035e7ac65ef6f76c56c3860bdc99bca9</td>
+      <td>feat(order): Add OrderCommandService, implement OrderCommandServiceImpl</td>
+      <td>--</td>
+      <td>Oct 30, 2024</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.4.4.Testing Suite Evidence for Sprint Review.
+#### 5.2.4.5.Execution Evidence for Sprint Review.
+#### 5.2.4.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.4.7.Software Deployment Evidence for Sprint Review.
+#### 5.2.4.8.Team Collaboration Insights during Sprint.
+
+
 ### 5.3.1. Diseño de Entrevistas
 
-En esta sección, se definen los elementos a incluir en las sesiones de validación, teniendo en cuenta los distintos segmentos objetivo. Cada entrevista incluirá la evaluación de la landing page y de las aplicaciones, y se especificarán los flujos de usuario (user flows) que se evaluarán. Estos flujos están diseñados para reflejar las interacciones más relevantes y representativas que los usuarios tendrían al utilizar nuestras plataformas. Los elementos a considerar son:
+En esta sección, se definen los elementos a incluir en las sesiones de validación, teniendo en cuenta los distintos segmentos objetivo. Cada entrevista incluirá la evaluación de la landing page y de las aplicaciones, y se especificarán los flujos de usuario (user flows) que se evaluarán. Estos flujos están diseñados para reflejar las interacciones más relevantes y representativas que los usuarios tendrían al utilizar nuestras plataformas. Los elementos a considerar son: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/Ee2S9QHbECVJrbABPJH3sy8BjX__nGVDPEKcpxW_D8PRfg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NniVsh 
 
 **Segmento 1: Personas con Tiempo Limitado para Cocinar**
 

@@ -399,8 +399,8 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
         </tr>
         <tr>
             <td>US-022</td>
-            <td>Notificación vía Correo o SMS</td>
-            <td>Como usuario deseo poder recibir alertas y recordatorios a través de correo electrónico o SMS para asegurarme de estar pendiente de mis comidas y ejercicios diarios.</td>
+            <td>Notificación vía Correo</td>
+            <td>Como usuario deseo poder recibir alertas y recordatorios a través de correo electrónico para asegurarme de estar pendiente de mis comidas y ejercicios diarios.</td>
             <td>
                 Escenario 1:<br>
                 Dado que el usuario ha configurado recibir notificaciones vía correo electrónico,<br>
@@ -699,17 +699,17 @@ En este punto, se encuentran una serie de historias de usuario que han sido crea
             <td>Como desarrollador, quiero permitir el envío de notificaciones a los usuarios a través de un RESTful API, para que los usuarios reciban una alerta de sus horas de comida.</td>
             <td>
                 Escenario 1:<br>
-                Dado que el punto final "/api/v1/users/{id}/notifications" está disponible,<br>
+                Dado que el punto final "/api/v1/notifications" está disponible,<br>
                 Cuando se envía una solicitud de publicación con los datos de la notificación,<br>
                 Entonces se recibe una respuesta con el estado 201<br>
                 Y se incluye un recurso de notificación en el cuerpo de la respuesta, con los valores registrados.<br><br>
                 Escenario 2:<br>
-                Dado que el punto final "/api/v1/users/{id}/notifications" está disponible,<br>
+                Dado que el punto final "/api/v1/notifications" está disponible,<br>
                 Cuando se envía una solicitud para recuperar las notificaciones del usuario,<br>
                 Entonces se recibe una respuesta con el estado 200<br>
                 Y se incluye una lista de recursos de notificación en el cuerpo de la respuesta.<br><br>
                 Escenario 3:<br>
-                Dado que el punto final "/api/v1/users/{id}/notifications" está disponible,<br>
+                Dado que el punto final "/api/v1/notifications" está disponible,<br>
                 Cuando se envía una solicitud para recuperar las notificaciones y no hay notificaciones registradas,<br>
                 Entonces se recibe una respuesta con el estado 204<br>
                 Y no se incluye un cuerpo en la respuesta.<br>
