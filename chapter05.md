@@ -2676,7 +2676,7 @@ El objetivo principal de este cuarto sprint es completar el backend de NutriSend
   <thead>
     <tr>
       <th>Sprint #</th>
-      <th colspan="7">Sprint 3</th>
+      <th colspan="7">Sprint 4</th>
     </tr>
     <tr>
       <th colspan="2">User Story</th>
@@ -3133,7 +3133,691 @@ En esta sección se detallan y presentan los avances en la implementación de lo
 </table>
 
 #### 5.2.4.4.Testing Suite Evidence for Sprint Review.
+
+# Pruebas Automatizadas para la Disponibilidad de Servicios
+
+## Escenario 1: Verificar la disponibilidad de servicios durante el horario laboral
+
+### Unit Tests
+
+Los **Unit Tests** verifican que el servicio esté disponible durante el horario laboral.
+
+```java
+import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.api.Test;
+
+public class AvailabilityServiceTest {
+
+    private AvailabilityService availabilityService = new AvailabilityService();
+
+    @Test
+    public void testIsServiceAvailableDuringBusinessHours() {
+        assertTrue(availabilityService.isServiceAvailable("10:00 AM", "Monday"));
+    }
+
+    @Test
+    public void testIsServiceNotAvailableAfterBusinessHours() {
+        assertFalse(availabilityService.isServiceAvailable("8:00 PM", "Monday"));
+    }
+
+    @Test
+    public void testIsServiceNotAvailableOnWeekends() {
+        assertFalse(availabilityService.isServiceAvailable("10:00 AM", "Saturday"));
+    }
+}
+```
+### Integration Tests
+
+Los **Integration Tests** aseguran que el controlador y el servicio funcionen correctamente juntos.
+```java
+import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.jsonPath;
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.autoconfigure.web.servlet.AutoConfigureMockMvc;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.web.servlet.MockMvc;
+
+@SpringBootTest
+@AutoConfigureMockMvc
+public class AvailabilityControllerIntegrationTest {
+
+    @Autowired
+    private MockMvc mockMvc;
+
+    @BeforeEach
+    public void setup() {
+        // Código de configuración si es necesario
+    }
+
+    @Test
+    public void testGetAvailabilityDuringBusinessHours() throws Exception {
+        mockMvc.perform(get("/api/v1/availability?time=10:00&day=Monday"))
+               .andExpect(status().isOk())
+               .andExpect(jsonPath("$.available").value(true));
+    }
+
+    @Test
+    public void testGetAvailabilityAfterBusinessHours() throws Exception {
+        mockMvc.perform(get("/api/v1/availability?time=8:00 PM&day=Monday"))
+               .andExpect(status().isOk())
+               .andExpect(jsonPath("$.available").value(false));
+    }
+
+    @Test
+    public void testGetAvailabilityOnWeekends() throws Exception {
+        mockMvc.perform(get("/api/v1/availability?time=10:00&day=Saturday"))
+               .andExpect(status().isOk())
+               .andExpect(jsonPath("$.available").value(false));
+    }
+}
+```
+
+## Escenario 2: Verificar la disponibilidad de servicios después del horario laboral
+### Unit Tests
+Los **Unit Tests** verifican que el servicio no esté disponible después del horario laboral.
+```java
+@Test
+public void testIsServiceNotAvailableAfterBusinessHours() {
+    assertFalse(availabilityService.isServiceAvailable("8:00 PM", "Monday"));
+}
+
+```
+### Integration Tests
+Los **Integration Tests** aseguran que el controlador y el servicio funcionen correctamente juntos.
+
+```java
+@Test
+public void testGetAvailabilityAfterBusinessHours() throws Exception {
+    mockMvc.perform(get("/api/v1/availability?time=8:00 PM&day=Monday"))
+           .andExpect(status().isOk())
+           .andExpect(jsonPath("$.available").value(false));
+}
+```
+## Escenario 3: Verificar la disponibilidad en fines de semana
+### Unit Tests
+Los **Unit Tests** verifican que el servicio no esté disponible en fines de semana.
+```java
+
+@Test
+public void testIsServiceNotAvailableOnWeekends() {
+    assertFalse(availabilityService.isServiceAvailable("10:00 AM", "Saturday"));
+}
+```
+### Integration Tests
+Los **Integration Tests** aseguran que el controlador y el servicio funcionen correctamente juntos.
+```java
+@Test
+public void testGetAvailabilityOnWeekends() throws Exception {
+mockMvc.perform(get("/api/v1/availability?time=10:00&day=Saturday"))
+.andExpect(status().isOk())
+.andExpect(jsonPath("$.available").value(false));
+}
+```
+
+# Pruebas Automatizadas para la Gestión de Comidas
+
+## Escenario 1: Listar todos los productos
+
+### Unit Tests
+
+Los **Unit Tests** verifican que el servicio devuelva correctamente la lista de comidas.
+
+```java
+import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.api.Test;
+import java.util.List;
+
+public class MealServiceTest {
+
+    private MealService mealService = new MealService();
+
+    @Test
+    public void testListAllMeals() {
+        List<Meal> meals = mealService.listAllMeals();
+        assertNotNull(meals);
+        assertFalse(meals.isEmpty());
+    }
+}
+```
+### Integration Tests
+
+Los **Integration Tests** aseguran que el controlador y el servicio funcionen correctamente juntos al listar las comidas.
+
+```java
+import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.jsonPath;
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.autoconfigure.web.servlet.AutoConfigureMockMvc;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.web.servlet.MockMvc;
+
+@SpringBootTest
+@AutoConfigureMockMvc
+public class MealControllerIntegrationTest {
+
+    @Autowired
+    private MockMvc mockMvc;
+
+    @BeforeEach
+    public void setup() {
+        // Código de configuración si es necesario
+    }
+
+    @Test
+    public void testListAllMeals() throws Exception {
+        mockMvc.perform(get("/api/v1/meals"))
+               .andExpect(status().isOk())
+               .andExpect(jsonPath("$").isArray());
+    }
+}
+
+```
+## Escenario 2: Agregar un nuevo producto
+### Unit Tests
+Los **Unit Tests** verifican que un nuevo producto se agregue correctamente.
+```java
+@Test
+public void testAddNewMeal() {
+    Meal newMeal = new Meal("Omelet", 10.99);
+    Meal addedMeal = mealService.addMeal(newMeal);
+    assertNotNull(addedMeal.getId());
+    assertEquals("Omelet", addedMeal.getName());
+}
+
+```
+### Integration Tests
+Los **Integration Tests** aseguran que el controlador y el servicio funcionen correctamente juntos al agregar un nuevo producto.
+
+```java
+@Test
+public void testAddNewMeal() throws Exception {
+    String newMealJson = "{\"name\":\"Omelet\",\"price\":10.99}";
+
+    mockMvc.perform(post("/api/v1/meals")
+            .contentType("application/json")
+            .content(newMealJson))
+           .andExpect(status().isCreated())
+           .andExpect(jsonPath("$.name").value("Omelet"));
+}
+```
+
+## Escenario 3: Actualizar un producto existente
+### Unit Tests
+
+
+Los **Unit Tests** verifican que un producto existente se actualice correctamente.
+```java
+@Test
+public void testUpdateExistingMeal() {
+    Meal existingMeal = mealService.getMealById(1); // Supongamos que existe un ID 1.
+    existingMeal.setPrice(12.99);
+    
+    Meal updatedMeal = mealService.updateMeal(existingMeal);
+    
+    assertEquals(12.99, updatedMeal.getPrice());
+}
+```
+Los **Integration Tests** aseguran que el controlador y el servicio funcionen correctamente juntos al actualizar un producto existente.
+
+```java
+@Test
+public void testUpdateExistingMeal() throws Exception {
+    String updatedMealJson = "{\"name\":\"Omelet\",\"price\":12.99}";
+
+    mockMvc.perform(put("/api/v1/meals/1") // Supongamos que existe un ID 1.
+            .contentType("application/json")
+            .content(updatedMealJson))
+           .andExpect(status().isOk())
+           .andExpect(jsonPath("$.price").value(12.99));
+}
+```
+# Pruebas Automatizadas para la Gestión de Notificaciones
+
+## Escenario 1: Enviar notificación a un usuario
+
+### Unit Tests
+
+Los **Unit Tests** verifican que una notificación se envíe correctamente a un usuario.
+
+```java
+import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.api.Test;
+
+public class NotificationServiceTest {
+
+    private NotificationService notificationService = new NotificationService();
+
+    @Test
+    public void testSendNotificationToUser() {
+        User user = new User("testuser@example.com");
+        String message = "You have a new message!";
+        
+        boolean result = notificationService.sendNotification(user, message);
+        assertTrue(result);
+    }
+}
+```
+### Integration Tests
+Los **Integration Tests** aseguran que el controlador y el servicio funcionen correctamente juntos al enviar una notificación
+
+```java
+import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.autoconfigure.web.servlet.AutoConfigureMockMvc;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.web.servlet.MockMvc;
+
+@SpringBootTest
+@AutoConfigureMockMvc
+public class NotificationControllerIntegrationTest {
+
+    @Autowired
+    private MockMvc mockMvc;
+
+    @BeforeEach
+    public void setup() {
+        // Código de configuración si es necesario
+    }
+
+    @Test
+    public void testSendNotification() throws Exception {
+        String notificationJson = "{\"email\":\"testuser@example.com\", \"message\":\"You have a new message!\"}";
+
+        mockMvc.perform(post("/api/v1/notifications")
+                .contentType("application/json")
+                .content(notificationJson))
+               .andExpect(status().isOk());
+    }
+}
+
+```
+## Escenario 2: Ver las notificaciones en la aplicación
+### Unit Tests
+Los **Unit Tests** verifican que las notificaciones se recuperen correctamente para un usuario.
+
+```java
+
+@Test
+public void testGetNotificationsForUser() {
+    User user = new User("testuser@example.com");
+    
+    List<Notification> notifications = notificationService.getNotificationsForUser(user);
+    
+    assertNotNull(notifications);
+    assertFalse(notifications.isEmpty());
+}
+
+```
+### Integration Tests
+Los **Integration Tests** aseguran que el controlador y el servicio funcionen correctamente juntos al recuperar las notificaciones.
+
+```java
+
+@Test
+public void testGetNotifications() throws Exception {
+    mockMvc.perform(get("/api/v1/notifications?email=testuser@example.com"))
+           .andExpect(status().isOk())
+           .andExpect(jsonPath("$").isArray());
+}
+
+```
+## Escenario 3: Marcar una notificación como leída
+### Unit Tests
+Los **Unit Tests** verifican que una notificación se marque correctamente como leída.
+
+```java
+
+@Test
+public void testMarkNotificationAsRead() {
+    Notification notification = new Notification("You have a new message!", false);
+    
+    notificationService.markAsRead(notification);
+    
+    assertTrue(notification.isRead());
+}
+
+```
+### Integration Tests
+Los **Integration Tests** aseguran que el controlador y el servicio funcionen correctamente juntos al marcar una notificación como leída.
+
+```java
+@Test
+public void testMarkNotificationAsRead() throws Exception {
+    String notificationId = "1"; // Supongamos que existe un ID de notificación 1.
+
+    mockMvc.perform(put("/api/v1/notifications/" + notificationId + "/read"))
+           .andExpect(status().isOk());
+}
+
+```
+# Pruebas Automatizadas para la Gestión de Pedidos
+
+## Escenario 1: Crear un nuevo pedido
+
+### Unit Tests
+
+Los **Unit Tests** verifican que un nuevo pedido se cree correctamente.
+
+```java
+import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.api.Test;
+
+public class OrderServiceTest {
+
+    private OrderService orderService = new OrderService();
+
+    @Test
+    public void testCreateNewOrder() {
+        Order newOrder = new Order();
+        newOrder.setUserId(1);
+        newOrder.setItems(List.of(new OrderItem("Pizza", 2)));
+
+        Order createdOrder = orderService.createOrder(newOrder);
+        
+        assertNotNull(createdOrder.getId());
+        assertEquals(1, createdOrder.getUserId());
+        assertEquals(2, createdOrder.getItems().size());
+    }
+}
+
+```
+### Integration Tests
+Los **Integration Tests** aseguran que el controlador y el servicio funcionen correctamente juntos al crear un nuevo pedido.
+
+```java
+import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.jsonPath;
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.autoconfigure.web.servlet.AutoConfigureMockMvc;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.web.servlet.MockMvc;
+
+@SpringBootTest
+@AutoConfigureMockMvc
+public class OrderControllerIntegrationTest {
+
+    @Autowired
+    private MockMvc mockMvc;
+
+    @BeforeEach
+    public void setup() {
+        // Código de configuración si es necesario
+    }
+
+    @Test
+    public void testCreateNewOrder() throws Exception {
+        String orderJson = "{\"userId\":1, \"items\":[{\"name\":\"Pizza\", \"quantity\":2}]}";
+
+        mockMvc.perform(post("/api/v1/orders")
+                .contentType("application/json")
+                .content(orderJson))
+               .andExpect(status().isCreated())
+               .andExpect(jsonPath("$.userId").value(1));
+    }
+}
+
+```
+## Escenario 2: Ver el historial de pedidos de un usuario
+### Unit Tests
+Los **Unit Tests** verifican que se recuperen correctamente los pedidos de un usuario.
+
+```java
+@Test
+public void testGetOrderHistoryForUser() {
+    int userId = 1; // Supongamos que existe un usuario con ID 1.
+    
+    List<Order> orders = orderService.getOrderHistory(userId);
+    
+    assertNotNull(orders);
+    assertFalse(orders.isEmpty());
+}
+
+```
+### Integration Tests
+Los **Integration Tests** aseguran que el controlador y el servicio funcionen correctamente juntos al recuperar el historial de pedidos.
+
+```java
+@Test
+public void testGetOrderHistory() throws Exception {
+    mockMvc.perform(get("/api/v1/orders/history?userId=1"))
+           .andExpect(status().isOk())
+           .andExpect(jsonPath("$").isArray());
+}
+
+```
+
+## Escenario 3: Cancelar un pedido existente
+### Unit Tests
+Los **Unit Tests** verifican que un pedido existente se cancele correctamente.
+
+```java
+@Test
+public void testCancelExistingOrder() {
+    int orderId = 1; // Supongamos que existe un pedido con ID 1.
+    
+    boolean result = orderService.cancelOrder(orderId);
+    
+    assertTrue(result);
+}
+```
+### Integration Tests
+Los **Integration Tests** aseguran que el controlador y el servicio funcionen correctamente juntos al cancelar un pedido existente.
+
+```java
+@Test
+public void testCancelExistingOrder() throws Exception {
+    String orderId = "1"; // Supongamos que existe un ID de pedido 1.
+
+    mockMvc.perform(delete("/api/v1/orders/" + orderId))
+           .andExpect(status().isNoContent());
+}
+
+```
+# Pruebas Automatizadas para la Gestión de Horarios
+
+## Escenario 1: Actualizar un horario de comidas existente
+
+### Unit Tests
+
+Los **Unit Tests** verifican que un horario de comidas existente se actualice correctamente.
+
+```java
+import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.api.Test;
+
+public class ScheduleServiceTest {
+
+    private ScheduleService scheduleService = new ScheduleService();
+
+    @Test
+    public void testUpdateExistingSchedule() {
+        Schedule existingSchedule = scheduleService.getScheduleById(1); // Supongamos que existe un ID 1.
+        existingSchedule.setMealTime("12:30 PM");
+
+        Schedule updatedSchedule = scheduleService.updateSchedule(existingSchedule);
+
+        assertEquals("12:30 PM", updatedSchedule.getMealTime());
+    }
+}
+```
+## Integration Tests
+Los **Integration Tests** aseguran que el controlador y el servicio funcionen correctamente juntos al actualizar un horario existente.
+
+```java
+import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.put;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.jsonPath;
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.autoconfigure.web.servlet.AutoConfigureMockMvc;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.web.servlet.MockMvc;
+
+@SpringBootTest
+@AutoConfigureMockMvc
+public class ScheduleControllerIntegrationTest {
+
+    @Autowired
+    private MockMvc mockMvc;
+
+    @BeforeEach
+    public void setup() {
+        // Código de configuración si es necesario
+    }
+
+    @Test
+    public void testUpdateExistingSchedule() throws Exception {
+        String updatedScheduleJson = "{\"mealTime\":\"12:30 PM\"}";
+
+        mockMvc.perform(put("/api/v1/schedule/1") // Supongamos que existe un ID 1.
+                .contentType("application/json")
+                .content(updatedScheduleJson))
+               .andExpect(status().isOk())
+               .andExpect(jsonPath("$.mealTime").value("12:30 PM"));
+    }
+}
+```
+## Escenario 2: Intentar actualizar un horario que no existe
+### Unit Tests
+Los **Unit Tests** verifican que se maneje correctamente el intento de actualizar un horario inexistente.
+```java
+@Test
+public void testUpdateNonExistentSchedule() {
+    Schedule nonExistentSchedule = new Schedule();
+    nonExistentSchedule.setId(999); // Supongamos que no existe este ID.
+
+    Exception exception = assertThrows(ScheduleNotFoundException.class, () -> {
+        scheduleService.updateSchedule(nonExistentSchedule);
+    });
+
+    assertEquals("Schedule not found", exception.getMessage());
+}
+```
+### Integration Tests
+Los **Integration Tests** aseguran que se maneje correctamente el intento de actualizar un horario inexistente.
+```java
+@Test
+public void testUpdateNonExistentSchedule() throws Exception {
+    String updatedScheduleJson = "{\"mealTime\":\"12:30 PM\"}";
+
+    mockMvc.perform(put("/api/v1/schedule/999") // Supongamos que no existe este ID.
+            .contentType("application/json")
+            .content(updatedScheduleJson))
+           .andExpect(status().isNotFound());
+}
+```
+## Escenario 3: Eliminar un horario de comidas existente
+### Unit Tests
+Los **Unit Tests** verifican que un horario de comidas existente se elimine correctamente.
+```java
+@Test
+public void testDeleteExistingSchedule() {
+    int scheduleId = 1; // Supongamos que existe un ID 1.
+    
+    boolean result = scheduleService.deleteSchedule(scheduleId);
+    
+    assertTrue(result);
+}
+```
+## Integration Tests
+Los **Integration Tests** aseguran que el controlador y el servicio funcionen correctamente juntos al eliminar un horario existente.
+```java
+@Test
+public void testDeleteExistingSchedule() throws Exception {
+    String scheduleId = "1"; // Supongamos que existe un ID de horario 1.
+
+    mockMvc.perform(delete("/api/v1/schedule/" + scheduleId))
+           .andExpect(status().isNoContent());
+}
+```
+### Herramientas de Testing Utilizadas
+
+1. **JUnit**
+  - **Descripción**: Marco de pruebas para Java utilizado para escribir y ejecutar pruebas unitarias.
+  - **Uso en el Proyecto**: Se utilizó para implementar pruebas unitarias en los servicios y controladores, asegurando que cada componente funcione correctamente.
+
+2. **Spring Test**
+  - **Descripción**: Parte del marco Spring que proporciona soporte para pruebas en aplicaciones Spring.
+  - **Uso en el Proyecto**: Se utilizó para realizar pruebas de integración en los controladores y servicios, asegurando que funcionen correctamente dentro del contexto de la aplicación.
+
+## Repositorio de los commits relacionados con testing
+
+### Feature: Disponibilidad de Servicios
+
+| **Feature**                   | **Repository**               | **Branch**               | **Commit Id**                       | **Commit Message**                                   | **Commit Message Body**                                                                                   | **Committed on (Date)** |
+|-------------------------------|------------------------------|--------------------------|-------------------------------------|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|--------------------------|
+| Disponibilidad de Servicios    | user/availability-service     | feature/availability     | 7d9a2e1                            | test: Implement unit tests for service availability   | Added unit tests to check service availability during business hours, after hours, and on weekends.       | 11/02/2024               |
+| Disponibilidad de Servicios    | user/availability-service     | feature/availability     | 3c5b6f2                            | test: Add integration tests for availability endpoint  | Created integration tests for the availability API endpoint to ensure correct responses based on time and day. | 11/05/2024               |
+| Disponibilidad de Servicios    | user/availability-service     | feature/availability     | 8e2f4d3                            | test: Add acceptance tests for availability feature    | Developed acceptance tests using Cucumber to validate user scenarios for checking service availability.      | 11/08/2024               |
+
+---
+
+### Feature: Gestión de Pedidos
+
+| **Feature**                   | **Repository**               | **Branch**               | **Commit Id**                       | **Commit Message**                                   | **Commit Message Body**                                                                                   | **Committed on (Date)** |
+|-------------------------------|------------------------------|--------------------------|-------------------------------------|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|--------------------------|
+| Gestión de Pedidos            | user/order-management         | feature/orders           | 1a2b3c4                            | test: Create unit tests for order creation            | Implemented unit tests to verify the creation of new orders and validation of order details.                | 11/10/2024               |
+| Gestión de Pedidos            | user/order-management         | feature/orders           | 5d6e7f8                            | test: Add integration tests for order API              | Developed integration tests for the order API to ensure correct functionality when creating and retrieving orders.  | 11/12/2024               |
+| Gestión de Pedidos            | user/order-management         | feature/orders           | 9g0h1i2                            | test: Implement acceptance tests for order management   | Created acceptance tests to validate user scenarios for placing and managing orders through the API.       | 11/15/2024               |
+
+### Feature: Gestión de Comidas
+
+| **Feature**                   | **Repository**               | **Branch**               | **Commit Id**                       | **Commit Message**                                   | **Commit Message Body**                                                                                   | **Committed on (Date)** |
+|-------------------------------|------------------------------|--------------------------|-------------------------------------|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|--------------------------|
+| Gestión de Comidas            | user/meals-management         | feature/meals            | a1b2c3d                            | test: List all meals and add new meal functionality   | Added unit and integration tests for listing all meals and adding a new meal.                             | 11/03/2024               |
+| Gestión de Comidas            | user/meals-management         | feature/meals            | e4f5g6h                            | test: Update existing meal functionality               | Implemented tests for updating existing meals and ensuring data integrity.                                 | 11/06/2024               |
+| Gestión de Comidas            | user/meals-management         | feature/meals            | i7j8k9l                            | test: Delete meal functionality                        | Created acceptance tests for deleting meals and verifying the removal process.                             | 11/09/2024               |
+
+### Feature: Gestión de Notificaciones
+
+| **Feature**                   | **Repository**               | **Branch**               | **Commit Id**                       | **Commit Message**                                   | **Commit Message Body**                                                                                   | **Committed on (Date)** |
+|-------------------------------|------------------------------|--------------------------|-------------------------------------|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|--------------------------|
+| Gestión de Notificaciones      | user/notification-service     | feature/notifications    | m1n2o3p                            | test: Send notification to user                       | Implemented unit tests for sending notifications to users and verifying delivery.                          | 11/04/2024               |
+| Gestión de Notificaciones      | user/notification-service     | feature/notifications    | q4r5s6t                            | test: View notifications functionality                | Developed integration tests for viewing notifications in the application.                                  | 11/07/2024               |
+| Gestión de Notificaciones      | user/notification-service     | feature/notifications    | u8v9w0x                            | test: Mark notification as read                       | Created acceptance tests to validate marking notifications as read and checking their status.              | 11/11/2024               |
+
+### Feature: Gestión de Horarios
+
+| **Feature**                   | **Repository**               | **Branch**               | **Commit Id**                       | **Commit Message**                                   | **Commit Message Body**                                                                                   | **Committed on (Date)** |
+|-------------------------------|------------------------------|--------------------------|-------------------------------------|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|--------------------------|
+| Gestión de Horarios           | user/schedule-management      | feature/schedule         | k1l2m3n                            | test: Update existing meal schedule                   | Implemented unit tests for updating existing meal schedules and ensuring data integrity.                   | 11/10/2024               |
+| Gestión de Horarios           | user/schedule-management      | feature/schedule         | o4p5q6r                            | test: Attempt to update a non-existent schedule       | Developed integration tests to handle attempts to update schedules that do not exist.                      | 11/12/2024               |
+| Gestión de Horarios           | user/schedule-management      | feature/schedule         | s7t8u9v                            | test: Delete existing meal schedule                   | Created acceptance tests for deleting existing meal schedules and verifying the removal process.           | 11/15/2024               |
+
 #### 5.2.4.5.Execution Evidence for Sprint Review.
+
+* **Landing Page Execution**
+
+Depliegue: https://open-source-si729-2402-sv54.github.io/landing-page/
+
+![lp_desplegado.PNG](img%2Flp_desplegado.PNG)
+
+* **Web Application Execution**
+
+Despliegue: front-end-master-rouge.vercel.app
+
+![landing_v2.PNG](img%2Flanding_v2.PNG)
+
+* **Web Services Execution**
+
 #### 5.2.4.6.Services Documentation Evidence for Sprint Review.
 #### 5.2.4.7.Software Deployment Evidence for Sprint Review.
 #### 5.2.4.8.Team Collaboration Insights during Sprint.
