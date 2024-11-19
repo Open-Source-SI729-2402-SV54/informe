@@ -3101,7 +3101,31 @@ En esta sección se detallan y presentan los avances en la implementación de lo
       <td>RnArauj0/ nutrisend-platform</td>
       <td>Renzo</td>
       <td>9a8d9239dab2bfc439a280ce1b2bdb5badfd5df4</td>
-      <td>9a8d9239dab2bfc439a280ce1b2bdb5badfd5df4feat: aggregate, command, repository and service schedule modified</td>
+      <td>feat: aggregate, command, repository and service schedule modified</td>
+      <td>--</td>
+      <td>Nov 16, 2024</td>
+    </tr>
+    <tr>
+      <td>C7leo/ nutrisend-platform</td>
+      <td>Camila</td>
+      <td>bd9d5af894f4272fde5a9c167093e464400ab8d3</td>
+      <td>Merge remote-tracking branch 'origin/renzo' into develop</td>
+      <td>--</td>
+      <td>Nov 16, 2024</td>
+    </tr>
+    <tr>
+      <td>C7leo/ nutrisend-platform</td>
+      <td>Camila</td>
+      <td>274028f1a26189a439fadd71e0314e720790d7fd</td>
+      <td>Merge branch 'camila'Merge branch 'camila'</td>
+      <td>--</td>
+      <td>Nov 16, 2024</td>
+    </tr>
+    <tr>
+      <td>C7leo/ nutrisend-platform</td>
+      <td>Camila</td>
+      <td>d0b8733cb35678be1fc181bab3ab6ece7c0871ed</td>
+      <td>feat(): update</td>
       <td>--</td>
       <td>Nov 16, 2024</td>
     </tr>
