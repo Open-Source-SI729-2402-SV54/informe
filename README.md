@@ -185,7 +185,35 @@
       - Avanzo el sprint 3 <br>
     </td>
   </tr>
+<tr>
+    <td>TF</td>
+    <td>18/11/2024</td>
+    <td>Renzo José Araujo Ingunza</td>
+    <td>
+      - Creó el repositorio del frontend y desarrolló una plantilla para facilitar el avance del equipo.<br>
+      - Supervisó el progreso y documentó las correcciones necesarias en el proyecto.<br>
+    </td>
+</tr>
 
+<tr>
+    <td>TF</td>
+    <td>18/11/2024</td>
+    <td>Luis Alfonso Villegas Jipa</td>
+    <td>
+      - Estableció los repositorios y supervisó la división de tareas, asegurando el cumplimiento de la rúbrica.<br>
+      - Proporcionó retroalimentación escrita a sus compañeros sobre los avances del proyecto.<br>
+    </td>
+</tr>
+
+<tr>
+    <td>TF</td>
+    <td>18/11/2024</td>
+    <td>Camila Leonor Espinoza Vivas</td>
+    <td>
+      - Completó su parte del backend y avanzó en varias tareas específicas del proyecto.<br>
+      - Realizó notificaciones y correcciones en los user stories, desplegando la base de datos y desarrollando funcionalidades clave.<br>
+    </td>
+</tr>
   <tr>
 </table>
 
@@ -355,10 +383,11 @@ En la TF, se realizaron los arreglos pendientes, se completó el despliegue del 
     <td>
       Camila Leonor Espinoza Vivas <br>
       TB1 <br>
-      Creo los repositorios asi como la division y la supervision de las tareas. Analizando que todo se cumpla segun la rubrica del trabajo. Estuvo pendiente de toda entrega y realizo la retroalimentacion de los avances de sus compañeros. <br>
+      En la primera entrega, creé los repositorios y me encargué de la división y supervisión de las tareas, asegurándome de que todo se cumpliera según la rúbrica del trabajo. Estuve pendiente de cada entrega y proporcioné retroalimentación sobre los avances de mis compañeros. Durante nuestras reuniones, comuniqué claramente las expectativas y objetivos, lo que facilitó una colaboración efectiva y ayudó a mantener al equipo alineado en nuestras metas.
+      <br>
       Renzo José Araujo Ingunza<br>
       TB1 <br>
-      Avanzó los elementos asignados a través de las reuniones grupales que fueron realizadas de manera diaria y semanal, por lo que pudo avanzar de la manera esperada. Ayudo en la coordinacion del grupo. 
+      En la primera entrega, avancé en los elementos asignados a través de reuniones grupales que realizamos de manera diaria y semanal. Esta organización me permitió progresar conforme a lo esperado y también ayudé en la coordinación del grupo, asegurando que todos estuviéramos alineados en nuestras tareas y objetivos. Durante estas reuniones, pude comunicarme efectivamente con mis compañeros, lo que facilitó una colaboración fluida y un entendimiento común sobre nuestras responsabilidades.
       <br>
       Fatima Asmad Padilla<br>
       TB1 <br>	
@@ -370,15 +399,15 @@ En la TF, se realizaron los arreglos pendientes, se completó el despliegue del 
       <br>
       Luis Alfonso Villegas Jipa<br>
       TB1 <br>
-      Avanzó los elementos asignados a través de las reuniones grupales que fueron realizadas de manera diaria y semanal, pero no logro con el objetivo de su tarea.
-      <br>
+      En la primera entrega, trabajé en el informe del proyecto, donde realicé un análisis de los competidores para identificar las mejores prácticas del mercado y presentar nuestra propuesta de valor de manera efectiva. También desarrollé y analicé los user stories, asegurándome de que reflejaran las necesidades del usuario final utilizando un formato general que incluía el rol del usuario, la funcionalidad deseada y el beneficio esperado. Esto facilitó la alineación del equipo y permitió una mejor comprensión de los objetivos. Además, elaboré las technical stories, enfocándome en las tareas técnicas necesarias para implementar las funcionalidades, lo que mejoró la comunicación con mis compañeros desarrolladores y preparó al grupo para presentar nuestro trabajo a audiencias externas.
       <br>
       Camila Leonor Espinoza Vivas <br>
       TP <br>
-      Creo el repositorio del front end, creando la plantilla para que todos avanzaran su parte respectivamente y supervisando su avance. Corrigiendo los errores de la tb1<br>
+      En el trabajo parcial, establecí el repositorio del frontend y desarrollé una plantilla para que todos pudieran avanzar en sus respectivas partes. Supervisé el progreso de cada miembro del equipo y corregí los errores identificados en la primera entrega. A lo largo de este proceso, mantuve una comunicación constante con mis compañeros, asegurándome de que todos comprendieran las correcciones necesarias y cómo implementar los cambios. Esto fomentó un ambiente de trabajo colaborativo y mejoró la calidad del producto final.
+      <br>
       Renzo José Araujo Ingunza<br>
       TP <br>
-      Cupmplio con los elementos asignados a través de las reuniones grupales que fueron realizadas de manera diaria y semanal, por lo que pudo avanzar de la manera esperada. Asi como ayudo en la union de todos las partes del front end
+      En el trabajo parcial, cumplí con los elementos asignados mediante las reuniones grupales diarias y semanales, lo que me permitió avanzar de acuerdo con las expectativas. Además, colaboré en la integración de todas las partes del frontend, asegurándome de que cada componente funcionara correctamente. A través de una comunicación clara y constante con el equipo, logramos unir nuestros esfuerzos y crear una interfaz cohesiva y fácil de usar para los usuarios finales.
       <br>
       Fatima Asmad Padilla<br>
       TP <br>	
@@ -390,19 +419,39 @@ En la TF, se realizaron los arreglos pendientes, se completó el despliegue del 
       <br>
       Luis Alfonso Villegas Jipa<br>
       TP <br>
-      Avanzó los elementos asignados a través de las reuniones grupales que fueron realizadas de manera diaria y semanal, pero no cumplio con los objetivos aun asi entrego en el plazo permitido. 
+      En el trabajo parcial, me enfoqué en el desarrollo del frontend para la funcionalidad de order, donde implementé la emisión de órdenes de compra categorizadas en breakfast, lunch y dinner. Durante este proceso, colaboré con mis compañeros para asegurar que la interfaz fuera intuitiva y fácil de usar, lo que facilitó la comunicación efectiva de nuestras ideas y decisiones. Además, trabajé en la presentación de esta funcionalidad a diferentes audiencias, asegurando que tanto los usuarios finales como los miembros del equipo comprendieran cómo navegar por las categorías y realizar pedidos de manera eficiente. Esta experiencia no solo mejoró mis habilidades técnicas, sino que también fortaleció nuestra capacidad para comunicar conceptos complejos de forma clara y accesible.
       <br>
       Camila Leonor Espinoza Vivas <br>
       TB2 <br>
-      Completó su parte del backend y avanzó en las tareas TS05, TS11 y TS12, pero se enfrentó a ciertos desafíos para alcanzar los objetivos específicos. A pesar de esto, su compromiso se refleja en la finalización del sprint 3 y la realización de su entrevista, donde demostró su capacidad para comunicar sus aportes al equipo.
+      Durante el TB 2, completé mi parte del backend y avancé en las tareas TS05, TS11 y TS12. Aunque enfrenté algunos desafíos para alcanzar los objetivos específicos, mi compromiso se reflejó en la finalización del sprint 3. En mi entrevista, me comuniqué de manera efectiva sobre mis aportes al equipo, explicando los obstáculos que encontré y cómo los superé. Esta comunicación abierta ayudó a fortalecer la cohesión del grupo y a identificar áreas donde podríamos mejorar en el futuro.
       <br>
       Renzo José Araujo Ingunza<br>
       TB2 <br>
-      Desarrolló su parte del backend y avanzó en las tareas TS08, TS09 y TS10. Aunque se encontró con algunos obstáculos, su capacidad para ayudar a completar el sprint 3 refleja su compromiso con el equipo. En su entrevista, se comunicó claramente sobre sus contribuciones y desafíos, lo que mejoró la cohesión del grupo.
+      Durante el TB 2, desarrollé mi parte del backend y avancé en las tareas TS08, TS09 y TS10. Aunque enfrenté algunos obstáculos, mi capacidad para ayudar a completar el sprint 3 refleja mi compromiso con el equipo. En mi entrevista, me comuniqué claramente sobre mis contribuciones y los desafíos que encontré, lo que mejoró la cohesión del grupo. Esta comunicación abierta fue fundamental para que todos entendieran cómo cada uno de nosotros estaba avanzando en el proyecto.
       <br>
       Luis Alfonso Villegas Jipa<br>
       TB2 <br>
-      Completó su parte del backend y se encargó de las tareas TS06 y TS13, aunque no cumplió con todos los objetivos específicos establecidos. Su ayuda para terminar el sprint 3 demuestra su disposición para colaborar con el equipo y su compromiso con los plazos, así como su efectiva comunicación durante su entrevista.
+      En la TB2, me encargué del desarrollo del backend para la funcionalidad de "Order", implementando métodos GET y POST que manejan las mismas categorías de breakfast, lunch y dinner. En este proceso, añadí detalles importantes como los nombres de los platillos, un ID generado automáticamente para cada orden, la cantidad de cada platillo y el total a pagar. Colaboré estrechamente con mis compañeros para asegurar que la lógica del backend se integrara perfectamente con el frontend, lo que facilitó una experiencia de usuario fluida. Además, me aseguré de comunicar claramente los aspectos técnicos del sistema a todos los miembros del equipo, lo que nos permitió alinear nuestras expectativas y objetivos. Esta experiencia no solo mejoró mis habilidades en programación, sino que también fortaleció nuestra capacidad para presentar información técnica de manera accesible a diferentes audiencias.
+      <br>
+      Jhordi Luis Carranza Pérez<br>	
+      TB2 <br>
+      La falta de participación de Jhordi limitó su capacidad para contribuir a la comunicación oral. Aunque se esperaba que proporcionara actualizaciones sobre su trabajo, su ausencia afectó la cohesión del equipo.
+      <br>
+      Fatima Asmad Padilla<br>
+      TB2 <br>
+      Al igual que Jhordi, su ausencia afectó la comunicación oral dentro del grupo. Se anticipaba que Fátima colaboraría en la documentación y las discusiones orales sobre el avance del proyecto, pero su retiro a último minuto dejó un vacío en la comunicación del equipo.
+      <br>
+      Camila Leonor Espinoza Vivas <br>
+      TF <br>
+      En el trabajo final, realicé las notificaciones, proporcioné retroalimentación y correcciones a los user stories, además de desplegar la base de datos y desarrollar el backend para Meals, Category Meals y Type Meals. Durante este proceso, mantuve reuniones regulares con mis compañeros para discutir los avances y resolver cualquier duda que surgiera. Mi capacidad para comunicarme claramente sobre los cambios realizados y las funcionalidades implementadas fue clave para asegurar que todos estuvieran al tanto del progreso del proyecto y cómo cada parte se integraba en el conjunto.
+      <br>
+      Renzo José Araujo Ingunza<br>
+      TF <br>
+      En el trabajo final, desarrollé tanto el frontend para la funcionalidad de schedule como el backend para las funcionalidades de IAM y schedule, además de actualizar el informe del proyecto. Durante este proceso, mantuve una comunicación constante con mis compañeros para asegurar que todos estuviéramos al tanto de los avances y cambios. Esta interacción no solo facilitó la colaboración efectiva entre los miembros del equipo, sino que también permitió que cada uno comprendiera cómo nuestras contribuciones individuales se integraban en el proyecto general.
+      <br>
+      Luis Alfonso Villegas Jipa<br>
+      TF <br>
+      En el trabajo final, me enfoqué en la mejora del backend, reintegrando la funcionalidad de order tanto en los planes básicos como en los premium. Además, implementé una nueva funcionalidad de historial de órdenes, que permite a los usuarios revisar sus compras anteriores. A lo largo de este proceso, colaboré estrechamente con mis compañeros para garantizar que todas las mejoras se implementaran de forma efectiva y que la lógica del sistema se mantuviera coherente. Además, me aseguré de transmitir de manera clara los cambios y nuevas funcionalidades a todo el equipo, lo que facilitó una comprensión común sobre cómo estas mejoras beneficiarían a los usuarios finales. Esta experiencia no solo mejoró mis habilidades técnicas, sino que también fortaleció nuestra capacidad para comunicar información compleja de manera clara y accesible para diversas audiencias.
       <br>
     </td>
     <td>
@@ -414,6 +463,11 @@ En la TF, se realizaron los arreglos pendientes, se completó el despliegue del 
     <br></br>
     TB2 <br>
     El desarrollo del proyecto se vio significativamente afectado por la ausencia de dos miembros del equipo, Fátima y Jhordi, quienes decidieron retirarse en el último minuto. Esta situación obligó a los integrantes activos a reestructurar las tareas y a colaborar de manera más intensa para cumplir con los objetivos establecidos. A pesar de los desafíos que enfrentaron, como la redistribución de responsabilidades y la necesidad de comunicarse de manera más efectiva, el equipo demostró un fuerte compromiso y adaptabilidad. La capacidad de cada miembro para asumir nuevas tareas y trabajar juntos en la finalización del sprint 3 resalta la resiliencia del grupo ante la adversidad. Aunque la falta de participación de algunos compañeros generó dificultades, el equipo logró avanzar gracias a su colaboración y dedicación, lo que permitió cumplir con los plazos y alcanzar los hitos establecidos en el proyecto.
+     TF <br>
+    En el trabajo final, el equipo demostró una notable capacidad para comunicar oralmente con efectividad a diferentes rangos de audiencia. Luis, al crear los repositorios y supervisar la división de tareas, se aseguró de que todos los miembros del equipo comprendieran sus responsabilidades y el cumplimiento de la rúbrica del trabajo. Su habilidad para proporcionar retroalimentación clara durante las reuniones facilitó una colaboración fluida y mantuvo al grupo alineado.
+    Renzo, encargado del repositorio del frontend, desarrolló una plantilla que permitió a todos avanzar en sus partes respectivas. Durante las reuniones, comunicó de manera efectiva las correcciones necesarias y supervisó el progreso del equipo, lo que ayudó a mantener un ambiente de trabajo colaborativo. Su enfoque en la comunicación constante garantizó que todos comprendieran las modificaciones requeridas.
+     completó su parte del backend y avanzó en tareas específicas, mostrando su compromiso al finalizar el sprint 3. En sus presentaciones orales, comunicó claramente sus contribuciones y los desafíos superados, lo que mejoró la cohesión del grupo. Además, realizó notificaciones y correcciones en los user stories, desplegando la base de datos y desarrollando funcionalidades clave.
+    <br>
     </td> 
   </tr>
   <tr>
@@ -421,11 +475,11 @@ En la TF, se realizaron los arreglos pendientes, se completó el despliegue del 
     <td>
       Camila Leonor Espinoza Vivas <br>
       TB1 <br>
-      Llevo a cabo el análisis y la retroalimentación de todos los capítulos, además del despliegue y diseño de la landing page. Desarrollo guías de estilo, estructuré la arquitectura de la información, y optimicé etiquetas SEO. Diseño la interfaz de usuario para la landing page con wireframes y mockups, y trabajo en la arquitectura de software basada en el dominio, incluyendo diagramas de contexto, contenedores y componentes. También realizo el diseño orientado a objetos y la creación de un diagrama de base de datos para una mejor comunicación técnica entre los equipos.
+      En la primera entrega, creé los repositorios y me encargué de la división y supervisión de las tareas, asegurándome de que todo se cumpliera según la rúbrica del trabajo. Estuve pendiente de cada entrega y proporcioné retroalimentación escrita sobre los avances de mis compañeros. A través de informes y correos electrónicos, comuniqué claramente las expectativas y objetivos, lo que facilitó una colaboración efectiva y ayudó a mantener al equipo alineado en nuestras metas.
       <br>
       Renzo José Araujo Ingunza<br>
       TB1 <br>
-      Estructuro la arquitectura de la información, e implemento etiquetas SEO para mejorar la comprensión y visibilidad del contenido. Diseño wireframes y prototipos de UX/UI, asegurando una comunicación clara para audiencias técnicas y no técnicas. Además, creo diagramas y diccionarios de clases para facilitar la comunicación entre desarrolladores.
+      En la primera entrega, avancé en los elementos asignados a través de reuniones grupales que realizamos de manera diaria y semanal. Esta organización me permitió progresar conforme a lo esperado y también contribuí a la coordinación del grupo, asegurando que todos estuviéramos alineados en nuestras tareas y objetivos. Durante estas reuniones, documenté claramente los acuerdos y decisiones tomadas, lo que facilitó una colaboración fluida y un entendimiento común sobre nuestras responsabilidades.
       <br>
       Fatima Asmad Padilla<br>
       TB1 <br> 
@@ -437,16 +491,16 @@ En la TF, se realizaron los arreglos pendientes, se completó el despliegue del 
       <br>
       Luis Alfonso Villegas Jipa<br>
       TB1 <br>
-      Contribuyo al desarrollo del capítulo 1, donde redacto y estructuro el contenido para asegurar una comunicación clara. También elaboro las user stories y el product backlog, adaptando el lenguaje y la información para audiencias técnicas y no técnicas, facilitando la comprensión del proyecto en distintos niveles.
+      En la primera entrega, me encargué de elaborar el informe del proyecto, donde realicé un análisis detallado de los competidores para identificar las mejores prácticas del mercado y presentar nuestra propuesta de valor de manera clara. También desarrollé y analicé los user stories, asegurándome de que reflejaran adecuadamente las necesidades del usuario final, utilizando un formato general que incluía el rol del usuario, la funcionalidad deseada y el beneficio esperado. Esto facilitó la alineación del equipo y mejoró nuestra comprensión de los objetivos. Además, redacté las technical stories, centrándome en las tareas técnicas necesarias para implementar las funcionalidades, lo que optimizó la comunicación con mis compañeros desarrolladores y preparó al grupo para presentar nuestro trabajo a diferentes audiencias.
       <br>
       <br>
       Camila Leonor Espinoza Vivas <br>
       TP <br>
-      Jugó un papel crucial en la revisión y retroalimentación de todos los capítulos del proyecto, asegurando que cada uno cumpliera con los estándares y expectativas establecidos. También fue responsable de la corrección de la landing page y de los user stories, añadiendo más user stories que enriquecieron el backlog del proyecto. Además de completar su parte del front end, apoyó activamente a sus compañeros, ayudando a resolver dudas y fomentando un ambiente colaborativo dentro del equipo.
+      En el trabajo parcial, establecí el repositorio del frontend y desarrollé una plantilla para que todos pudieran avanzar en sus respectivas partes. Supervisé el progreso de cada miembro del equipo y documenté las correcciones necesarias a partir de los errores identificados en la primera entrega. A lo largo de este proceso, mantuve una comunicación escrita constante con mis compañeros, asegurándome de que todos comprendieran las correcciones a implementar. Esto fomentó un ambiente de trabajo colaborativo y mejoró la calidad del producto final.
       <br>
       Renzo José Araujo Ingunza<br>
       TP <br>
-      se encargó del despliegue del front end, una tarea esencial que permitió que la plataforma estuviera disponible para su revisión y pruebas. Su participación también fue clave en la integración de todas las partes del front end, asegurando que el producto final funcionara de manera cohesiva. Apoyó a sus compañeros aclarando dudas sobre aspectos de programación, demostrando un fuerte compromiso con el éxito del equipo y el proyecto.
+      En el trabajo parcial, cumplí con los elementos asignados mediante las reuniones grupales diarias y semanales, lo que me permitió avanzar de acuerdo con las expectativas. Además, colaboré en la integración de todas las partes del frontend, asegurándome de que cada componente funcionara correctamente. A través de una comunicación escrita clara y constante con el equipo, logré unir nuestros esfuerzos y crear una interfaz cohesiva y fácil de usar para los usuarios finales. Documenté cada paso del proceso para que todos los miembros del equipo pudieran seguir el progreso y entender las decisiones tomadas.
       <br>
       Fatima Asmad Padilla<br>
       TP <br> 
@@ -458,27 +512,40 @@ En la TF, se realizaron los arreglos pendientes, se completó el despliegue del 
       <br>
       Luis Alfonso Villegas Jipa<br>
       TP <br>
-      Completó su parte del front end y user stories, pero no cumplió con los objetivos específicos señalados para su tarea. Aunque se enfrentó a ciertos desafíos para alcanzar las metas definidas, su capacidad para finalizar su trabajo terminando el capitulo 5 refleja un compromiso con el equipo y una disposición para cumplir con los plazos a pesar de las dificultades.
+      En el trabajo parcial, me enfoqué en el desarrollo del frontend para la funcionalidad de order, donde implementé la emisión de órdenes de compra clasificadas en breakfast, lunch y dinner. Durante este proceso, colaboré con mis compañeros para asegurar que la interfaz fuera intuitiva y fácil de usar. Esto permitió una comunicación efectiva de nuestras ideas y decisiones, facilitando que tanto los usuarios finales como los miembros del equipo entendieran cómo navegar por las categorías y realizar pedidos de manera eficiente. Esta experiencia fortaleció nuestras habilidades para redactar conceptos técnicos accesibles a diferentes audiencias.
       <br>
       Camila Leonor Espinoza Vivas <br>
       TB2 <br>
-      Asumió un papel fundamental en la comunicación escrita del equipo. Elaboró informes detallados sobre el progreso del backend, asegurando que toda la documentación estuviera actualizada y fuera accesible para todos. Además, preparó y presentó sus hallazgos de manera efectiva durante su entrevista, utilizando un lenguaje claro y conciso que facilitó la comprensión de sus contribuciones. Su capacidad para sintetizar información compleja y comunicarla a diferentes audiencias fue crucial para mantener la cohesión del equipo y el avance del proyecto.
+      Durante la TB 2, completé mi parte del backend y avancé en las tareas TS05, TS11 y TS12. Aunque enfrenté algunos desafíos para alcanzar los objetivos específicos, mi compromiso se reflejó en la finalización del sprint 3. En mi informe escrito, comuniqué de manera efectiva mis aportes al equipo, explicando los obstáculos que encontré y cómo los superé. Esta documentación ayudó a fortalecer la cohesión del grupo y a identificar áreas donde podríamos mejorar en el futuro.
       <br>
       Renzo José Araujo Ingunza<br>
       TB2 <br>
-      Compiló y organizó la documentación de las tareas que completó, presentando la información de manera clara y estructurada. En su entrevista, utilizó un estilo de comunicación apropiado para diversos públicos, lo que facilitó la discusión sobre su contribución al proyecto y mejoró la colaboración en el equipo.
+      Durante el TB 2, desarrollé mi parte del backend y avancé en las tareas TS08, TS09 y TS10. Aunque enfrenté algunos obstáculos, mi capacidad para ayudar a completar el sprint 3 refleja mi compromiso con el equipo. En mi informe escrito, comuniqué claramente mis contribuciones y los desafíos que encontré, lo que mejoró la cohesión del grupo. Esta documentación permitió que todos comprendieran cómo cada uno de nosotros estaba avanzando en el proyecto y facilitó la identificación de áreas donde se necesitaba apoyo adicional.
       <br>
       Luis Alfonso Villegas Jipa<br>
       TB2 <br>
-      Redactó documentación técnica detallada sobre su parte del backend, lo que ayudó a los demás miembros del equipo a entender sus avances. También comunicó efectivamente sus resultados en la entrevista, asegurando que la información fuera comprensible para diferentes audiencias, desde técnicos hasta no técnicos.
+      En el trabajo parcial, me encargué del desarrollo del backend para la funcionalidad de order, implementando métodos GET y POST que gestionan las mismas categorías de breakfast, lunch y dinner. Añadí elementos clave como los nombres de los platillos, un ID generado automáticamente para cada orden, la cantidad solicitada y el total a pagar. Trabajé en estrecha colaboración con mis compañeros para asegurar que la lógica del backend se integrara sin problemas con el frontend. Además, me aseguré de documentar claramente los aspectos técnicos del sistema, lo que facilitó una comprensión compartida entre todos los miembros del equipo sobre cómo estas mejoras beneficiarían a los usuarios finales.
       <br>
       Jhordi Luis Carranza Pérez<br>	
       TB2 <br>
       La falta de participación de Jhordi limitó su capacidad para contribuir a la comunicación escrita. Aunque se esperaba que proporcionara actualizaciones sobre su trabajo, su ausencia afectó la cohesión del equipo.
       <br>
       Fatima Asmad Padilla<br>
-      TP <br>
+      TB2 <br>
       Al igual que Jhordi, su ausencia afectó la comunicación escrita dentro del grupo. Se anticipaba que Fátima colaboraría en la documentación y las discusiones escritas sobre el avance del proyecto, pero su retiro a último minuto dejó un vacío en la comunicación del equipo.
+      <br>
+      Camila Leonor Espinoza Vivas <br>
+      TF <br>
+      Durante el trabajo parcial, completé mi parte del backend y avancé en las tareas TS05, TS11 y TS12. Aunque enfrenté algunos desafíos para alcanzar los objetivos específicos, mi compromiso se reflejó en la finalización del sprint 3. En mi informe escrito, comuniqué de manera efectiva mis aportes al equipo, explicando los obstáculos que encontré y cómo los superé. Esta documentación ayudó a fortalecer la cohesión del grupo y a identificar áreas donde podríamos mejorar en el futuro.
+      <br>
+      Renzo José Araujo Ingunza<br>
+      TF <br>
+      En el trabajo final, desarrollé tanto el frontend para la funcionalidad de schedule como el backend para las funcionalidades de IAM y schedule, además de actualizar el informe del proyecto. Durante este proceso, mantuve una comunicación escrita constante con mis compañeros para asegurar que todos estuviéramos al tanto de los avances y cambios. Esta interacción no solo facilitó la colaboración efectiva entre los miembros del equipo, sino que también permitió que cada uno comprendiera cómo nuestras contribuciones individuales se integraban en el proyecto general. Documenté todos los cambios realizados para asegurar una referencia clara en futuras discusiones.
+      <br>
+      Luis Alfonso Villegas Jipa<br>
+      TF <br>
+      En el trabajo final, me centré en mejorar el backend, reintegrando la funcionalidad de order tanto en los planes básicos como en los premium. Implementé una nueva funcionalidad de historial de órdenes, que permite a los usuarios acceder a sus compras anteriores. A lo largo de este proceso, colaboré estrechamente con mis compañeros para garantizar que todas las mejoras se implementaran eficazmente y que la lógica del sistema se mantuviera coherente. También me aseguré de comunicar por escrito los cambios y nuevas funcionalidades a todo el equipo, lo que facilitó una comprensión común sobre cómo estas mejoras beneficiarían a los usuarios finales. Esta experiencia no solo perfeccionó mis habilidades técnicas, sino que también reforzó nuestra capacidad para redactar información compleja de manera clara y accesible para diversas audiencias.
+      <br>
     </td>
     <td>
     TB1<br>
@@ -490,7 +557,13 @@ En la TF, se realizaron los arreglos pendientes, se completó el despliegue del 
     TB2<br>
     La comunicación escrita en el equipo fue un factor crítico para el progreso del proyecto, especialmente en un contexto marcado por la ausencia de dos compañeros, Fátima y Jhordi. Camila se destacó como la principal comunicadora, asumiendo la responsabilidad de elaborar informes detallados y actualizados que facilitaron la comprensión del avance del backend por parte de todos los miembros del equipo. Su habilidad para presentar información técnica de manera accesible y clara permitió que el equipo se mantuviera alineado y en camino hacia el cumplimiento de los objetivos. 
     Por otro lado, Luis y Renzo también contribuyeron a la documentación y comunicaron sus avances de manera efectiva, aunque la falta de participación de Jhordi y Fátima creó un desafío adicional. En general, la capacidad del equipo para adaptarse a estas ausencias y fortalecer su comunicación escrita refleja un compromiso compartido hacia la transparencia y la colaboración. A pesar de las dificultades, el equipo demostró una notable capacidad para manejar la comunicación escrita, lo que fue fundamental para mantener el rumbo del proyecto y cumplir con los plazos establecidos.
-    </td>
+    <br>
+    TF<br>
+    En el trabajo final, el equipo demostró un alto nivel de colaboración y compromiso. Luis se encargó de crear los repositorios y supervisar la división de tareas, asegurándose de que todo estuviera alineado con la rúbrica del trabajo. Documentó el progreso y proporcionó retroalimentación escrita a sus compañeros, facilitando una comunicación clara y efectiva.
+    Renzo estableció el repositorio del frontend, desarrollando una plantilla que permitió a todos avanzar en sus respectivas partes. Supervisó el progreso del equipo y documentó las correcciones necesarias, asegurando que cada miembro comprendiera las modificaciones requeridas. Su comunicación constante fomentó un ambiente colaborativo y productivo.
+    Camila completó su parte del backend y avanzó en tareas específicas, enfrentando desafíos pero demostrando su compromiso al finalizar el sprint 3. En sus informes escritos, comunicó claramente sus contribuciones y los obstáculos superados, lo que mejoró la cohesión del grupo. Además, realizó notificaciones y correcciones en los user stories, desplegando la base de datos y desarrollando funcionalidades clave.
+
+</td>
   </tr>
 </table>
 
@@ -521,6 +594,14 @@ TB2
 - El equipo de desarrollo de NutriSend logró avances importantes, a pesar de contar con la participación de tres de los cinco miembros previstos. Este ajuste en la disponibilidad del equipo requirió una reestructuración de las tareas y una colaboración más intensa entre los integrantes activos para cumplir con los objetivos. A pesar de los desafíos, el equipo logró completar la documentación de los endpoints y llevar a cabo actividades de validación importantes. Estos avances proporcionan una base sólida para la continuidad del desarrollo en los próximos sprints y refuerzan la adaptabilidad y colaboración del equipo ante cambios inesperados.
 
 - El Sprint 3 presentó tanto avances importantes en el desarrollo del backend de NutriSend como retos que desafiaron al equipo. A pesar de contar con solo tres de los cinco integrantes, el equipo trabajó de manera enfocada y logró cumplir con varios de los objetivos propuestos. Se implementaron los endpoints más críticos (gestión de usuarios, comidas, pedidos y horarios de comidas) y se documentaron adecuadamente utilizando OpenAPI. Esta documentación permitirá que futuras iteraciones se realicen con una mayor claridad y facilita el mantenimiento.
+
+TF
+
+- El equipo demostró un alto nivel de colaboración al establecer repositorios y supervisar las tareas asignadas. La comunicación escrita clara y la retroalimentación constante permitieron que todos los miembros comprendieran sus responsabilidades y se alinearan con los objetivos del proyecto, lo que resultó en un avance cohesivo hacia la finalización exitosa del trabajo final.
+
+- Cada miembro del equipo, Luis, Renzo y Camila, utilizó estrategias efectivas para comunicar tanto por escrito como de forma oral. Esto incluyó la creación de documentos informativos, presentaciones claras y discusiones en grupo que facilitaron la comprensión de los avances y desafíos. Esta capacidad para adaptar el mensaje según el público contribuyó a mantener a todos informados y comprometidos con el proyecto.
+
+- A pesar de enfrentar obstáculos durante el desarrollo del trabajo final, el equipo logró superarlos gracias a una comunicación abierta y efectiva. Las discusiones sobre los problemas encontrados y las soluciones propuestas no solo mejoraron la cohesión del grupo, sino que también permitieron a cada miembro expresar sus aportes y preocupaciones. Esto fortaleció el compromiso colectivo hacia el éxito del proyecto.
 
 # Video About-the-Team: 
 
