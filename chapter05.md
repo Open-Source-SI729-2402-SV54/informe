@@ -2676,7 +2676,7 @@ El objetivo principal de este cuarto sprint es completar el backend de NutriSend
   <thead>
     <tr>
       <th>Sprint #</th>
-      <th colspan="7">Sprint 3</th>
+      <th colspan="7">Sprint 4</th>
     </tr>
     <tr>
       <th colspan="2">User Story</th>
