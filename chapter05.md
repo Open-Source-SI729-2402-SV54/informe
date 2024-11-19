@@ -3182,6 +3182,22 @@ Repositorio de Web Services: http://localhost:8080/swagger-ui/index.html
 
 En esta sección se explicará el proceso realizado para desplegar los servicios desarrollados durante este sprint. Se presentará una descripción general de los pasos seguidos y las plataformas empleadas.
 
+* Despliegue de la Base de Datos:
+
+Para el despliegue de la base de datos, utilizamos la plataforma Railway, que facilita la creación de soluciones en la nube. Iniciamos el proceso creando un proyecto y seleccionando el servicio necesario para nuestra implementación.<br>
+![img_10.png](img_10.png)
+
+
+Esperamos a que el servicio se inicie por completo, momento en el cual se mostrarán los datos necesarios para establecer la conexión remota.
+![img_11.png](img_11.png)
+
+Configuramos la conexión con la url en nuestro proyecto nutrisend.
+
+![img_13.png](img_13.png)
+
+Finalmente, utilizamos MySQL Workbench para ingresar los datos de conexión y gestionar la base de datos.
+![img_12.png](img_12.png)
+
 
 #### 5.2.4.8.Team Collaboration Insights during Sprint.
 
