@@ -644,7 +644,7 @@ Despligue del front-end: front-end-master-rouge.vercel.app
 
 Repositorio del backend: https://github.com/Open-Source-SI729-2402-SV54/nutrisend-platform.git
 
-Despliegue del backend: 
+Despliegue del backend: https://graceful-respect-production.up.railway.app/swagger-ui/index.html#/
 
 As-is Scenario Mapping: https://miro.com/welcomeonboard/MmJhQlMzbUk5WE1NNkRtRXFlMWVqOG9KTDNrYVgwQzFZdHBzTjBGT0prdVc2elVrQnVmZHBaZEdCSERyNjBWQXwzNDU4NzY0NTUxNjIyOTUwNzc1fDI=?share_link_id=127293495699 
 
