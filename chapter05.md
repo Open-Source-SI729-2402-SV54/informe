@@ -3147,273 +3147,34 @@ Repositorio de Web Services: http://localhost:8080/swagger-ui/index.html
 
 **Tabla de Documentación**
 
-<table>
-  <thead>
-    <tr>
-      <th>Endpoint</th>
-      <th>Acción HTTP</th>
-      <th>Sintaxis de Llamada</th>
-      <th>Parámetros</th>
-      <th>Ejemplo de Llamada</th>
-      <th>Ejemplo de Response</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>/users</td>
-      <td>POST</td>
-      <td>/users</td>
-      <td>JSON Body: name, surname, email</td>
-      <td>POST /users</td>
-      <td>{ "id": 1, "name": "John", "surname": "Doe", "email": "johndoe@example.com" }</td>
-    </tr>
-    <tr>
-      <td>/users</td>
-      <td>GET</td>
-      <td>/users</td>
-      <td>N/A</td>
-      <td>GET /users</td>
-      <td>[{ "id": 1, "name": "John", "surname": "Doe", "email": "johndoe@example.com" }]</td>
-    </tr>
-    <tr>
-      <td>/orders</td>
-      <td>POST</td>
-      <td>/orders</td>
-      <td>JSON Body: userId, items, total</td>
-      <td>POST /orders</td>
-      <td>{
-  "id": 0,
-  "userId": "string",
-  "items": [
-    {
-      "name": "string",
-      "price": 0,
-      "category": "string",
-      "quantity": 0
-    }
-  ],
-  "total": 0
-}</td>
-    </tr>
-    <tr>
-      <td>/orders</td>
-      <td>GET</td>
-      <td>/orders</td>
-      <td>N/A</td>
-      <td>GET /orders</td>
-      <td>[{
-    "id": 0,
-    "userId": "string",
-    "items": [
-      {
-        "name": "string",
-        "price": 0,
-        "category": "string",
-        "quantity": 0
-      }
-    ],
-    "total": 0
-  }]</td>
-    </tr>
-    <tr>
-      <td>/orders/{id}</td>
-      <td>GET</td>
-      <td>/orders/{id}</td>
-      <td>Path: id</td>
-      <td>GET /orders/101</td>
-      <td>{
-    "id": 0,
-    "userId": "string",
-    "items": [
-      {
-        "name": "string",
-        "price": 0,
-        "category": "string",
-        "quantity": 0
-      }
-    ],
-    "total": 0
-  }</td>
-    </tr>
-    <tr>
-      <td>/schedule</td>
-      <td>POST</td>
-      <td>/schedule</td>
-      <td>JSON Body: userId, meals, time</td>
-      <td>POST /schedule</td>
-      <td>{
-  "userId": 0,
-  "days": {
-    "additionalProp1": {
-      "additionalProp1": 0,
-      "additionalProp2": 0,
-      "additionalProp3": 0
-    },
-    "additionalProp2": {
-      "additionalProp1": 0,
-      "additionalProp2": 0,
-      "additionalProp3": 0
-    },
-    "additionalProp3": {
-      "additionalProp1": 0,
-      "additionalProp2": 0,
-      "additionalProp3": 0
-    }
-  }
-}</td>
-    </tr>
-    <tr>
-      <td>/schedule</td>
-      <td>GET</td>
-      <td>/schedule</td>
-      <td>N/A</td>
-      <td>GET /schedule</td>
-      <td>{
-  "userId": 0,
-  "days": {
-    "additionalProp1": {
-      "additionalProp1": 0,
-      "additionalProp2": 0,
-      "additionalProp3": 0
-    },
-    "additionalProp2": {
-      "additionalProp1": 0,
-      "additionalProp2": 0,
-      "additionalProp3": 0
-    },
-    "additionalProp3": {
-      "additionalProp1": 0,
-      "additionalProp2": 0,
-      "additionalProp3": 0
-    }
-  }
-}</td>
-    </tr>
-    <tr>
-      <td>/meals</td>
-      <td>POST</td>
-      <td>/meals</td>
-      <td>JSON Body: name, categoryId</td>
-      <td>POST /meals</td>
-      <td>{
-    "typeID": "string",
-    "categoryID": "string",
-    "id": 0,
-    "name": "string",
-    "calories": 0,
-    "protein": 0,
-    "carbohydrates": 0,
-    "fats": 0,
-    "price": 0,
-    "img": "string"
-  }</td>
-    </tr>
-    <tr>
-      <td>/meals</td>
-      <td>GET</td>
-      <td>/meals</td>
-      <td>N/A</td>
-      <td>GET /meals</td>
-      <td>[{
-    "typeID": "string",
-    "categoryID": "string",
-    "id": 0,
-    "name": "string",
-    "calories": 0,
-    "protein": 0,
-    "carbohydrates": 0,
-    "fats": 0,
-    "price": 0,
-    "img": "string"
-  }]</td>
-    </tr>
-    <tr>
-      <td>/meals/{id}</td>
-      <td>GET</td>
-      <td>/meals/{id}</td>
-      <td>Path: id</td>
-      <td>GET /meals/301</td>
-      <td>{
-    "typeID": "string",
-    "categoryID": "string",
-    "id": 0,
-    "name": "string",
-    "calories": 0,
-    "protein": 0,
-    "carbohydrates": 0,
-    "fats": 0,
-    "price": 0,
-    "img": "string"
-  }</td>
-    </tr>
-    <tr>
-      <td>/type-meals</td>
-      <td>POST</td>
-      <td>/type-meals</td>
-      <td>JSON Body: typeName</td>
-      <td>POST /type-meals</td>
-      <td>{
-    "id": "string",
-    "name": "string"
-  }</td>
-    </tr>
-    <tr>
-      <td>/type-meals</td>
-      <td>GET</td>
-      <td>/type-meals</td>
-      <td>N/A</td>
-      <td>GET /type-meals</td>
-      <td>[{
-    "id": "string",
-    "name": "string"
-  }]</td>
-    </tr>
-    <tr>
-      <td>/type-meals/{id}</td>
-      <td>GET</td>
-      <td>/type-meals/{id}</td>
-      <td>Path: id</td>
-      <td>GET /type-meals/401</td>
-      <td>{
-    "id": "string",
-    "name": "string"
-  }</td>
-    </tr>
-    <tr>
-      <td>/category</td>
-      <td>POST</td>
-      <td>/category</td>
-      <td>JSON Body: categoryName</td>
-      <td>POST /category</td>
-      <td>{
-    "id": "string",
-    "name": "string"
-  }</td>
-    </tr>
-    <tr>
-      <td>/category</td>
-      <td>GET</td>
-      <td>/category</td>
-      <td>N/A</td>
-      <td>GET /category</td>
-      <td>[{
-    "id": "string",
-    "name": "string"
-  }]</td>
-    </tr>
-    <tr>
-      <td>/category/{id}</td>
-      <td>GET</td>
-      <td>/category/{id}</td>
-      <td>Path: id</td>
-      <td>GET /category/501</td>
-      <td>{
-    "id": "string",
-    "name": "string"
-  }</td>
-    </tr>
-  </tbody>
-</table>
+| Endpoint                     | Acción     | Verbo HTTP | Parámetros / Request Body                                                                                                                                                              | Imagen                  |
+|------------------------------|------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
+| `/api/v1/users`              | Obtener    | GET        | `null`                                                                                                                                                                                 | ![img_1.png](img_1.png) |
+| `/api/v1/users`              | Crear      | POST       | `{"name": "string", "surname": "string", "email": "string", "password": "string", "phone": "number"}`                                                                                  | ![img_3.png](img_3.png) |
+| `/api/v1/users/{userId}`     | Obtener    | GET        | `userId`                                                                                                                                                                               | ![img_5.png](img_5.png) |
+| `/api/v1/users/{userId}`     | Actualizar | PUT        | `userId`                                                                                                                                                                               | ![img_4.png](img_4.png) |
+| `/api/v1/users/{userId}`     | Eliminar   | Delete     | `userId`                                                                                                                                                                               | ![img_2.png](img_2.png) |
+| `/api/v1/notifications`      | Obtener    | GET        | `null`                                                                                                                                                                                 | !                       |
+| `/api/v1/notifications`      | Crear      | POST       | `{"email": "string", "message": "string", "typeId": "Long", "active": "boolean", "notificationTime": "LocalTime" }`                                                                    | !                       |
+| `/api/v1/notifications/{id}` | Obtener    | GET        | `id`                                                                                                                                                                                   | !                       |
+| `/api/v1/notifications/{id}` | Actualizar | PUT        | `id`                                                                                                                                                                                   | !                       |
+| `/api/v1/orders`             | Obtener    | GET        | `null`                                                                                                                                                                                 | !                       |
+| `/api/v1/orders`             | Actualizar | POST       | `"userId": "string", "items": "List" `                                                                                                                                                 | !                       |
+| `/api/v1/orders/{id}`        | Obtener    | GET        | `userId`                                                                                                                                                                               | !                       |
+| `/api/v1/orders/{id}`        | Actualizar | PUT        | `"orderId": "Long", "items": "list"`                                                                                                                                                   | !                       |
+| `/api/v1/orders/{id}`        | Eliminar   | DELETE     | `orderId`                                                                                                                                                                              | !                       |
+| `/api/v1/category`           | Obtener    | GET        | `null`                                                                                                                                                                                 | !                       |
+| `/api/v1/category`           | Crear      | POST       | `"meals" : "string"`                                                                                                                                                                   | !                       |
+| `/api/v1/category/{id}`      | Obtener    | GET        | `categoryId`                                                                                                                                                                           | !                       |
+| `/api/v1/category/{id}`      | Actualizar | PUT        | `"categoryId": "Long", "name": "string"`                                                                                                                                               | !                       |
+| `/api/v1/category/{id}`      | Eliminar   | DELETE     | `categoryId`                                                                                                                                                                           | !                       |
+| `/api/v1/availability`       | Obtener    | GET        | `null`                                                                                                                                                                                 | !                       |
+| `/api/v1/type-meals`         | Obtener    | GET        | `null`                                                                                                                                                                                 | !                       |
+| `/api/v1/type-meals`         | Crear      | POST       | `"name": "string"`                                                                                                                                                                     | !                       |
+| `/api/v1/type-meals/{id}`    | Obtener    | GET        | `typeId`                                                                                                                                                                               | !                       |
+| `/api/v1/meals`              | Obtener    | GET        | `null`                                                                                                                                                                                 | !                       |
+| `/api/v1/meals`              | Crear      | POST       | `"categoryId": "Long", "typeId" : "long","name": "string", "calories" : "double", "protein": "double","carbohydrates": "double", "fats": "double", "price": "double", "img": "string"` | !                       |
+| `/api/v1/meals/{id}`         | Obtener    | GET        | `mealId`                                                                                                                                                                               | !                       |
 
 
     
