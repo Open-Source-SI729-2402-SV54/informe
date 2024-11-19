@@ -2609,10 +2609,6 @@ En esta sección, el equipo registra y explica las actividades de entrevistas de
 
 El objetivo principal de este cuarto sprint es completar el backend de NutriSend, asegurando una infraestructura sólida y escalable para las funcionalidades planeadas. Durante esta fase, finalizaremos los servicios necesarios para la gestión de usuarios, horarios de comidas, pedidos y preferencias a través de una API RESTful. Al igual que en los sprints previos, nos mantendremos enfocados en el desarrollo ágil, promoviendo iteraciones que refuercen la calidad del código y faciliten futuras ampliaciones. La priorización de tareas y la claridad en los requisitos serán fundamentales para avanzar de manera eficiente hacia un backend funcional y bien estructurado.
 
- Trello: https://trello.com/invite/b/673cf966f7bbf370eb68a0d5/ATTIbbe28aab0d51ee7bf68e14b8ad5b1c8278E7F2F5/sprint-4-nutrisend
-
-![image](https://github.com/user-attachments/assets/71b4dae4-adbc-4072-a1b6-7be20f171850)
-
 #### 5.2.4.1.Sprint Planning 4.
 
 <table table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
@@ -2674,6 +2670,10 @@ El objetivo principal de este cuarto sprint es completar el backend de NutriSend
 </table>
 
 #### 5.2.4.2.Sprint Backlog 4.
+
+En este cuarto sprint, el enfoque principal es la correccion del backend de NutriSend, con la implementación de las principales funcionalidades que permitirán la gestión de usuarios, pedidos, horarios y preferencias mediante una API RESTful. Este sprint se centra en construir una estructura sólida para la lógica de negocio, optimizando la interacción entre el frontend y backend. Además, se revisarán y documentarán los servicios implementados, asegurando que el ciclo de vida del proyecto esté bien reflejado en los reportes y cumpla con los requisitos técnicos y de usuario. A continuación, se presenta el sprint backlog 4 y el tablero de Trello con la asignación de tareas: https://trello.com/invite/b/673cf966f7bbf370eb68a0d5/ATTIbbe28aab0d51ee7bf68e14b8ad5b1c8278E7F2F5/sprint-4-nutrisend
+
+![image](https://github.com/user-attachments/assets/8a9247c2-a59f-4dfb-bb9f-c63de5d948d4)
 
 
 <table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
