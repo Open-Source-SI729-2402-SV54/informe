@@ -3819,9 +3819,87 @@ Despliegue: front-end-master-rouge.vercel.app
 * **Web Services Execution**
 
 #### 5.2.4.6.Services Documentation Evidence for Sprint Review.
+En este Sprint 4, el equipo ha completado la documentación de los endpoints de NutriSend relacionados 
+con la gestión de usuarios, pedidos, horarios de comidas, comidas, tipos de comidas, categorías de comidas y el 
+nuevo endpoint de *schedule*. La documentación ha sido desarrollada utilizando OpenAPI, lo que garantiza una 
+estructura clara y accesible. Esto permite una visualización detallada de los métodos disponibles en cada servicio, 
+las acciones soportadas y los formatos de respuesta, brindando una guía integral tanto para el desarrollo como para 
+la integración con otros sistemas. Actualmente, la documentación se encuentra en el entorno local para pruebas, con
+miras a su despliegue completo en sprints posteriores.
+
+Repositorio de Web Services: http://localhost:8080/swagger-ui/index.html
+
+**Tabla de Documentación**
+
+| Endpoint                     | Acción     | Verbo HTTP | Parámetros / Request Body                                                                                                                                                              | Imagen                    |
+|------------------------------|------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| `/api/v1/users`              | Obtener    | GET        | `null`                                                                                                                                                                                 | ![img_1.png](img_1.png)   |
+| `/api/v1/users`              | Crear      | POST       | `{"name": "string", "surname": "string", "email": "string", "password": "string", "phone": "number"}`                                                                                  | ![img_3.png](img_3.png)   |
+| `/api/v1/users/{userId}`     | Obtener    | GET        | `userId`                                                                                                                                                                               | ![img_5.png](img_5.png)   |
+| `/api/v1/users/{userId}`     | Actualizar | PUT        | `userId`                                                                                                                                                                               | ![img_4.png](img_4.png)   |
+| `/api/v1/users/{userId}`     | Eliminar   | Delete     | `userId`                                                                                                                                                                               | ![img_2.png](img_2.png)   |
+| `/api/v1/notifications`      | Obtener    | GET        | `null`                                                                                                                                                                                 | ![img_8.png](img_8.png)   |
+| `/api/v1/notifications`      | Crear      | POST       | `{"email": "string", "message": "string", "typeId": "Long", "active": "boolean", "notificationTime": "LocalTime" }`                                                                    | ![img_9.png](img_9.png)   |
+| `/api/v1/notifications/{id}` | Obtener    | GET        | `id`                                                                                                                                                                                   | ![img_6.png](img_6.png)   |
+| `/api/v1/notifications/{id}` | Actualizar | PUT        | `id`                                                                                                                                                                                   | ![img_7.png](img_7.png)   |
+| `/api/v1/orders`             | Obtener    | GET        | `null`                                                                                                                                                                                 | ![img_15.png](img_15.png) |
+| `/api/v1/orders`             | Actualizar | POST       | `"userId": "string", "items": "List" `                                                                                                                                                 | ![img_14.png](img_14.png) |
+| `/api/v1/orders/{id}`        | Obtener    | GET        | `userId`                                                                                                                                                                               | ![img_16.png](img_16.png) |
+| `/api/v1/orders/{id}`        | Actualizar | PUT        | `"orderId": "Long", "items": "list"`                                                                                                                                                   | ![img_17.png](img_17.png) |
+| `/api/v1/orders/{id}`        | Eliminar   | DELETE     | `orderId`                                                                                                                                                                              | ![img_18.png](img_18.png) |
+| `/api/v1/category`           | Obtener    | GET        | `null`                                                                                                                                                                                 | ![img_19.png](img_19.png) |
+| `/api/v1/category`           | Crear      | POST       | `"meals" : "string"`                                                                                                                                                                   | ![img_20.png](img_20.png) |
+| `/api/v1/category/{id}`      | Obtener    | GET        | `categoryId`                                                                                                                                                                           | ![img_21.png](img_21.png) |
+| `/api/v1/category/{id}`      | Actualizar | PUT        | `"categoryId": "Long", "name": "string"`                                                                                                                                               | ![img_22.png](img_22.png) |
+| `/api/v1/category/{id}`      | Eliminar   | DELETE     | `categoryId`                                                                                                                                                                           | ![img_23.png](img_23.png) |
+| `/api/v1/availability`       | Obtener    | GET        | `null`                                                                                                                                                                                 | ![img_24.png](img_24.png) |
+| `/api/v1/type-meals`         | Obtener    | GET        | `null`                                                                                                                                                                                 | ![img_25.png](img_25.png) |
+| `/api/v1/type-meals`         | Crear      | POST       | `"name": "string"`                                                                                                                                                                     | ![img_26.png](img_26.png) |
+| `/api/v1/type-meals/{id}`    | Obtener    | GET        | `typeId`                                                                                                                                                                               | ![img_27.png](img_27.png) |
+| `/api/v1/meals`              | Obtener    | GET        | `null`                                                                                                                                                                                 | ![img_28.png](img_28.png) |
+| `/api/v1/meals`              | Crear      | POST       | `"categoryId": "Long", "typeId" : "long","name": "string", "calories" : "double", "protein": "double","carbohydrates": "double", "fats": "double", "price": "double", "img": "string"` | ![img_29.png](img_29.png) |
+| `/api/v1/meals/{id}`         | Obtener    | GET        | `mealId`                                                                                                                                                                               | ![img_30.png](img_30.png) |
+
+
+    
 #### 5.2.4.7.Software Deployment Evidence for Sprint Review.
+
+En esta sección se explicará el proceso realizado para desplegar los servicios desarrollados durante este sprint. Se presentará una descripción general de los pasos seguidos y las plataformas empleadas.
+
+* Despliegue de la Base de Datos:
+
+Para el despliegue de la base de datos, utilizamos la plataforma Railway, que facilita la creación de soluciones en la nube. Iniciamos el proceso creando un proyecto y seleccionando el servicio necesario para nuestra implementación.<br>
+![img_10.png](img_10.png)
+
+
+Esperamos a que el servicio se inicie por completo, momento en el cual se mostrarán los datos necesarios para establecer la conexión remota.
+![img_11.png](img_11.png)
+
+![img_36.png](img_36.png)
+
+Finalmente, utilizamos MySQL Workbench para ingresar los datos de conexión y gestionar la base de datos.
+![img_12.png](img_12.png)
+
+
 #### 5.2.4.8.Team Collaboration Insights during Sprint.
 
+En esta entrega, nuestra meta principal fue culminar los servicios tanto del frontend como del backend. Se representan los commits realizados por cada miembro del equipo Naxus:
+
+A continuación, se muestra la cantidad de clonaciones realizadas por cada integrante del equipo durante el desarrollo de los servicios. 
+
+* En cuanto al Backend tenemos: 
+
+![img_33.png](img_33.png)
+
+![img_31.png](img_31.png)
+
+![img_32.png](img_32.png)
+
+![img_35.png](img_35.png)
+
+* En cuanto al Frontend tenemos: 
+
+![img_34.png](img_34.png)
 
 ### 5.3.1. Diseño de Entrevistas
 
