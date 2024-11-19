@@ -3179,6 +3179,10 @@ Repositorio de Web Services: http://localhost:8080/swagger-ui/index.html
 
     
 #### 5.2.4.7.Software Deployment Evidence for Sprint Review.
+
+En esta sección se explicará el proceso realizado para desplegar los servicios desarrollados durante este sprint. Se presentará una descripción general de los pasos seguidos y las plataformas empleadas.
+
+
 #### 5.2.4.8.Team Collaboration Insights during Sprint.
 
 
