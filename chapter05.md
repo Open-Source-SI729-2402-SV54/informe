@@ -3828,10 +3828,9 @@ con la gestión de usuarios, pedidos, horarios de comidas, comidas, tipos de com
 nuevo endpoint de *schedule*. La documentación ha sido desarrollada utilizando OpenAPI, lo que garantiza una 
 estructura clara y accesible. Esto permite una visualización detallada de los métodos disponibles en cada servicio, 
 las acciones soportadas y los formatos de respuesta, brindando una guía integral tanto para el desarrollo como para 
-la integración con otros sistemas. Actualmente, la documentación se encuentra en el entorno local para pruebas, con
-miras a su despliegue completo en sprints posteriores.
+la integración con otros sistemas. Actualmente, se logro desplegar el backend con su base de datos.
 
-Repositorio de Web Services: http://localhost:8080/swagger-ui/index.html
+Repositorio de Web Services: https://graceful-respect-production.up.railway.app/swagger-ui/index.html#/
 
 **Tabla de Documentación**
 
