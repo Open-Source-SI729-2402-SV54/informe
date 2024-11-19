@@ -3191,9 +3191,7 @@ Para el despliegue de la base de datos, utilizamos la plataforma Railway, que fa
 Esperamos a que el servicio se inicie por completo, momento en el cual se mostrarán los datos necesarios para establecer la conexión remota.
 ![img_11.png](img_11.png)
 
-Configuramos la conexión con la url en nuestro proyecto nutrisend.
-
-![img_13.png](img_13.png)
+![img_36.png](img_36.png)
 
 Finalmente, utilizamos MySQL Workbench para ingresar los datos de conexión y gestionar la base de datos.
 ![img_12.png](img_12.png)
@@ -3201,6 +3199,23 @@ Finalmente, utilizamos MySQL Workbench para ingresar los datos de conexión y ge
 
 #### 5.2.4.8.Team Collaboration Insights during Sprint.
 
+En esta entrega, nuestra meta principal fue culminar los servicios tanto del frontend como del backend. Se representan los commits realizados por cada miembro del equipo Naxus:
+
+A continuación, se muestra la cantidad de clonaciones realizadas por cada integrante del equipo durante el desarrollo de los servicios. 
+
+* En cuanto al Backend tenemos: 
+
+![img_33.png](img_33.png)
+
+![img_31.png](img_31.png)
+
+![img_32.png](img_32.png)
+
+![img_35.png](img_35.png)
+
+* En cuanto al Frontend tenemos: 
+
+![img_34.png](img_34.png)
 
 ### 5.3.1. Diseño de Entrevistas
 
