@@ -2882,6 +2882,102 @@ En esta sección se detallan y presentan los avances en la implementación de lo
       <td>Oct 30, 2024</td>
     </tr>
     <tr>
+      <td>LuisVJ19/nutrisend-platform</td>
+      <td>luis</td>
+      <td>415d2ac6fb6e062316effb78a0a23ee517c5518c</td>
+      <td>feat(order): added files Order class and OrderItem class</td>
+      <td>--</td>
+      <td>Oct 30, 2024</td>
+    </tr>
+    <tr>
+      <td>LuisVJ19/nutrisend-platform</td>
+      <td>luis</td>
+      <td>319bd992603ec1f307136c736ea147e60eb0d5a3</td>
+      <td>feat(order): added queries GetAllOrdersQuery and GetOrderByIdQuery</td>
+      <td>--</td>
+      <td>Oct 30, 2024</td>
+    </tr>
+    <tr>
+      <td>LuisVJ19/nutrisend-platform</td>
+      <td>luis</td>
+      <td>8df75ed01fe0078f37835a968c4dcaffe6ca4a82</td>
+      <td>feat(order): added infrastructure OrderRepository</td>
+      <td>--</td>
+      <td>Oct 30, 2024</td>
+    </tr>
+    <tr>
+      <td>LuisVJ19/nutrisend-platform</td>
+      <td>luis</td>
+      <td>93c4f81d6911bc45acc1b154385d8a7bd64d1a04</td>
+      <td>feat(order): added inferfaces OrderController</td>
+      <td>--</td>
+      <td>Oct 30, 2024</td>
+    </tr>
+    <tr>
+      <td>LuisVJ19/nutrisend-platform</td>
+      <td>luis</td>
+      <td>7f0f231ba8d19f41a1866cd6a6f816a797613173</td>
+      <td>feat(order): added inferfaces resources CreateOrderResource and OrderResource</td>
+      <td>--</td>
+      <td>Oct 30, 2024</td>
+    </tr>
+    <tr>
+      <td>LuisVJ19/nutrisend-platform</td>
+      <td>luis</td>
+      <td>78a9863fc315eb4b6772bbf33cab1735281c8ddb</td>
+      <td>feat(order): added command CreateOrderCommand, Create OrderItemCommand</td>
+      <td>--</td>
+      <td>Oct 30, 2024</td>
+    </tr>
+    <tr>
+      <td>LuisVJ19/nutrisend-platform</td>
+      <td>luis</td>
+      <td>19a2e996431224ffa2cff72280fc40f06a31c11b</td>
+      <td>feat(order): added internal OrderQueryServicelmpl.</td>
+      <td>--</td>
+      <td>Oct 30, 2024</td>
+    </tr>
+    <tr>
+      <td>LuisVJ19/nutrisend-platform</td>
+      <td>luis</td>
+      <td>a79402351eeb9f5fc8c23484d80e737455d07bd9</td>
+      <td>feat(order): Update reateOrderItemCommand</td>
+      <td>--</td>
+      <td>Nov 13, 2024</td>
+    </tr>
+    <tr>
+      <td>LuisVJ19/nutrisend-platform</td>
+      <td>luis</td>
+      <td>083c14aa767246551e3d12236d0f31940d72a70a</td>
+      <td>feat(user): implement command and query services for user</td>
+      <td>--</td>
+      <td>Nov 13, 2024</td>
+    </tr>
+    <tr>
+      <td>LuisVJ19/nutrisend-platform</td>
+      <td>luis</td>
+      <td>39ee5ab1eb3e244a3c75bbbe8492c61e33970fe0</td>
+      <td>feat(order): Update reateOrderItemCommand</td>
+      <td>--</td>
+      <td>Nov 13, 2024</td>
+    </tr>
+    <tr>
+      <td>LuisVJ19/nutrisend-platform</td>
+      <td>luis</td>
+      <td>cec89f15820ddfcb80a29c0a2ff0e02dd5627cf6</td>
+      <td>feat(order): Update CreateOrderCommand</td>
+      <td>--</td>
+      <td>Nov 13, 2024</td>
+    </tr>
+    <tr>
+      <td>LuisVJ19/nutrisend-platform</td>
+      <td>luis</td>
+      <td>98d2b9002175daf9096093cbbf12bcbc6d7c76b1</td>
+      <td>feat(order): Update OrderResourceFromEntityAssembler</td>
+      <td>--</td>
+      <td>Nov 13, 2024</td>
+    </tr>
+    <tr>
       <td>RnArauj0/ nutrisend-platform</td>
       <td>Renzo</td>
       <td>292bdc892a5e5f33f90ff0c6120d895794097285</td>
