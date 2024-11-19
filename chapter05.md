@@ -2881,6 +2881,134 @@ En esta sección se detallan y presentan los avances en la implementación de lo
       <td>--</td>
       <td>Oct 30, 2024</td>
     </tr>
+    <tr>
+      <td>RnArauj0/ nutrisend-platform</td>
+      <td>Renzo</td>
+      <td>292bdc892a5e5f33f90ff0c6120d895794097285</td>
+      <td>chore: initial commit</td>
+      <td>--</td>
+      <td>Nov 14, 2024</td>
+    </tr>
+    <tr>
+      <td>RnArauj0/ nutrisend-platform</td>
+      <td>Renzo</td>
+      <td>5109694b8dab8f084159936a4b2334a70414c2e2</td>
+      <td>feat: Role Created</td>
+      <td>--</td>
+      <td>Nov 14, 2024</td>
+    </tr>
+    <tr>
+      <td>RnArauj0/ nutrisend-platform</td>
+      <td>Renzo</td>
+      <td>5109694b8dab8f084159936a4b2334a70414c2e2</td>
+      <td>feat: Role Created</td>
+      <td>--</td>
+      <td>Nov 14, 2024</td>
+    </tr>
+    <tr>
+      <td>RnArauj0/ nutrisend-platform</td>
+      <td>Renzo</td>
+      <td>00c7af419c0667258715b2a9542478b070fd8bf8</td>
+      <td>feat: signIn and singUp command are created</td>
+      <td>--</td>
+      <td>Nov 14, 2024</td>
+    </tr>
+    <tr>
+      <td>RnArauj0/ nutrisend-platform</td>
+      <td>Renzo</td>
+      <td>e0b684f96b0ac7bef3a1973ae7fdd8fbd55d4066</td>
+      <td>feat: user and role services are created</td>
+      <td>--</td>
+      <td>Nov 14, 2024</td>
+    </tr>
+    <tr>
+      <td>RnArauj0/ nutrisend-platform</td>
+      <td>Renzo</td>
+      <td>1ad854c3da4e28c03a02e52756320052e7520bce</td>
+      <td>feat: SignInResource and SignUpResource are created</td>
+      <td>--</td>
+      <td>Nov 14, 2024</td>
+    </tr>
+    <tr>
+      <td>RnArauj0/ nutrisend-platform</td>
+      <td>Renzo</td>
+      <td>d239ea748a6da096ed6c73f4d6fad442de27d140</td>
+      <td>feat: User aggregate is created</td>
+      <td>--</td>
+      <td>Nov 14, 2024</td>
+    </tr>
+    <tr>
+      <td>RnArauj0/ nutrisend-platform</td>
+      <td>Renzo</td>
+      <td>8d786c6a17a91649b9ce4abe480debd44e46ef40</td>
+      <td>feat: basic queries are implemented</td>
+      <td>--</td>
+      <td>Nov 14, 2024</td>
+    </tr>
+    <tr>
+      <td>RnArauj0/ nutrisend-platform</td>
+      <td>Renzo</td>
+      <td>80920c113fcb799e721bba88e6cb1b110457d508</td>
+      <td>feat: resources are created</td>
+      <td>--</td>
+      <td>Nov 14, 2024</td>
+    </tr>
+    <tr>
+      <td>RnArauj0/ nutrisend-platform</td>
+      <td>Renzo</td>
+      <td>86e93b9eb889db9aa76f5c8c1dba4fd26262d6f3</td>
+      <td>feat: IamContextFacade are created</td>
+      <td>--</td>
+      <td>Nov 14, 2024</td>
+    </tr>
+    <tr>
+      <td>RnArauj0/ nutrisend-platform</td>
+      <td>Renzo</td>
+      <td>389a08962af3890dc576cff4599e3968e2f528de</td>
+      <td>feat: update role, signin, signup and user resources</td>
+      <td>--</td>
+      <td>Nov 14, 2024</td>
+    </tr>
+    <tr>
+      <td>RnArauj0/ nutrisend-platform</td>
+      <td>Renzo</td>
+      <td>87a1f7426d0264838630054561b1b92b5cf77361</td>
+      <td>feat: transform to entities and resources are created</td>
+      <td>--</td>
+      <td>Nov 14, 2024</td>
+    </tr>
+    <tr>
+      <td>RnArauj0/ nutrisend-platform</td>
+      <td>Renzo</td>
+      <td>dba92d01283a9332e7a29bea38c0df9483381c9a</td>
+      <td>feat: Create Schedule endpoint</td>
+      <td>--</td>
+      <td>Nov 15, 2024</td>
+    </tr>
+    <tr>
+      <td>RnArauj0/ nutrisend-platform</td>
+      <td>Renzo</td>
+      <td>ecb01646db4b138e40b311eef9a9bd8c8b943bbf</td>
+      <td>feat: aggregate, command, repository and service schedule created</td>
+      <td>--</td>
+      <td>Nov 16, 2024</td>
+    </tr>
+    <tr>
+      <td>RnArauj0/ nutrisend-platform</td>
+      <td>Renzo</td>
+      <td>4171a03b8f295f7207f4b1f0b6a210881945d541</td>
+      <td>feat: ScheduleController implemented</td>
+      <td>--</td>
+      <td>Nov 16, 2024</td>
+    </tr>
+    <tr>
+      <td>RnArauj0/ nutrisend-platform</td>
+      <td>Renzo</td>
+      <td>9a8d9239dab2bfc439a280ce1b2bdb5badfd5df4</td>
+      <td>9a8d9239dab2bfc439a280ce1b2bdb5badfd5df4feat: aggregate, command, repository and service schedule modified</td>
+      <td>--</td>
+      <td>Nov 16, 2024</td>
+    </tr>
   </tbody>
 </table>
 
