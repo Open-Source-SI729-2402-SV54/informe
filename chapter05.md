@@ -3142,6 +3142,280 @@ estructura clara y accesible. Esto permite una visualización detallada de los m
 las acciones soportadas y los formatos de respuesta, brindando una guía integral tanto para el desarrollo como para 
 la integración con otros sistemas. Actualmente, la documentación se encuentra en el entorno local para pruebas, con
 miras a su despliegue completo en sprints posteriores.
+
+Repositorio de Web Services: http://localhost:8080/swagger-ui/index.html
+
+**Tabla de Documentación**
+
+<table>
+  <thead>
+    <tr>
+      <th>Endpoint</th>
+      <th>Acción HTTP</th>
+      <th>Sintaxis de Llamada</th>
+      <th>Parámetros</th>
+      <th>Ejemplo de Llamada</th>
+      <th>Ejemplo de Response</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/users</td>
+      <td>POST</td>
+      <td>/users</td>
+      <td>JSON Body: name, surname, email</td>
+      <td>POST /users</td>
+      <td>{ "id": 1, "name": "John", "surname": "Doe", "email": "johndoe@example.com" }</td>
+    </tr>
+    <tr>
+      <td>/users</td>
+      <td>GET</td>
+      <td>/users</td>
+      <td>N/A</td>
+      <td>GET /users</td>
+      <td>[{ "id": 1, "name": "John", "surname": "Doe", "email": "johndoe@example.com" }]</td>
+    </tr>
+    <tr>
+      <td>/orders</td>
+      <td>POST</td>
+      <td>/orders</td>
+      <td>JSON Body: userId, items, total</td>
+      <td>POST /orders</td>
+      <td>{
+  "id": 0,
+  "userId": "string",
+  "items": [
+    {
+      "name": "string",
+      "price": 0,
+      "category": "string",
+      "quantity": 0
+    }
+  ],
+  "total": 0
+}</td>
+    </tr>
+    <tr>
+      <td>/orders</td>
+      <td>GET</td>
+      <td>/orders</td>
+      <td>N/A</td>
+      <td>GET /orders</td>
+      <td>[{
+    "id": 0,
+    "userId": "string",
+    "items": [
+      {
+        "name": "string",
+        "price": 0,
+        "category": "string",
+        "quantity": 0
+      }
+    ],
+    "total": 0
+  }]</td>
+    </tr>
+    <tr>
+      <td>/orders/{id}</td>
+      <td>GET</td>
+      <td>/orders/{id}</td>
+      <td>Path: id</td>
+      <td>GET /orders/101</td>
+      <td>{
+    "id": 0,
+    "userId": "string",
+    "items": [
+      {
+        "name": "string",
+        "price": 0,
+        "category": "string",
+        "quantity": 0
+      }
+    ],
+    "total": 0
+  }</td>
+    </tr>
+    <tr>
+      <td>/schedule</td>
+      <td>POST</td>
+      <td>/schedule</td>
+      <td>JSON Body: userId, meals, time</td>
+      <td>POST /schedule</td>
+      <td>{
+  "userId": 0,
+  "days": {
+    "additionalProp1": {
+      "additionalProp1": 0,
+      "additionalProp2": 0,
+      "additionalProp3": 0
+    },
+    "additionalProp2": {
+      "additionalProp1": 0,
+      "additionalProp2": 0,
+      "additionalProp3": 0
+    },
+    "additionalProp3": {
+      "additionalProp1": 0,
+      "additionalProp2": 0,
+      "additionalProp3": 0
+    }
+  }
+}</td>
+    </tr>
+    <tr>
+      <td>/schedule</td>
+      <td>GET</td>
+      <td>/schedule</td>
+      <td>N/A</td>
+      <td>GET /schedule</td>
+      <td>{
+  "userId": 0,
+  "days": {
+    "additionalProp1": {
+      "additionalProp1": 0,
+      "additionalProp2": 0,
+      "additionalProp3": 0
+    },
+    "additionalProp2": {
+      "additionalProp1": 0,
+      "additionalProp2": 0,
+      "additionalProp3": 0
+    },
+    "additionalProp3": {
+      "additionalProp1": 0,
+      "additionalProp2": 0,
+      "additionalProp3": 0
+    }
+  }
+}</td>
+    </tr>
+    <tr>
+      <td>/meals</td>
+      <td>POST</td>
+      <td>/meals</td>
+      <td>JSON Body: name, categoryId</td>
+      <td>POST /meals</td>
+      <td>{
+    "typeID": "string",
+    "categoryID": "string",
+    "id": 0,
+    "name": "string",
+    "calories": 0,
+    "protein": 0,
+    "carbohydrates": 0,
+    "fats": 0,
+    "price": 0,
+    "img": "string"
+  }</td>
+    </tr>
+    <tr>
+      <td>/meals</td>
+      <td>GET</td>
+      <td>/meals</td>
+      <td>N/A</td>
+      <td>GET /meals</td>
+      <td>[{
+    "typeID": "string",
+    "categoryID": "string",
+    "id": 0,
+    "name": "string",
+    "calories": 0,
+    "protein": 0,
+    "carbohydrates": 0,
+    "fats": 0,
+    "price": 0,
+    "img": "string"
+  }]</td>
+    </tr>
+    <tr>
+      <td>/meals/{id}</td>
+      <td>GET</td>
+      <td>/meals/{id}</td>
+      <td>Path: id</td>
+      <td>GET /meals/301</td>
+      <td>{
+    "typeID": "string",
+    "categoryID": "string",
+    "id": 0,
+    "name": "string",
+    "calories": 0,
+    "protein": 0,
+    "carbohydrates": 0,
+    "fats": 0,
+    "price": 0,
+    "img": "string"
+  }</td>
+    </tr>
+    <tr>
+      <td>/type-meals</td>
+      <td>POST</td>
+      <td>/type-meals</td>
+      <td>JSON Body: typeName</td>
+      <td>POST /type-meals</td>
+      <td>{
+    "id": "string",
+    "name": "string"
+  }</td>
+    </tr>
+    <tr>
+      <td>/type-meals</td>
+      <td>GET</td>
+      <td>/type-meals</td>
+      <td>N/A</td>
+      <td>GET /type-meals</td>
+      <td>[{
+    "id": "string",
+    "name": "string"
+  }]</td>
+    </tr>
+    <tr>
+      <td>/type-meals/{id}</td>
+      <td>GET</td>
+      <td>/type-meals/{id}</td>
+      <td>Path: id</td>
+      <td>GET /type-meals/401</td>
+      <td>{
+    "id": "string",
+    "name": "string"
+  }</td>
+    </tr>
+    <tr>
+      <td>/category</td>
+      <td>POST</td>
+      <td>/category</td>
+      <td>JSON Body: categoryName</td>
+      <td>POST /category</td>
+      <td>{
+    "id": "string",
+    "name": "string"
+  }</td>
+    </tr>
+    <tr>
+      <td>/category</td>
+      <td>GET</td>
+      <td>/category</td>
+      <td>N/A</td>
+      <td>GET /category</td>
+      <td>[{
+    "id": "string",
+    "name": "string"
+  }]</td>
+    </tr>
+    <tr>
+      <td>/category/{id}</td>
+      <td>GET</td>
+      <td>/category/{id}</td>
+      <td>Path: id</td>
+      <td>GET /category/501</td>
+      <td>{
+    "id": "string",
+    "name": "string"
+  }</td>
+    </tr>
+  </tbody>
+</table>
+
+
     
 #### 5.2.4.7.Software Deployment Evidence for Sprint Review.
 #### 5.2.4.8.Team Collaboration Insights during Sprint.
