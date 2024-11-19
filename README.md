@@ -218,6 +218,7 @@
 </table>
 
 
+
 # Project Report Collaboration Insights
 
 El enlace que sigue dirige al repositorio público de nuestra organización en GitHub: https://github.com/Open-Source-SI729-2402-SV54/informe.git
@@ -251,7 +252,9 @@ En la TB2, el objetivo era el despliegue del backend, pero no se logró concreta
 
 En la TF, se realizaron los arreglos pendientes, se completó el despliegue del backend y se logró la conexión con el frontend, integrando todas las funcionalidades para ofrecer una plataforma funcional y lista para el usuario final.
 
+![img_35.png](img_35.png)
 
+![img_33.png](img_33.png)
 
 # Contenido 
 
