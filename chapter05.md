@@ -2706,7 +2706,7 @@ El objetivo principal de este cuarto sprint es completar el backend de NutriSend
       <td>Implementar la lógica de negocio para eliminar usuarios.</td>
       <td>3h</td>
       <td>Renzo</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS02</td>
@@ -2716,7 +2716,7 @@ El objetivo principal de este cuarto sprint es completar el backend de NutriSend
       <td>Implementar lógica interna para gestionar la eliminación de usuarios.</td>
       <td>3h</td>
       <td>Renzo</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS02</td>
@@ -2726,7 +2726,7 @@ El objetivo principal de este cuarto sprint es completar el backend de NutriSend
       <td>Configurar JPA para la eliminación de registros de usuario.</td>
       <td>3h</td>
       <td>Renzo</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS02</td>
@@ -2736,7 +2736,7 @@ El objetivo principal de este cuarto sprint es completar el backend de NutriSend
       <td>Crear endpoints REST para eliminar usuarios.</td>
       <td>3h</td>
       <td>Renzo</td>
-      <td>to-do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS03</td>
@@ -2746,7 +2746,7 @@ El objetivo principal de este cuarto sprint es completar el backend de NutriSend
       <td>Implementar la lógica para el inicio de sesión de usuarios.</td>
       <td>4h</td>
       <td>Renzo</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS03</td>
@@ -2756,7 +2756,7 @@ El objetivo principal de este cuarto sprint es completar el backend de NutriSend
       <td>Implementar la lógica interna para gestionar el inicio de sesión.</td>
       <td>4h</td>
       <td>Renzo</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS03</td>
@@ -2766,7 +2766,7 @@ El objetivo principal de este cuarto sprint es completar el backend de NutriSend
       <td>Configurar JPA para gestionar la autenticación de usuarios.</td>
       <td>4h</td>
       <td>Renzo</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS03</td>
@@ -2776,7 +2776,7 @@ El objetivo principal de este cuarto sprint es completar el backend de NutriSend
       <td>Crear endpoints REST para el inicio de sesión.</td>
       <td>4h</td>
       <td>Renzo</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS07</td>
@@ -2786,7 +2786,7 @@ El objetivo principal de este cuarto sprint es completar el backend de NutriSend
       <td>Implementar la lógica para enviar notificaciones a usuarios.</td>
       <td>3h</td>
       <td>Camila</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS07</td>
@@ -2796,7 +2796,7 @@ El objetivo principal de este cuarto sprint es completar el backend de NutriSend
       <td>Implementar lógica interna para la gestión de notificaciones.</td>
       <td>3h</td>
       <td>Camila</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS07</td>
@@ -2806,7 +2806,7 @@ El objetivo principal de este cuarto sprint es completar el backend de NutriSend
       <td>Configurar JPA para la persistencia de notificaciones.</td>
       <td>3h</td>
       <td>Camila</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS07</td>
@@ -2816,7 +2816,7 @@ El objetivo principal de este cuarto sprint es completar el backend de NutriSend
       <td>Crear endpoints REST para enviar notificaciones.</td>
       <td>3h</td>
       <td>Camila</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
      <tr>
       <td>TS14</td>
@@ -2826,7 +2826,7 @@ El objetivo principal de este cuarto sprint es completar el backend de NutriSend
       <td>Implementar la lógica para gestionar preferencias de usuario.</td>
       <td>3h</td>
       <td>Luis</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS14</td>
@@ -2836,7 +2836,7 @@ El objetivo principal de este cuarto sprint es completar el backend de NutriSend
       <td>Implementar lógica interna para gestionar preferencias de usuario.</td>
       <td>3h</td>
       <td>Luis</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS14</td>
@@ -2846,7 +2846,7 @@ El objetivo principal de este cuarto sprint es completar el backend de NutriSend
       <td>Configurar JPA para la persistencia de preferencias de usuario.</td>
       <td>3h</td>
       <td>Luis</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TS14</td>
@@ -2856,7 +2856,7 @@ El objetivo principal de este cuarto sprint es completar el backend de NutriSend
       <td>Crear endpoints REST para gestionar preferencias de usuario.</td>
       <td>3h</td>
       <td>Luis</td>
-      <td>To-do</td>
+      <td>Done</td>
     </tr>
   </body>
 </table>
