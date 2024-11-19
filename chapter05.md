@@ -3135,6 +3135,14 @@ En esta sección se detallan y presentan los avances en la implementación de lo
 #### 5.2.4.4.Testing Suite Evidence for Sprint Review.
 #### 5.2.4.5.Execution Evidence for Sprint Review.
 #### 5.2.4.6.Services Documentation Evidence for Sprint Review.
+En este Sprint 4, el equipo ha completado la documentación de los endpoints de NutriSend relacionados 
+con la gestión de usuarios, pedidos, horarios de comidas, comidas, tipos de comidas, categorías de comidas y el 
+nuevo endpoint de *schedule*. La documentación ha sido desarrollada utilizando OpenAPI, lo que garantiza una 
+estructura clara y accesible. Esto permite una visualización detallada de los métodos disponibles en cada servicio, 
+las acciones soportadas y los formatos de respuesta, brindando una guía integral tanto para el desarrollo como para 
+la integración con otros sistemas. Actualmente, la documentación se encuentra en el entorno local para pruebas, con
+miras a su despliegue completo en sprints posteriores.
+    
 #### 5.2.4.7.Software Deployment Evidence for Sprint Review.
 #### 5.2.4.8.Team Collaboration Insights during Sprint.
 
